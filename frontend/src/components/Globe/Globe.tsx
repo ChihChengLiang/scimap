@@ -147,7 +147,7 @@ const GlobeComponent: React.FC<GlobeProps> = ({
         showGlobe={true}
         showGraticules={true}
         backgroundColor="#b0c4de"
-        globeImageUrl="/globe.png"
+        globeImageUrl="/globe3.png"
         showAtmosphere={true}
         atmosphereColor="#d4a574"
         
