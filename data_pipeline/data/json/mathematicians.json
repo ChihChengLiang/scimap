@@ -1,0 +1,96 @@
+{
+  "leonhard_euler": {
+    "id": "leonhard_euler",
+    "name": "Leonhard Euler",
+    "birth_year": 1707,
+    "death_year": 1783,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Leonhard_Euler",
+    "page_views": 150836,
+    "popularity_tier": "very_high",
+    "fields": [
+      "mathematics",
+      "physics",
+      "astronomy"
+    ],
+    "nationality": "Swiss",
+    "timeline_events": [],
+    "processed_at": "2025-08-10T00:18:31.818055"
+  },
+  "joseph_louis_lagrange": {
+    "id": "joseph_louis_lagrange",
+    "name": "Joseph-Louis Lagrange",
+    "birth_year": 1736,
+    "death_year": 1813,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Joseph-Louis_Lagrange",
+    "page_views": 28563,
+    "popularity_tier": "medium",
+    "fields": [
+      "mathematics",
+      "mechanics",
+      "astronomy"
+    ],
+    "nationality": "Italian-French",
+    "timeline_events": [],
+    "processed_at": "2025-08-10T00:18:31.818559"
+  },
+  "pierre_simon_laplace": {
+    "id": "pierre_simon_laplace",
+    "name": "Pierre-Simon Laplace",
+    "birth_year": 1749,
+    "death_year": 1827,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pierre-Simon_Laplace",
+    "page_views": 42122,
+    "popularity_tier": "medium",
+    "fields": [
+      "mathematics",
+      "astronomy",
+      "physics"
+    ],
+    "nationality": "French",
+    "timeline_events": [
+      {
+        "year": "1749",
+        "year_confidence": "exact",
+        "event_type": "birth",
+        "description": "Pierre-Simon Laplace was born on March 23rd.",
+        "location": {
+          "place_name": null,
+          "raw_text": "",
+          "confidence": 0.0
+        },
+        "source_text": "Pierre-Simon, Marquis de Laplace (/ləˈplɑːs/; French: [pjɛʁ simɔ̃ laplas]; 23 March 1749 – 5 March 1827)",
+        "confidence": 1.0,
+        "extraction_metadata": {
+          "model_version": "llama3.1:8b",
+          "extracted_at": "2025-08-10T00:18:18.886967",
+          "extraction_confidence": 1.0
+        }
+      },
+      {
+        "year": "1785",
+        "year_confidence": "exact",
+        "event_type": "position",
+        "description": "Examined Napoleon at the École Militaire in Paris.",
+        "location": {
+          "place_name": "Paris",
+          "raw_text": "École Militaire in Paris",
+          "confidence": 1.0,
+          "coordinates": {
+            "lat": 48.8567,
+            "lng": 2.2945
+          },
+          "geocoding_confidence": 0.95,
+          "historical_context": "In 1785, Paris was a major city in the Kingdom of France, with the École Militaire located near the Luxembourg Gardens."
+        },
+        "source_text": "He was Napoleon's examiner when Napoleon graduated from the École Militaire in Paris in 1785.[7]",
+        "confidence": 1.0,
+        "extraction_metadata": {
+          "model_version": "llama3.1:8b",
+          "extracted_at": "2025-08-10T00:18:18.886986",
+          "extraction_confidence": 1.0
+        }
+      }
+    ],
+    "processed_at": "2025-08-10T00:18:31.818719"
+  }
+}

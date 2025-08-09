@@ -1,0 +1,19 @@
+{
+  "paris_1785": {
+    "place_name": "Paris",
+    "coordinates": {
+      "lat": 48.8567,
+      "lng": 2.2945
+    },
+    "confidence": 0.95,
+    "historical_context": "In 1785, Paris was a major city in the Kingdom of France, with the École Militaire located near the Luxembourg Gardens.",
+    "alternative_names": [
+      "La Ville-Lumière",
+      "Capital of France"
+    ],
+    "modern_equivalent": "Paris",
+    "geocoded_at": "2025-08-10T00:18:31.308527",
+    "geocoding_method": "llm",
+    "model_version": "llama3.1:8b"
+  }
+}

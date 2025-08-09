@@ -1,0 +1,92 @@
+{
+  "id": "pierre_simon_laplace",
+  "name": "Pierre-Simon Laplace",
+  "birth_year": 1749,
+  "death_year": 1827,
+  "nationality": "French",
+  "fields": [
+    "mathematics",
+    "astronomy",
+    "physics"
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Pierre-Simon_Laplace",
+  "wikipedia_data": {
+    "url": "https://en.wikipedia.org/wiki/Pierre-Simon_Laplace",
+    "title": "Pierre-Simon Laplace",
+    "page_title": "Pierre-Simon_Laplace",
+    "biography_paragraphs": [
+      "Pierre-Simon, Marquis de Laplace (/ləˈplɑːs/; French: [pjɛʁ simɔ̃ laplas]; 23 March 1749 – 5 March 1827) was a French polymath, a scholar whose work has been instrumental in the fields of physics, astronomy, mathematics,  engineering, statistics, and philosophy. He summarized and extended the work of his predecessors in his five-volume Mécanique céleste (Celestial Mechanics) (1799–1825). This work translated the geometric study of classical mechanics to one based on calculus, opening up a broader range of problems. Laplace also popularized and further confirmed Sir Isaac Newton's work.[2] In statistics, the Bayesian interpretation of probability was developed mainly by Laplace.[3]",
+      "Laplace formulated Laplace's equation, and pioneered the Laplace transform which appears in many branches of mathematical physics, a field that he took a leading role in forming. The Laplacian differential operator, widely used in mathematics, is also named after him. He restated and developed the nebular hypothesis of the origin of the Solar System and was one of the first scientists to suggest an idea similar to that of a black hole,[4] with Stephen Hawking stating that \"Laplace essentially predicted the existence of black holes\".[1] He originated Laplace's demon, which is a hypothetical all-predicting intellect. He also refined Newton's calculation of the speed of sound to derive a more accurate measurement.[5]",
+      "Laplace is regarded as one of the greatest scientists of all time. Sometimes referred to as the French Newton or Newton of France, he has been described as possessing a phenomenal natural mathematical faculty superior to that of almost all of his contemporaries.[6] He was Napoleon's examiner when Napoleon graduated from the École Militaire in Paris in 1785.[7]  Laplace became a count of the Empire in 1806 and was named a marquis in 1817, after the Bourbon Restoration.",
+      "Some details of Laplace's life are not known, as records of it were burned in 1925 with the family château in Saint Julien de Mailloc, near Lisieux, the home of his great-great-grandson the Comte de Colbert-Laplace. Others had been destroyed earlier, when his house at Arcueil near Paris was looted in 1871.[8]",
+      "Laplace was born in Beaumont-en-Auge, Normandy on 23 March 1749, a village four miles west of Pont l'Évêque. According to W. W. Rouse Ball,[9] his father, Pierre de Laplace, owned and farmed the small estates of Maarquis. His great-uncle, Maitre Oliver de Laplace, had held the title of Chirurgien Royal. It would seem that from a pupil he became an usher in the school at Beaumont; but, having procured a letter of introduction to d'Alembert, he went to Paris to advance his fortune. However, Karl Pearson[8] is scathing about the inaccuracies in Rouse Ball's account and states:"
+    ],
+    "infobox": {
+      "birth": "(1749-03-23)23 March 1749Beaumont-en-Auge, Normandy, Kingdom of France",
+      "death": "5 March 1827(1827-03-05) (aged 77)Paris, Kingdom of France",
+      "fields": "Astronomy and Mathematics"
+    },
+    "scraped_at": "2025-08-10T00:14:47.884945",
+    "raw_html_length": 524943
+  },
+  "processed_at": "2025-08-10T00:14:49.390378",
+  "page_views": 42122,
+  "avg_daily_views": 473.28,
+  "popularity_tier": "medium",
+  "pageview_data": {
+    "page_title": "Pierre-Simon_Laplace",
+    "period_days": 90,
+    "start_date": "2025051200",
+    "end_date": "2025081000",
+    "total_views": 42122,
+    "avg_daily_views": 473.28,
+    "max_daily_views": 666,
+    "popularity_tier": "medium",
+    "data_points": 89,
+    "retrieved_at": "2025-08-10T00:14:53.995070"
+  },
+  "timeline_events": [
+    {
+      "year": "1749",
+      "year_confidence": "exact",
+      "event_type": "birth",
+      "description": "Pierre-Simon Laplace was born on March 23rd.",
+      "location": {
+        "place_name": null,
+        "raw_text": "",
+        "confidence": 0.0
+      },
+      "source_text": "Pierre-Simon, Marquis de Laplace (/ləˈplɑːs/; French: [pjɛʁ simɔ̃ laplas]; 23 March 1749 – 5 March 1827)",
+      "confidence": 1.0,
+      "extraction_metadata": {
+        "model_version": "llama3.1:8b",
+        "extracted_at": "2025-08-10T00:18:18.886967",
+        "extraction_confidence": 1.0
+      }
+    },
+    {
+      "year": "1785",
+      "year_confidence": "exact",
+      "event_type": "position",
+      "description": "Examined Napoleon at the École Militaire in Paris.",
+      "location": {
+        "place_name": "Paris",
+        "raw_text": "École Militaire in Paris",
+        "confidence": 1.0
+      },
+      "source_text": "He was Napoleon's examiner when Napoleon graduated from the École Militaire in Paris in 1785.[7]",
+      "confidence": 1.0,
+      "extraction_metadata": {
+        "model_version": "llama3.1:8b",
+        "extracted_at": "2025-08-10T00:18:18.886986",
+        "extraction_confidence": 1.0
+      }
+    }
+  ],
+  "timeline_extraction_metadata": {
+    "extracted_at": "2025-08-10T00:18:18.887025",
+    "model_used": "llama3.1:8b",
+    "events_count": 2,
+    "biography_length": 1886
+  }
+}
