@@ -147,7 +147,7 @@ const GlobeComponent: React.FC<GlobeProps> = ({
         showGlobe={true}
         showGraticules={true}
         backgroundColor="#b0c4de"
-        globeImageUrl="//unpkg.com/three-globe/example/img/earth-day.jpg"
+        globeImageUrl="/globe.png"
         showAtmosphere={true}
         atmosphereColor="#d4a574"
         
