@@ -14,30 +14,44 @@ class LLMTimelineExtractor:
         self.base_url = base_url
         self.api_url = f"{base_url}/api/generate"
     
-    def _call_llm(self, prompt: str, system_prompt: str = "") -> str:
-        """Make API call to Ollama"""
-        try:
-            payload = {
-                "model": self.model_name,
-                "prompt": prompt,
-                "system": system_prompt,
-                "stream": False,
-                "options": {
-                    "temperature": 0.1,  # Low temperature for consistent extraction
-                    "top_p": 0.9,
-                    "max_tokens": 2000
+    def _call_llm(self, prompt: str, system_prompt: str = "", retries: int = 2) -> str:
+        """Make API call to Ollama with retry logic"""
+        for attempt in range(retries + 1):
+            try:
+                payload = {
+                    "model": self.model_name,
+                    "prompt": prompt,
+                    "system": system_prompt,
+                    "stream": False,
+                    "options": {
+                        "temperature": 0.1,  # Low temperature for consistent extraction
+                        "top_p": 0.9,
+                        "max_tokens": 2000
+                    }
                 }
-            }
-            
-            response = requests.post(self.api_url, json=payload, timeout=60)
-            response.raise_for_status()
-            
-            result = response.json()
-            return result.get('response', '').strip()
-            
-        except Exception as e:
-            print(f"Error calling LLM: {e}")
-            return ""
+                
+                response = requests.post(self.api_url, json=payload, timeout=120)
+                response.raise_for_status()
+                
+                result = response.json()
+                return result.get('response', '').strip()
+                
+            except requests.exceptions.ReadTimeout as e:
+                print(f"LLM timeout on attempt {attempt + 1}/{retries + 1}: {e}")
+                if attempt < retries:
+                    print(f"Retrying in 5 seconds...")
+                    time.sleep(5)
+                else:
+                    print(f"Final timeout after {retries + 1} attempts")
+                    return ""
+            except Exception as e:
+                print(f"Error calling LLM on attempt {attempt + 1}: {e}")
+                if attempt < retries:
+                    time.sleep(2)
+                else:
+                    return ""
+        
+        return ""
     
     def extract_timeline_events(self, biography_text: str, mathematician_name: str) -> List[Dict]:
         """Extract timeline events from biographical text"""
@@ -179,8 +193,12 @@ Focus on events between 1700-1800. Return only the JSON array, no other text."""
             print(f"No biography text found for {mathematician_name}")
             return mathematician_data
         
-        # Combine first few paragraphs for processing
-        biography_text = ' '.join(biography_paragraphs[:3])  # Limit text length
+        # Combine first few paragraphs for processing (limit length)
+        biography_text = ' '.join(biography_paragraphs[:2])  # Reduce to 2 paragraphs
+        
+        # Truncate if still too long (keep under 1500 chars for LLM efficiency)
+        if len(biography_text) > 1500:
+            biography_text = biography_text[:1500] + "..."
         
         # Extract events
         events = self.extract_timeline_events(biography_text, mathematician_name)

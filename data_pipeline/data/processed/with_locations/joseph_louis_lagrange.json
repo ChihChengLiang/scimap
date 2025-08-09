@@ -46,11 +46,36 @@
     "data_points": 89,
     "retrieved_at": "2025-08-10T00:14:52.551544"
   },
-  "timeline_events": [],
+  "timeline_events": [
+    {
+      "year": 1736,
+      "year_confidence": "exact",
+      "event_type": "birth",
+      "description": "Born in Italy",
+      "location": {
+        "place_name": null,
+        "raw_text": "Italy",
+        "confidence": 1.0
+      },
+      "source_text": "born Giuseppe Luigi Lagrangia[5][b] or Giuseppe Ludovico De la Grange Tournier;[6][c]",
+      "confidence": 1.0,
+      "extraction_metadata": {
+        "model_version": "llama3.1:8b",
+        "extracted_at": "2025-08-10T00:43:31.327708",
+        "extraction_confidence": 1.0
+      }
+    }
+  ],
   "timeline_extraction_metadata": {
-    "extracted_at": "2025-08-10T00:16:55.222332",
+    "extracted_at": "2025-08-10T00:43:31.327789",
     "model_used": "llama3.1:8b",
-    "events_count": 0,
-    "biography_length": 1471
+    "events_count": 1,
+    "biography_length": 1070
+  },
+  "location_table": {},
+  "geocoding_metadata": {
+    "geocoded_at": "2025-08-10T00:44:38.910221",
+    "locations_processed": 0,
+    "model_used": "llama3.1:8b"
   }
 }

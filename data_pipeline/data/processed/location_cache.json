@@ -15,5 +15,39 @@
     "geocoded_at": "2025-08-10T00:18:31.308527",
     "geocoding_method": "llm",
     "model_version": "llama3.1:8b"
+  },
+  "berlin, prussia_1744": {
+    "place_name": "Berlin",
+    "coordinates": {
+      "lat": 52.52,
+      "lng": 13.405
+    },
+    "confidence": 1,
+    "historical_context": "In 1744, Berlin was a major cultural and scientific center in Prussia, serving as the location of the Imperial Academy of Sciences and Arts.",
+    "alternative_names": [
+      "Berlint",
+      "Berlyn"
+    ],
+    "modern_equivalent": "Berlin, Germany",
+    "geocoded_at": "2025-08-10T00:44:27.695592",
+    "geocoding_method": "llm",
+    "model_version": "llama3.1:8b"
+  },
+  "saint petersburg, russia_1727": {
+    "place_name": "St. Peterburg",
+    "coordinates": {
+      "lat": 59.9393,
+      "lng": 30.3156
+    },
+    "confidence": 0.95,
+    "historical_context": "In 1727, St. Peterburg was a relatively new city, founded by Peter the Great in 1703 and still under construction.",
+    "alternative_names": [
+      "Sankt-Peterburg",
+      "Peterburg"
+    ],
+    "modern_equivalent": "Saint Petersburg",
+    "geocoded_at": "2025-08-10T00:44:38.400997",
+    "geocoding_method": "llm",
+    "model_version": "llama3.1:8b"
   }
 }

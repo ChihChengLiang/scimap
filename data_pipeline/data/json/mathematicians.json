@@ -13,8 +13,111 @@
       "astronomy"
     ],
     "nationality": "Swiss",
-    "timeline_events": [],
-    "processed_at": "2025-08-10T00:18:31.818055"
+    "timeline_events": [
+      {
+        "year": 1707,
+        "year_confidence": "exact",
+        "event_type": "birth",
+        "description": "Born on April 15th",
+        "location": {
+          "place_name": null,
+          "raw_text": "",
+          "confidence": 0.0
+        },
+        "source_text": "Leonhard Euler (/ˈɔɪlər/ OY-lər;[b] 15 April 1707 – 18 September 1783)",
+        "confidence": 1.0,
+        "extraction_metadata": {
+          "model_version": "llama3.1:8b",
+          "extracted_at": "2025-08-10T00:42:43.093796",
+          "extraction_confidence": 1.0
+        }
+      },
+      {
+        "year": "1700-1710",
+        "year_confidence": "range",
+        "event_type": "education",
+        "description": "No specific education details mentioned for this time period",
+        "location": {
+          "place_name": null,
+          "raw_text": "",
+          "confidence": 0.0
+        },
+        "source_text": "He spent most of his adult life in Saint Petersburg, Russia, and in Berlin, then the capital of Prussia.",
+        "confidence": 0.5,
+        "extraction_metadata": {
+          "model_version": "llama3.1:8b",
+          "extracted_at": "2025-08-10T00:42:43.094297",
+          "extraction_confidence": 0.5
+        }
+      },
+      {
+        "year": "1727-1744",
+        "year_confidence": "range",
+        "event_type": "position",
+        "description": "Worked at Saint Petersburg Academy of Sciences",
+        "location": {
+          "place_name": "Saint Petersburg, Russia",
+          "raw_text": "Saint Petersburg, Russia",
+          "confidence": 1.0,
+          "coordinates": {
+            "lat": 59.9393,
+            "lng": 30.3156
+          },
+          "geocoding_confidence": 0.95,
+          "historical_context": "In 1727, St. Peterburg was a relatively new city, founded by Peter the Great in 1703 and still under construction."
+        },
+        "source_text": "He spent most of his adult life in Saint Petersburg, Russia, and in Berlin, then the capital of Prussia.",
+        "confidence": 0.8,
+        "extraction_metadata": {
+          "model_version": "llama3.1:8b",
+          "extracted_at": "2025-08-10T00:42:43.094312",
+          "extraction_confidence": 0.8
+        }
+      },
+      {
+        "year": "1744-1766",
+        "year_confidence": "range",
+        "event_type": "position",
+        "description": "Worked at Imperial Academy of Sciences and Arts in Berlin",
+        "location": {
+          "place_name": "Berlin, Prussia",
+          "raw_text": "in Berlin, then the capital of Prussia",
+          "confidence": 0.9,
+          "coordinates": {
+            "lat": 52.52,
+            "lng": 13.405
+          },
+          "geocoding_confidence": 1,
+          "historical_context": "In 1744, Berlin was a major cultural and scientific center in Prussia, serving as the location of the Imperial Academy of Sciences and Arts."
+        },
+        "source_text": "He spent most of his adult life in Saint Petersburg, Russia, and in Berlin, then the capital of Prussia.",
+        "confidence": 0.8,
+        "extraction_metadata": {
+          "model_version": "llama3.1:8b",
+          "extracted_at": "2025-08-10T00:42:43.094318",
+          "extraction_confidence": 0.8
+        }
+      },
+      {
+        "year": 1783,
+        "year_confidence": "exact",
+        "event_type": "death",
+        "description": "Died on September 18th",
+        "location": {
+          "place_name": null,
+          "raw_text": "",
+          "confidence": 0.0
+        },
+        "source_text": "Leonhard Euler (/ˈɔɪlər/ OY-lər;[b] 15 April 1707 – 18 September 1783)",
+        "confidence": 1.0,
+        "extraction_metadata": {
+          "model_version": "llama3.1:8b",
+          "extracted_at": "2025-08-10T00:42:43.094323",
+          "extraction_confidence": 1.0
+        }
+      }
+    ],
+    "processed_at": "2025-08-10T00:45:11.890826"
   },
   "joseph_louis_lagrange": {
     "id": "joseph_louis_lagrange",
@@ -30,8 +133,27 @@
       "astronomy"
     ],
     "nationality": "Italian-French",
-    "timeline_events": [],
-    "processed_at": "2025-08-10T00:18:31.818559"
+    "timeline_events": [
+      {
+        "year": 1736,
+        "year_confidence": "exact",
+        "event_type": "birth",
+        "description": "Born in Italy",
+        "location": {
+          "place_name": null,
+          "raw_text": "Italy",
+          "confidence": 1.0
+        },
+        "source_text": "born Giuseppe Luigi Lagrangia[5][b] or Giuseppe Ludovico De la Grange Tournier;[6][c]",
+        "confidence": 1.0,
+        "extraction_metadata": {
+          "model_version": "llama3.1:8b",
+          "extracted_at": "2025-08-10T00:43:31.327708",
+          "extraction_confidence": 1.0
+        }
+      }
+    ],
+    "processed_at": "2025-08-10T00:45:11.891059"
   },
   "pierre_simon_laplace": {
     "id": "pierre_simon_laplace",
@@ -91,6 +213,6 @@
         }
       }
     ],
-    "processed_at": "2025-08-10T00:18:31.818719"
+    "processed_at": "2025-08-10T00:45:11.891149"
   }
 }

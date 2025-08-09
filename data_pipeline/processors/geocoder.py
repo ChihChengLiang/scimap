@@ -33,7 +33,7 @@ class HistoricalGeocoder:
                 }
             }
             
-            response = requests.post(self.api_url, json=payload, timeout=30)
+            response = requests.post(self.api_url, json=payload, timeout=60)
             response.raise_for_status()
             
             result = response.json()
