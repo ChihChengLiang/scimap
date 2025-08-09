@@ -1,0 +1,28 @@
+{
+  "dataset_info": {
+    "total_mathematicians": 3,
+    "total_timeline_events": 8,
+    "total_unique_locations": 3,
+    "generated_at": "2025-08-10T00:45:11.892224",
+    "pipeline_mode": "test"
+  },
+  "event_type_distribution": {
+    "birth": 3,
+    "education": 1,
+    "position": 3,
+    "death": 1
+  },
+  "popularity_distribution": {
+    "very_high": 1,
+    "medium": 2
+  },
+  "temporal_coverage": {
+    "earliest_year": 1700,
+    "latest_year": 1783,
+    "total_years_covered": 6
+  },
+  "success_metrics": {
+    "avg_events_per_mathematician": 2.67,
+    "locations_per_mathematician": 1.0
+  }
+}

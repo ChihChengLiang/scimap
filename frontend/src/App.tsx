@@ -1,0 +1,170 @@
+import React, { useState, useEffect } from 'react';
+import { ThemeProvider, createTheme } from '@mui/material/styles';
+import { CssBaseline, Box } from '@mui/material';
+import Globe from './components/Globe/Globe';
+import TimelineSlider from './components/Timeline/TimelineSlider';
+import MathematicianPanel from './components/MathematicianPanel/MathematicianPanel';
+import { Mathematician, LocationData } from './types';
+import './App.css';
+
+const darkTheme = createTheme({
+  palette: {
+    mode: 'dark',
+    background: {
+      default: '#0a0a0a',
+      paper: '#1a1a1a'
+    },
+    primary: {
+      main: '#64b5f6'
+    },
+    secondary: {
+      main: '#81c784'
+    }
+  },
+  typography: {
+    fontFamily: 'Roboto, Arial, sans-serif'
+  }
+});
+
+function App() {
+  const [mathematicians, setMathematicians] = useState<Record<string, Mathematician>>({});
+  const [locations, setLocations] = useState<Record<string, LocationData>>({});
+  const [selectedYear, setSelectedYear] = useState<number>(1750);
+  const [selectedMathematician, setSelectedMathematician] = useState<Mathematician | null>(null);
+  const [loading, setLoading] = useState(true);
+  const [error, setError] = useState<string | null>(null);
+
+  // Load data on component mount
+  useEffect(() => {
+    const loadData = async () => {
+      try {
+        const [mathematiciansRes, locationsRes] = await Promise.all([
+          fetch('/data/mathematicians.json'),
+          fetch('/data/locations.json')
+        ]);
+
+        if (!mathematiciansRes.ok || !locationsRes.ok) {
+          throw new Error('Failed to load data');
+        }
+
+        const mathematiciansData = await mathematiciansRes.json();
+        const locationsData = await locationsRes.json();
+
+        setMathematicians(mathematiciansData);
+        setLocations(locationsData);
+        setLoading(false);
+      } catch (err) {
+        setError(err instanceof Error ? err.message : 'Failed to load data');
+        setLoading(false);
+      }
+    };
+
+    loadData();
+  }, []);
+
+  // Filter mathematicians visible in current year
+  const getVisibleMathematicians = () => {
+    return Object.values(mathematicians).filter(mathematician => {
+      // Show if mathematician was alive in selected year
+      return mathematician.birth_year <= selectedYear && 
+             mathematician.death_year >= selectedYear;
+    });
+  };
+
+  const handleMathematicianClick = (mathematician: Mathematician) => {
+    setSelectedMathematician(mathematician);
+  };
+
+  const handleClosePanel = () => {
+    setSelectedMathematician(null);
+  };
+
+  if (loading) {
+    return (
+      <ThemeProvider theme={darkTheme}>
+        <CssBaseline />
+        <Box 
+          display="flex" 
+          alignItems="center" 
+          justifyContent="center" 
+          height="100vh"
+          color="white"
+          fontSize="1.2rem"
+        >
+          Loading 18th century mathematical timeline...
+        </Box>
+      </ThemeProvider>
+    );
+  }
+
+  if (error) {
+    return (
+      <ThemeProvider theme={darkTheme}>
+        <CssBaseline />
+        <Box 
+          display="flex" 
+          alignItems="center" 
+          justifyContent="center" 
+          height="100vh"
+          color="red"
+          fontSize="1.2rem"
+        >
+          Error: {error}
+        </Box>
+      </ThemeProvider>
+    );
+  }
+
+  return (
+    <ThemeProvider theme={darkTheme}>
+      <CssBaseline />
+      <div className="App">
+        <Box sx={{ position: 'relative', height: '100vh', overflow: 'hidden' }}>
+          {/* 3D Globe */}
+          <Globe 
+            mathematicians={getVisibleMathematicians()}
+            locations={locations}
+            selectedYear={selectedYear}
+            onMathematicianClick={handleMathematicianClick}
+          />
+          
+          {/* Timeline Slider */}
+          <TimelineSlider
+            selectedYear={selectedYear}
+            onYearChange={setSelectedYear}
+            mathematicians={Object.values(mathematicians)}
+          />
+          
+          {/* Mathematician Detail Panel */}
+          {selectedMathematician && (
+            <MathematicianPanel
+              mathematician={selectedMathematician}
+              locations={locations}
+              onClose={handleClosePanel}
+            />
+          )}
+          
+          {/* Title */}
+          <Box
+            sx={{
+              position: 'absolute',
+              top: 24,
+              left: 24,
+              zIndex: 1000,
+              color: 'white'
+            }}
+          >
+            <h1 className="app-title" style={{ margin: 0, fontSize: '1.5rem' }}>
+              18th Century Mathematics
+            </h1>
+            <p className="app-subtitle" style={{ margin: '4px 0 0 0', opacity: 0.8, fontSize: '0.9rem' }}>
+              Interactive Timeline: {selectedYear}
+            </p>
+          </Box>
+        </Box>
+      </div>
+    </ThemeProvider>
+  );
+}
+
+export default App;

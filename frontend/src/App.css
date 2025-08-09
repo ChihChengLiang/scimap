@@ -1,0 +1,154 @@
+.App {
+  width: 100%;
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background: #0a0a0a;
+}
+
+/* Globe container styles */
+.globe-container {
+  width: 100%;
+  height: 100%;
+  position: relative;
+}
+
+/* Custom scrollbar for panels */
+::-webkit-scrollbar {
+  width: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: rgba(255, 255, 255, 0.1);
+  border-radius: 3px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgba(100, 181, 246, 0.7);
+  border-radius: 3px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(100, 181, 246, 0.9);
+}
+
+/* Loading animation */
+@keyframes pulse {
+  0% {
+    opacity: 0.6;
+  }
+  50% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0.6;
+  }
+}
+
+.loading {
+  animation: pulse 2s ease-in-out infinite;
+}
+
+/* Mobile responsive adjustments */
+@media (max-width: 768px) {
+  .timeline-container {
+    bottom: 16px !important;
+    left: 16px !important;
+    right: 16px !important;
+    transform: none !important;
+    min-width: auto !important;
+    max-width: none !important;
+  }
+  
+  .mathematician-panel {
+    top: 16px !important;
+    right: 16px !important;
+    left: 16px !important;
+    width: auto !important;
+    max-width: none !important;
+    max-height: calc(100vh - 120px) !important;
+  }
+  
+  .app-title {
+    font-size: 1.2rem !important;
+  }
+  
+  .app-subtitle {
+    font-size: 0.8rem !important;
+  }
+}
+
+@media (max-width: 480px) {
+  .timeline-container {
+    padding: 16px !important;
+  }
+  
+  .mathematician-panel {
+    max-height: calc(100vh - 80px) !important;
+  }
+  
+  .app-title {
+    font-size: 1rem !important;
+  }
+}
+
+/* Accessibility improvements */
+@media (prefers-reduced-motion: reduce) {
+  .loading {
+    animation: none;
+  }
+  
+  * {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+
+/* High contrast mode */
+@media (prefers-contrast: high) {
+  .timeline-container {
+    background: rgba(0, 0, 0, 0.95) !important;
+    border: 2px solid white;
+  }
+  
+  .mathematician-panel {
+    background: rgba(0, 0, 0, 0.98) !important;
+    border: 2px solid white;
+  }
+}
+
+/* Focus indicators for accessibility */
+.MuiSlider-thumb:focus-visible {
+  box-shadow: 0 0 0 3px rgba(100, 181, 246, 0.5) !important;
+}
+
+.MuiIconButton-root:focus-visible {
+  box-shadow: 0 0 0 2px rgba(100, 181, 246, 0.5) !important;
+}
+
+/* Globe tooltip improvements */
+.globe-tooltip {
+  pointer-events: none;
+  z-index: 1000;
+}
+
+/* Timeline heat map responsiveness */
+@media (max-width: 600px) {
+  .timeline-heatmap {
+    height: 3px !important;
+  }
+}
+
+/* Performance optimizations */
+.globe-container * {
+  will-change: transform;
+}
+
+/* Print styles */
+@media print {
+  .App {
+    display: none;
+  }
+}
