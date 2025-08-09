@@ -7,22 +7,28 @@ import MathematicianPanel from './components/MathematicianPanel/MathematicianPan
 import { Mathematician, LocationData } from './types';
 import './App.css';
 
-const darkTheme = createTheme({
+const rococoTheme = createTheme({
   palette: {
     mode: 'dark',
     background: {
-      default: '#0a0a0a',
-      paper: '#1a1a1a'
+      default: '#b0c4de', // Powder Blue
+      paper: 'rgba(232, 232, 232, 0.95)' // Pearl Gray with transparency
     },
     primary: {
-      main: '#64b5f6'
+      main: '#c9b037' // Antique Gold
     },
     secondary: {
-      main: '#81c784'
+      main: '#d4a574' // Dusty Rose
+    },
+    text: {
+      primary: '#2c3e50', // Dark text for readability on light backgrounds
+      secondary: '#5d6d7e'
     }
   },
   typography: {
-    fontFamily: 'Roboto, Arial, sans-serif'
+    fontFamily: 'Roboto, serif',
+    h1: { color: '#2c3e50' },
+    h6: { color: '#2c3e50' }
   }
 });
 
@@ -81,15 +87,16 @@ function App() {
 
   if (loading) {
     return (
-      <ThemeProvider theme={darkTheme}>
+      <ThemeProvider theme={rococoTheme}>
         <CssBaseline />
         <Box 
           display="flex" 
           alignItems="center" 
           justifyContent="center" 
           height="100vh"
-          color="white"
+          color="#2c3e50"
           fontSize="1.2rem"
+          bgcolor="#b0c4de"
         >
           Loading 18th century mathematical timeline...
         </Box>
@@ -99,15 +106,16 @@ function App() {
 
   if (error) {
     return (
-      <ThemeProvider theme={darkTheme}>
+      <ThemeProvider theme={rococoTheme}>
         <CssBaseline />
         <Box 
           display="flex" 
           alignItems="center" 
           justifyContent="center" 
           height="100vh"
-          color="red"
+          color="#d4a574"
           fontSize="1.2rem"
+          bgcolor="#b0c4de"
         >
           Error: {error}
         </Box>
@@ -116,10 +124,10 @@ function App() {
   }
 
   return (
-    <ThemeProvider theme={darkTheme}>
+    <ThemeProvider theme={rococoTheme}>
       <CssBaseline />
       <div className="App">
-        <Box sx={{ position: 'relative', height: '100vh', overflow: 'hidden' }}>
+        <Box sx={{ position: 'relative', height: '100vh', overflow: 'hidden', bgcolor: '#b0c4de' }}>
           {/* 3D Globe */}
           <Globe 
             mathematicians={getVisibleMathematicians()}
@@ -154,10 +162,10 @@ function App() {
               color: 'white'
             }}
           >
-            <h1 className="app-title" style={{ margin: 0, fontSize: '1.5rem' }}>
+            <h1 className="app-title" style={{ margin: 0, fontSize: '1.5rem', color: '#2c3e50', fontWeight: 'bold' }}>
               18th Century Mathematics
             </h1>
-            <p className="app-subtitle" style={{ margin: '4px 0 0 0', opacity: 0.8, fontSize: '0.9rem' }}>
+            <p className="app-subtitle" style={{ margin: '4px 0 0 0', opacity: 0.8, fontSize: '0.9rem', color: '#5d6d7e' }}>
               Interactive Timeline: {selectedYear}
             </p>
           </Box>

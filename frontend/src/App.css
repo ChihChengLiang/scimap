@@ -4,7 +4,7 @@
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background: #0a0a0a;
+  background: #b0c4de; /* Powder Blue */
 }
 
 /* Globe container styles */
@@ -25,12 +25,12 @@
 }
 
 ::-webkit-scrollbar-thumb {
-  background: rgba(100, 181, 246, 0.7);
+  background: rgba(201, 176, 55, 0.7); /* Antique Gold */
   border-radius: 3px;
 }
 
 ::-webkit-scrollbar-thumb:hover {
-  background: rgba(100, 181, 246, 0.9);
+  background: rgba(201, 176, 55, 0.9); /* Antique Gold */
 }
 
 /* Loading animation */
@@ -109,23 +109,23 @@
 /* High contrast mode */
 @media (prefers-contrast: high) {
   .timeline-container {
-    background: rgba(0, 0, 0, 0.95) !important;
-    border: 2px solid white;
+    background: rgba(232, 232, 232, 0.98) !important; /* Pearl Gray */
+    border: 3px solid #2c3e50 !important; /* Dark border */
   }
   
   .mathematician-panel {
-    background: rgba(0, 0, 0, 0.98) !important;
-    border: 2px solid white;
+    background: rgba(232, 232, 232, 0.98) !important; /* Pearl Gray */
+    border: 3px solid #2c3e50 !important; /* Dark border */
   }
 }
 
 /* Focus indicators for accessibility */
 .MuiSlider-thumb:focus-visible {
-  box-shadow: 0 0 0 3px rgba(100, 181, 246, 0.5) !important;
+  box-shadow: 0 0 0 3px rgba(201, 176, 55, 0.5) !important; /* Antique Gold */
 }
 
 .MuiIconButton-root:focus-visible {
-  box-shadow: 0 0 0 2px rgba(100, 181, 246, 0.5) !important;
+  box-shadow: 0 0 0 2px rgba(201, 176, 55, 0.5) !important; /* Antique Gold */
 }
 
 /* Globe tooltip improvements */

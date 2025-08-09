@@ -5,11 +5,11 @@ import Globe from 'react-globe.gl';
 import { GlobeProps, Mathematician, GlobePoint } from '../../types';
 
 const POPULARITY_COLORS = {
-  very_high: '#ff6b6b',
-  high: '#ffa726', 
-  medium: '#66bb6a',
-  low: '#42a5f5',
-  very_low: '#ab47bc'
+  very_high: '#c9b037', // Antique Gold for highest
+  high: '#d4a574',      // Dusty Rose  
+  medium: '#8b7355',    // Darker gold
+  low: '#9bb0c1',       // Muted powder blue
+  very_low: '#b8860b'   // Dark golden rod
 };
 
 const POPULARITY_SIZES = {
@@ -144,10 +144,12 @@ const GlobeComponent: React.FC<GlobeProps> = ({
     <Box sx={{ width: '100%', height: '100%' }}>
       <Globe
         ref={globeEl}
-        globeImageUrl="//unpkg.com/three-globe/example/img/earth-dark.jpg"
         showGlobe={true}
         showGraticules={true}
-        backgroundColor="rgba(10,10,10,0.8)"
+        backgroundColor="#b0c4de"
+        globeImageUrl="//unpkg.com/three-globe/example/img/earth-day.jpg"
+        showAtmosphere={true}
+        atmosphereColor="#d4a574"
         
         // Points configuration
         pointsData={globePoints}
@@ -165,8 +167,7 @@ const GlobeComponent: React.FC<GlobeProps> = ({
         animateIn={false}
         
         // Atmosphere
-        atmosphereColor="#2a9fd6"
-        atmosphereAltitude={0.1}
+        atmosphereAltitude={0.15}
         
         // Performance
         rendererConfig={{ antialias: true }}

@@ -49,11 +49,11 @@ const EVENT_COLORS = {
 };
 
 const POPULARITY_COLORS = {
-  very_high: '#ff6b6b',
-  high: '#ffa726',
-  medium: '#66bb6a', 
-  low: '#42a5f5',
-  very_low: '#ab47bc'
+  very_high: '#c9b037', // Antique Gold
+  high: '#d4a574',      // Dusty Rose  
+  medium: '#8b7355',    // Darker gold
+  low: '#9bb0c1',       // Muted powder blue
+  very_low: '#b8860b'   // Dark golden rod
 };
 
 const MathematicianPanel: React.FC<MathematicianPanelProps> = ({
@@ -84,7 +84,7 @@ const MathematicianPanel: React.FC<MathematicianPanelProps> = ({
         width: 400,
         maxWidth: '40vw',
         maxHeight: 'calc(100vh - 48px)',
-        background: 'rgba(26, 26, 26, 0.98)',
+        background: 'rgba(232, 232, 232, 0.98)', // Pearl Gray
         backdropFilter: 'blur(20px)',
         borderRadius: 3,
         overflow: 'hidden',
@@ -100,19 +100,19 @@ const MathematicianPanel: React.FC<MathematicianPanelProps> = ({
         }}
       >
         <Box display="flex" justifyContent="space-between" alignItems="flex-start" mb={2}>
-          <Typography variant="h5" color="white" fontWeight="bold">
+          <Typography variant="h5" sx={{ color: '#2c3e50', fontWeight: 'bold' }}>
             {mathematician.name}
           </Typography>
           <IconButton 
             onClick={onClose}
             size="small"
-            sx={{ color: 'rgba(255,255,255,0.7)' }}
+            sx={{ color: '#5d6d7e' }}
           >
             <CloseIcon />
           </IconButton>
         </Box>
         
-        <Typography variant="body1" color="rgba(255,255,255,0.8)" mb={2}>
+        <Typography variant="body1" sx={{ color: '#5d6d7e', mb: 2 }}>
           {mathematician.birth_year} – {mathematician.death_year} • {mathematician.nationality}
         </Typography>
         
@@ -124,8 +124,8 @@ const MathematicianPanel: React.FC<MathematicianPanelProps> = ({
               size="small"
               variant="outlined"
               sx={{
-                color: 'white',
-                borderColor: 'rgba(255,255,255,0.3)',
+                color: '#2c3e50',
+                borderColor: '#d4a574', // Dusty Rose
                 fontSize: '0.75rem'
               }}
             />
@@ -142,7 +142,7 @@ const MathematicianPanel: React.FC<MathematicianPanelProps> = ({
               fontWeight: 'bold'
             }}
           />
-          <Typography variant="caption" color="rgba(255,255,255,0.6)">
+          <Typography variant="caption" sx={{ color: '#5d6d7e' }}>
             {mathematician.page_views.toLocaleString()} page views
           </Typography>
         </Box>
@@ -152,7 +152,7 @@ const MathematicianPanel: React.FC<MathematicianPanelProps> = ({
       <Box sx={{ maxHeight: 'calc(100vh - 200px)', overflowY: 'auto' }}>
         {/* Timeline Events */}
         <Box p={3}>
-          <Typography variant="h6" color="white" mb={2} display="flex" alignItems="center" gap={1}>
+          <Typography variant="h6" sx={{ color: '#2c3e50', mb: 2 }} display="flex" alignItems="center" gap={1}>
             <TimelineIcon fontSize="small" />
             Timeline Events
           </Typography>
@@ -176,24 +176,24 @@ const MathematicianPanel: React.FC<MathematicianPanelProps> = ({
                           <IconComponent sx={{ fontSize: 16, color: 'white' }} />
                         </TimelineDot>
                         {index < mathematician.timeline_events.length - 1 && (
-                          <TimelineConnector sx={{ bgcolor: 'rgba(255,255,255,0.2)' }} />
+                          <TimelineConnector sx={{ bgcolor: 'rgba(44, 62, 80, 0.3)' }} />
                         )}
                       </TimelineSeparator>
                       
                       <TimelineContent sx={{ pb: 3 }}>
                         <Box>
-                          <Typography variant="body2" color="white" fontWeight="bold">
+                          <Typography variant="body2" sx={{ color: '#2c3e50', fontWeight: 'bold' }}>
                             {formatEventYear(event.year)} • {event.event_type}
                           </Typography>
                           
-                          <Typography variant="body2" color="rgba(255,255,255,0.8)" mt={0.5}>
+                          <Typography variant="body2" sx={{ color: '#5d6d7e', mt: 0.5 }}>
                             {event.description}
                           </Typography>
                           
                           {event.location.place_name && (
                             <Box mt={1} display="flex" alignItems="center" gap={1}>
-                              <LocationIcon sx={{ fontSize: 14, color: 'rgba(255,255,255,0.6)' }} />
-                              <Typography variant="caption" color="rgba(255,255,255,0.6)">
+                              <LocationIcon sx={{ fontSize: 14, color: '#d4a574' }} />
+                              <Typography variant="caption" sx={{ color: '#5d6d7e' }}>
                                 {event.location.place_name}
                                 {locationInfo && (
                                   <span> • {locationInfo.historical_context}</span>
@@ -202,7 +202,7 @@ const MathematicianPanel: React.FC<MathematicianPanelProps> = ({
                             </Box>
                           )}
                           
-                          <Typography variant="caption" color="rgba(255,255,255,0.4)" mt={1} display="block">
+                          <Typography variant="caption" sx={{ color: '#8b7355', mt: 1 }} display="block">
                             Confidence: {Math.round(event.confidence * 100)}%
                           </Typography>
                         </Box>
@@ -212,17 +212,17 @@ const MathematicianPanel: React.FC<MathematicianPanelProps> = ({
                 })}
             </Timeline>
           ) : (
-            <Typography color="rgba(255,255,255,0.6)">
+            <Typography sx={{ color: '#5d6d7e' }}>
               No timeline events extracted yet.
             </Typography>
           )}
         </Box>
 
-        <Divider sx={{ borderColor: 'rgba(255,255,255,0.1)' }} />
+        <Divider sx={{ borderColor: 'rgba(44, 62, 80, 0.2)' }} />
 
         {/* Links */}
         <Box p={3}>
-          <Typography variant="h6" color="white" mb={2}>
+          <Typography variant="h6" sx={{ color: '#2c3e50', mb: 2 }}>
             Learn More
           </Typography>
           <Link
@@ -230,13 +230,14 @@ const MathematicianPanel: React.FC<MathematicianPanelProps> = ({
             target="_blank"
             rel="noopener noreferrer"
             sx={{
-              color: '#64b5f6',
+              color: '#c9b037', // Antique Gold
               textDecoration: 'none',
               display: 'flex',
               alignItems: 'center',
               gap: 1,
               '&:hover': {
-                textDecoration: 'underline'
+                textDecoration: 'underline',
+                color: '#d4a574' // Dusty Rose on hover
               }
             }}
           >
@@ -247,7 +248,7 @@ const MathematicianPanel: React.FC<MathematicianPanelProps> = ({
 
         {/* Metadata */}
         <Box p={3} pt={0}>
-          <Typography variant="caption" color="rgba(255,255,255,0.4)">
+          <Typography variant="caption" sx={{ color: '#8b7355' }}>
             Data processed: {new Date(mathematician.processed_at).toLocaleDateString()}
           </Typography>
         </Box>

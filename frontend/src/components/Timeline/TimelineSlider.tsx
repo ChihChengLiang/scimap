@@ -41,28 +41,33 @@ const TimelineSlider: React.FC<TimelineSliderProps> = ({
         bottom: 32,
         left: '50%',
         transform: 'translateX(-50%)',
-        background: 'rgba(26, 26, 26, 0.95)',
+        background: 'rgba(232, 232, 232, 0.95)', // Pearl Gray
         backdropFilter: 'blur(10px)',
         padding: '20px 32px',
         borderRadius: 4,
         minWidth: '600px',
         maxWidth: '80vw',
-        zIndex: 1000
+        zIndex: 1000,
+        border: '2px solid #d4a574' // Dusty Rose border
       }}
     >
       {/* Header */}
       <Box display="flex" alignItems="center" justifyContent="space-between" mb={2}>
-        <Typography variant="h6" color="white">
+        <Typography variant="h6" sx={{ color: '#2c3e50', fontWeight: 'bold' }}>
           Timeline: {selectedYear}
         </Typography>
         <Box display="flex" gap={1} alignItems="center">
-          <Typography variant="body2" color="rgba(255,255,255,0.7)">
+          <Typography variant="body2" sx={{ color: '#5d6d7e' }}>
             Active mathematicians:
           </Typography>
           <Chip 
             label={activeMathematicians.length}
             size="small"
-            color="primary"
+            sx={{ 
+              backgroundColor: '#c9b037', // Antique Gold
+              color: 'white',
+              fontWeight: 'bold'
+            }}
           />
         </Box>
       </Box>
@@ -81,15 +86,15 @@ const TimelineSlider: React.FC<TimelineSliderProps> = ({
                 sx={{
                   flex: 1,
                   backgroundColor: activity > 0 
-                    ? `rgba(100, 181, 246, ${Math.max(0.2, intensity)})` 
-                    : 'rgba(255,255,255,0.1)',
+                    ? `rgba(201, 176, 55, ${Math.max(0.3, intensity)})` // Antique Gold with opacity
+                    : 'rgba(212, 165, 116, 0.2)', // Dusty Rose with low opacity
                   transition: 'all 0.2s'
                 }}
               />
             );
           })}
         </Box>
-        <Typography variant="caption" color="rgba(255,255,255,0.5)" mt={0.5}>
+        <Typography variant="caption" sx={{ color: '#5d6d7e', mt: 0.5 }}>
           Mathematical activity heat map
         </Typography>
       </Box>
@@ -106,11 +111,11 @@ const TimelineSlider: React.FC<TimelineSliderProps> = ({
           valueLabelDisplay="on"
           valueLabelFormat={(value) => `${value}`}
           sx={{
-            color: '#64b5f6',
+            color: '#c9b037', // Antique Gold
             height: 8,
             '& .MuiSlider-track': {
               border: 'none',
-              background: 'linear-gradient(45deg, #64b5f6 30%, #81c784 90%)'
+              background: 'linear-gradient(45deg, #c9b037 30%, #d4a574 90%)' // Antique Gold to Dusty Rose
             },
             '& .MuiSlider-thumb': {
               height: 24,
@@ -130,7 +135,7 @@ const TimelineSlider: React.FC<TimelineSliderProps> = ({
               width: 32,
               height: 32,
               borderRadius: '50% 50% 50% 0',
-              backgroundColor: '#64b5f6',
+              backgroundColor: '#c9b037', // Antique Gold
               transformOrigin: 'bottom left',
               transform: 'translate(50%, -100%) rotate(-45deg) scale(0)',
               '&:before': { display: 'none' },
@@ -142,7 +147,7 @@ const TimelineSlider: React.FC<TimelineSliderProps> = ({
               },
             },
             '& .MuiSlider-mark': {
-              backgroundColor: 'rgba(255,255,255,0.3)',
+              backgroundColor: 'rgba(44, 62, 80, 0.4)', // Dark text color with opacity
               height: 4,
               width: 2,
               '&.MuiSlider-markActive': {
@@ -152,9 +157,9 @@ const TimelineSlider: React.FC<TimelineSliderProps> = ({
             },
             '& .MuiSlider-markLabel': {
               fontSize: '0.75rem',
-              color: 'rgba(255,255,255,0.7)',
+              color: '#5d6d7e', // Secondary text color
               '&.MuiSlider-markLabelActive': {
-                color: '#64b5f6',
+                color: '#c9b037', // Antique Gold
               },
             },
           }}
@@ -164,7 +169,7 @@ const TimelineSlider: React.FC<TimelineSliderProps> = ({
       {/* Active Mathematicians List */}
       {activeMathematicians.length > 0 && (
         <Box mt={3}>
-          <Typography variant="body2" color="rgba(255,255,255,0.7)" mb={1}>
+          <Typography variant="body2" sx={{ color: '#5d6d7e', mb: 1 }}>
             Active in {selectedYear}:
           </Typography>
           <Box display="flex" flexWrap="wrap" gap={1}>
@@ -175,9 +180,12 @@ const TimelineSlider: React.FC<TimelineSliderProps> = ({
                 size="small"
                 variant="outlined"
                 sx={{
-                  color: 'white',
-                  borderColor: 'rgba(255,255,255,0.3)',
-                  fontSize: '0.75rem'
+                  color: '#2c3e50', // Dark text
+                  borderColor: '#d4a574', // Dusty Rose border
+                  fontSize: '0.75rem',
+                  '&:hover': {
+                    backgroundColor: 'rgba(212, 165, 116, 0.1)' // Light dusty rose hover
+                  }
                 }}
               />
             ))}

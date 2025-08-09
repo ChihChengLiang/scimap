@@ -1,4 +1,4 @@
-import React, { useEffect, useRef, useState } from 'react';
+import React, { useEffect, useState } from 'react';
 import { Box } from '@mui/material';
 import { GlobeProps, GlobePoint } from '../../types';
 
@@ -52,13 +52,13 @@ const SimpleGlobe: React.FC<GlobeProps> = ({
 
   const getPopularityColor = (tier: string) => {
     const colors = {
-      very_high: '#ff6b6b',
-      high: '#ffa726', 
-      medium: '#66bb6a',
-      low: '#42a5f5',
-      very_low: '#ab47bc'
+      very_high: '#c9b037', // Antique Gold
+      high: '#d4a574',      // Dusty Rose  
+      medium: '#8b7355',    // Darker gold
+      low: '#9bb0c1',       // Muted powder blue
+      very_low: '#b8860b'   // Dark golden rod
     };
-    return colors[tier as keyof typeof colors] || '#42a5f5';
+    return colors[tier as keyof typeof colors] || '#9bb0c1';
   };
 
   const getPopularitySize = (tier: string) => {
@@ -92,10 +92,10 @@ const SimpleGlobe: React.FC<GlobeProps> = ({
       width: '100%', 
       height: '100%', 
       position: 'relative',
-      background: 'radial-gradient(circle, #1a1a2e 0%, #16213e 50%, #0f3460 100%)',
+      background: 'radial-gradient(circle at center, #9bb0c1 0%, #8aa3b3 40%, #7a96a5 100%)', // Ocean gradient in muted blues
       overflow: 'hidden'
     }}>
-      {/* Earth representation */}
+      {/* Earth representation with Rococo styling */}
       <Box
         sx={{
           position: 'absolute',
@@ -104,11 +104,77 @@ const SimpleGlobe: React.FC<GlobeProps> = ({
           width: '80%',
           height: '80%',
           borderRadius: '50%',
-          background: 'radial-gradient(circle at 30% 30%, #4a90e2 0%, #2c3e50 70%, #1a1a1a 100%)',
-          border: '2px solid rgba(74, 144, 226, 0.3)',
-          boxShadow: 'inset 0 0 50px rgba(0,0,0,0.5), 0 0 30px rgba(74, 144, 226, 0.3)'
+          background: 'radial-gradient(circle at 30% 30%, #a8c0d8 0%, #9bb0c1 100%)', // Ocean blue gradient
+          border: '3px solid #d4a574', // Dusty Rose border
+          boxShadow: 'inset 0 0 30px rgba(155, 176, 193, 0.4), 0 0 20px rgba(201, 176, 55, 0.3)', // Ocean shadows
+          opacity: 0.95
         }}
       >
+        {/* Simple continent representations */}
+        {/* Europe */}
+        <Box sx={{
+          position: 'absolute',
+          top: '25%',
+          left: '48%',
+          width: '12%',
+          height: '20%',
+          background: 'linear-gradient(135deg, #e8e8e8 0%, #d4a574 100%)', // Pearl Gray to Dusty Rose for land
+          borderRadius: '40% 20% 60% 30%',
+          opacity: 0.9,
+          border: '1px solid rgba(201, 176, 55, 0.3)'
+        }} />
+        
+        {/* Asia */}
+        <Box sx={{
+          position: 'absolute',
+          top: '20%',
+          left: '60%',
+          width: '25%',
+          height: '30%',
+          background: 'linear-gradient(135deg, #e8e8e8 0%, #d4a574 100%)',
+          borderRadius: '30% 50% 40% 60%',
+          opacity: 0.9,
+          border: '1px solid rgba(201, 176, 55, 0.3)'
+        }} />
+        
+        {/* Africa */}
+        <Box sx={{
+          position: 'absolute',
+          top: '35%',
+          left: '45%',
+          width: '15%',
+          height: '35%',
+          background: 'linear-gradient(135deg, #e8e8e8 0%, #d4a574 100%)',
+          borderRadius: '20% 30% 40% 70%',
+          opacity: 0.9,
+          border: '1px solid rgba(201, 176, 55, 0.3)'
+        }} />
+        
+        {/* North America */}
+        <Box sx={{
+          position: 'absolute',
+          top: '15%',
+          left: '15%',
+          width: '20%',
+          height: '25%',
+          background: 'linear-gradient(135deg, #e8e8e8 0%, #d4a574 100%)',
+          borderRadius: '50% 30% 40% 60%',
+          opacity: 0.9,
+          border: '1px solid rgba(201, 176, 55, 0.3)'
+        }} />
+        
+        {/* South America */}
+        <Box sx={{
+          position: 'absolute',
+          top: '45%',
+          left: '25%',
+          width: '12%',
+          height: '30%',
+          background: 'linear-gradient(135deg, #e8e8e8 0%, #d4a574 100%)',
+          borderRadius: '30% 40% 20% 70%',
+          opacity: 0.9,
+          border: '1px solid rgba(201, 176, 55, 0.3)'
+        }} />
         {/* Mathematician points */}
         {globePoints.map((point, index) => {
           const width = window.innerWidth * 0.8;
@@ -168,18 +234,35 @@ const SimpleGlobe: React.FC<GlobeProps> = ({
           position: 'absolute',
           bottom: 16,
           right: 16,
-          background: 'rgba(26, 26, 26, 0.9)',
+          background: 'rgba(232, 232, 232, 0.95)', // Pearl Gray
           padding: 2,
           borderRadius: 2,
-          color: 'white',
-          fontSize: '0.75rem'
+          border: '1px solid rgba(201, 176, 55, 0.3)',
+          color: '#2c3e50',
+          fontSize: '0.75rem',
+          boxShadow: '0 4px 12px rgba(0,0,0,0.15)'
         }}
       >
-        <div>🔴 Very High Popularity</div>
-        <div>🟠 High Popularity</div>
-        <div>🟢 Medium Popularity</div>
-        <div>🔵 Low Popularity</div>
-        <div>🟣 Very Low Popularity</div>
+        <div style={{ display: 'flex', alignItems: 'center', gap: '8px', marginBottom: '4px' }}>
+          <div style={{ width: '12px', height: '12px', borderRadius: '50%', backgroundColor: '#c9b037' }}></div>
+          Very High Popularity
+        </div>
+        <div style={{ display: 'flex', alignItems: 'center', gap: '8px', marginBottom: '4px' }}>
+          <div style={{ width: '10px', height: '10px', borderRadius: '50%', backgroundColor: '#d4a574' }}></div>
+          High Popularity
+        </div>
+        <div style={{ display: 'flex', alignItems: 'center', gap: '8px', marginBottom: '4px' }}>
+          <div style={{ width: '8px', height: '8px', borderRadius: '50%', backgroundColor: '#8b7355' }}></div>
+          Medium Popularity
+        </div>
+        <div style={{ display: 'flex', alignItems: 'center', gap: '8px', marginBottom: '4px' }}>
+          <div style={{ width: '6px', height: '6px', borderRadius: '50%', backgroundColor: '#9bb0c1' }}></div>
+          Low Popularity
+        </div>
+        <div style={{ display: 'flex', alignItems: 'center', gap: '8px' }}>
+          <div style={{ width: '4px', height: '4px', borderRadius: '50%', backgroundColor: '#b8860b' }}></div>
+          Very Low Popularity
+        </div>
       </Box>
       
       <style>{`
