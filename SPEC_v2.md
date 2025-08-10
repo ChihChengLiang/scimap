@@ -2,11 +2,11 @@
 ## Project Specification v2.0
 
 ### Project Overview
-An interactive spatio-temporal visualization showing the lives, travels, and mathematical contributions of prominent 18th century mathematicians (1700-1800). Users can explore how mathematical ideas developed across Europe through an interactive timeline slider and historically accurate 2D map interface showing both personal stories and political context.
+An interactive spatio-temporal visualization showing the lives, travels, and mathematical contributions of prominent 18th century mathematicians (1700-1800). Users can explore how mathematical ideas developed across Europe through an interactive timeline slider and modern map interface with historically-styled visual design showing both personal stories and political context.
 
 ### Core Concept
 - **Timeline Slider**: Navigate through decades to see mathematical activity over time
-- **Historical Map**: Visualize mathematician events on period-accurate political boundaries using OpenHistoricalMap
+- **Modern Map with Historical Styling**: Visualize mathematician events on contemporary geography with period-appropriate visual design
 - **Dual Layer System**: Separate people and political context layers for rich storytelling
 - **Event-Driven Narrative**: Each mathematician event shows biographical context and historical backdrop
 - **Popularity Weighting**: Scientist prominence based on Wikipedia page views
@@ -18,14 +18,15 @@ An interactive spatio-temporal visualization showing the lives, travels, and mat
 ### Data Sources
 - **Primary**: Wikipedia biographical pages and page view statistics
 - **Structured Data**: Wikidata SPARQL queries for biographical basics (birth/death dates, places, institutions, coordinates)
-- **Historical Context**: OpenHistoricalMap for period-accurate political boundaries and geographical data
+- **Historical Context**: Political and cultural context data for historical accuracy and storytelling
+- **Base Maps**: OpenStreetMap tiles with custom Rococo-themed styling for period atmosphere
 - **Geocoding**: Pre-extracted coordinates from Wikidata with LLM fallback for missing locations
 
 ### Technology Stack
 - **Backend**: Python for data extraction and processing
 - **LLM**: LM Studio with Google Gemma-3n-e4b for timeline and location extraction
-- **Frontend**: React + Leaflet.js for 2D historical map visualization
-- **Base Maps**: OpenHistoricalMap tiles with time-synchronized political boundaries
+- **Frontend**: React + Leaflet.js for 2D map visualization with custom historical styling
+- **Base Maps**: OpenStreetMap tiles with custom CSS styling for 18th century aesthetic
 - **Data Storage**: JSON files for MVP, database migration in later phases
 
 ---
@@ -124,12 +125,12 @@ An interactive spatio-temporal visualization showing the lives, travels, and mat
 
 ### Core Features
 - [x] Timeline slider (by decade: 1700s, 1710s, ... 1790s)
-- [x] Interactive 2D historical map with synchronized political boundaries from OpenHistoricalMap
+- [x] Interactive 2D map with custom Rococo styling over modern OpenStreetMap base
 - [x] Dual layer system: People Layer (mathematician events) and Political Layer (historical context)
 - [x] Click-to-explore individual mathematician details with biographical panels
 - [x] Visual encoding: marker size by Wikipedia popularity, color by event type
 - [x] Event type categorization (birth, education, position, publication, death, travel)
-- [x] Time-synchronized historical political boundaries and geographical features
+- [x] Time-synchronized political context overlays on modern geography
 
 ### Data Pipeline
 1. **Wikidata Extraction**: Query SPARQL endpoint for structured biographical data (dates, places, institutions, coordinates)
@@ -144,8 +145,8 @@ An interactive spatio-temporal visualization showing the lives, travels, and mat
 ## User Experience
 
 ### Primary User Flow
-1. **Landing**: User sees historical map of Europe (1750s) with timeline slider and layer controls
-2. **Exploration**: User drags timeline slider to see political boundaries change and mathematicians appear/disappear over time
+1. **Landing**: User sees styled map of Europe (modern geography with Rococo theming) with timeline slider and layer controls
+2. **Exploration**: User drags timeline slider to see mathematicians appear/disappear over time with political context changing
 3. **Layer Interaction**: User toggles between People Layer (mathematician events) and Political Layer (historical context)
 4. **Discovery**: User clicks on mathematician markers to see event details and biographical information
 5. **Deep Dive**: User explores specific mathematician's complete timeline and historical context
@@ -165,8 +166,8 @@ An interactive spatio-temporal visualization showing the lives, travels, and mat
 - **Interaction**: Click for biographical panel with timeline events
 
 **Political Layer (Context):**
-- **Regional Markers**: Smaller markers for major political events
-- **Boundary Visualization**: Historical political boundaries from OpenHistoricalMap
+- **Regional Markers**: Smaller markers for major political events affecting mathematical centers
+- **Contextual Overlays**: Text overlays or boundary highlights showing relevant political entities (Holy Roman Empire, French Kingdom, etc.)
 - **Context Tooltips**: Brief descriptions of political/cultural events
 - **Visual Hierarchy**: Muted styling to support, not compete with, people layer
 
@@ -203,25 +204,25 @@ An interactive spatio-temporal visualization showing the lives, travels, and mat
 
 ### Phase 2: Historical Map Visualization (Weeks 3-4)
 **Goals**:
-- Implement Leaflet + OpenHistoricalMap integration
-- Build dual-layer system (people + political)
+- Implement Leaflet + OpenStreetMap integration with custom Rococo styling
+- Build dual-layer system (people + political context)
 - Basic timeline synchronization working
-- Period-accurate map styling
+- Custom CSS styling for period-appropriate map appearance
 
 **Deliverables**:
 - React frontend with Leaflet.js integration
-- OpenHistoricalMap tile integration with time filtering
+- OpenStreetMap base tiles with custom Rococo CSS styling
 - Dual layer system (toggleable people/political layers)
-- Timeline slider component with map synchronization
-- Mathematician event markers and political context markers
+- Timeline slider component with context synchronization
+- Mathematician event markers and political context overlays
 - Basic biographical detail panels
 
 **Success Criteria**:
-- Users can navigate timeline smoothly with map boundaries updating
+- Users can navigate timeline smoothly with political context updating
 - Both layers display correctly and can be toggled
 - Clicking mathematician events shows biographical info
-- Historical map boundaries reflect correct time periods
-- Rococo visual theme implemented
+- Map styling evokes 18th century aesthetic on modern geography
+- Rococo visual theme implemented throughout interface
 
 ### Phase 3: Polish and Scale (Weeks 5-6)
 **Goals**:
@@ -253,8 +254,8 @@ An interactive spatio-temporal visualization showing the lives, travels, and mat
 - **LM Studio + Gemma Integration**: Google Gemma-3n-e4b may have different performance characteristics than Qwen
   - *Mitigation*: Test extraction quality early, adjust prompts for Gemma's instruction-following style, have Ollama fallback ready
 
-- **OpenHistoricalMap Data Coverage**: Limited historical data for some regions/time periods
-  - *Mitigation*: Identify data gaps early, prepare fallback to modern boundaries with historical styling
+- **OpenStreetMap Styling Limitations**: CSS styling may not achieve full historical aesthetic desired
+  - *Mitigation*: Focus on color palette and marker design, consider custom map tiles if needed
 
 ### Medium Risk  
 - **Historical Geocoding Quality**: 18th century place names might not map correctly to modern coordinates
@@ -322,7 +323,7 @@ An interactive spatio-temporal visualization showing the lives, travels, and mat
 
 **Week 1**: Wikidata SPARQL queries + Wikipedia narrative extraction + LM Studio/Gemma setup + political context research
 **Week 2**: Structured data integration + supplementary event extraction + historical data validation  
-**Week 3**: React frontend + Leaflet + OpenHistoricalMap integration
+**Week 3**: React frontend + Leaflet + OpenStreetMap integration + custom Rococo styling
 **Week 4**: Dual layer system + timeline synchronization + biographical panels
 **Week 5**: Rococo visual design + performance optimization + political context integration
 **Week 6**: User testing + documentation + deployment preparation
@@ -335,7 +336,7 @@ An interactive spatio-temporal visualization showing the lives, travels, and mat
 
 1. Should profile pictures be attempted in Phase 1 or kept as Phase 4 enhancement?
 2. How detailed should political context be? (Major events only vs. comprehensive coverage)
-3. What level of historical map accuracy is acceptable vs. visual appeal trade-offs?
+3. How do we best convey historical political context without actual historical map boundaries?
 4. Should we prioritize mobile experience or focus on desktop for initial launch?
 5. How do we handle disputed historical dates or conflicting biographical information?
 6. What's the best approach for gathering and validating political context data?
