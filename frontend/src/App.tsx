@@ -4,7 +4,8 @@ import { CssBaseline, Box } from '@mui/material';
 import HistoricalMap from './components/Map/HistoricalMap';
 import TimelineSlider from './components/Timeline/TimelineSlider';
 import MathematicianPanel from './components/MathematicianPanel/MathematicianPanel';
-import { Mathematician, LocationData } from './types';
+import { Mathematician, LocationData, PoliticalContext, LayerVisibility } from './types';
+import LayerControls from './components/LayerControls/LayerControls';
 import './App.css';
 
 const rococoTheme = createTheme({
@@ -35,8 +36,13 @@ const rococoTheme = createTheme({
 function App() {
   const [mathematicians, setMathematicians] = useState<Record<string, Mathematician>>({});
   const [locations, setLocations] = useState<Record<string, LocationData>>({});
+  const [politicalContexts, setPoliticalContexts] = useState<PoliticalContext[]>([]);
   const [selectedYear, setSelectedYear] = useState<number>(1750);
   const [selectedMathematician, setSelectedMathematician] = useState<Mathematician | null>(null);
+  const [layerVisibility, setLayerVisibility] = useState<LayerVisibility>({
+    people: true,
+    political: true
+  });
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
 
@@ -44,20 +50,23 @@ function App() {
   useEffect(() => {
     const loadData = async () => {
       try {
-        const [mathematiciansRes, locationsRes] = await Promise.all([
+        const [mathematiciansRes, locationsRes, politicalRes] = await Promise.all([
           fetch('/data/mathematicians.json'),
-          fetch('/data/locations.json')
+          fetch('/data/locations.json'),
+          fetch('/data/political_context.json')
         ]);
 
-        if (!mathematiciansRes.ok || !locationsRes.ok) {
+        if (!mathematiciansRes.ok || !locationsRes.ok || !politicalRes.ok) {
           throw new Error('Failed to load data');
         }
 
         const mathematiciansData = await mathematiciansRes.json();
         const locationsData = await locationsRes.json();
+        const politicalData = await politicalRes.json();
 
         setMathematicians(mathematiciansData);
         setLocations(locationsData);
+        setPoliticalContexts(Object.values(politicalData));
         setLoading(false);
       } catch (err) {
         setError(err instanceof Error ? err.message : 'Failed to load data');
@@ -83,6 +92,13 @@ function App() {
 
   const handleClosePanel = () => {
     setSelectedMathematician(null);
+  };
+
+  const handleLayerToggle = (layer: keyof LayerVisibility) => {
+    setLayerVisibility(prev => ({
+      ...prev,
+      [layer]: !prev[layer]
+    }));
   };
 
   if (loading) {
@@ -132,8 +148,16 @@ function App() {
           <HistoricalMap 
             mathematicians={getVisibleMathematicians()}
             locations={locations}
+            politicalContexts={politicalContexts}
             selectedYear={selectedYear}
+            layerVisibility={layerVisibility}
             onMathematicianClick={handleMathematicianClick}
+          />
+          
+          {/* Layer Controls */}
+          <LayerControls
+            layerVisibility={layerVisibility}
+            onLayerToggle={handleLayerToggle}
           />
           
           {/* Timeline Slider */}

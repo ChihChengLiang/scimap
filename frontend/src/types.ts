@@ -84,11 +84,44 @@ export interface GlobePoint {
   color: string;
 }
 
+// Political context data types
+export interface PoliticalContext {
+  context_id: string;
+  year: number;
+  location: {
+    place_name: string;
+    lat: number;
+    lng: number;
+    region: string;
+  };
+  headline: string;
+  description: string;
+  impact_on_science: string;
+  category: 'political_change' | 'war' | 'peace_treaty' | 'cultural_event' | 'economic_shift';
+  source: string;
+  relevance_score: number;
+}
+
+// Layer visibility state
+export interface LayerVisibility {
+  people: boolean;
+  political: boolean;
+}
+
 // Component prop types
 export interface GlobeProps {
   mathematicians: Mathematician[];
   locations: Record<string, LocationData>;
   selectedYear: number;
+  onMathematicianClick: (mathematician: Mathematician) => void;
+}
+
+export interface HistoricalMapProps {
+  mathematicians: Mathematician[];
+  locations: Record<string, LocationData>;
+  politicalContexts: PoliticalContext[];
+  selectedYear: number;
+  layerVisibility: LayerVisibility;
   onMathematicianClick: (mathematician: Mathematician) => void;
 }
 

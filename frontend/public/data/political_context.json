@@ -1,0 +1,98 @@
+{
+  "russia_1725_peter_death": {
+    "context_id": "russia_1725_peter_death",
+    "year": 1725,
+    "location": {
+      "place_name": "St. Petersburg",
+      "lat": 59.9311,
+      "lng": 30.3609,
+      "region": "Russian Empire"
+    },
+    "headline": "Death of Peter the Great",
+    "description": "Peter I dies, leaving Russian Academy of Sciences to seek stability through European recruitment",
+    "impact_on_science": "Increased recruitment of foreign mathematicians and scientists",
+    "category": "political_change",
+    "source": "Historical records",
+    "relevance_score": 0.9
+  },
+  "france_1715_louis_death": {
+    "context_id": "france_1715_louis_death", 
+    "year": 1715,
+    "location": {
+      "place_name": "Versailles",
+      "lat": 48.8049,
+      "lng": 2.1204,
+      "region": "Kingdom of France"
+    },
+    "headline": "Death of Louis XIV",
+    "description": "End of Sun King's reign brings new intellectual openness under Regency",
+    "impact_on_science": "Greater intellectual freedom and scientific patronage",
+    "category": "political_change",
+    "source": "Historical records",
+    "relevance_score": 0.8
+  },
+  "austria_1740_succession": {
+    "context_id": "austria_1740_succession",
+    "year": 1740,
+    "location": {
+      "place_name": "Vienna",
+      "lat": 48.2082,
+      "lng": 16.3738,
+      "region": "Austrian Empire"
+    },
+    "headline": "War of Austrian Succession Begins",
+    "description": "Maria Theresa's succession triggers European conflict, affecting university funding",
+    "impact_on_science": "Disrupted academic positions and reduced patronage in affected regions",
+    "category": "war",
+    "source": "Historical records", 
+    "relevance_score": 0.7
+  },
+  "prussia_1740_frederick": {
+    "context_id": "prussia_1740_frederick",
+    "year": 1740,
+    "location": {
+      "place_name": "Berlin",
+      "lat": 52.5200,
+      "lng": 13.4050,
+      "region": "Kingdom of Prussia"
+    },
+    "headline": "Frederick the Great Becomes King",
+    "description": "Frederick II ascends throne, establishes Berlin Academy and promotes mathematics",
+    "impact_on_science": "Major patronage of mathematics and philosophy, attracts European scholars",
+    "category": "political_change",
+    "source": "Historical records",
+    "relevance_score": 0.9
+  },
+  "france_1789_revolution": {
+    "context_id": "france_1789_revolution",
+    "year": 1789,
+    "location": {
+      "place_name": "Paris",
+      "lat": 48.8566,
+      "lng": 2.3522,
+      "region": "Kingdom of France"
+    },
+    "headline": "French Revolution Begins",
+    "description": "Revolutionary upheaval transforms French Academy and scientific institutions",
+    "impact_on_science": "Radical restructuring of French Academy, persecution of nobility including scientists",
+    "category": "political_change",
+    "source": "Historical records",
+    "relevance_score": 0.95
+  },
+  "england_1687_newton": {
+    "context_id": "england_1687_newton",
+    "year": 1687,
+    "location": {
+      "place_name": "London",
+      "lat": 51.5074,
+      "lng": -0.1278,
+      "region": "Kingdom of England"
+    },
+    "headline": "Newton's Principia Published",
+    "description": "Mathematical revolution establishes England as center of natural philosophy",
+    "impact_on_science": "Establishes mathematical physics and attracts European scholars to study Newtonian methods",
+    "category": "cultural_event",
+    "source": "Historical records",
+    "relevance_score": 0.95
+  }
+}
