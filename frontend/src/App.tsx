@@ -165,6 +165,7 @@ function App() {
             selectedYear={selectedYear}
             onYearChange={setSelectedYear}
             mathematicians={Object.values(mathematicians)}
+            onMathematicianClick={handleMathematicianClick}
           />
           
           {/* Mathematician Detail Panel */}

@@ -5,7 +5,8 @@ import { TimelineSliderProps } from '../../types';
 const TimelineSlider: React.FC<TimelineSliderProps> = ({
   selectedYear,
   onYearChange,
-  mathematicians
+  mathematicians,
+  onMathematicianClick
 }) => {
   // Define the 18th century range
   const MIN_YEAR = 1700;
@@ -179,12 +180,22 @@ const TimelineSlider: React.FC<TimelineSliderProps> = ({
                 label={mathematician.name}
                 size="small"
                 variant="outlined"
+                clickable
+                onClick={() => onMathematicianClick?.(mathematician)}
                 sx={{
                   color: '#2c3e50', // Dark text
                   borderColor: '#d4a574', // Dusty Rose border
                   fontSize: '0.75rem',
+                  cursor: 'pointer',
+                  transition: 'all 0.2s ease',
                   '&:hover': {
-                    backgroundColor: 'rgba(212, 165, 116, 0.1)' // Light dusty rose hover
+                    backgroundColor: 'rgba(212, 165, 116, 0.15)', // Light dusty rose hover
+                    borderColor: '#c9b037', // Antique gold on hover
+                    transform: 'translateY(-1px)',
+                    boxShadow: '0 2px 6px rgba(0,0,0,0.1)'
+                  },
+                  '&:active': {
+                    transform: 'translateY(0px)'
                   }
                 }}
               />

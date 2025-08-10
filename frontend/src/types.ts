@@ -129,6 +129,7 @@ export interface TimelineSliderProps {
   selectedYear: number;
   onYearChange: (year: number) => void;
   mathematicians: Mathematician[];
+  onMathematicianClick?: (mathematician: Mathematician) => void;
 }
 
 export interface MathematicianPanelProps {
