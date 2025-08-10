@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { ThemeProvider, createTheme } from '@mui/material/styles';
 import { CssBaseline, Box } from '@mui/material';
-import Globe from './components/Globe/Globe';
+import HistoricalMap from './components/Map/HistoricalMap';
 import TimelineSlider from './components/Timeline/TimelineSlider';
 import MathematicianPanel from './components/MathematicianPanel/MathematicianPanel';
 import { Mathematician, LocationData } from './types';
@@ -128,8 +128,8 @@ function App() {
       <CssBaseline />
       <div className="App">
         <Box sx={{ position: 'relative', height: '100vh', overflow: 'hidden', bgcolor: '#b0c4de' }}>
-          {/* 3D Globe */}
-          <Globe 
+          {/* Historical Map */}
+          <HistoricalMap 
             mathematicians={getVisibleMathematicians()}
             locations={locations}
             selectedYear={selectedYear}
