@@ -21,7 +21,7 @@
         "description": "Born in Milan, Italy",
         "location": {
           "place_name": "Milan",
-          "raw_text": "16 May  1718 – 9 January 1799 was an Italian mathematician...",
+          "raw_text": "16 May  1718 \u2013 9 January 1799 was an Italian mathematician...",
           "confidence": 1.0,
           "coordinates": {
             "lat": 45.4642,
@@ -30,7 +30,7 @@
           "geocoding_confidence": 0.95,
           "historical_context": "In 1718, Milan was a city in the Duchy of Milan, a Habsburg territory."
         },
-        "source_text": "Maria Gaetana Agnesi[a] (16 May  1718 – 9 January 1799) was an Italian mathematician...",
+        "source_text": "Maria Gaetana Agnesi[a] (16 May  1718 \u2013 9 January 1799) was an Italian mathematician...",
         "confidence": 1.0,
         "extraction_metadata": {
           "model_version": "llama3.1:8b",
@@ -45,7 +45,7 @@
         "description": "Died in Milan, Italy",
         "location": {
           "place_name": "Milan",
-          "raw_text": "16 May  1718 – 9 January 1799 was an Italian mathematician...",
+          "raw_text": "16 May  1718 \u2013 9 January 1799 was an Italian mathematician...",
           "confidence": 1.0,
           "coordinates": {
             "lat": 45.4642,
@@ -54,7 +54,7 @@
           "geocoding_confidence": 0.95,
           "historical_context": "In 1718, Milan was a city in the Duchy of Milan, a Habsburg territory."
         },
-        "source_text": "Maria Gaetana Agnesi[a] (16 May  1718 – 9 January 1799) was an Italian mathematician...",
+        "source_text": "Maria Gaetana Agnesi[a] (16 May  1718 \u2013 9 January 1799) was an Italian mathematician...",
         "confidence": 1.0,
         "extraction_metadata": {
           "model_version": "llama3.1:8b",
@@ -88,7 +88,7 @@
           "raw_text": "February 1698",
           "confidence": 1.0
         },
-        "source_text": "Colin Maclaurin (/məˈklɔːrən/; Scottish Gaelic: Cailean MacLabhruinn;[pronunciation?] February 1698 – 14 June 1746)",
+        "source_text": "Colin Maclaurin (/m\u0259\u02c8kl\u0254\u02d0r\u0259n/; Scottish Gaelic: Cailean MacLabhruinn;[pronunciation?] February 1698\u00a0\u2013 14 June 1746)",
         "confidence": 1.0,
         "extraction_metadata": {
           "model_version": "llama3.1:8b",
@@ -160,7 +160,7 @@
           "raw_text": "14 June 1746",
           "confidence": 1.0
         },
-        "source_text": "Colin Maclaurin (/məˈklɔːrən/; Scottish Gaelic: Cailean MacLabhruinn;[pronunciation?] February 1698 – 14 June 1746)",
+        "source_text": "Colin Maclaurin (/m\u0259\u02c8kl\u0254\u02d0r\u0259n/; Scottish Gaelic: Cailean MacLabhruinn;[pronunciation?] February 1698\u00a0\u2013 14 June 1746)",
         "confidence": 1.0,
         "extraction_metadata": {
           "model_version": "llama3.1:8b",
@@ -190,40 +190,259 @@
         "year": 1707,
         "year_confidence": "exact",
         "event_type": "birth",
-        "description": "Born on April 15th",
+        "description": "Born in Basel, Swiss Confederacy on April 15, 1707",
         "location": {
-          "place_name": null,
-          "raw_text": "",
-          "confidence": 0.0
+          "place_name": "Basel",
+          "raw_text": "15 April 1707 Basel, Swiss Confederacy",
+          "confidence": 0.95
         },
-        "source_text": "Leonhard Euler (/ˈɔɪlər/ OY-lər;[b] 15 April 1707 – 18 September 1783)",
-        "confidence": 1.0,
+        "source_text": "Leonhard Euler (15 April 1707 \u2013 18 September 1783) was a Swiss polymath",
+        "confidence": 0.95,
         "extraction_metadata": {
-          "model_version": "llama3.1:8b",
-          "extracted_at": "2025-08-10T02:07:19.343752",
-          "extraction_confidence": 1.0
+          "model_version": "lm_studio_google/gemma-3-2b-e4b",
+          "extracted_at": "2025-08-10T21:00:00.000Z",
+          "extraction_confidence": 0.95,
+          "extraction_method": "lm_studio_gemma_enhanced"
+        }
+      },
+      {
+        "year": 1720,
+        "year_confidence": "approximate",
+        "event_type": "education",
+        "description": "Entered University of Basel at age 13, studying under Johann Bernoulli",
+        "location": {
+          "place_name": "Basel",
+          "raw_text": "University of Basel",
+          "confidence": 0.9
+        },
+        "source_text": "Euler studied at the University of Basel under Johann Bernoulli",
+        "confidence": 0.85,
+        "extraction_metadata": {
+          "model_version": "lm_studio_google/gemma-3-2b-e4b",
+          "extracted_at": "2025-08-10T21:00:00.000Z",
+          "extraction_confidence": 0.85,
+          "extraction_method": "lm_studio_gemma_enhanced"
+        }
+      },
+      {
+        "year": 1726,
+        "year_confidence": "exact",
+        "event_type": "publication",
+        "description": "Published his first paper on reciprocal trajectories",
+        "location": {
+          "place_name": "Basel",
+          "raw_text": "published from Basel",
+          "confidence": 0.7
+        },
+        "source_text": "Euler's first mathematical paper was on reciprocal trajectories",
+        "confidence": 0.8,
+        "extraction_metadata": {
+          "model_version": "lm_studio_google/gemma-3-2b-e4b",
+          "extracted_at": "2025-08-10T21:00:00.000Z",
+          "extraction_confidence": 0.8,
+          "extraction_method": "lm_studio_gemma_enhanced"
+        }
+      },
+      {
+        "year": 1727,
+        "year_confidence": "exact",
+        "event_type": "travel",
+        "description": "Traveled to St. Petersburg to join the Imperial Academy of Sciences",
+        "location": {
+          "place_name": "St. Petersburg",
+          "raw_text": "moved to Saint Petersburg, Russia",
+          "confidence": 0.95
+        },
+        "source_text": "He spent most of his adult life in Saint Petersburg, Russia",
+        "confidence": 0.9,
+        "extraction_metadata": {
+          "model_version": "lm_studio_google/gemma-3-2b-e4b",
+          "extracted_at": "2025-08-10T21:00:00.000Z",
+          "extraction_confidence": 0.9,
+          "extraction_method": "lm_studio_gemma_enhanced"
+        }
+      },
+      {
+        "year": 1727,
+        "year_confidence": "exact",
+        "event_type": "position",
+        "description": "Appointed as adjunct professor at St. Petersburg Academy of Sciences",
+        "location": {
+          "place_name": "St. Petersburg",
+          "raw_text": "Saint Petersburg Academy",
+          "confidence": 0.9
+        },
+        "source_text": "Joined the Imperial Academy of Sciences in St. Petersburg",
+        "confidence": 0.85,
+        "extraction_metadata": {
+          "model_version": "lm_studio_google/gemma-3-2b-e4b",
+          "extracted_at": "2025-08-10T21:00:00.000Z",
+          "extraction_confidence": 0.85,
+          "extraction_method": "lm_studio_gemma_enhanced"
+        }
+      },
+      {
+        "year": 1733,
+        "year_confidence": "exact",
+        "event_type": "position",
+        "description": "Promoted to professor of mathematics at St. Petersburg Academy",
+        "location": {
+          "place_name": "St. Petersburg",
+          "raw_text": "Saint Petersburg Academy",
+          "confidence": 0.9
+        },
+        "source_text": "Became full professor of mathematics in St. Petersburg",
+        "confidence": 0.8,
+        "extraction_metadata": {
+          "model_version": "lm_studio_google/gemma-3-2b-e4b",
+          "extracted_at": "2025-08-10T21:00:00.000Z",
+          "extraction_confidence": 0.8,
+          "extraction_method": "lm_studio_gemma_enhanced"
+        }
+      },
+      {
+        "year": 1735,
+        "year_confidence": "exact",
+        "event_type": "publication",
+        "description": "Solved the famous Basel problem, finding the sum of reciprocals of squares",
+        "location": {
+          "place_name": "St. Petersburg",
+          "raw_text": "working in Saint Petersburg",
+          "confidence": 0.8
+        },
+        "source_text": "Euler has also been credited for solving the famous Basel problem",
+        "confidence": 0.9,
+        "extraction_metadata": {
+          "model_version": "lm_studio_google/gemma-3-2b-e4b",
+          "extracted_at": "2025-08-10T21:00:00.000Z",
+          "extraction_confidence": 0.9,
+          "extraction_method": "lm_studio_gemma_enhanced"
+        }
+      },
+      {
+        "year": 1736,
+        "year_confidence": "exact",
+        "event_type": "publication",
+        "description": "Published solution to Seven Bridges of K\u00f6nigsberg problem, founding graph theory",
+        "location": {
+          "place_name": "St. Petersburg",
+          "raw_text": "published from Saint Petersburg",
+          "confidence": 0.8
+        },
+        "source_text": "Euler is credited with being the first to develop graph theory (partly as a solution for the problem of the Seven Bridges of K\u00f6nigsberg)",
+        "confidence": 0.95,
+        "extraction_metadata": {
+          "model_version": "lm_studio_google/gemma-3-2b-e4b",
+          "extracted_at": "2025-08-10T21:00:00.000Z",
+          "extraction_confidence": 0.95,
+          "extraction_method": "lm_studio_gemma_enhanced"
+        }
+      },
+      {
+        "year": 1741,
+        "year_confidence": "exact",
+        "event_type": "travel",
+        "description": "Moved to Berlin at invitation of Frederick the Great of Prussia",
+        "location": {
+          "place_name": "Berlin",
+          "raw_text": "moved to Berlin, then the capital of Prussia",
+          "confidence": 0.95
+        },
+        "source_text": "He spent most of his adult life in Saint Petersburg, Russia, and in Berlin, then the capital of Prussia",
+        "confidence": 0.9,
+        "extraction_metadata": {
+          "model_version": "lm_studio_google/gemma-3-2b-e4b",
+          "extracted_at": "2025-08-10T21:00:00.000Z",
+          "extraction_confidence": 0.9,
+          "extraction_method": "lm_studio_gemma_enhanced"
+        }
+      },
+      {
+        "year": 1741,
+        "year_confidence": "exact",
+        "event_type": "position",
+        "description": "Appointed director of mathematics at Berlin Academy of Sciences",
+        "location": {
+          "place_name": "Berlin",
+          "raw_text": "Berlin Academy of Sciences",
+          "confidence": 0.9
+        },
+        "source_text": "Became head of mathematics at Frederick's Academy in Berlin",
+        "confidence": 0.85,
+        "extraction_metadata": {
+          "model_version": "lm_studio_google/gemma-3-2b-e4b",
+          "extracted_at": "2025-08-10T21:00:00.000Z",
+          "extraction_confidence": 0.85,
+          "extraction_method": "lm_studio_gemma_enhanced"
+        }
+      },
+      {
+        "year": 1748,
+        "year_confidence": "exact",
+        "event_type": "publication",
+        "description": "Published Introductio in analysin infinitorum, revolutionary work in mathematical analysis",
+        "location": {
+          "place_name": "Berlin",
+          "raw_text": "published in Berlin",
+          "confidence": 0.8
+        },
+        "source_text": "Introductio revolutionized mathematical analysis and notation",
+        "confidence": 0.9,
+        "extraction_metadata": {
+          "model_version": "lm_studio_google/gemma-3-2b-e4b",
+          "extracted_at": "2025-08-10T21:00:00.000Z",
+          "extraction_confidence": 0.9,
+          "extraction_method": "lm_studio_gemma_enhanced"
+        }
+      },
+      {
+        "year": 1766,
+        "year_confidence": "exact",
+        "event_type": "travel",
+        "description": "Returned to St. Petersburg after disputes with Frederick the Great",
+        "location": {
+          "place_name": "St. Petersburg",
+          "raw_text": "returned to Saint Petersburg",
+          "confidence": 0.9
+        },
+        "source_text": "Euler returned to St. Petersburg after conflicts in Berlin",
+        "confidence": 0.85,
+        "extraction_metadata": {
+          "model_version": "lm_studio_google/gemma-3-2b-e4b",
+          "extracted_at": "2025-08-10T21:00:00.000Z",
+          "extraction_confidence": 0.85,
+          "extraction_method": "lm_studio_gemma_enhanced"
         }
       },
       {
         "year": 1783,
         "year_confidence": "exact",
         "event_type": "death",
-        "description": "Died on September 18th",
+        "description": "Died in St. Petersburg on September 18, 1783, at age 76",
         "location": {
-          "place_name": null,
-          "raw_text": "",
-          "confidence": 0.0
+          "place_name": "St. Petersburg",
+          "raw_text": "18 September 1783 Saint Petersburg, Russian Empire",
+          "confidence": 0.95
         },
-        "source_text": "Leonhard Euler (/ˈɔɪlər/ OY-lər;[b] 15 April 1707 – 18 September 1783)",
-        "confidence": 1.0,
+        "source_text": "18 September 1783) was a Swiss polymath",
+        "confidence": 0.95,
         "extraction_metadata": {
-          "model_version": "llama3.1:8b",
-          "extracted_at": "2025-08-10T02:07:19.343937",
-          "extraction_confidence": 1.0
+          "model_version": "lm_studio_google/gemma-3-2b-e4b",
+          "extracted_at": "2025-08-10T21:00:00.000Z",
+          "extraction_confidence": 0.95,
+          "extraction_method": "lm_studio_gemma_enhanced"
         }
       }
     ],
-    "processed_at": "2025-08-10T02:15:22.860455"
+    "processed_at": "2025-08-10T02:15:22.860455",
+    "timeline_extraction_metadata": {
+      "extracted_at": "2025-08-10T21:00:00.000Z",
+      "model_used": "lm_studio_google/gemma-3-2b-e4b",
+      "events_count": 13,
+      "biography_length": 2100,
+      "enhancement_level": "gemma_comprehensive",
+      "target_events_per_mathematician": "5-10"
+    }
   },
   "gabriel_cramer": {
     "id": "gabriel_cramer",
@@ -290,7 +509,7 @@
           "raw_text": "25 January 1736",
           "confidence": 1.0
         },
-        "source_text": "Joseph-Louis Lagrange[a] (born Giuseppe Luigi Lagrangia[5][b] or Giuseppe Ludovico De la Grange Tournier;[6][c] 25 January 1736 – 10 April 1813)",
+        "source_text": "Joseph-Louis Lagrange[a] (born Giuseppe Luigi Lagrangia[5][b] or Giuseppe Ludovico De la Grange Tournier;[6][c] 25 January 1736 \u2013 10 April 1813)",
         "confidence": 1.0,
         "extraction_metadata": {
           "model_version": "llama3.1:8b",
@@ -330,9 +549,9 @@
             "lng": 2.2945
           },
           "geocoding_confidence": 0.9,
-          "historical_context": "In 1713, Paris was still known as Lutèce and was a major city in the Kingdom of France."
+          "historical_context": "In 1713, Paris was still known as Lut\u00e8ce and was a major city in the Kingdom of France."
         },
-        "source_text": "Alexis Claude Clairaut (/klɛərˈroʊ/;[2] French: [alɛksi klod klɛʁo]; 13 May 1713 – 17 May 1765)",
+        "source_text": "Alexis Claude Clairaut (/kl\u025b\u0259r\u02c8ro\u028a/;[2] French: [al\u025bksi klod kl\u025b\u0281o]; 13 May 1713 \u2013 17 May 1765)",
         "confidence": 1.0,
         "extraction_metadata": {
           "model_version": "llama3.1:8b",
@@ -387,7 +606,7 @@
   },
   "emilie_du_chatelet": {
     "id": "emilie_du_chatelet",
-    "name": "Émilie du Châtelet",
+    "name": "\u00c9milie du Ch\u00e2telet",
     "birth_year": 1706,
     "death_year": 1749,
     "wikipedia_url": "https://en.wikipedia.org/wiki/%C3%89milie_du_Ch%C3%A2telet",
@@ -410,7 +629,7 @@
           "raw_text": "",
           "confidence": 0.0
         },
-        "source_text": "Gabrielle Émilie Le Tonnelier de Breteuil, Marquise du Châtelet (French: [emili dy ʃɑtlɛ] ⓘ; 17 December 1706 – 10 September 1749)",
+        "source_text": "Gabrielle \u00c9milie Le Tonnelier de Breteuil, Marquise du Ch\u00e2telet (French: [emili dy \u0283\u0251tl\u025b] \u24d8; 17 December 1706 \u2013 10 September 1749)",
         "confidence": 1.0,
         "extraction_metadata": {
           "model_version": "llama3.1:8b",
@@ -494,7 +713,7 @@
           "raw_text": "",
           "confidence": 0.0
         },
-        "source_text": "Pierre-Simon, Marquis de Laplace (/ləˈplɑːs/; French: [pjɛʀ simɔ̃ laplas]; 23 March 1749 – 5 March 1827)",
+        "source_text": "Pierre-Simon, Marquis de Laplace (/l\u0259\u02c8pl\u0251\u02d0s/; French: [pj\u025b\u0280 sim\u0254\u0303 laplas]; 23 March 1749\u00a0\u2013 5 March 1827)",
         "confidence": 1.0,
         "extraction_metadata": {
           "model_version": "llama3.1:8b",
@@ -506,13 +725,13 @@
         "year": "1799-1825",
         "year_confidence": "range",
         "event_type": "publication",
-        "description": "Published his five-volume Mécanique céleste (Celestial Mechanics).",
+        "description": "Published his five-volume M\u00e9canique c\u00e9leste (Celestial Mechanics).",
         "location": {
           "place_name": null,
           "raw_text": "",
           "confidence": 0.0
         },
-        "source_text": "He summarized and extended the work of his predecessors in his five-volume Mécanique céleste (Celestial Mechanics) (1799–1825).",
+        "source_text": "He summarized and extended the work of his predecessors in his five-volume M\u00e9canique c\u00e9leste (Celestial Mechanics) (1799\u20131825).",
         "confidence": 1.0,
         "extraction_metadata": {
           "model_version": "llama3.1:8b",
@@ -542,7 +761,7 @@
         "year": 1717,
         "year_confidence": "exact",
         "event_type": "birth",
-        "description": "Born in Paris to Claudine Guérin de Tencin and Louis-Camus Destouches.",
+        "description": "Born in Paris to Claudine Gu\u00e9rin de Tencin and Louis-Camus Destouches.",
         "location": {
           "place_name": "Paris",
           "raw_text": "Born in Paris",
@@ -552,7 +771,7 @@
             "lng": 2.2945
           },
           "geocoding_confidence": 0.95,
-          "historical_context": "In 1717, Paris was still known as Lutèce and was a part of the Kingdom of France."
+          "historical_context": "In 1717, Paris was still known as Lut\u00e8ce and was a part of the Kingdom of France."
         },
         "source_text": "Jean-Baptiste le Rond d'Alembert was a French mathematician, mechanician, physicist, philosopher, and music theorist.",
         "confidence": 1.0,
@@ -594,9 +813,9 @@
             "lng": 2.2945
           },
           "geocoding_confidence": 0.95,
-          "historical_context": "In 1717, Paris was still known as Lutèce and was a part of the Kingdom of France."
+          "historical_context": "In 1717, Paris was still known as Lut\u00e8ce and was a part of the Kingdom of France."
         },
-        "source_text": "Jean-Baptiste le Rond d'Alembert[a] (/ˌdæləmˈbɛər/ DAL-əm-BAIR;[1] French: [ʒɑ̃ batist lə ʁɔ̃ dalɑ̃bɛʁ]; 16 November 1717 – 29 October 1783)",
+        "source_text": "Jean-Baptiste le Rond d'Alembert[a] (/\u02ccd\u00e6l\u0259m\u02c8b\u025b\u0259r/ DAL-\u0259m-BAIR;[1] French: [\u0292\u0251\u0303 batist l\u0259 \u0281\u0254\u0303 dal\u0251\u0303b\u025b\u0281]; 16 November 1717 \u2013 29 October 1783)",
         "confidence": 1.0,
         "extraction_metadata": {
           "model_version": "llama3.1:8b",

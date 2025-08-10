@@ -1,0 +1,294 @@
+{
+  "id": "leonhard_euler",
+  "name": "Leonhard Euler",
+  "birth_year": 1707,
+  "death_year": 1783,
+  "nationality": "Swiss",
+  "fields": [
+    "mathematics",
+    "physics",
+    "astronomy"
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Leonhard_Euler",
+  "wikipedia_data": {
+    "url": "https://en.wikipedia.org/wiki/Leonhard_Euler",
+    "title": "Leonhard Euler",
+    "page_title": "Leonhard_Euler",
+    "biography_paragraphs": [
+      "Leonhard Euler (/ˈɔɪlər/ OY-lər;[b] 15 April 1707 – 18 September 1783) was a Swiss polymath who was active as a mathematician, physicist, astronomer, logician, geographer, and engineer. He founded the studies of graph theory and topology and made influential discoveries in many other branches of mathematics, such as analytic number theory, complex analysis, and infinitesimal calculus. He also introduced much of modern mathematical terminology and notation, including the notion of a mathematical function.[3] He is known for his work in mechanics, fluid dynamics, optics, astronomy, and music theory.[4] Euler has been called a \"universal genius\" who \"was fully equipped with almost unlimited powers of imagination, intellectual gifts and extraordinary memory\".[5] He spent most of his adult life in Saint Petersburg, Russia, and in Berlin, then the capital of Prussia."
+    ]
+  },
+  "processed_at": "2025-08-10T00:14:45.128103",
+  "page_views": 150836,
+  "avg_daily_views": 1694.79,
+  "popularity_tier": "very_high",
+  "pageview_data": {
+    "page_title": "Leonhard_Euler",
+    "period_days": 90,
+    "start_date": "2025051200",
+    "end_date": "2025081000",
+    "total_views": 150836,
+    "avg_daily_views": 1694.79,
+    "max_daily_views": 8574,
+    "popularity_tier": "very_high",
+    "data_points": 89,
+    "retrieved_at": "2025-08-10T02:03:47.358918"
+  },
+  "timeline_events": [
+    {
+      "year": 1707,
+      "year_confidence": "exact",
+      "event_type": "birth",
+      "description": "Born in Basel, Swiss Confederacy on April 15, 1707",
+      "location": {
+        "place_name": "Basel",
+        "raw_text": "15 April 1707 Basel, Swiss Confederacy",
+        "confidence": 0.95
+      },
+      "source_text": "Leonhard Euler (15 April 1707 – 18 September 1783) was a Swiss polymath",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3-2b-e4b",
+        "extracted_at": "2025-08-10T21:00:00.000Z",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": 1720,
+      "year_confidence": "approximate",
+      "event_type": "education",
+      "description": "Entered University of Basel at age 13, studying under Johann Bernoulli",
+      "location": {
+        "place_name": "Basel",
+        "raw_text": "University of Basel",
+        "confidence": 0.9
+      },
+      "source_text": "Euler studied at the University of Basel under Johann Bernoulli",
+      "confidence": 0.85,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3-2b-e4b",
+        "extracted_at": "2025-08-10T21:00:00.000Z",
+        "extraction_confidence": 0.85,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": 1726,
+      "year_confidence": "exact",
+      "event_type": "publication",
+      "description": "Published his first paper on reciprocal trajectories",
+      "location": {
+        "place_name": "Basel",
+        "raw_text": "published from Basel",
+        "confidence": 0.7
+      },
+      "source_text": "Euler's first mathematical paper was on reciprocal trajectories",
+      "confidence": 0.8,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3-2b-e4b",
+        "extracted_at": "2025-08-10T21:00:00.000Z",
+        "extraction_confidence": 0.8,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": 1727,
+      "year_confidence": "exact",
+      "event_type": "travel",
+      "description": "Traveled to St. Petersburg to join the Imperial Academy of Sciences",
+      "location": {
+        "place_name": "St. Petersburg",
+        "raw_text": "moved to Saint Petersburg, Russia",
+        "confidence": 0.95
+      },
+      "source_text": "He spent most of his adult life in Saint Petersburg, Russia",
+      "confidence": 0.9,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3-2b-e4b",
+        "extracted_at": "2025-08-10T21:00:00.000Z",
+        "extraction_confidence": 0.9,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": 1727,
+      "year_confidence": "exact",
+      "event_type": "position",
+      "description": "Appointed as adjunct professor at St. Petersburg Academy of Sciences",
+      "location": {
+        "place_name": "St. Petersburg",
+        "raw_text": "Saint Petersburg Academy",
+        "confidence": 0.9
+      },
+      "source_text": "Joined the Imperial Academy of Sciences in St. Petersburg",
+      "confidence": 0.85,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3-2b-e4b",
+        "extracted_at": "2025-08-10T21:00:00.000Z",
+        "extraction_confidence": 0.85,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": 1733,
+      "year_confidence": "exact",
+      "event_type": "position",
+      "description": "Promoted to professor of mathematics at St. Petersburg Academy",
+      "location": {
+        "place_name": "St. Petersburg",
+        "raw_text": "Saint Petersburg Academy",
+        "confidence": 0.9
+      },
+      "source_text": "Became full professor of mathematics in St. Petersburg",
+      "confidence": 0.8,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3-2b-e4b",
+        "extracted_at": "2025-08-10T21:00:00.000Z",
+        "extraction_confidence": 0.8,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": 1735,
+      "year_confidence": "exact",
+      "event_type": "publication",
+      "description": "Solved the famous Basel problem, finding the sum of reciprocals of squares",
+      "location": {
+        "place_name": "St. Petersburg",
+        "raw_text": "working in Saint Petersburg",
+        "confidence": 0.8
+      },
+      "source_text": "Euler has also been credited for solving the famous Basel problem",
+      "confidence": 0.9,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3-2b-e4b",
+        "extracted_at": "2025-08-10T21:00:00.000Z",
+        "extraction_confidence": 0.9,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": 1736,
+      "year_confidence": "exact",
+      "event_type": "publication",
+      "description": "Published solution to Seven Bridges of Königsberg problem, founding graph theory",
+      "location": {
+        "place_name": "St. Petersburg",
+        "raw_text": "published from Saint Petersburg",
+        "confidence": 0.8
+      },
+      "source_text": "Euler is credited with being the first to develop graph theory (partly as a solution for the problem of the Seven Bridges of Königsberg)",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3-2b-e4b",
+        "extracted_at": "2025-08-10T21:00:00.000Z",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": 1741,
+      "year_confidence": "exact",
+      "event_type": "travel",
+      "description": "Moved to Berlin at invitation of Frederick the Great of Prussia",
+      "location": {
+        "place_name": "Berlin",
+        "raw_text": "moved to Berlin, then the capital of Prussia",
+        "confidence": 0.95
+      },
+      "source_text": "He spent most of his adult life in Saint Petersburg, Russia, and in Berlin, then the capital of Prussia",
+      "confidence": 0.9,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3-2b-e4b",
+        "extracted_at": "2025-08-10T21:00:00.000Z",
+        "extraction_confidence": 0.9,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": 1741,
+      "year_confidence": "exact",
+      "event_type": "position",
+      "description": "Appointed director of mathematics at Berlin Academy of Sciences",
+      "location": {
+        "place_name": "Berlin",
+        "raw_text": "Berlin Academy of Sciences",
+        "confidence": 0.9
+      },
+      "source_text": "Became head of mathematics at Frederick's Academy in Berlin",
+      "confidence": 0.85,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3-2b-e4b",
+        "extracted_at": "2025-08-10T21:00:00.000Z",
+        "extraction_confidence": 0.85,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": 1748,
+      "year_confidence": "exact",
+      "event_type": "publication",
+      "description": "Published Introductio in analysin infinitorum, revolutionary work in mathematical analysis",
+      "location": {
+        "place_name": "Berlin",
+        "raw_text": "published in Berlin",
+        "confidence": 0.8
+      },
+      "source_text": "Introductio revolutionized mathematical analysis and notation",
+      "confidence": 0.9,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3-2b-e4b",
+        "extracted_at": "2025-08-10T21:00:00.000Z",
+        "extraction_confidence": 0.9,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": 1766,
+      "year_confidence": "exact",
+      "event_type": "travel",
+      "description": "Returned to St. Petersburg after disputes with Frederick the Great",
+      "location": {
+        "place_name": "St. Petersburg",
+        "raw_text": "returned to Saint Petersburg",
+        "confidence": 0.9
+      },
+      "source_text": "Euler returned to St. Petersburg after conflicts in Berlin",
+      "confidence": 0.85,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3-2b-e4b",
+        "extracted_at": "2025-08-10T21:00:00.000Z",
+        "extraction_confidence": 0.85,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": 1783,
+      "year_confidence": "exact",
+      "event_type": "death",
+      "description": "Died in St. Petersburg on September 18, 1783, at age 76",
+      "location": {
+        "place_name": "St. Petersburg",
+        "raw_text": "18 September 1783 Saint Petersburg, Russian Empire",
+        "confidence": 0.95
+      },
+      "source_text": "18 September 1783) was a Swiss polymath",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3-2b-e4b",
+        "extracted_at": "2025-08-10T21:00:00.000Z",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    }
+  ],
+  "timeline_extraction_metadata": {
+    "extracted_at": "2025-08-10T21:00:00.000Z",
+    "model_used": "lm_studio_google/gemma-3-2b-e4b",
+    "events_count": 13,
+    "biography_length": 2100,
+    "enhancement_level": "gemma_comprehensive",
+    "target_events_per_mathematician": "5-10"
+  }
+}

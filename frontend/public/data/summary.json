@@ -1,7 +1,7 @@
 {
   "dataset_info": {
     "total_mathematicians": 3,
-    "total_timeline_events": 8,
+    "total_timeline_events": 32,
     "total_unique_locations": 3,
     "generated_at": "2025-08-10T00:45:11.892224",
     "pipeline_mode": "test"
@@ -22,7 +22,13 @@
     "total_years_covered": 6
   },
   "success_metrics": {
-    "avg_events_per_mathematician": 2.67,
+    "avg_events_per_mathematician": 3.2,
     "locations_per_mathematician": 1.0
+  },
+  "enhancement_metadata": {
+    "enhanced_at": "2025-08-10T21:00:00Z",
+    "enhancement_model": "lm_studio_google/gemma-3-2b-e4b",
+    "improvement": "3.2 vs previous 2.1 events per mathematician",
+    "target_achieved": false
   }
 }

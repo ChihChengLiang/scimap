@@ -27,6 +27,26 @@
   transform: scale(1.1);
 }
 
+.enhanced-mathematician-marker {
+  transition: transform 0.2s ease;
+  cursor: pointer;
+}
+
+.enhanced-mathematician-marker:hover {
+  transform: scale(1.15);
+  z-index: 1000;
+}
+
+.political-marker {
+  transition: transform 0.2s ease, opacity 0.2s ease;
+  cursor: pointer;
+}
+
+.political-marker:hover {
+  transform: scale(1.1);
+  opacity: 1 !important;
+}
+
 /* Custom zoom control styling */
 .leaflet-control-zoom a {
   background-color: rgba(245, 245, 220, 0.9) !important;

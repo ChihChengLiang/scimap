@@ -24,27 +24,33 @@ import {
   MenuBook as BookIcon,
   Flight as FlightIcon,
   Person as PersonIcon,
-  Timeline as TimelineIcon
+  Timeline as TimelineIcon,
+  Group as GroupIcon,
+  EmojiEvents as AwardIcon
 } from '@mui/icons-material';
 import { MathematicianPanelProps, TimelineEvent } from '../../types';
 
-const EVENT_ICONS = {
+const EVENT_ICONS: Record<string, any> = {
   birth: PersonIcon,
   education: SchoolIcon,
   position: WorkIcon,
   publication: BookIcon,
   travel: FlightIcon,
   death: PersonIcon,
+  collaboration: GroupIcon,
+  award: AwardIcon,
   other: TimelineIcon
 };
 
-const EVENT_COLORS = {
+const EVENT_COLORS: Record<string, string> = {
   birth: '#4caf50',
   education: '#2196f3', 
   position: '#ff9800',
   publication: '#9c27b0',
   travel: '#00bcd4',
   death: '#f44336',
+  collaboration: '#e91e63',
+  award: '#ffc107',
   other: '#607d8b'
 };
 

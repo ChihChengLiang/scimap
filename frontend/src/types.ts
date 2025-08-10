@@ -3,7 +3,7 @@
 export interface TimelineEvent {
   year: number | string;
   year_confidence: 'exact' | 'approximate' | 'range';
-  event_type: 'birth' | 'education' | 'position' | 'publication' | 'travel' | 'death' | 'other';
+  event_type: 'birth' | 'education' | 'position' | 'publication' | 'travel' | 'death' | 'collaboration' | 'award' | 'other';
   description: string;
   location: {
     place_name: string | null;
