@@ -13,13 +13,18 @@ from scrapers.wikipedia_scraper import WikipediaScraper
 from scrapers.pageview_scraper import PageViewScraper
 from processors.llm_extractor import LLMTimelineExtractor
 from processors.geocoder import HistoricalGeocoder
-from config.mathematicians import TIER_1_MATHEMATICIANS, ALL_MATHEMATICIANS
+from config.mathematicians import TIER_1_MATHEMATICIANS, ALL_MATHEMATICIANS, REMAINING_MATHEMATICIANS
 
 class SciMapPipeline:
-    def __init__(self, test_mode: bool = True):
+    def __init__(self, test_mode: bool = True, remaining_only: bool = False):
         """Initialize the complete data pipeline"""
         self.test_mode = test_mode
-        self.mathematicians = TIER_1_MATHEMATICIANS if test_mode else ALL_MATHEMATICIANS
+        self.remaining_only = remaining_only
+        
+        if remaining_only:
+            self.mathematicians = REMAINING_MATHEMATICIANS
+        else:
+            self.mathematicians = TIER_1_MATHEMATICIANS if test_mode else ALL_MATHEMATICIANS
         
         # Initialize processors
         self.wikipedia_scraper = WikipediaScraper(delay=1.5)
@@ -285,12 +290,13 @@ if __name__ == "__main__":
     
     parser = argparse.ArgumentParser(description='SciMap Data Pipeline')
     parser.add_argument('--full', action='store_true', help='Run on all mathematicians (default: Tier 1 only)')
+    parser.add_argument('--remaining', action='store_true', help='Process only remaining unprocessed mathematicians')
     parser.add_argument('--step', type=int, help='Run specific step only (1-5)')
     
     args = parser.parse_args()
     
     # Initialize pipeline
-    pipeline = SciMapPipeline(test_mode=not args.full)
+    pipeline = SciMapPipeline(test_mode=not args.full, remaining_only=args.remaining)
     
     if args.step:
         # Run specific step

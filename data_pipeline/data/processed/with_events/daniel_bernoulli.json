@@ -44,7 +44,7 @@
     "max_daily_views": 356,
     "popularity_tier": "medium",
     "data_points": 89,
-    "retrieved_at": "2025-08-10T00:14:53.277321"
+    "retrieved_at": "2025-08-10T02:03:49.416189"
   },
   "timeline_events": [
     {
@@ -54,36 +54,22 @@
       "description": "Born in Groningen, Netherlands",
       "location": {
         "place_name": "Groningen",
-        "raw_text": "born in Groningen, in the Netherlands",
+        "raw_text": "Groningen, in the Netherlands",
         "confidence": 1.0
       },
       "source_text": "Daniel Bernoulli was born in Groningen, in the Netherlands...",
       "confidence": 1.0,
       "extraction_metadata": {
         "model_version": "llama3.1:8b",
-        "extracted_at": "2025-08-10T00:17:48.710468",
-        "extraction_confidence": 1.0
-      }
-    },
-    {
-      "year": 1782,
-      "year_confidence": "exact",
-      "event_type": "death",
-      "description": "Died on March 27th",
-      "location": null,
-      "source_text": "...Daniel Bernoulli FRS (/bɜːrˈnuːli/ bur-NOO-lee; Swiss Standard German: [ˈdaːni̯eːl bɛrˈnʊli];[1] 8 February [O.S. 29 January] 1700 – 27 March 1782)",
-      "confidence": 1.0,
-      "extraction_metadata": {
-        "model_version": "llama3.1:8b",
-        "extracted_at": "2025-08-10T00:17:48.711170",
+        "extracted_at": "2025-08-10T02:11:35.254017",
         "extraction_confidence": 1.0
       }
     }
   ],
   "timeline_extraction_metadata": {
-    "extracted_at": "2025-08-10T00:17:48.711247",
+    "extracted_at": "2025-08-10T02:11:35.254092",
     "model_used": "llama3.1:8b",
-    "events_count": 2,
-    "biography_length": 1425
+    "events_count": 1,
+    "biography_length": 1066
   }
 }

@@ -42,7 +42,7 @@
     "max_daily_views": 8574,
     "popularity_tier": "very_high",
     "data_points": 89,
-    "retrieved_at": "2025-08-10T00:14:51.847031"
+    "retrieved_at": "2025-08-10T02:03:47.358918"
   },
   "timeline_events": [
     {
@@ -59,62 +59,8 @@
       "confidence": 1.0,
       "extraction_metadata": {
         "model_version": "llama3.1:8b",
-        "extracted_at": "2025-08-10T00:42:43.093796",
+        "extracted_at": "2025-08-10T02:07:19.343752",
         "extraction_confidence": 1.0
-      }
-    },
-    {
-      "year": "1700-1710",
-      "year_confidence": "range",
-      "event_type": "education",
-      "description": "No specific education details mentioned for this time period",
-      "location": {
-        "place_name": null,
-        "raw_text": "",
-        "confidence": 0.0
-      },
-      "source_text": "He spent most of his adult life in Saint Petersburg, Russia, and in Berlin, then the capital of Prussia.",
-      "confidence": 0.5,
-      "extraction_metadata": {
-        "model_version": "llama3.1:8b",
-        "extracted_at": "2025-08-10T00:42:43.094297",
-        "extraction_confidence": 0.5
-      }
-    },
-    {
-      "year": "1727-1744",
-      "year_confidence": "range",
-      "event_type": "position",
-      "description": "Worked at Saint Petersburg Academy of Sciences",
-      "location": {
-        "place_name": "Saint Petersburg, Russia",
-        "raw_text": "Saint Petersburg, Russia",
-        "confidence": 1.0
-      },
-      "source_text": "He spent most of his adult life in Saint Petersburg, Russia, and in Berlin, then the capital of Prussia.",
-      "confidence": 0.8,
-      "extraction_metadata": {
-        "model_version": "llama3.1:8b",
-        "extracted_at": "2025-08-10T00:42:43.094312",
-        "extraction_confidence": 0.8
-      }
-    },
-    {
-      "year": "1744-1766",
-      "year_confidence": "range",
-      "event_type": "position",
-      "description": "Worked at Imperial Academy of Sciences and Arts in Berlin",
-      "location": {
-        "place_name": "Berlin, Prussia",
-        "raw_text": "in Berlin, then the capital of Prussia",
-        "confidence": 0.9
-      },
-      "source_text": "He spent most of his adult life in Saint Petersburg, Russia, and in Berlin, then the capital of Prussia.",
-      "confidence": 0.8,
-      "extraction_metadata": {
-        "model_version": "llama3.1:8b",
-        "extracted_at": "2025-08-10T00:42:43.094318",
-        "extraction_confidence": 0.8
       }
     },
     {
@@ -131,15 +77,15 @@
       "confidence": 1.0,
       "extraction_metadata": {
         "model_version": "llama3.1:8b",
-        "extracted_at": "2025-08-10T00:42:43.094323",
+        "extracted_at": "2025-08-10T02:07:19.343937",
         "extraction_confidence": 1.0
       }
     }
   ],
   "timeline_extraction_metadata": {
-    "extracted_at": "2025-08-10T00:42:43.094369",
+    "extracted_at": "2025-08-10T02:07:19.344010",
     "model_used": "llama3.1:8b",
-    "events_count": 5,
+    "events_count": 2,
     "biography_length": 1503
   }
 }

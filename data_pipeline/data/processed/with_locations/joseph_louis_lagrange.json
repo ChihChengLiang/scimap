@@ -44,7 +44,7 @@
     "max_daily_views": 481,
     "popularity_tier": "medium",
     "data_points": 89,
-    "retrieved_at": "2025-08-10T00:14:52.551544"
+    "retrieved_at": "2025-08-10T02:03:48.391250"
   },
   "timeline_events": [
     {
@@ -54,27 +54,27 @@
       "description": "Born in Italy",
       "location": {
         "place_name": null,
-        "raw_text": "Italy",
+        "raw_text": "25 January 1736",
         "confidence": 1.0
       },
-      "source_text": "born Giuseppe Luigi Lagrangia[5][b] or Giuseppe Ludovico De la Grange Tournier;[6][c]",
+      "source_text": "Joseph-Louis Lagrange[a] (born Giuseppe Luigi Lagrangia[5][b] or Giuseppe Ludovico De la Grange Tournier;[6][c] 25 January 1736 – 10 April 1813)",
       "confidence": 1.0,
       "extraction_metadata": {
         "model_version": "llama3.1:8b",
-        "extracted_at": "2025-08-10T00:43:31.327708",
+        "extracted_at": "2025-08-10T02:09:42.517547",
         "extraction_confidence": 1.0
       }
     }
   ],
   "timeline_extraction_metadata": {
-    "extracted_at": "2025-08-10T00:43:31.327789",
+    "extracted_at": "2025-08-10T02:09:42.517755",
     "model_used": "llama3.1:8b",
     "events_count": 1,
     "biography_length": 1070
   },
   "location_table": {},
   "geocoding_metadata": {
-    "geocoded_at": "2025-08-10T00:44:38.910221",
+    "geocoded_at": "2025-08-10T02:14:42.226066",
     "locations_processed": 0,
     "model_used": "llama3.1:8b"
   }

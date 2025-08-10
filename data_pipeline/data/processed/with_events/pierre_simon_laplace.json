@@ -43,11 +43,11 @@
     "max_daily_views": 666,
     "popularity_tier": "medium",
     "data_points": 89,
-    "retrieved_at": "2025-08-10T00:14:53.995070"
+    "retrieved_at": "2025-08-10T02:03:50.440374"
   },
   "timeline_events": [
     {
-      "year": "1749",
+      "year": 1749,
       "year_confidence": "exact",
       "event_type": "birth",
       "description": "Pierre-Simon Laplace was born on March 23rd.",
@@ -56,37 +56,37 @@
         "raw_text": "",
         "confidence": 0.0
       },
-      "source_text": "Pierre-Simon, Marquis de Laplace (/ləˈplɑːs/; French: [pjɛʁ simɔ̃ laplas]; 23 March 1749 – 5 March 1827)",
+      "source_text": "Pierre-Simon, Marquis de Laplace (/ləˈplɑːs/; French: [pjɛʀ simɔ̃ laplas]; 23 March 1749 – 5 March 1827)",
       "confidence": 1.0,
       "extraction_metadata": {
         "model_version": "llama3.1:8b",
-        "extracted_at": "2025-08-10T00:18:18.886967",
+        "extracted_at": "2025-08-10T02:13:20.117050",
         "extraction_confidence": 1.0
       }
     },
     {
-      "year": "1785",
-      "year_confidence": "exact",
-      "event_type": "position",
-      "description": "Examined Napoleon at the École Militaire in Paris.",
+      "year": "1799-1825",
+      "year_confidence": "range",
+      "event_type": "publication",
+      "description": "Published his five-volume Mécanique céleste (Celestial Mechanics).",
       "location": {
-        "place_name": "Paris",
-        "raw_text": "École Militaire in Paris",
-        "confidence": 1.0
+        "place_name": null,
+        "raw_text": "",
+        "confidence": 0.0
       },
-      "source_text": "He was Napoleon's examiner when Napoleon graduated from the École Militaire in Paris in 1785.[7]",
+      "source_text": "He summarized and extended the work of his predecessors in his five-volume Mécanique céleste (Celestial Mechanics) (1799–1825).",
       "confidence": 1.0,
       "extraction_metadata": {
         "model_version": "llama3.1:8b",
-        "extracted_at": "2025-08-10T00:18:18.886986",
+        "extracted_at": "2025-08-10T02:13:20.117104",
         "extraction_confidence": 1.0
       }
     }
   ],
   "timeline_extraction_metadata": {
-    "extracted_at": "2025-08-10T00:18:18.887025",
+    "extracted_at": "2025-08-10T02:13:20.117165",
     "model_used": "llama3.1:8b",
     "events_count": 2,
-    "biography_length": 1886
+    "biography_length": 1413
   }
 }

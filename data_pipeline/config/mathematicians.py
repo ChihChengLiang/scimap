@@ -87,3 +87,13 @@ TIER_2_MATHEMATICIANS = {
 }
 
 ALL_MATHEMATICIANS = {**TIER_1_MATHEMATICIANS, **TIER_2_MATHEMATICIANS}
+
+# Only unprocessed mathematicians (for incremental run)
+REMAINING_MATHEMATICIANS = {
+    "jean_le_rond_dalembert": TIER_2_MATHEMATICIANS["jean_le_rond_dalembert"],
+    "alexis_clairaut": TIER_2_MATHEMATICIANS["alexis_clairaut"], 
+    "gabriel_cramer": TIER_2_MATHEMATICIANS["gabriel_cramer"],
+    "colin_maclaurin": TIER_2_MATHEMATICIANS["colin_maclaurin"],
+    "maria_gaetana_agnesi": TIER_2_MATHEMATICIANS["maria_gaetana_agnesi"],
+    "emilie_du_chatelet": TIER_2_MATHEMATICIANS["emilie_du_chatelet"]
+}

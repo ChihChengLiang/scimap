@@ -45,5 +45,61 @@
     "popularity_tier": "medium",
     "data_points": 89,
     "retrieved_at": "2025-08-10T02:03:49.416189"
+  },
+  "timeline_events": [
+    {
+      "year": 1700,
+      "year_confidence": "exact",
+      "event_type": "birth",
+      "description": "Born in Groningen, Netherlands",
+      "location": {
+        "place_name": "Groningen",
+        "raw_text": "Groningen, in the Netherlands",
+        "confidence": 1.0,
+        "coordinates": {
+          "lat": 53.2167,
+          "lng": 6.5667
+        },
+        "geocoding_confidence": 0.9,
+        "historical_context": "In 1700, Groningen was a city in the Dutch Republic, located in the province of Groningen and Ommelanden."
+      },
+      "source_text": "Daniel Bernoulli was born in Groningen, in the Netherlands...",
+      "confidence": 1.0,
+      "extraction_metadata": {
+        "model_version": "llama3.1:8b",
+        "extracted_at": "2025-08-10T02:11:35.254017",
+        "extraction_confidence": 1.0
+      }
+    }
+  ],
+  "timeline_extraction_metadata": {
+    "extracted_at": "2025-08-10T02:11:35.254092",
+    "model_used": "llama3.1:8b",
+    "events_count": 1,
+    "biography_length": 1066
+  },
+  "location_table": {
+    "Groningen": {
+      "place_name": "Groningen",
+      "coordinates": {
+        "lat": 53.2167,
+        "lng": 6.5667
+      },
+      "confidence": 0.9,
+      "historical_context": "In 1700, Groningen was a city in the Dutch Republic, located in the province of Groningen and Ommelanden.",
+      "alternative_names": [
+        "Groningue",
+        "Gröningen"
+      ],
+      "modern_equivalent": "Groningen",
+      "geocoded_at": "2025-08-10T02:15:02.390137",
+      "geocoding_method": "llm",
+      "model_version": "llama3.1:8b"
+    }
+  },
+  "geocoding_metadata": {
+    "geocoded_at": "2025-08-10T02:15:02.895824",
+    "locations_processed": 1,
+    "model_used": "llama3.1:8b"
   }
 }
