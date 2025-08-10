@@ -1,0 +1,27 @@
+{
+  "id": "johann_ii_bernoulli",
+  "name": "Johann II Bernoulli",
+  "birth_year": 1710,
+  "death_year": 1790,
+  "nationality": "Swiss",
+  "fields": [
+    "mathematics"
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Johann_II_Bernoulli",
+  "wikipedia_data": {
+    "url": "https://en.wikipedia.org/wiki/Johann_II_Bernoulli",
+    "title": "Johann II Bernoulli",
+    "page_title": "Johann_II_Bernoulli",
+    "biography_paragraphs": [
+      "Johann II Bernoulli (also known as Jean; 18 May 1710, Basel – 17 July 1790, Basel) was the youngest of the three sons of the Swiss mathematician Johann Bernoulli.",
+      "He studied law and mathematics, and, after travelling in France, was for five years professor of eloquence in the university of his native city. In 1736 he was awarded the prize of the French Academy for his suggestive studies of aether.[1][2] On the death of his father he succeeded him as professor of mathematics in the University of Basel. He was thrice a successful competitor for the prizes of the Academy of Sciences of Paris. His prize subjects were the capstan, the propagation of light, and the magnet. He enjoyed the friendship of P. L. M. de Maupertuis, who died under his roof while on his way to Berlin. He himself died in 1790. His two sons, Johann and Jakob, are the last noted mathematicians of the Bernoulli family.",
+      "Johann II Bernoulli was born on 18 May 1710 in Basel, the youngest son of Johann Bernoulli. He received private tuition from his father before reading jurisprudence at the University of Basel, graduating in 1729, and then undertook study tours in France and Switzerland to deepen his mathematical education.[3]",
+      "In 1736 he won the Paris Academy prize for an essay on the propagation of light through an elastic aether, anticipating aspects of later wave theory. Further prizes followed in 1737 for optimising the design of ship anchors; in 1741 for the mechanics of capstans; and in 1743 for investigations into magnetic phenomena.[3]",
+      "He was appointed professor of eloquence at Basel in 1743 and, on his father's death in 1748, succeeded him as professor of mathematics at the University of Basel. Although he published relatively little, Bernoulli maintained an extensive correspondence (around 900 surviving letters) with leading Enlightenment figures, including Émilie du Châtelet, Voltaire, and Pierre Louis Maupertuis, reflecting his high standing among contemporary scholars.[3]"
+    ],
+    "infobox": {},
+    "scraped_at": "2025-08-10T23:39:55.786374",
+    "raw_html_length": 112298
+  },
+  "processed_at": "2025-08-10T23:39:57.291892"
+}

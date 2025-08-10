@@ -1,0 +1,23 @@
+  SELECT ?person ?personLabel ?birthDate ?deathDate ?birthPlace ?birthPlaceLabel 
+           ?birthCoord ?nationality ?nationalityLabel ?image ?wikipediaArticle
+    WHERE {
+      ?person wdt:P31 wd:Q5 .
+      ?person wdt:P106/wdt:P279* wd:Q170790 .
+      ?person wdt:P569 ?birthDate .
+      ?person wdt:P570 ?deathDate .
+      
+      FILTER(YEAR(?birthDate) >= 1650 && YEAR(?birthDate) <= 1750)
+      
+      OPTIONAL { ?person wdt:P19 ?birthPlace . }
+      OPTIONAL { ?birthPlace wdt:P625 ?birthCoord . }
+      OPTIONAL { ?person wdt:P27 ?nationality . }
+      OPTIONAL { ?person wdt:P18 ?image . }
+      
+      OPTIONAL {
+        ?wikipediaArticle schema:about ?person .
+        ?wikipediaArticle schema:isPartOf <https://en.wikipedia.org/> .
+      }
+      
+      SERVICE wikibase:label { bd:serviceParam wikibase:language "en". }
+    }
+    ORDER BY ?birthDate

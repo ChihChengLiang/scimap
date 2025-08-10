@@ -1,0 +1,32 @@
+{
+  "id": "maria_gaetana_agnesi",
+  "name": "Maria Gaetana Agnesi",
+  "birth_year": 1718,
+  "death_year": 1799,
+  "nationality": "Italian",
+  "fields": [
+    "mathematics"
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Maria_Gaetana_Agnesi",
+  "wikipedia_data": {
+    "url": "https://en.wikipedia.org/wiki/Maria_Gaetana_Agnesi",
+    "title": "Maria Gaetana Agnesi",
+    "page_title": "Maria_Gaetana_Agnesi",
+    "biography_paragraphs": [
+      "Maria Gaetana Agnesi[a] (16 May  1718 – 9 January 1799) was an Italian mathematician, philosopher, theologian, and humanitarian. She was the first woman to write a mathematics handbook, the first woman appointed as a mathematics professor at a university and the second woman appointed as a professor overall.[2]",
+      "She is credited with writing the first book discussing both differential and integral calculus and was a member of the faculty at the University of Bologna, although she never served.",
+      "She devoted the last four decades of her life to studying theology (especially patristics) and to charitable work and serving the poor. She was a devout Catholic and wrote extensively on the marriage between intellectual pursuit and mystical contemplation, most notably in her essay Il cielo mistico (The Mystic Heaven). She saw the rational contemplation of God as a complement to prayer and contemplation of the life, death and resurrection of Jesus Christ.[3]",
+      "Maria Teresa Agnesi Pinottini, harpsichordist and composer, was her sister.",
+      "Maria Gaetana Agnesi was born in Milan, to a wealthy and literate family.[4][5][6] Her father Pietro Agnesi, a wealthy silk merchant,[7] wanted to elevate his family into the Milanese nobility. In order to achieve his goal, he married Anna Fortunato Brivio of the Brivius de Brokles family in 1717. Her mother's death provided her the excuse to retire from public life. She took over the management of the household. She was one of 21 children.[8]"
+    ],
+    "infobox": {
+      "birth": "(1718-05-16)16 May 1718Milan, Duchy of Milan",
+      "death": "9 January 1799(1799-01-09) (aged 80)Milan, Cisalpine Republic",
+      "nationality": "Italian",
+      "fields": "Mathematics"
+    },
+    "scraped_at": "2025-08-10T23:40:01.629061",
+    "raw_html_length": 198748
+  },
+  "processed_at": "2025-08-10T23:40:03.134351"
+}

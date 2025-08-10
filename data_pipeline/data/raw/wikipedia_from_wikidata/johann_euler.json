@@ -1,0 +1,30 @@
+{
+  "id": "johann_euler",
+  "name": "Johann Euler",
+  "birth_year": 1734,
+  "death_year": 1800,
+  "nationality": "Swiss",
+  "fields": [
+    "mathematics"
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Johann_Euler",
+  "wikipedia_data": {
+    "url": "https://en.wikipedia.org/wiki/Johann_Euler",
+    "title": "Johann Euler",
+    "page_title": "Johann_Euler",
+    "biography_paragraphs": [
+      "Johann Albrecht Euler (27 November 1734[1] – 17 September 1800) was a Swiss-Russian astronomer and mathematician who made contributions to electrostatics. The eldest son of the renowned mathematician Leonhard Euler, he served as professor of physics at the Imperial Academy of Sciences in Saint Petersburg and later as secretary of conferences overseeing the Academy's correspondence. His work Disquisitio de Causa Physica Electricitatis represented one of the earliest attempts to mathematize electrical theory through a mechanical framework based on compressible, elastic aether.",
+      "Also known as Johann Albert Euler or John-Albert Euler, Johann Albrecht Euler was the first child born to the great Swiss mathematician Leonhard Euler (1707–1783), who had emigrated (for the first time) to Saint-Petersburg on 17 May 1727. His mother was Katharina Gsell (1707–1773) whose maternal grandmother was the famous scientific illustrator Maria Sibylla Merian (1647–1717). Katharina married Leonhard Euler on 7 January 1734, and Johann Albert would be the eldest of their 13 children (only 5 of whom survived childhood).[1]",
+      "He spent his youth in Berlin from 1741 to 1766, after which he returned to Russia and was appointed Professor of Physics at the Imperial Academy of Sciences in Saint Petersburg in 1766. From 1769, he served as secretary of conferences, overseeing the Academy’s correspondence.[2]",
+      "In 1754, Euler composed Disquisitio de Causa Physica Electricitatis (published 1757), in which he advanced a mechanical theory of electricity based on a compressible, elastic aether. Drawing on methods from hydrodynamics and differential calculus, he formulated equations linking the density and velocity of ether flowing through the pores of charged bodies, thereby providing a quantitative account of attraction and repulsion phenomena. Euler interpreted electrification as the expulsion of ether from a body's pores, with positive and negative states determined by the relative elasticity of ether inside the body compared to the surrounding medium. His approach represents one of the earliest attempts to mathematise electrical theory prior to the development of the action at a distance framework later formalised by Coulomb.[2]",
+      "Although Euler's mechanistic and mathematical treatment of electricity was innovative, it attracted little contemporary attention—partly because it did not address the emerging phenomena of the Leyden jar and because he was based outside the principal research centres in London and Paris. Nevertheless, his work stands as a pioneering example of applying rigorous mathematical analysis to electrostatics and influenced subsequent debates on the nature of physical interactions in the late eighteenth century.[2]"
+    ],
+    "infobox": {
+      "birth": "(1734-11-27)27 November 1734St. Petersburg, Russian Empire",
+      "death": "17 September 1800(1800-09-17) (aged 65)St. Petersburg, Russian Empire"
+    },
+    "scraped_at": "2025-08-10T23:40:05.237502",
+    "raw_html_length": 94087
+  },
+  "processed_at": "2025-08-10T23:40:06.742733"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "alexis_clairaut",
+  "name": "Alexis Clairaut",
+  "birth_year": 1713,
+  "death_year": 1765,
+  "nationality": "French",
+  "fields": [
+    "mathematics"
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Alexis_Clairaut",
+  "wikipedia_data": {
+    "url": "https://en.wikipedia.org/wiki/Alexis_Clairaut",
+    "title": "Alexis Clairaut",
+    "page_title": "Alexis_Clairaut",
+    "biography_paragraphs": [
+      "Alexis Claude Clairaut (/klɛərˈroʊ/;[2] French: [alɛksi klod klɛʁo]; 13 May 1713 – 17 May 1765) was a French mathematician, astronomer, and geophysicist. He was a prominent Newtonian whose work helped to establish the validity of the principles and results that Sir Isaac Newton had outlined in the Principia of 1687. Clairaut was one of the key figures in the expedition to Lapland that helped to confirm Newton's theory for the figure of the Earth. In that context, Clairaut worked out a mathematical result now known as \"Clairaut's theorem\". He also tackled the gravitational three-body problem, being the first to obtain a satisfactory result for the apsidal precession of the Moon's orbit. In mathematics he is also credited with Clairaut's equation and Clairaut's relation.",
+      "Clairaut was born in Paris, France, to Jean-Baptiste and Catherine Petit Clairaut. The couple had 20 children, however only a few of them survived childbirth.[3] His father taught mathematics. Alexis was a prodigy – at the age of ten he began studying calculus. At the age of twelve he wrote a memoir on four geometrical curves and under his father's tutelage he made such rapid progress in the subject that in his thirteenth year he read before the Académie française an account of the properties of four curves which he had discovered.[4] When only sixteen he finished a treatise on Tortuous Curves, Recherches sur les courbes a double courbure, which, on its publication in 1731, procured his admission into the Royal Academy of Sciences, although he was below the legal age as he was only eighteen. He gave a path-breaking formulae called the distance formulae which helps to find out the distance between any 2 points on the cartesian or XY plane.",
+      "Clairaut was unmarried, and known for leading an active social life.[3] His growing popularity in society hindered his scientific work: \"He was focused,\" says Bossut, \"with dining and with evenings, coupled with a lively taste for women, and seeking to make his pleasures into his day to day work, he lost rest, health, and finally life at the age of fifty-two.\" Though he led a fulfilling social life, he was very prominent in the advancement of learning in young mathematicians.",
+      "He was elected a Fellow of the Royal Society of London on 27 October 1737.[5]",
+      "In 1736, together with Pierre Louis Maupertuis, he took part in the expedition to Lapland, which was undertaken for the purpose of estimating a degree of the meridian arc.[6] The goal of the excursion was to geometrically calculate the shape of the Earth, which Sir Isaac Newton theorised in his book Principia was an ellipsoid shape. They sought to prove if Newton's theory and calculations were correct or not. Before the expedition team returned to Paris, Clairaut sent his calculations to the Royal Society of London. The writing was later published by the society in the 1736–37 volume of Philosophical Transactions.[7] Initially, Clairaut disagrees with Newton's theory on the shape of the Earth. In the article, he outlines several key problems that effectively disprove Newton's calculations, and provides some solutions to the complications. The issues addressed include calculating gravitational attraction, the rotation of an ellipsoid on its axis, and the difference in density of an ellipsoid on its axes.[7] At the end of his letter, Clairaut writes that:"
+    ],
+    "infobox": {
+      "birth": "(1713-05-13)13 May 1713[1]Paris, France",
+      "death": "17 May 1765(1765-05-17) (aged 52)Paris, France",
+      "nationality": "French",
+      "fields": "Mathematics"
+    },
+    "scraped_at": "2025-08-10T23:39:57.455551",
+    "raw_html_length": 144011
+  },
+  "processed_at": "2025-08-10T23:39:58.960780"
+}

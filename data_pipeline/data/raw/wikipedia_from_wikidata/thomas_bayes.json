@@ -1,0 +1,31 @@
+{
+  "id": "thomas_bayes",
+  "name": "Thomas Bayes",
+  "birth_year": 1702,
+  "death_year": 1761,
+  "nationality": "English",
+  "fields": [
+    "mathematics"
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Thomas_Bayes",
+  "wikipedia_data": {
+    "url": "https://en.wikipedia.org/wiki/Thomas_Bayes",
+    "title": "Thomas Bayes",
+    "page_title": "Thomas_Bayes",
+    "biography_paragraphs": [
+      "Thomas Bayes (/beɪz/ ⓘ BAYZ; c. 1701 –  7 April 1761[2][4][note 1]) was an English statistician, philosopher and Presbyterian minister who is known for formulating a specific case of the theorem that bears his name: Bayes' theorem.",
+      "Bayes never published what would become his most famous accomplishment; his notes were edited and published posthumously by Richard Price.[5]",
+      "Thomas Bayes was the son of London Presbyterian minister Joshua Bayes,[6] and was possibly born in Hertfordshire.[7] He came from a prominent nonconformist family from Sheffield. In 1719, he enrolled at the University of Edinburgh to study logic and theology. On his return around 1722, he assisted his father at the latter's chapel in London before moving to Tunbridge Wells, Kent, around 1734. There he was minister of the Mount Sion Chapel, until 1752.[8]",
+      "He is known to have published two works in his lifetime, one theological and one mathematical:",
+      "Bayes was elected as a Fellow of the Royal Society in 1742. His nomination letter was signed by Philip Stanhope, Martin Folkes, James Burrow, Cromwell Mortimer, and John Eames. It is speculated that he was accepted by the society on the strength of the Introduction to the Doctrine of Fluxions, as he is not known to have published any other mathematical work during his lifetime.[9]"
+    ],
+    "infobox": {
+      "birth": "c. 1701London, England",
+      "death": "7 April 1761(1761-04-07) (aged 59)Royal Tunbridge Wells, England",
+      "fields": "Probability"
+    },
+    "scraped_at": "2025-08-10T23:39:50.272352",
+    "raw_html_length": 148541
+  },
+  "processed_at": "2025-08-10T23:39:51.777407"
+}

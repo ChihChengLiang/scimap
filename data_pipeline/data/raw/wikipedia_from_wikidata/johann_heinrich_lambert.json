@@ -1,0 +1,31 @@
+{
+  "id": "johann_heinrich_lambert",
+  "name": "Johann Heinrich Lambert",
+  "birth_year": 1728,
+  "death_year": 1777,
+  "nationality": "German",
+  "fields": [
+    "mathematics"
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Johann_Heinrich_Lambert",
+  "wikipedia_data": {
+    "url": "https://en.wikipedia.org/wiki/Johann_Heinrich_Lambert",
+    "title": "Johann Heinrich Lambert",
+    "page_title": "Johann_Heinrich_Lambert",
+    "biography_paragraphs": [
+      "Johann Heinrich Lambert (German: [ˈlambɛɐ̯t]; French: Jean-Henri Lambert; 26 or 28 August 1728 – 25 September 1777) was a polymath from the Republic of Mulhouse, at that time allied to the Swiss Confederacy, who made important contributions to the subjects of mathematics, physics (particularly optics), philosophy, astronomy and map projections.",
+      "Lambert was born in 1728 into a Huguenot family in the city of Mulhouse[1], nowadays in  Alsace, France, at that time a city-state allied to the Swiss Confederacy.[2]  Some sources give 26 August as his birth date and others 28 August.[3][4][1]  Leaving school at 12, he continued to study in his free time while undertaking a series of jobs.  These included assistant to his father (a tailor), a clerk at a nearby iron works, a private tutor, secretary to the editor of Basler Zeitung and, at the age of 20, private tutor to the sons of Count Salis in Chur.  Travelling Europe with his charges (1756–1758) allowed him to meet established mathematicians in the German states, The Netherlands, France and the Italian states. On his return to Chur he published his first books (on optics and cosmology) and began to seek an academic post. After a few short posts he was rewarded (1763) by an invitation to a position at the Prussian Academy of Sciences in Berlin, where he gained the sponsorship of Frederick II of Prussia, and became a friend of Leonhard Euler. In this stimulating and financially stable environment, he worked prodigiously until his death in 1777.[1]",
+      "Lambert was the first to systematize and popularize the use of hyperbolic functions into trigonometry. He credits the previous works of Vincenzo Riccati and Daviet de Foncenex. Lambert developed exponential expressions and identities and introduced the modern notation.[5] Lambert also made conjectures about non-Euclidean space.",
+      "Lambert is credited with the first proof that π is irrational using a generalized continued fraction for the function tan x.[6] Euler believed the conjecture but could not prove that π was irrational, and it is speculated that Aryabhata also believed this, in 500 CE.[7] Lambert also devised theorems about conic sections that made the calculation of the orbits of comets simpler.",
+      "Lambert devised a formula for the relationship between the angles and the area of hyperbolic triangles. These are triangles drawn on a concave surface, as on a saddle, instead of the usual flat Euclidean surface. Lambert showed that the angles added up to less than π (radians), or 180°. The defect (amount of shortfall) increases with area. The larger the triangle's area, the smaller the sum of the angles and hence the larger the defect C△ = π — (α + β + γ). That is, the area of a hyperbolic triangle (multiplied by a constant C) is equal to π (radians), or 180°, minus the sum of the angles α, β, and γ. Here C denotes, in the present sense, the negative of the curvature of the surface (taking the negative is necessary as the curvature of a saddle surface is by definition negative). As the triangle gets larger or smaller, the angles change in a way that forbids the existence of similar hyperbolic triangles, as only triangles that have the same angles will have the same area. Hence, instead of the area of the triangle's being expressed in terms of the lengths of its sides, as in Euclidean geometry, the area of Lambert's hyperbolic triangle can be expressed in terms of its angles."
+    ],
+    "infobox": {
+      "birth": "26 or 28 August 1728Republic of Mulhouse (city-state allied to the Swiss Confederacy; currently Alsace, France)",
+      "death": "25 September 1777(1777-09-25) (aged 49)Berlin, Prussia",
+      "fields": "Mathematician, physicist, astronomer, and philosopher"
+    },
+    "scraped_at": "2025-08-10T23:40:03.331591",
+    "raw_html_length": 176871
+  },
+  "processed_at": "2025-08-10T23:40:04.836777"
+}

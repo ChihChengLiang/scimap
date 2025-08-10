@@ -1,0 +1,140 @@
+{
+  "metadata": {
+    "source": "wikidata_sparql_list",
+    "generated_at": "2025-08-10T23:39:31.201214",
+    "total_mathematicians": 13,
+    "method": "wikidata_list_wikipedia_scraping"
+  },
+  "mathematicians": {
+    "daniel_bernoulli": {
+      "name": "Daniel Bernoulli",
+      "birth_year": 1700,
+      "death_year": 1782,
+      "nationality": "Swiss",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Daniel_Bernoulli"
+    },
+    "thomas_bayes": {
+      "name": "Thomas Bayes",
+      "birth_year": 1702,
+      "death_year": 1761,
+      "nationality": "English",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Thomas_Bayes"
+    },
+    "gabriel_cramer": {
+      "name": "Gabriel Cramer",
+      "birth_year": 1704,
+      "death_year": 1752,
+      "nationality": "Swiss",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Gabriel_Cramer"
+    },
+    "leonhard_euler": {
+      "name": "Leonhard Euler",
+      "birth_year": 1707,
+      "death_year": 1783,
+      "nationality": "Swiss",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Leonhard_Euler"
+    },
+    "johann_ii_bernoulli": {
+      "name": "Johann II Bernoulli",
+      "birth_year": 1710,
+      "death_year": 1790,
+      "nationality": "Swiss",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Johann_II_Bernoulli"
+    },
+    "alexis_clairaut": {
+      "name": "Alexis Clairaut",
+      "birth_year": 1713,
+      "death_year": 1765,
+      "nationality": "French",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Alexis_Clairaut"
+    },
+    "jean_le_rond_d'alembert": {
+      "name": "Jean le Rond d'Alembert",
+      "birth_year": 1717,
+      "death_year": 1783,
+      "nationality": "French",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Jean_le_Rond_d%27Alembert"
+    },
+    "maria_gaetana_agnesi": {
+      "name": "Maria Gaetana Agnesi",
+      "birth_year": 1718,
+      "death_year": 1799,
+      "nationality": "Italian",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Maria_Gaetana_Agnesi"
+    },
+    "johann_heinrich_lambert": {
+      "name": "Johann Heinrich Lambert",
+      "birth_year": 1728,
+      "death_year": 1777,
+      "nationality": "German",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Johann_Heinrich_Lambert"
+    },
+    "johann_euler": {
+      "name": "Johann Euler",
+      "birth_year": 1734,
+      "death_year": 1800,
+      "nationality": "Swiss",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Johann_Euler"
+    },
+    "joseph_louis_lagrange": {
+      "name": "Joseph-Louis Lagrange",
+      "birth_year": 1736,
+      "death_year": 1813,
+      "nationality": "French",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Joseph-Louis_Lagrange"
+    },
+    "johann_iii_bernoulli": {
+      "name": "Johann III Bernoulli",
+      "birth_year": 1744,
+      "death_year": 1807,
+      "nationality": "Swiss",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Johann_III_Bernoulli"
+    },
+    "pierre_simon_laplace": {
+      "name": "Pierre-Simon Laplace",
+      "birth_year": 1749,
+      "death_year": 1827,
+      "nationality": "French",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Pierre-Simon_Laplace"
+    }
+  }
+}

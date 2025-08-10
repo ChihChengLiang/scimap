@@ -82,5 +82,122 @@
     "geocoded_at": "2025-08-10T02:15:12.219035",
     "geocoding_method": "llm",
     "model_version": "llama3.1:8b"
+  },
+  "maria_gaetana_agnesi": {
+    "coordinates": [
+      45.4642,
+      9.19
+    ],
+    "place_name": "Italian Mathematical Center",
+    "historical_period": "1718-1799",
+    "confidence": 0.8
+  },
+  "johann_ii_bernoulli": {
+    "coordinates": [
+      47.5596,
+      7.5886
+    ],
+    "place_name": "Swiss Mathematical Center",
+    "historical_period": "1710-1790",
+    "confidence": 0.8
+  },
+  "johann_euler": {
+    "coordinates": [
+      47.5596,
+      7.5886
+    ],
+    "place_name": "Swiss Mathematical Center",
+    "historical_period": "1734-1800",
+    "confidence": 0.8
+  },
+  "leonhard_euler": {
+    "coordinates": [
+      47.5596,
+      7.5886
+    ],
+    "place_name": "Swiss Mathematical Center",
+    "historical_period": "1707-1783",
+    "confidence": 0.8
+  },
+  "gabriel_cramer": {
+    "coordinates": [
+      46.2044,
+      6.1432
+    ],
+    "place_name": "Swiss Mathematical Center",
+    "historical_period": "1704-1752",
+    "confidence": 0.8
+  },
+  "johann_iii_bernoulli": {
+    "coordinates": [
+      47.5596,
+      7.5886
+    ],
+    "place_name": "Swiss Mathematical Center",
+    "historical_period": "1744-1807",
+    "confidence": 0.8
+  },
+  "joseph_louis_lagrange": {
+    "coordinates": [
+      45.0703,
+      7.6869
+    ],
+    "place_name": "French Mathematical Center",
+    "historical_period": "1736-1813",
+    "confidence": 0.8
+  },
+  "alexis_clairaut": {
+    "coordinates": [
+      48.8566,
+      2.3522
+    ],
+    "place_name": "French Mathematical Center",
+    "historical_period": "1713-1765",
+    "confidence": 0.8
+  },
+  "daniel_bernoulli": {
+    "coordinates": [
+      47.5596,
+      7.5886
+    ],
+    "place_name": "Swiss Mathematical Center",
+    "historical_period": "1700-1782",
+    "confidence": 0.8
+  },
+  "thomas_bayes": {
+    "coordinates": [
+      51.5074,
+      -0.1278
+    ],
+    "place_name": "English Mathematical Center",
+    "historical_period": "1702-1761",
+    "confidence": 0.8
+  },
+  "jean_le_rond_d'alembert": {
+    "coordinates": [
+      48.8566,
+      2.3522
+    ],
+    "place_name": "French Mathematical Center",
+    "historical_period": "1717-1783",
+    "confidence": 0.8
+  },
+  "pierre_simon_laplace": {
+    "coordinates": [
+      48.8566,
+      2.3522
+    ],
+    "place_name": "French Mathematical Center",
+    "historical_period": "1749-1827",
+    "confidence": 0.8
+  },
+  "johann_heinrich_lambert": {
+    "coordinates": [
+      52.52,
+      13.405
+    ],
+    "place_name": "German Mathematical Center",
+    "historical_period": "1728-1777",
+    "confidence": 0.8
   }
 }
