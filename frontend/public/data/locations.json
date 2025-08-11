@@ -1079,5 +1079,341 @@
     "geocoded_at": "2025-08-11T20:52:38.910903",
     "geocoding_method": "nominatim_batch",
     "model_version": "openstreetmap"
+  },
+  "Ashby-cum-Fenby, Lincolnshire": {
+    "place_name": "Ashby-cum-Fenby, Lincolnshire",
+    "coordinates": {
+      "lat": 53.487696,
+      "lng": -0.1064786
+    },
+    "confidence": 0.8,
+    "historical_context": "18th century location: Ashby-cum-Fenby, Lincolnshire",
+    "alternative_names": [
+      "Ashby-cum-Fenby, Lincolnshire"
+    ],
+    "modern_equivalent": "Ashby cum Fenby, North East Lincolnshire, Greater Lincolnshire, England, United Kingdom",
+    "geocoded_at": "2025-08-11T21:29:05.888355",
+    "geocoding_method": "nominatim_batch",
+    "model_version": "openstreetmap"
+  },
+  "Gateshead": {
+    "place_name": "Gateshead",
+    "coordinates": {
+      "lat": 54.9625789,
+      "lng": -1.6019294
+    },
+    "confidence": 0.8,
+    "historical_context": "18th century location: Gateshead",
+    "alternative_names": [
+      "Gateshead"
+    ],
+    "modern_equivalent": "Gateshead, Tyne and Wear, North East, England, United Kingdom",
+    "geocoded_at": "2025-08-11T21:29:28.592494",
+    "geocoding_method": "nominatim_batch",
+    "model_version": "openstreetmap"
+  },
+  "Geneva": {
+    "place_name": "Geneva",
+    "coordinates": {
+      "lat": 46.2017559,
+      "lng": 6.1466014
+    },
+    "confidence": 0.8,
+    "historical_context": "18th century location: Geneva",
+    "alternative_names": [
+      "Geneva"
+    ],
+    "modern_equivalent": "Genève, Schweiz/Suisse/Svizzera/Svizra",
+    "geocoded_at": "2025-08-11T21:29:30.565104",
+    "geocoding_method": "nominatim_batch",
+    "model_version": "openstreetmap"
+  },
+  "Germany": {
+    "place_name": "Germany",
+    "coordinates": {
+      "lat": 51.1638175,
+      "lng": 10.4478313
+    },
+    "confidence": 0.8,
+    "historical_context": "18th century location: Germany",
+    "alternative_names": [
+      "Germany"
+    ],
+    "modern_equivalent": "Deutschland",
+    "geocoded_at": "2025-08-11T21:29:32.375742",
+    "geocoding_method": "nominatim_batch",
+    "model_version": "openstreetmap"
+  },
+  "Germany, Italy": {
+    "place_name": "Germany, Italy",
+    "coordinates": {
+      "lat": 48.1656326,
+      "lng": 11.5866442
+    },
+    "confidence": 0.8,
+    "historical_context": "18th century location: Germany, Italy",
+    "alternative_names": [
+      "Germany, Italy"
+    ],
+    "modern_equivalent": "Italy, 108, Leopoldstraße, Münchener Freiheit, Schwabing-Freimann, München, Bayern, 80802, Deutschland",
+    "geocoded_at": "2025-08-11T21:29:36.984968",
+    "geocoding_method": "nominatim_batch",
+    "model_version": "openstreetmap"
+  },
+  "Gibraltar": {
+    "place_name": "Gibraltar",
+    "coordinates": {
+      "lat": 36.1285933,
+      "lng": -5.3474761
+    },
+    "confidence": 0.8,
+    "historical_context": "18th century location: Gibraltar",
+    "alternative_names": [
+      "Gibraltar"
+    ],
+    "modern_equivalent": "Gibraltar",
+    "geocoded_at": "2025-08-11T21:29:38.811527",
+    "geocoding_method": "nominatim_batch",
+    "model_version": "openstreetmap"
+  },
+  "Gießen": {
+    "place_name": "Gießen",
+    "coordinates": {
+      "lat": 50.5808795,
+      "lng": 8.6938161
+    },
+    "confidence": 0.8,
+    "historical_context": "18th century location: Gießen",
+    "alternative_names": [
+      "Gießen"
+    ],
+    "modern_equivalent": "Gießen, Landkreis Gießen, Hessen, Deutschland",
+    "geocoded_at": "2025-08-11T21:29:40.783138",
+    "geocoding_method": "nominatim_batch",
+    "model_version": "openstreetmap"
+  },
+  "Glanford Brigg": {
+    "place_name": "Glanford Brigg",
+    "coordinates": {
+      "lat": 53.5525329,
+      "lng": -0.4896411
+    },
+    "confidence": 0.8,
+    "historical_context": "18th century location: Glanford Brigg",
+    "alternative_names": [
+      "Glanford Brigg"
+    ],
+    "modern_equivalent": "Brigg, North Lincolnshire, Greater Lincolnshire, England, United Kingdom",
+    "geocoded_at": "2025-08-11T21:29:42.638937",
+    "geocoding_method": "nominatim_batch",
+    "model_version": "openstreetmap"
+  },
+  "Goa": {
+    "place_name": "Goa",
+    "coordinates": {
+      "lat": 15.3004543,
+      "lng": 74.0855134
+    },
+    "confidence": 0.8,
+    "historical_context": "18th century location: Goa",
+    "alternative_names": [
+      "Goa"
+    ],
+    "modern_equivalent": "Goa, India",
+    "geocoded_at": "2025-08-11T21:29:44.655633",
+    "geocoding_method": "nominatim_batch",
+    "model_version": "openstreetmap"
+  },
+  "Gregorian University": {
+    "place_name": "Gregorian University",
+    "coordinates": {
+      "lat": 41.8989204,
+      "lng": 12.4849247
+    },
+    "confidence": 0.8,
+    "historical_context": "18th century location: Gregorian University",
+    "alternative_names": [
+      "Gregorian University"
+    ],
+    "modern_equivalent": "Pontificia Università Gregoriana, 4, Piazza della Pilotta, Trevi, Municipio Roma I, Roma, Roma Capitale, Lazio, 00187, Italia",
+    "geocoded_at": "2025-08-11T21:36:03.401696",
+    "geocoding_method": "nominatim_batch",
+    "model_version": "openstreetmap"
+  },
+  "Göttingen": {
+    "place_name": "Göttingen",
+    "coordinates": {
+      "lat": 51.5328328,
+      "lng": 9.9351811
+    },
+    "confidence": 0.8,
+    "historical_context": "18th century location: Göttingen",
+    "alternative_names": [
+      "Göttingen"
+    ],
+    "modern_equivalent": "Göttingen, Landkreis Göttingen, Niedersachsen, Deutschland",
+    "geocoded_at": "2025-08-11T21:36:07.221480",
+    "geocoding_method": "nominatim_batch",
+    "model_version": "openstreetmap"
+  },
+  "Haarlem": {
+    "place_name": "Haarlem",
+    "coordinates": {
+      "lat": 52.3885317,
+      "lng": 4.6388048
+    },
+    "confidence": 0.8,
+    "historical_context": "18th century location: Haarlem",
+    "alternative_names": [
+      "Haarlem"
+    ],
+    "modern_equivalent": "Haarlem, Noord-Holland, Nederland",
+    "geocoded_at": "2025-08-11T21:36:09.039937",
+    "geocoding_method": "nominatim_batch",
+    "model_version": "openstreetmap"
+  },
+  "Haddington": {
+    "place_name": "Haddington",
+    "coordinates": {
+      "lat": 55.9556144,
+      "lng": -2.779317
+    },
+    "confidence": 0.8,
+    "historical_context": "18th century location: Haddington",
+    "alternative_names": [
+      "Haddington"
+    ],
+    "modern_equivalent": "Haddington, East Lothian, Alba / Scotland, EH41 3JA, United Kingdom",
+    "geocoded_at": "2025-08-11T21:36:10.799365",
+    "geocoding_method": "nominatim_batch",
+    "model_version": "openstreetmap"
+  },
+  "Halle": {
+    "place_name": "Halle",
+    "coordinates": {
+      "lat": 51.4824354,
+      "lng": 11.9712985
+    },
+    "confidence": 0.8,
+    "historical_context": "18th century location: Halle",
+    "alternative_names": [
+      "Halle"
+    ],
+    "modern_equivalent": "Halle (Saale), Sachsen-Anhalt, Deutschland",
+    "geocoded_at": "2025-08-11T21:36:12.727189",
+    "geocoding_method": "nominatim_batch",
+    "model_version": "openstreetmap"
+  },
+  "Hallowell, Maine": {
+    "place_name": "Hallowell, Maine",
+    "coordinates": {
+      "lat": 44.2856241,
+      "lng": -69.7902799
+    },
+    "confidence": 0.8,
+    "historical_context": "18th century location: Hallowell, Maine",
+    "alternative_names": [
+      "Hallowell, Maine"
+    ],
+    "modern_equivalent": "Hallowell, Kennebec County, Maine, 04347, United States",
+    "geocoded_at": "2025-08-11T21:36:14.685758",
+    "geocoding_method": "nominatim_batch",
+    "model_version": "openstreetmap"
+  },
+  "Castiglion Fibocchi": {
+    "place_name": "Castiglion Fibocchi",
+    "coordinates": {
+      "lat": 43.5279646,
+      "lng": 11.7631758
+    },
+    "confidence": 0.8,
+    "historical_context": "18th century location: Castiglion Fibocchi",
+    "alternative_names": [
+      "Castiglion Fibocchi"
+    ],
+    "modern_equivalent": "Castiglion Fibocchi, Unione dei Comuni del Pratomagno, Arezzo, Toscana, Italia",
+    "geocoded_at": "2025-08-11T21:42:11.071876",
+    "geocoding_method": "nominatim_batch",
+    "model_version": "openstreetmap"
+  },
+  "Hanover, Germany": {
+    "place_name": "Hanover, Germany",
+    "coordinates": {
+      "lat": 52.3744779,
+      "lng": 9.7385532
+    },
+    "confidence": 0.8,
+    "historical_context": "18th century location: Hanover, Germany",
+    "alternative_names": [
+      "Hanover, Germany"
+    ],
+    "modern_equivalent": "Hannover, Region Hannover, Niedersachsen, Deutschland",
+    "geocoded_at": "2025-08-11T21:42:31.683214",
+    "geocoding_method": "nominatim_batch",
+    "model_version": "openstreetmap"
+  },
+  "Harvard College": {
+    "place_name": "Harvard College",
+    "coordinates": {
+      "lat": 16.3449752,
+      "lng": 76.1255855
+    },
+    "confidence": 0.8,
+    "historical_context": "18th century location: Harvard College",
+    "alternative_names": [
+      "Harvard College"
+    ],
+    "modern_equivalent": "Harvard Pu Science College Muddebihal, SH41, Muddebihala, Muddebihala taluku, Vijayapura, Karnataka, 586212, India",
+    "geocoded_at": "2025-08-11T21:42:34.026220",
+    "geocoding_method": "nominatim_batch",
+    "model_version": "openstreetmap"
+  },
+  "Heidelberg": {
+    "place_name": "Heidelberg",
+    "coordinates": {
+      "lat": 49.4093582,
+      "lng": 8.694724
+    },
+    "confidence": 0.8,
+    "historical_context": "18th century location: Heidelberg",
+    "alternative_names": [
+      "Heidelberg"
+    ],
+    "modern_equivalent": "Heidelberg, Baden-Württemberg, Deutschland",
+    "geocoded_at": "2025-08-11T21:42:37.950197",
+    "geocoding_method": "nominatim_batch",
+    "model_version": "openstreetmap"
+  },
+  "Hertfordshire, England": {
+    "place_name": "Hertfordshire, England",
+    "coordinates": {
+      "lat": 51.8400523,
+      "lng": -0.0978552
+    },
+    "confidence": 0.8,
+    "historical_context": "18th century location: Hertfordshire, England",
+    "alternative_names": [
+      "Hertfordshire, England"
+    ],
+    "modern_equivalent": "Hertfordshire, England, United Kingdom",
+    "geocoded_at": "2025-08-11T21:42:43.804027",
+    "geocoding_method": "nominatim_batch",
+    "model_version": "openstreetmap"
+  },
+  "Ireland": {
+    "place_name": "Ireland",
+    "coordinates": {
+      "lat": 52.865196,
+      "lng": -7.9794599
+    },
+    "confidence": 0.8,
+    "historical_context": "18th century location: Ireland",
+    "alternative_names": [
+      "Ireland"
+    ],
+    "modern_equivalent": "Éire / Ireland",
+    "geocoded_at": "2025-08-11T21:42:49.729727",
+    "geocoding_method": "nominatim_batch",
+    "model_version": "openstreetmap"
   }
 }
