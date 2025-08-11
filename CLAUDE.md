@@ -2,7 +2,7 @@
 
 ## Project Overview
 Interactive 18th century mathematics timeline visualization with 2D map + Rococo styling.
-- **Current Phase**: Beyond MVP - enhancing data pipeline and UI
+- **Current Phase**: Beyond MVP - data pipeline streamlined and optimized
 - **Tech Stack**: React + Leaflet + Python data pipeline + Wikidata/Wikipedia
 - **Data**: ~100 mathematicians currently, expanding to 500+
 
@@ -35,6 +35,30 @@ Interactive 18th century mathematics timeline visualization with 2D map + Rococo
 - **Output**: `data_pipeline/data/processed/wikidata_mathematician_config.json`
 - **Dataset**: 510 mathematicians (1650-1750) ready for pipeline
 - **Files Modified**: `data_pipeline/wikidata_mathematician_list.py`
+
+### 5. **MAJOR**: Streamlined Data Pipeline ✅
+- **Issue**: Pipeline had accumulated technical debt from evolution (15→100 mathematicians)
+- **Analysis**: Reviewed entire pipeline architecture and identified optimization opportunities
+- **Actions Taken**:
+  - ✅ **Removed dead code**: Deleted unused `processors/geocoder.py` (Ollama-based, replaced by Nominatim)
+  - ✅ **Fixed broken imports**: Removed `config/mathematicians` references
+  - ✅ **Unified entry point**: All scripts now redirect to main orchestrator
+  - ✅ **Integrated workflow**: Added political data processing and location geocoding to main pipeline
+  - ✅ **Renamed for clarity**: `scale_to_100_mathematicians.py` → `main_pipeline.py`
+
+### 6. Consolidated Pipeline Architecture ✅
+- **Single Entry Point**: `main_pipeline.py` now runs complete 8-step workflow
+- **Enhanced Steps**:
+  1. Wikidata Extraction (1200 → 500 mathematicians)
+  2. Wikipedia Scraping (biographical text)
+  3. LM Studio Event Extraction (timeline events)
+  4. PageView Collection (popularity metrics)
+  5. Frontend Format Conversion (JSON structure)
+  6. Results Saving (output files)
+  7. **NEW**: Political Data Processing (political context)
+  8. **NEW**: Location Geocoding (missing coordinates)
+- **Clean Directory Structure**: Removed version-specific naming (wikipedia_100/ → wikipedia/)
+- **Command**: `python main_pipeline.py` or `python main_pipeline.py retry`
 
 ## Current Status
 
