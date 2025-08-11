@@ -5,7 +5,8 @@
       "Bash(pip install:*)",
       "Bash(python test:*)",
       "Bash(grep:*)",
-      "Bash(sed:*)"
+      "Bash(sed:*)",
+      "Bash(jq:*)"
     ],
     "deny": []
   }
