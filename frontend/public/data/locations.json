@@ -1144,22 +1144,6 @@
     "geocoding_method": "nominatim_batch",
     "model_version": "openstreetmap"
   },
-  "Germany, Italy": {
-    "place_name": "Germany, Italy",
-    "coordinates": {
-      "lat": 48.1656326,
-      "lng": 11.5866442
-    },
-    "confidence": 0.8,
-    "historical_context": "18th century location: Germany, Italy",
-    "alternative_names": [
-      "Germany, Italy"
-    ],
-    "modern_equivalent": "Italy, 108, Leopoldstraße, Münchener Freiheit, Schwabing-Freimann, München, Bayern, 80802, Deutschland",
-    "geocoded_at": "2025-08-11T21:29:36.984968",
-    "geocoding_method": "nominatim_batch",
-    "model_version": "openstreetmap"
-  },
   "Gibraltar": {
     "place_name": "Gibraltar",
     "coordinates": {
