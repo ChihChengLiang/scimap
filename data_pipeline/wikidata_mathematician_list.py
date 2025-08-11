@@ -15,7 +15,7 @@ def get_mathematician_list():
     
     # Simplified query based on your working query
     query = """
-    SELECT ?person ?personLabel ?birthDate ?deathDate ?wikipediaArticle
+    SELECT ?person ?personLabel ?birthDate ?deathDate ?wikipediaArticle ?image ?place_of_birth ?place_of_birthLabel ?place_of_death ?place_of_deathLabel 
     WHERE {
       ?person wdt:P31 wd:Q5 .
       ?person wdt:P106/wdt:P279* wd:Q170790 .
@@ -28,6 +28,9 @@ def get_mathematician_list():
         ?wikipediaArticle schema:about ?person .
         ?wikipediaArticle schema:isPartOf <https://en.wikipedia.org/> .
       }
+      OPTIONAL { ?person wdt:P18 ?image. }
+      OPTIONAL { ?person wdt:P19 ?place_of_birth. }
+      OPTIONAL { ?person wdt:P20 ?place_of_death. }
       
       SERVICE wikibase:label { bd:serviceParam wikibase:language "en". }
     }
@@ -71,12 +74,23 @@ def get_mathematician_list():
                 except:
                     pass
             
+            image = binding.get('image', {}).get('value', None)
+            place_of_birth = binding.get('place_of_birth', {}).get('value', None)
+            place_of_birth_label = binding.get('place_of_birthLabel', {}).get('value', None)
+            place_of_death = binding.get('place_of_death', {}).get('value', None)
+            place_of_death_label = binding.get('place_of_deathLabel', {}).get('value', None)
+
             # Only include mathematicians with Wikipedia URLs
             if wikipedia_url and name != 'Unknown':
                 mathematician = {
                     'name': name,
                     'birth_year': birth_year,
                     'death_year': death_year,
+                    'image': image,
+                    'place_of_birth': place_of_birth,
+                    'place_of_birth_label': place_of_birth_label,
+                    'place_of_death': place_of_death,
+                    'place_of_death_label': place_of_death_label,
                     'wikipedia_url': wikipedia_url,
                     'source': 'wikidata_list'
                 }
@@ -87,77 +101,33 @@ def get_mathematician_list():
             continue
     
     print(f"✓ Processed {len(mathematicians)} mathematicians with Wikipedia URLs")
-    
-    # Filter and prioritize top mathematicians
-    def priority_score(m):
-        score = 0
-        
-        # Complete date information
-        if m.get('birth_year') and m.get('death_year'):
-            score += 10
-        
-        # 18th century focus (higher score for core period)
-        birth_year = m.get('birth_year', 0)
-        if 1700 <= birth_year <= 1750:
-            score += 15
-        elif 1650 <= birth_year <= 1699:
-            score += 10
-        elif 1751 <= birth_year <= 1770:
-            score += 5
-        
-        # Well-known mathematicians (basic heuristic)
-        name_lower = m.get('name', '').lower()
-        famous_keywords = ['euler', 'bernoulli', 'lagrange', 'laplace', 'lambert', 'cramer', 'clairaut', 'maclaurin', 'agnesi', 'legendre', 'moivre', 'bayes', 'goldbach', 'alembert']
-        for keyword in famous_keywords:
-            if keyword in name_lower:
-                score += 20
-                break
-        
-        return score
-    
-    # Sort by priority and take top 15
-    top_mathematicians = sorted(mathematicians, key=priority_score, reverse=True)
 
     # Create output for existing pipeline
     os.makedirs("data/processed", exist_ok=True)
     
     # Format for existing Wikipedia scraper pipeline
     mathematician_config = {}
-    
-    for i, m in enumerate(top_mathematicians):
+
+    for i, m in enumerate(mathematicians):
         # Create clean ID
         clean_name = m['name'].lower().replace(' ', '_').replace('.', '').replace(',', '').replace('-', '_')
         mathematician_id = clean_name
-        
-        # Estimate nationality and fields from name/period (rough heuristic)
-        nationality = "European"  # Default
-        name_lower = m['name'].lower()
-        
-        if any(x in name_lower for x in ['euler', 'bernoulli', 'cramer']):
-            nationality = "Swiss"
-        elif any(x in name_lower for x in ['lagrange', 'laplace', 'legendre', 'clairaut', 'alembert']):
-            nationality = "French"
-        elif any(x in name_lower for x in ['lambert', 'goldbach']):
-            nationality = "German"
-        elif any(x in name_lower for x in ['agnesi']):
-            nationality = "Italian"
-        elif any(x in name_lower for x in ['maclaurin']):
-            nationality = "Scottish"
-        elif any(x in name_lower for x in ['moivre', 'bayes']):
-            nationality = "English"
         
         mathematician_config[mathematician_id] = {
             'name': m['name'],
             'birth_year': m['birth_year'],
             'death_year': m['death_year'],
-            'nationality': nationality,
-            'fields': ['mathematics'],
+            'image': m['image'],
+            'place_of_birth': m['place_of_birth'],
+            'place_of_birth_label': m['place_of_birth_label'],
+            'place_of_death': m['place_of_death'],
+            'place_of_death_label': m['place_of_death_label'],
             'wikipedia_url': m['wikipedia_url']
         }
         
-        print(f"{i+1:2d}. {m['name']} ({m['birth_year']}-{m['death_year']}) - {nationality}")
+        print(f"{i+1:2d}. {m['name']} ({m['birth_year']}-{m['death_year']})")
         print(f"     {m['wikipedia_url']}")
-    
+
     # Save mathematician config for existing pipeline
     config_file = "data/processed/wikidata_mathematician_config.json"
     with open(config_file, 'w', encoding='utf-8') as f:
