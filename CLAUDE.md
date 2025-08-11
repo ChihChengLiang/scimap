@@ -25,7 +25,6 @@ Interactive 18th century mathematics timeline visualization with 2D map + Rococo
 - **Solution**: Applied percentile-based tiers (Option 3: quartiles + extremes)
 - **Result**: Balanced distribution (10% very_high, 15% high, 25% medium, 25% low, 25% very_low)
 - **Files Modified**: `frontend/public/data/mathematicians.json`
-- **Backup Created**: `mathematicians_backup_20250811_234527.json`
 
 ### 4. Enhanced Wikidata Pipeline ✅
 - **Enhancement**: Added new fields to mathematician extraction
@@ -65,11 +64,6 @@ Interactive 18th century mathematics timeline visualization with 2D map + Rococo
 ### Data Pipeline (`/data_pipeline/`)
 - `wikidata_mathematician_list.py` - Enhanced with image/location fields
 - `data/processed/wikidata_mathematician_config.json` - 510 mathematicians ready
-- `scrapers/wikidata_sparql.py` - SPARQL query interface
-
-### Specs
-- `SPEC.md` - Original specification (Phase 1 complete)
-- `SPEC_v2.md` - Current specification (Phase 2/3 implementation)
 
 ## Development Environment
 - **Frontend**: `npm start` in `/frontend/` 
