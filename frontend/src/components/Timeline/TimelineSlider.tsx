@@ -6,6 +6,7 @@ const TimelineSlider: React.FC<TimelineSliderProps> = ({
   selectedYear,
   onYearChange,
   mathematicians,
+  politicalContexts,
   onMathematicianClick
 }) => {
   // Define the 18th century range
@@ -25,6 +26,12 @@ const TimelineSlider: React.FC<TimelineSliderProps> = ({
   const activeMathematicians = mathematicians.filter(m => 
     m.birth_year <= selectedYear && m.death_year >= selectedYear
   );
+
+  // Get political events for current year (within 5 years for timeline display)
+  const relevantPoliticalEvents = politicalContexts.filter(event => 
+    Math.abs(event.year - selectedYear) <= 5
+  ).sort((a, b) => Math.abs(a.year - selectedYear) - Math.abs(b.year - selectedYear))
+    .slice(0, 3); // Show only top 3 most relevant events
 
   // Get activity indicators for timeline
   const getActivityForYear = (year: number) => {
@@ -226,6 +233,91 @@ const TimelineSlider: React.FC<TimelineSliderProps> = ({
                 }}
               />
             ))}
+          </Box>
+        </Box>
+      )}
+
+      {/* Political Events Section */}
+      {relevantPoliticalEvents.length > 0 && (
+        <Box mt={2}>
+          <Typography variant="body2" sx={{ color: '#5d6d7e', mb: 1, fontSize: '0.85rem' }}>
+            🏛️ Political Context ({selectedYear}):
+          </Typography>
+          <Box sx={{ display: 'flex', flexDirection: 'column', gap: 1 }}>
+            {relevantPoliticalEvents.map(event => {
+              const yearDiff = Math.abs(event.year - selectedYear);
+              const opacity = yearDiff === 0 ? 1.0 : yearDiff === 1 ? 0.8 : 0.6;
+              const getCategoryColor = (category: string) => {
+                switch (category) {
+                  case 'war': return '#DC143C';
+                  case 'political_change': return '#8B4513';
+                  case 'treaty': return '#228B22';
+                  case 'royal_succession': return '#FFD700';
+                  case 'intellectual_milestone': return '#9370DB';
+                  default: return '#696969';
+                }
+              };
+
+              return (
+                <Box 
+                  key={event.id}
+                  sx={{
+                    display: 'flex',
+                    alignItems: 'center',
+                    gap: 1,
+                    opacity: opacity,
+                    padding: '4px 8px',
+                    borderRadius: '4px',
+                    backgroundColor: 'rgba(139, 69, 19, 0.05)',
+                    border: '1px solid rgba(139, 69, 19, 0.1)',
+                    fontSize: '0.75rem'
+                  }}
+                >
+                  <Box
+                    sx={{
+                      width: '6px',
+                      height: '6px',
+                      borderRadius: '50%',
+                      backgroundColor: getCategoryColor(event.category),
+                      flexShrink: 0
+                    }}
+                  />
+                  <Typography 
+                    variant="caption" 
+                    sx={{ 
+                      color: '#8B4513', 
+                      fontWeight: 'bold',
+                      minWidth: '32px'
+                    }}
+                  >
+                    {event.year}
+                  </Typography>
+                  <Typography 
+                    variant="caption" 
+                    sx={{ 
+                      color: '#2c3e50',
+                      overflow: 'hidden',
+                      textOverflow: 'ellipsis',
+                      whiteSpace: 'nowrap',
+                      flex: 1
+                    }}
+                    title={`${event.headline}: ${event.impact_on_science}`}
+                  >
+                    {event.headline}
+                  </Typography>
+                  <Typography 
+                    variant="caption" 
+                    sx={{ 
+                      color: '#5d6d7e',
+                      fontSize: '0.7rem',
+                      opacity: 0.8
+                    }}
+                  >
+                    {Math.round(event.relevance_score * 100)}%
+                  </Typography>
+                </Box>
+              );
+            })}
           </Box>
         </Box>
       )}

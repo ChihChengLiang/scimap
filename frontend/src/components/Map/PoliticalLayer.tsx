@@ -9,31 +9,69 @@ interface PoliticalLayerProps {
   visible: boolean;
 }
 
+// Helper function for getting category colors
+const getIconColor = (cat: string): string => {
+  switch (cat) {
+    case 'political_change': return '#8B4513'; // Saddle brown
+    case 'war': return '#DC143C'; // Crimson
+    case 'treaty': return '#228B22'; // Forest green
+    case 'city_founding': return '#4169E1'; // Royal blue
+    case 'social_reform': return '#FF69B4'; // Hot pink
+    case 'royal_succession': return '#FFD700'; // Gold
+    case 'legal_change': return '#800080'; // Purple
+    case 'natural_disaster': return '#B22222'; // Fire brick
+    case 'military_conquest': return '#8B0000'; // Dark red
+    case 'rebellion': return '#FF4500'; // Orange red
+    case 'revolution': return '#FF0000'; // Red
+    case 'political_declaration': return '#4B0082'; // Indigo
+    case 'intellectual_milestone': return '#9370DB'; // Medium purple
+    case 'military_alliance': return '#006400'; // Dark green
+    case 'territorial_partition': return '#A0522D'; // Sienna
+    case 'political_coup': return '#DC143C'; // Crimson
+    case 'exploration': return '#20B2AA'; // Light sea green
+    case 'religious_movement': return '#DAA520'; // Goldenrod
+    case 'climate_event': return '#87CEEB'; // Sky blue
+    case 'calendar_reform': return '#DDA0DD'; // Plum
+    case 'military_battle': return '#B22222'; // Fire brick
+    case 'political_crisis': return '#FF6347'; // Tomato
+    case 'state_founding': return '#4169E1'; // Royal blue
+    default: return '#696969'; // Dim gray
+  }
+};
+
+// Helper function for getting category symbols
+const getIconSymbol = (cat: string): string => {
+  switch (cat) {
+    case 'political_change': return '👑';
+    case 'war': return '⚔️';
+    case 'treaty': return '🕊️';
+    case 'city_founding': return '🏛️';
+    case 'social_reform': return '⚖️';
+    case 'royal_succession': return '👑';
+    case 'legal_change': return '📜';
+    case 'natural_disaster': return '🌪️';
+    case 'military_conquest': return '🏹';
+    case 'rebellion': return '🔥';
+    case 'revolution': return '🔴';
+    case 'political_declaration': return '📋';
+    case 'intellectual_milestone': return '💡';
+    case 'military_alliance': return '🤝';
+    case 'territorial_partition': return '📍';
+    case 'political_coup': return '💥';
+    case 'exploration': return '🧭';
+    case 'religious_movement': return '⛪';
+    case 'climate_event': return '❄️';
+    case 'calendar_reform': return '📅';
+    case 'military_battle': return '⚔️';
+    case 'political_crisis': return '⚠️';
+    case 'state_founding': return '🏛️';
+    default: return '📜';
+  }
+};
+
 // Custom political context marker icon
 const createPoliticalIcon = (category: string, relevanceScore: number) => {
-  const getIconColor = (cat: string): string => {
-    switch (cat) {
-      case 'political_change': return '#8B4513'; // Saddle brown
-      case 'war': return '#DC143C'; // Crimson
-      case 'peace_treaty': return '#228B22'; // Forest green
-      case 'cultural_event': return '#9370DB'; // Medium purple
-      case 'economic_shift': return '#FF8C00'; // Dark orange
-      default: return '#696969'; // Dim gray
-    }
-  };
-
-  const getIconSymbol = (cat: string): string => {
-    switch (cat) {
-      case 'political_change': return '👑';
-      case 'war': return '⚔️';
-      case 'peace_treaty': return '🕊️';
-      case 'cultural_event': return '🎭';
-      case 'economic_shift': return '💰';
-      default: return '📜';
-    }
-  };
-
-  const size = Math.max(16, Math.min(24, relevanceScore * 25)); // Size based on relevance
+  const size = Math.max(18, Math.min(28, 18 + relevanceScore * 10)); // Enhanced size scaling
   
   return L.divIcon({
     className: 'political-marker',
@@ -43,20 +81,64 @@ const createPoliticalIcon = (category: string, relevanceScore: number) => {
         height: ${size}px;
         background-color: ${getIconColor(category)};
         border: 2px solid #2c3e50;
-        border-radius: 4px;
-        box-shadow: 0 1px 4px rgba(0,0,0,0.4);
+        border-radius: 6px;
+        box-shadow: 0 2px 6px rgba(0,0,0,0.4);
         display: flex;
         align-items: center;
         justify-content: center;
         font-size: ${size * 0.6}px;
-        opacity: 0.8;
+        opacity: 0.85;
+        transform: scale(1);
+        transition: all 0.2s ease;
+        position: relative;
       ">
         ${getIconSymbol(category)}
+        <div style="
+          position: absolute;
+          top: -2px;
+          right: -2px;
+          width: 8px;
+          height: 8px;
+          background: ${relevanceScore > 0.8 ? '#FFD700' : relevanceScore > 0.6 ? '#FFA500' : '#87CEEB'};
+          border-radius: 50%;
+          border: 1px solid white;
+          box-shadow: 0 1px 2px rgba(0,0,0,0.3);
+        "></div>
       </div>
     `,
     iconSize: [size, size],
     iconAnchor: [size / 2, size / 2]
   });
+};
+
+// Category display name helper
+const getCategoryDisplayName = (category: string): string => {
+  switch (category) {
+    case 'political_change': return 'Political Change';
+    case 'war': return 'War';
+    case 'treaty': return 'Treaty';
+    case 'city_founding': return 'City Founded';
+    case 'social_reform': return 'Social Reform';
+    case 'royal_succession': return 'Royal Succession';
+    case 'legal_change': return 'Legal Reform';
+    case 'natural_disaster': return 'Natural Disaster';
+    case 'military_conquest': return 'Military Conquest';
+    case 'rebellion': return 'Rebellion';
+    case 'revolution': return 'Revolution';
+    case 'political_declaration': return 'Political Declaration';
+    case 'intellectual_milestone': return 'Intellectual Milestone';
+    case 'military_alliance': return 'Military Alliance';
+    case 'territorial_partition': return 'Territorial Partition';
+    case 'political_coup': return 'Political Coup';
+    case 'exploration': return 'Exploration';
+    case 'religious_movement': return 'Religious Movement';
+    case 'climate_event': return 'Climate Event';
+    case 'calendar_reform': return 'Calendar Reform';
+    case 'military_battle': return 'Military Battle';
+    case 'political_crisis': return 'Political Crisis';
+    case 'state_founding': return 'State Founded';
+    default: return category.replace(/_/g, ' ').replace(/\b\w/g, l => l.toUpperCase());
+  }
 };
 
 const PoliticalLayer: React.FC<PoliticalLayerProps> = ({
@@ -66,21 +148,21 @@ const PoliticalLayer: React.FC<PoliticalLayerProps> = ({
 }) => {
   if (!visible) return null;
 
-  // Filter political contexts relevant to the selected year (within 10 years)
+  // Filter political contexts relevant to the selected year (within 15 years for broader context)
   const relevantContexts = politicalContexts.filter(context => 
-    Math.abs(context.year - selectedYear) <= 10
+    Math.abs(context.year - selectedYear) <= 15
   );
 
   return (
     <>
       {relevantContexts.map(context => (
         <Marker
-          key={context.context_id}
-          position={[context.location.lat, context.location.lng]}
+          key={context.id}
+          position={[context.location.coordinates.lat, context.location.coordinates.lng]}
           icon={createPoliticalIcon(context.category, context.relevance_score)}
         >
-          <Popup>
-            <div style={{ fontFamily: 'serif', color: '#2c3e50', minWidth: '200px' }}>
+          <Popup maxWidth={280} minWidth={220}>
+            <div style={{ fontFamily: 'serif', color: '#2c3e50', lineHeight: '1.4' }}>
               <h3 style={{ 
                 margin: '0 0 8px 0', 
                 color: '#8B4513',
@@ -89,14 +171,39 @@ const PoliticalLayer: React.FC<PoliticalLayerProps> = ({
               }}>
                 {context.headline}
               </h3>
-              <p style={{ 
-                margin: '4px 0', 
+              
+              <div style={{
+                display: 'flex',
+                alignItems: 'center',
+                gap: '8px',
+                margin: '4px 0 8px 0',
                 fontSize: '0.85em',
                 fontStyle: 'italic',
                 color: '#5d6d7e'
               }}>
-                {context.year} • {context.location.region}
+                <span style={{
+                  background: `${getIconColor(context.category)}20`,
+                  color: getIconColor(context.category),
+                  padding: '2px 6px',
+                  borderRadius: '12px',
+                  fontSize: '0.8em',
+                  fontWeight: 'bold',
+                  fontStyle: 'normal'
+                }}>
+                  {getCategoryDisplayName(context.category)}
+                </span>
+                <span>{context.year}</span>
+              </div>
+              
+              <p style={{ 
+                margin: '0 0 4px 0', 
+                fontSize: '0.8em',
+                fontWeight: 'bold',
+                color: '#5d6d7e'
+              }}>
+                📍 {context.location.primary_location}, {context.location.region}
               </p>
+              
               <p style={{ 
                 margin: '8px 0', 
                 fontSize: '0.9em',
@@ -104,36 +211,77 @@ const PoliticalLayer: React.FC<PoliticalLayerProps> = ({
               }}>
                 {context.description}
               </p>
+              
               <div style={{
-                background: 'rgba(139, 69, 19, 0.1)',
-                padding: '6px 8px',
-                borderRadius: '4px',
-                margin: '8px 0 4px 0'
+                background: 'rgba(139, 69, 19, 0.08)',
+                padding: '8px 10px',
+                borderRadius: '6px',
+                margin: '10px 0',
+                borderLeft: '3px solid #8B4513'
               }}>
                 <p style={{ 
-                  margin: '0', 
+                  margin: '0 0 4px 0', 
                   fontSize: '0.85em',
                   fontWeight: 'bold',
                   color: '#8B4513'
                 }}>
-                  Impact on Mathematics:
+                  📚 Impact on Mathematics & Science:
                 </p>
                 <p style={{ 
-                  margin: '2px 0 0 0', 
+                  margin: '0', 
                   fontSize: '0.85em',
-                  lineHeight: '1.3'
+                  lineHeight: '1.3',
+                  fontStyle: 'italic'
                 }}>
                   {context.impact_on_science}
                 </p>
               </div>
-              <p style={{ 
-                margin: '6px 0 0 0', 
-                fontSize: '0.75em',
-                color: '#888',
-                textAlign: 'right'
+              
+              <div style={{ 
+                display: 'flex', 
+                justifyContent: 'space-between',
+                alignItems: 'center',
+                marginTop: '12px',
+                paddingTop: '8px',
+                borderTop: '1px solid rgba(139, 69, 19, 0.2)'
               }}>
-                Relevance: {Math.round(context.relevance_score * 100)}%
-              </p>
+                <a 
+                  href={context.wiki_link} 
+                  target="_blank" 
+                  rel="noopener noreferrer"
+                  style={{
+                    fontSize: '0.8em',
+                    color: '#8B4513',
+                    textDecoration: 'none',
+                    fontWeight: 'bold',
+                    display: 'flex',
+                    alignItems: 'center',
+                    gap: '4px'
+                  }}
+                >
+                  📖 Read more
+                </a>
+                <div style={{
+                  display: 'flex',
+                  alignItems: 'center',
+                  gap: '4px'
+                }}>
+                  <div style={{
+                    width: '8px',
+                    height: '8px',
+                    borderRadius: '50%',
+                    background: context.relevance_score > 0.8 ? '#FFD700' : 
+                               context.relevance_score > 0.6 ? '#FFA500' : '#87CEEB'
+                  }}></div>
+                  <span style={{ 
+                    fontSize: '0.75em',
+                    color: '#888',
+                    fontWeight: 'bold'
+                  }}>
+                    {Math.round(context.relevance_score * 100)}% relevance
+                  </span>
+                </div>
+              </div>
             </div>
           </Popup>
         </Marker>

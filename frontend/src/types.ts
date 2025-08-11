@@ -86,19 +86,25 @@ export interface GlobePoint {
 
 // Political context data types
 export interface PoliticalContext {
-  context_id: string;
+  id: string;
   year: number;
-  location: {
-    place_name: string;
-    lat: number;
-    lng: number;
-    region: string;
-  };
   headline: string;
   description: string;
+  location: {
+    region: string;
+    primary_location: string;
+    coordinates: {
+      lat: number;
+      lng: number;
+    };
+  };
+  category: 'war' | 'political_change' | 'treaty' | 'city_founding' | 'social_reform' | 'royal_succession' | 
+           'legal_change' | 'natural_disaster' | 'military_conquest' | 'rebellion' | 'revolution' | 
+           'political_declaration' | 'intellectual_milestone' | 'military_alliance' | 'territorial_partition' | 
+           'political_coup' | 'exploration' | 'religious_movement' | 'climate_event' | 'calendar_reform' | 
+           'military_battle' | 'political_crisis' | 'state_founding';
   impact_on_science: string;
-  category: 'political_change' | 'war' | 'peace_treaty' | 'cultural_event' | 'economic_shift';
-  source: string;
+  wiki_link: string;
   relevance_score: number;
 }
 
@@ -129,6 +135,7 @@ export interface TimelineSliderProps {
   selectedYear: number;
   onYearChange: (year: number) => void;
   mathematicians: Mathematician[];
+  politicalContexts: PoliticalContext[];
   onMathematicianClick?: (mathematician: Mathematician) => void;
 }
 

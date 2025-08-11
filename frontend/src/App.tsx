@@ -53,7 +53,7 @@ function App() {
         const [mathematiciansRes, locationsRes, politicalRes] = await Promise.all([
           fetch('/data/mathematicians.json'),
           fetch('/data/locations.json'),
-          fetch('/data/political_context.json')
+          fetch('/data/political_events.json')
         ]);
 
         if (!mathematiciansRes.ok || !locationsRes.ok || !politicalRes.ok) {
@@ -66,7 +66,7 @@ function App() {
 
         setMathematicians(mathematiciansData);
         setLocations(locationsData);
-        setPoliticalContexts(Object.values(politicalData));
+        setPoliticalContexts(politicalData); // Already an array
         setLoading(false);
       } catch (err) {
         setError(err instanceof Error ? err.message : 'Failed to load data');
@@ -165,6 +165,7 @@ function App() {
             selectedYear={selectedYear}
             onYearChange={setSelectedYear}
             mathematicians={Object.values(mathematicians)}
+            politicalContexts={politicalContexts}
             onMathematicianClick={handleMathematicianClick}
           />
           

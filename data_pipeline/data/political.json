@@ -1,0 +1,662 @@
+[
+  {
+    "id": "great_northern_war_1700",
+    "year": 1700,
+    "headline": "Great Northern War begins",
+    "description": "Major conflict between Russian and Swedish Empires affecting Northern European politics and trade",
+    "location": {
+      "region": "Northern Europe",
+      "primary_location": "Baltic Sea region",
+      "coordinates": {"lat": 59.3293, "lng": 18.0686}
+    },
+    "category": "war",
+    "impact_on_science": "Disrupts academic exchange between Nordic countries and affects funding for scientific institutions",
+    "wiki_link": "https://en.wikipedia.org/wiki/Great_Northern_War",
+    "relevance_score": 0.7
+  },
+  {
+    "id": "kingdom_prussia_1701",
+    "year": 1701,
+    "headline": "Kingdom of Prussia declared",
+    "description": "Frederick I establishes Kingdom of Prussia, creating new center of political and academic power",
+    "location": {
+      "region": "Central Europe",
+      "primary_location": "Berlin",
+      "coordinates": {"lat": 52.5200, "lng": 13.4050}
+    },
+    "category": "political_change",
+    "impact_on_science": "Establishes Berlin as emerging center for mathematics and science, future home to Berlin Academy",
+    "wiki_link": "https://en.wikipedia.org/wiki/Kingdom_of_Prussia",
+    "relevance_score": 0.9
+  },
+  {
+    "id": "war_spanish_succession_1701",
+    "year": 1701,
+    "headline": "War of Spanish Succession begins",
+    "description": "Continental European war involving most major powers over Spanish throne",
+    "location": {
+      "region": "Western Europe",
+      "primary_location": "Spain/France",
+      "coordinates": {"lat": 48.8566, "lng": 2.3522}
+    },
+    "category": "war",
+    "impact_on_science": "Disrupts communication and travel between European scientific centers",
+    "wiki_link": "https://en.wikipedia.org/wiki/War_of_the_Spanish_Succession",
+    "relevance_score": 0.6
+  },
+  {
+    "id": "st_petersburg_founded_1703",
+    "year": 1703,
+    "headline": "St. Petersburg founded by Peter the Great",
+    "description": "New Russian capital established, becomes center of scientific academy and mathematical excellence",
+    "location": {
+      "region": "Eastern Europe",
+      "primary_location": "St. Petersburg",
+      "coordinates": {"lat": 59.9311, "lng": 30.3609}
+    },
+    "category": "city_founding",
+    "impact_on_science": "Creates major new center for mathematics - future home to Euler and St. Petersburg Academy",
+    "wiki_link": "https://en.wikipedia.org/wiki/Saint_Petersburg",
+    "relevance_score": 1.0
+  },
+  {
+    "id": "act_union_1707",
+    "year": 1707,
+    "headline": "Act of Union creates Kingdom of Great Britain",
+    "description": "Scottish and English Parliaments merge, establishing unified British academic and scientific institutions",
+    "location": {
+      "region": "British Isles",
+      "primary_location": "London",
+      "coordinates": {"lat": 51.5074, "lng": -0.1278}
+    },
+    "category": "political_change",
+    "impact_on_science": "Unifies British scientific institutions, strengthens Royal Society and university system",
+    "wiki_link": "https://en.wikipedia.org/wiki/Act_of_Union_1707",
+    "relevance_score": 0.8
+  },
+  {
+    "id": "aurangzeb_death_1707",
+    "year": 1707,
+    "headline": "Death of Mughal Emperor Aurangzeb",
+    "description": "Fragmentation of Mughal Empire begins, affecting trade and scientific exchange with Europe",
+    "location": {
+      "region": "South Asia",
+      "primary_location": "Delhi",
+      "coordinates": {"lat": 28.6139, "lng": 77.2090}
+    },
+    "category": "political_change",
+    "impact_on_science": "Affects Indo-European mathematical and astronomical knowledge exchange",
+    "wiki_link": "https://en.wikipedia.org/wiki/Aurangzeb",
+    "relevance_score": 0.4
+  },
+  {
+    "id": "great_frost_1709",
+    "year": 1709,
+    "headline": "Great Frost of 1709",
+    "description": "Coldest winter in 500 years affects European politics and contributes to Swedish defeat",
+    "location": {
+      "region": "Europe",
+      "primary_location": "Continental Europe",
+      "coordinates": {"lat": 50.0, "lng": 10.0}
+    },
+    "category": "natural_disaster",
+    "impact_on_science": "Extreme weather affects travel and communication between European academies",
+    "wiki_link": "https://en.wikipedia.org/wiki/Great_Frost_of_1709",
+    "relevance_score": 0.5
+  },
+  {
+    "id": "statute_anne_1710",
+    "year": 1710,
+    "headline": "World's first copyright legislation enacted",
+    "description": "Britain's Statute of Anne establishes intellectual property rights",
+    "location": {
+      "region": "British Isles",
+      "primary_location": "London",
+      "coordinates": {"lat": 51.5074, "lng": -0.1278}
+    },
+    "category": "legal_change",
+    "impact_on_science": "Protects scientific and mathematical publications, encourages scholarly writing",
+    "wiki_link": "https://en.wikipedia.org/wiki/Statute_of_Anne",
+    "relevance_score": 0.8
+  },
+  {
+    "id": "treaty_nystad_1721",
+    "year": 1721,
+    "headline": "Treaty of Nystad ends Great Northern War",
+    "description": "Russia emerges as major European power, consolidates control over Baltic region",
+    "location": {
+      "region": "Northern Europe",
+      "primary_location": "Nystad (Finland)",
+      "coordinates": {"lat": 60.4678, "lng": 21.6067}
+    },
+    "category": "treaty",
+    "impact_on_science": "Stabilizes Northern Europe, allows resumption of academic exchange and travel",
+    "wiki_link": "https://en.wikipedia.org/wiki/Treaty_of_Nystad",
+    "relevance_score": 0.7
+  },
+  {
+    "id": "peter_great_reforms_1723",
+    "year": 1723,
+    "headline": "Peter the Great abolishes slavery in Russia",
+    "description": "Major social reform converts household slaves to serfs",
+    "location": {
+      "region": "Eastern Europe",
+      "primary_location": "St. Petersburg",
+      "coordinates": {"lat": 59.9311, "lng": 30.3609}
+    },
+    "category": "social_reform",
+    "impact_on_science": "Part of broader Russian modernization that includes founding of Academy of Sciences",
+    "wiki_link": "https://en.wikipedia.org/wiki/Peter_the_Great",
+    "relevance_score": 0.6
+  },
+  {
+    "id": "catherine_i_death_1727",
+    "year": 1727,
+    "headline": "Catherine I dies, Peter II becomes Tsar",
+    "description": "Political instability as 11-year-old becomes Russian ruler",
+    "location": {
+      "region": "Eastern Europe",
+      "primary_location": "St. Petersburg",
+      "coordinates": {"lat": 59.9311, "lng": 30.3609}
+    },
+    "category": "royal_succession",
+    "impact_on_science": "Academy of Sciences seeks stability by recruiting foreign mathematicians like Euler",
+    "wiki_link": "https://en.wikipedia.org/wiki/Catherine_I_of_Russia",
+    "relevance_score": 0.9
+  },
+  {
+    "id": "anglo_spanish_war_1727",
+    "year": 1727,
+    "headline": "Anglo-Spanish War begins",
+    "description": "Maritime conflict between Britain and Spain over trade routes",
+    "location": {
+      "region": "Atlantic Ocean",
+      "primary_location": "Gibraltar",
+      "coordinates": {"lat": 36.1408, "lng": -5.3536}
+    },
+    "category": "war",
+    "impact_on_science": "Affects transatlantic scientific communication and specimen collection",
+    "wiki_link": "https://en.wikipedia.org/wiki/Anglo-Spanish_War_(1727–1729)",
+    "relevance_score": 0.4
+  },
+  {
+    "id": "first_great_awakening_1730",
+    "year": 1730,
+    "headline": "First Great Awakening begins",
+    "description": "Religious revival movement in Britain and North America",
+    "location": {
+      "region": "British Isles/North America",
+      "primary_location": "London",
+      "coordinates": {"lat": 51.5074, "lng": -0.1278}
+    },
+    "category": "religious_movement",
+    "impact_on_science": "Influences intellectual climate and relationship between science and religion",
+    "wiki_link": "https://en.wikipedia.org/wiki/First_Great_Awakening",
+    "relevance_score": 0.5
+  },
+  {
+    "id": "war_polish_succession_1733",
+    "year": 1733,
+    "headline": "War of Polish Succession begins",
+    "description": "European powers fight over Polish throne succession",
+    "location": {
+      "region": "Central Europe",
+      "primary_location": "Warsaw",
+      "coordinates": {"lat": 52.2297, "lng": 21.0122}
+    },
+    "category": "war",
+    "impact_on_science": "Disrupts Central European academic networks and universities",
+    "wiki_link": "https://en.wikipedia.org/wiki/War_of_the_Polish_Succession",
+    "relevance_score": 0.6
+  },
+  {
+    "id": "qianlong_emperor_1735",
+    "year": 1735,
+    "headline": "Qianlong Emperor begins 60-year reign",
+    "description": "High Qing era of cultural and territorial expansion begins",
+    "location": {
+      "region": "East Asia",
+      "primary_location": "Beijing",
+      "coordinates": {"lat": 39.9042, "lng": 116.4074}
+    },
+    "category": "royal_succession",
+    "impact_on_science": "Golden age of Chinese science and mathematics, Jesuit scientific exchange",
+    "wiki_link": "https://en.wikipedia.org/wiki/Qianlong_Emperor",
+    "relevance_score": 0.7
+  },
+  {
+    "id": "nader_shah_delhi_1739",
+    "year": 1739,
+    "headline": "Nader Shah sacks Delhi",
+    "description": "Persian invasion of Mughal India, massive wealth transfer",
+    "location": {
+      "region": "South Asia",
+      "primary_location": "Delhi",
+      "coordinates": {"lat": 28.6139, "lng": 77.2090}
+    },
+    "category": "military_conquest",
+    "impact_on_science": "Disrupts Indo-Persian mathematical and astronomical traditions",
+    "wiki_link": "https://en.wikipedia.org/wiki/Nader_Shah",
+    "relevance_score": 0.5
+  },
+  {
+    "id": "war_jenkins_ear_1739",
+    "year": 1739,
+    "headline": "War of Jenkins' Ear begins",
+    "description": "Britain and Spain fight in Caribbean over trade disputes",
+    "location": {
+      "region": "Caribbean",
+      "primary_location": "Caribbean Sea",
+      "coordinates": {"lat": 15.0, "lng": -75.0}
+    },
+    "category": "war",
+    "impact_on_science": "Affects colonial scientific expeditions and natural history collection",
+    "wiki_link": "https://en.wikipedia.org/wiki/War_of_Jenkins'_Ear",
+    "relevance_score": 0.4
+  },
+  {
+    "id": "irish_famine_1740",
+    "year": 1740,
+    "headline": "Great Irish Famine kills 20% of population",
+    "description": "Devastating famine affects Irish population and economy",
+    "location": {
+      "region": "British Isles",
+      "primary_location": "Dublin",
+      "coordinates": {"lat": 53.3498, "lng": -6.2603}
+    },
+    "category": "natural_disaster",
+    "impact_on_science": "Affects Trinity College Dublin and Irish intellectual life",
+    "wiki_link": "https://en.wikipedia.org/wiki/Great_Irish_Famine_(1740–1741)",
+    "relevance_score": 0.6
+  },
+  {
+    "id": "war_austrian_succession_1740",
+    "year": 1740,
+    "headline": "War of Austrian Succession begins",
+    "description": "Major European conflict over Habsburg succession",
+    "location": {
+      "region": "Central Europe",
+      "primary_location": "Vienna",
+      "coordinates": {"lat": 48.2082, "lng": 16.3738}
+    },
+    "category": "war",
+    "impact_on_science": "Disrupts German and Austrian universities, affects Habsburg patronage of sciences",
+    "wiki_link": "https://en.wikipedia.org/wiki/War_of_the_Austrian_Succession",
+    "relevance_score": 0.7
+  },
+  {
+    "id": "first_saudi_state_1744",
+    "year": 1744,
+    "headline": "First Saudi State founded",
+    "description": "Mohammed Ibn Saud establishes Wahhabi state in Arabian Peninsula",
+    "location": {
+      "region": "Arabian Peninsula",
+      "primary_location": "Riyadh",
+      "coordinates": {"lat": 24.7136, "lng": 46.6753}
+    },
+    "category": "state_founding",
+    "impact_on_science": "Affects Islamic mathematical and astronomical traditions in Arabia",
+    "wiki_link": "https://en.wikipedia.org/wiki/First_Saudi_State",
+    "relevance_score": 0.3
+  },
+  {
+    "id": "jacobite_rising_1745",
+    "year": 1745,
+    "headline": "Second Jacobite Rising begins",
+    "description": "Charles Edward Stuart leads Scottish revolt against British rule",
+    "location": {
+      "region": "British Isles",
+      "primary_location": "Edinburgh",
+      "coordinates": {"lat": 55.9533, "lng": -3.1883}
+    },
+    "category": "rebellion",
+    "impact_on_science": "Disrupts Scottish universities and intellectual life",
+    "wiki_link": "https://en.wikipedia.org/wiki/Jacobite_rising_of_1745",
+    "relevance_score": 0.6
+  },
+  {
+    "id": "treaty_aix_la_chapelle_1748",
+    "year": 1748,
+    "headline": "Treaty of Aix-la-Chapelle ends War of Austrian Succession",
+    "description": "Peace treaty restores stability to Central Europe",
+    "location": {
+      "region": "Western Europe",
+      "primary_location": "Aachen",
+      "coordinates": {"lat": 50.7753, "lng": 6.0839}
+    },
+    "category": "treaty",
+    "impact_on_science": "Allows resumption of academic travel and correspondence across Europe",
+    "wiki_link": "https://en.wikipedia.org/wiki/Treaty_of_Aix-la-Chapelle_(1748)",
+    "relevance_score": 0.7
+  },
+  {
+    "id": "little_ice_age_peak_1750",
+    "year": 1750,
+    "headline": "Peak of Little Ice Age",
+    "description": "Coldest period of Little Ice Age affects global climate",
+    "location": {
+      "region": "Global",
+      "primary_location": "Northern Hemisphere",
+      "coordinates": {"lat": 60.0, "lng": 0.0}
+    },
+    "category": "climate_event",
+    "impact_on_science": "Stimulates interest in meteorology and climate observation",
+    "wiki_link": "https://en.wikipedia.org/wiki/Little_Ice_Age",
+    "relevance_score": 0.6
+  },
+  {
+    "id": "british_calendar_reform_1752",
+    "year": 1752,
+    "headline": "Britain adopts Gregorian Calendar",
+    "description": "British Empire switches calendars, skipping 11 days",
+    "location": {
+      "region": "British Empire",
+      "primary_location": "London",
+      "coordinates": {"lat": 51.5074, "lng": -0.1278}
+    },
+    "category": "calendar_reform",
+    "impact_on_science": "Standardizes dating system for British scientific observations and correspondence",
+    "wiki_link": "https://en.wikipedia.org/wiki/Gregorian_Calendar",
+    "relevance_score": 0.8
+  },
+  {
+    "id": "french_indian_war_1754",
+    "year": 1754,
+    "headline": "French and Indian War begins",
+    "description": "North American theater of Seven Years' War begins",
+    "location": {
+      "region": "North America",
+      "primary_location": "Great Lakes region",
+      "coordinates": {"lat": 45.0, "lng": -84.0}
+    },
+    "category": "war",
+    "impact_on_science": "Affects colonial scientific expeditions and natural history studies",
+    "wiki_link": "https://en.wikipedia.org/wiki/French_and_Indian_War",
+    "relevance_score": 0.5
+  },
+  {
+    "id": "lisbon_earthquake_1755",
+    "year": 1755,
+    "headline": "Great Lisbon Earthquake",
+    "description": "Devastating earthquake destroys Lisbon, kills up to 100,000",
+    "location": {
+      "region": "Iberian Peninsula",
+      "primary_location": "Lisbon",
+      "coordinates": {"lat": 38.7223, "lng": -9.1393}
+    },
+    "category": "natural_disaster",
+    "impact_on_science": "Stimulates early seismology studies and Enlightenment philosophical debates",
+    "wiki_link": "https://en.wikipedia.org/wiki/1755_Lisbon_earthquake",
+    "relevance_score": 0.7
+  },
+  {
+    "id": "seven_years_war_1756",
+    "year": 1756,
+    "headline": "Seven Years' War begins",
+    "description": "Global conflict involving all European great powers",
+    "location": {
+      "region": "Global",
+      "primary_location": "Europe",
+      "coordinates": {"lat": 52.0, "lng": 5.0}
+    },
+    "category": "war",
+    "impact_on_science": "Major disruption to European academic networks and scientific correspondence",
+    "wiki_link": "https://en.wikipedia.org/wiki/Seven_Years'_War",
+    "relevance_score": 0.8
+  },
+  {
+    "id": "british_conquest_bengal_1757",
+    "year": 1757,
+    "headline": "British conquest of Bengal",
+    "description": "Battle of Plassey establishes British dominance in India",
+    "location": {
+      "region": "South Asia",
+      "primary_location": "Kolkata",
+      "coordinates": {"lat": 22.5726, "lng": 88.3639}
+    },
+    "category": "military_conquest",
+    "impact_on_science": "Begins systematic British collection of Indian mathematical and scientific knowledge",
+    "wiki_link": "https://en.wikipedia.org/wiki/Battle_of_Plassey",
+    "relevance_score": 0.6
+  },
+  {
+    "id": "george_iii_coronation_1760",
+    "year": 1760,
+    "headline": "George III becomes King of Britain",
+    "description": "New monarch begins 60-year reign during scientific revolution",
+    "location": {
+      "region": "British Isles",
+      "primary_location": "London",
+      "coordinates": {"lat": 51.5074, "lng": -0.1278}
+    },
+    "category": "royal_succession",
+    "impact_on_science": "Patron of Royal Society and supporter of scientific expeditions",
+    "wiki_link": "https://en.wikipedia.org/wiki/George_III",
+    "relevance_score": 0.7
+  },
+  {
+    "id": "panipat_battle_1761",
+    "year": 1761,
+    "headline": "Battle of Panipat",
+    "description": "Maratha Empire suffers major defeat, reshapes Indian politics",
+    "location": {
+      "region": "South Asia",
+      "primary_location": "Panipat",
+      "coordinates": {"lat": 29.3909, "lng": 76.9635}
+    },
+    "category": "military_battle",
+    "impact_on_science": "Affects Indian mathematical traditions and astronomical schools",
+    "wiki_link": "https://en.wikipedia.org/wiki/Third_Battle_of_Panipat",
+    "relevance_score": 0.4
+  },
+  {
+    "id": "catherine_great_reign_1762",
+    "year": 1762,
+    "headline": "Catherine the Great begins reign",
+    "description": "Catherine II becomes Empress of Russia, rules until 1796",
+    "location": {
+      "region": "Eastern Europe",
+      "primary_location": "St. Petersburg",
+      "coordinates": {"lat": 59.9311, "lng": 30.3609}
+    },
+    "category": "royal_succession",
+    "impact_on_science": "Major patron of sciences, expands St. Petersburg Academy, recruits Euler back",
+    "wiki_link": "https://en.wikipedia.org/wiki/Catherine_II_of_Russia",
+    "relevance_score": 1.0
+  },
+  {
+    "id": "treaty_paris_1763",
+    "year": 1763,
+    "headline": "Treaty of Paris ends Seven Years' War",
+    "description": "Peace treaty reshapes global colonial empires",
+    "location": {
+      "region": "Western Europe",
+      "primary_location": "Paris",
+      "coordinates": {"lat": 48.8566, "lng": 2.3522}
+    },
+    "category": "treaty",
+    "impact_on_science": "Restores peaceful academic exchange across Europe, enables scientific expeditions",
+    "wiki_link": "https://en.wikipedia.org/wiki/Treaty_of_Paris_(1763)",
+    "relevance_score": 0.8
+  },
+  {
+    "id": "stamp_act_1765",
+    "year": 1765,
+    "headline": "Stamp Act imposed on American colonies",
+    "description": "British taxation leads to colonial resistance movement",
+    "location": {
+      "region": "North America",
+      "primary_location": "Boston",
+      "coordinates": {"lat": 42.3601, "lng": -71.0589}
+    },
+    "category": "political_crisis",
+    "impact_on_science": "Affects American colonial colleges and scientific societies",
+    "wiki_link": "https://en.wikipedia.org/wiki/Stamp_Act_1765",
+    "relevance_score": 0.5
+  },
+  {
+    "id": "christian_vii_denmark_1766",
+    "year": 1766,
+    "headline": "Christian VII becomes King of Denmark",
+    "description": "New Danish monarch begins reign amid enlightenment reforms",
+    "location": {
+      "region": "Northern Europe",
+      "primary_location": "Copenhagen",
+      "coordinates": {"lat": 55.6761, "lng": 12.5683}
+    },
+    "category": "royal_succession",
+    "impact_on_science": "Supports Danish scientific institutions and Arctic expeditions",
+    "wiki_link": "https://en.wikipedia.org/wiki/Christian_VII_of_Denmark",
+    "relevance_score": 0.6
+  },
+  {
+    "id": "russo_turkish_war_1768",
+    "year": 1768,
+    "headline": "Russo-Turkish War begins",
+    "description": "Russia and Ottoman Empire clash over Black Sea control",
+    "location": {
+      "region": "Eastern Europe",
+      "primary_location": "Black Sea",
+      "coordinates": {"lat": 43.0, "lng": 35.0}
+    },
+    "category": "war",
+    "impact_on_science": "Affects Eastern European academic networks and travel routes",
+    "wiki_link": "https://en.wikipedia.org/wiki/Russo-Turkish_War_(1768–1774)",
+    "relevance_score": 0.6
+  },
+  {
+    "id": "cook_new_zealand_1769",
+    "year": 1769,
+    "headline": "James Cook explores New Zealand and Australia",
+    "description": "First European mapping of New Zealand and Australian coast",
+    "location": {
+      "region": "Oceania",
+      "primary_location": "New Zealand",
+      "coordinates": {"lat": -40.9006, "lng": 174.8860}
+    },
+    "category": "exploration",
+    "impact_on_science": "Major scientific expedition advancing navigation, botany, and cartography",
+    "wiki_link": "https://en.wikipedia.org/wiki/James_Cook",
+    "relevance_score": 0.8
+  },
+  {
+    "id": "bengal_famine_1769",
+    "year": 1769,
+    "headline": "Bengal Famine kills one-third of population",
+    "description": "Devastating famine under British East India Company rule",
+    "location": {
+      "region": "South Asia",
+      "primary_location": "Bengal",
+      "coordinates": {"lat": 23.6850, "lng": 90.3563}
+    },
+    "category": "natural_disaster",
+    "impact_on_science": "Affects Indian mathematical and scientific communities",
+    "wiki_link": "https://en.wikipedia.org/wiki/Bengal_famine_of_1770",
+    "relevance_score": 0.4
+  },
+  {
+    "id": "gustav_iii_coup_1772",
+    "year": 1772,
+    "headline": "Gustav III stages coup in Sweden",
+    "description": "Swedish king becomes absolute monarch after bloodless coup",
+    "location": {
+      "region": "Northern Europe",
+      "primary_location": "Stockholm",
+      "coordinates": {"lat": 59.3293, "lng": 18.0686}
+    },
+    "category": "political_coup",
+    "impact_on_science": "Affects Swedish Academy of Sciences and Linnean institutions",
+    "wiki_link": "https://en.wikipedia.org/wiki/Gustav_III",
+    "relevance_score": 0.6
+  },
+  {
+    "id": "partition_poland_1772",
+    "year": 1772,
+    "headline": "First Partition of Poland",
+    "description": "Austria, Prussia, and Russia divide Polish territory",
+    "location": {
+      "region": "Central Europe",
+      "primary_location": "Warsaw",
+      "coordinates": {"lat": 52.2297, "lng": 21.0122}
+    },
+    "category": "territorial_partition",
+    "impact_on_science": "Disrupts Polish universities and forces migration of scholars",
+    "wiki_link": "https://en.wikipedia.org/wiki/Partitions_of_Poland",
+    "relevance_score": 0.7
+  },
+  {
+    "id": "pugachev_rebellion_1773",
+    "year": 1773,
+    "headline": "Pugachev's Rebellion begins",
+    "description": "Largest peasant revolt in Russian history",
+    "location": {
+      "region": "Eastern Europe",
+      "primary_location": "Volga region",
+      "coordinates": {"lat": 53.2415, "lng": 50.2212}
+    },
+    "category": "rebellion",
+    "impact_on_science": "Threatens stability of Russian Empire and Academy of Sciences",
+    "wiki_link": "https://en.wikipedia.org/wiki/Pugachev's_Rebellion",
+    "relevance_score": 0.6
+  },
+  {
+    "id": "american_revolution_1775",
+    "year": 1775,
+    "headline": "American Revolutionary War begins",
+    "description": "Thirteen Colonies rebel against British rule",
+    "location": {
+      "region": "North America",
+      "primary_location": "Boston",
+      "coordinates": {"lat": 42.3601, "lng": -71.0589}
+    },
+    "category": "revolution",
+    "impact_on_science": "Involves scientist-politicians like Franklin, affects transatlantic scientific exchange",
+    "wiki_link": "https://en.wikipedia.org/wiki/American_Revolutionary_War",
+    "relevance_score": 0.7
+  },
+  {
+    "id": "declaration_independence_1776",
+    "year": 1776,
+    "headline": "United States Declaration of Independence",
+    "description": "American colonies declare independence from Britain",
+    "location": {
+      "region": "North America",
+      "primary_location": "Philadelphia",
+      "coordinates": {"lat": 39.9526, "lng": -75.1652}
+    },
+    "category": "political_declaration",
+    "impact_on_science": "Creates new nation with emphasis on scientific progress and education",
+    "wiki_link": "https://en.wikipedia.org/wiki/United_States_Declaration_of_Independence",
+    "relevance_score": 0.7
+  },
+  {
+    "id": "wealth_nations_1776",
+    "year": 1776,
+    "headline": "Adam Smith publishes The Wealth of Nations",
+    "description": "Foundational work of modern economics published",
+    "location": {
+      "region": "British Isles",
+      "primary_location": "Edinburgh",
+      "coordinates": {"lat": 55.9533, "lng": -3.1883}
+    },
+    "category": "intellectual_milestone",
+    "impact_on_science": "Establishes political economy as scientific discipline",
+    "wiki_link": "https://en.wikipedia.org/wiki/The_Wealth_of_Nations",
+    "relevance_score": 0.8
+  },
+  {
+    "id": "franco_american_alliance_1778",
+    "year": 1778,
+    "headline": "Franco-American Alliance signed",
+    "description": "France enters American Revolutionary War against Britain",
+    "location": {
+      "region": "Western Europe",
+      "primary_location": "Paris",
+      "coordinates": {"lat": 48.8566, "lng": 2.3522}
+    },
+    "category": "military_alliance",
+    "impact_on_science": "Facilitates French-American scientific cooperation, Franklin's diplomatic role",
+    "wiki_link": "https://en.wikipedia.org/wiki/Franco-American_alliance",
+    "relevance_score": 0.7
+  }
+]
