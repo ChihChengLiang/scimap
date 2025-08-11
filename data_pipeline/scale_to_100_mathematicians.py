@@ -3,10 +3,8 @@
 
 import json
 import os
-import time
-import shutil
 from datetime import datetime
-from typing import List, Dict, Optional
+from typing import List, Dict
 from scrapers.wikidata_sparql import WikidataSPARQLExtractor
 from scrapers.wikipedia_scraper import WikipediaScraper
 from scrapers.pageview_scraper import PageViewScraper

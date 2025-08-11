@@ -4,7 +4,8 @@
       "Bash(mkdir:*)",
       "Bash(pip install:*)",
       "Bash(python test:*)",
-      "Bash(grep:*)"
+      "Bash(grep:*)",
+      "Bash(sed:*)"
     ],
     "deny": []
   }
