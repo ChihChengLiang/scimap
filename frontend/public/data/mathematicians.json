@@ -1293,7 +1293,7 @@
         "event_type": "birth",
         "description": "Born at Clessous in the Portes, department of Gard, France.",
         "location": {
-          "place_name": "Clessous",
+          "place_name": "Portes, Gard",
           "raw_text": "Born at Clessous in the Portes, department of Gard.",
           "confidence": 1.0
         },
@@ -3695,7 +3695,7 @@
         "event_type": "birth",
         "description": "Born in Lincolnshire, England.",
         "location": {
-          "place_name": "Ashby-with-Fenby, Lincolnshire",
+          "place_name": "Ashby-cum-Fenby, Lincolnshire",
           "raw_text": "John Rowning was the son of a namesake from Ashby-with-Fenby, Lincolnshire",
           "confidence": 0.95
         },
@@ -5988,7 +5988,7 @@
         "event_type": "position",
         "description": "Euler moves to Berlin and becomes Professor of Mathematics at the University of Berlin.",
         "location": {
-          "place_name": "Berlin, Prussia (Germany)",
+          "place_name": "Berlin",
           "raw_text": "Euler moves to Berlin and becomes Professor of Mathematics at the University of Berlin.",
           "confidence": 0.95
         },
@@ -6007,7 +6007,7 @@
         "event_type": "publication",
         "description": "Euler publishes 'Introductio in analysin infinitorum' (Introduction to Analysis of the Infinite), a foundational work on calculus.",
         "location": {
-          "place_name": "Berlin, Prussia (Germany)",
+          "place_name": "Berlin",
           "raw_text": "Euler publishes 'Introductio in analysin infinitorum' (Introduction to Analysis of the Infinite).",
           "confidence": 0.95
         },
@@ -6026,7 +6026,7 @@
         "event_type": "publication",
         "description": "Euler publishes his first paper on the inverse problem of astronomy.",
         "location": {
-          "place_name": "Berlin, Prussia (Germany)",
+          "place_name": "Berlin",
           "raw_text": "Euler publishes his first paper on the inverse problem of astronomy.",
           "confidence": 0.95
         },
@@ -6045,7 +6045,7 @@
         "event_type": "publication",
         "description": "Euler publishes his work on the law of cosines.",
         "location": {
-          "place_name": "Berlin, Prussia (Germany)",
+          "place_name": "Berlin",
           "raw_text": "Euler publishes his work on the law of cosines.",
           "confidence": 0.95
         },
@@ -6064,7 +6064,7 @@
         "event_type": "position",
         "description": "Euler is elected as a member of the Berlin Academy of Sciences.",
         "location": {
-          "place_name": "Berlin, Prussia (Germany)",
+          "place_name": "Berlin",
           "raw_text": "Euler is elected as a member of the Berlin Academy of Sciences.",
           "confidence": 0.95
         },
@@ -6083,7 +6083,7 @@
         "event_type": "position",
         "description": "Euler serves as director of the Mathematical Society in Berlin.",
         "location": {
-          "place_name": "Berlin, Prussia (Germany)",
+          "place_name": "Berlin",
           "raw_text": "Euler serves as director of the Mathematical Society in Berlin.",
           "confidence": 0.95
         },
@@ -6102,7 +6102,7 @@
         "event_type": "publication",
         "description": "Euler publishes his work on the general equation of conic sections.",
         "location": {
-          "place_name": "Berlin, Prussia (Germany)",
+          "place_name": "Berlin",
           "raw_text": "Euler publishes his work on the general equation of conic sections.",
           "confidence": 0.95
         },
@@ -6121,7 +6121,7 @@
         "event_type": "publication",
         "description": "Euler publishes his work on the solution of cubic equations.",
         "location": {
-          "place_name": "Berlin, Prussia (Germany)",
+          "place_name": "Berlin",
           "raw_text": "Euler publishes his work on the solution of cubic equations.",
           "confidence": 0.95
         },
@@ -6178,7 +6178,7 @@
         "event_type": "travel",
         "description": "Euler returns to Berlin and becomes president of the Royal Society.",
         "location": {
-          "place_name": "Berlin, Prussia (Germany)",
+          "place_name": "Berlin",
           "raw_text": "Euler returns to Berlin and becomes president of the Royal Society.",
           "confidence": 0.95
         },
@@ -6197,7 +6197,7 @@
         "event_type": "publication",
         "description": "Euler publishes his work on the fundamental theorem of algebra.",
         "location": {
-          "place_name": "Berlin, Prussia (Germany)",
+          "place_name": "Berlin",
           "raw_text": "Euler publishes his work on the fundamental theorem of algebra.",
           "confidence": 0.95
         },
@@ -8606,7 +8606,7 @@
         "event_type": "birth",
         "description": "Born in Castiglione del Valdarno, Grand Duchy of Tuscany.",
         "location": {
-          "place_name": "Castiglione del Valdarno",
+          "place_name": "Castiglion Fibocchi",
           "raw_text": "15 January 1708 in Castiglione del Valdarno",
           "confidence": 1.0
         },
@@ -16075,7 +16075,7 @@
         "event_type": "education",
         "description": "Graduated from the College of Louis le Grand.",
         "location": {
-          "place_name": "College of Louis le Grand",
+          "place_name": "Paris",
           "raw_text": "graduated at the College of Louis le Grand",
           "confidence": 0.95
         },
@@ -16132,7 +16132,7 @@
         "event_type": "position",
         "description": "Elected a pensionary member of the French Academy of Sciences.",
         "location": {
-          "place_name": "French Academy of Sciences",
+          "place_name": "Paris",
           "raw_text": "elected him a pensionary member",
           "confidence": 0.95
         },
@@ -21010,7 +21010,7 @@
         "event_type": "position",
         "description": "Became secretary of the cabinet of Madame Victoire.",
         "location": {
-          "place_name": "Cabinet of Madame Victoire",
+          "place_name": "Paris",
           "raw_text": "Leblond kept this job until 1778, when he became secretary of the cabinet of Madame Victoire.",
           "confidence": 0.95
         },
@@ -21029,7 +21029,7 @@
         "event_type": "position",
         "description": "Continued as secretary of the cabinet of Madame Victoire.",
         "location": {
-          "place_name": "Cabinet of Madame Victoire",
+          "place_name": "Paris",
           "raw_text": "Leblond kept this job until 1778, when he became secretary of the cabinet of Madame Victoire.",
           "confidence": 0.95
         },
