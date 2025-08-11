@@ -24,7 +24,7 @@ import {
   MenuBook as BookIcon,
   Flight as FlightIcon,
   Person as PersonIcon,
-  Timeline as TimelineIcon,
+  AccessTime as TimelineIconMaterial,
   Group as GroupIcon,
   EmojiEvents as AwardIcon
 } from '@mui/icons-material';
@@ -39,7 +39,8 @@ const EVENT_ICONS: Record<string, any> = {
   death: PersonIcon,
   collaboration: GroupIcon,
   award: AwardIcon,
-  other: TimelineIcon
+  career: WorkIcon,
+  other: TimelineIconMaterial
 };
 
 const EVENT_COLORS: Record<string, string> = {
@@ -51,6 +52,7 @@ const EVENT_COLORS: Record<string, string> = {
   death: '#f44336',
   collaboration: '#e91e63',
   award: '#ffc107',
+  career: '#ff6b35',
   other: '#607d8b'
 };
 
@@ -159,7 +161,7 @@ const MathematicianPanel: React.FC<MathematicianPanelProps> = ({
         {/* Timeline Events */}
         <Box p={3}>
           <Typography variant="h6" sx={{ color: '#2c3e50', mb: 2 }} display="flex" alignItems="center" gap={1}>
-            <TimelineIcon fontSize="small" />
+            <TimelineIconMaterial fontSize="small" />
             Timeline Events
           </Typography>
           
@@ -172,13 +174,13 @@ const MathematicianPanel: React.FC<MathematicianPanelProps> = ({
                   return yearA - yearB;
                 })
                 .map((event, index) => {
-                  const IconComponent = EVENT_ICONS[event.event_type];
+                  const IconComponent = EVENT_ICONS[event.event_type] || EVENT_ICONS.other;
                   const locationInfo = getLocationInfo(event);
                   
                   return (
                     <TimelineItem key={index}>
                       <TimelineSeparator>
-                        <TimelineDot sx={{ backgroundColor: EVENT_COLORS[event.event_type] }}>
+                        <TimelineDot sx={{ backgroundColor: EVENT_COLORS[event.event_type] || EVENT_COLORS.other }}>
                           <IconComponent sx={{ fontSize: 16, color: 'white' }} />
                         </TimelineDot>
                         {index < mathematician.timeline_events.length - 1 && (
