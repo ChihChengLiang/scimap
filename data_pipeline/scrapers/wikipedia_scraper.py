@@ -163,11 +163,5 @@ class WikipediaScraper:
             print(f"Saved: {output_file}")
 
 if __name__ == "__main__":
-    # Example usage
-    from config.mathematicians import TIER_1_MATHEMATICIANS
-    
-    scraper = WikipediaScraper(delay=1.5)  # Be respectful with rate limiting
-    output_dir = "data/raw/wikipedia"
-    
-    print("Starting Wikipedia scraping for Tier 1 mathematicians...")
-    scraper.scrape_all_mathematicians(TIER_1_MATHEMATICIANS, output_dir)
+    print("This script is now used as a module by the main pipeline.")
+    print("Run main_pipeline.py instead.")

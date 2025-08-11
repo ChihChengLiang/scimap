@@ -70,4 +70,5 @@ def convert_political_data():
     return len(frontend_political_data)
 
 if __name__ == "__main__":
-    convert_political_data()
+    print("This script is now used as a module by the main pipeline.")
+    print("Run main_pipeline.py instead.")

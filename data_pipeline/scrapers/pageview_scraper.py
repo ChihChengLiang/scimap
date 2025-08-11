@@ -148,21 +148,5 @@ class PageViewScraper:
             return False
 
 if __name__ == "__main__":
-    import os
-    import glob
-    
-    scraper = PageViewScraper(delay=0.2)  # Respectful rate limiting
-    
-    # Update all mathematician files with page view data
-    data_dir = "data/raw/wikipedia"
-    if os.path.exists(data_dir):
-        json_files = glob.glob(os.path.join(data_dir, "*.json"))
-        
-        print(f"Found {len(json_files)} mathematician files to update...")
-        
-        for json_file in json_files:
-            print(f"\nUpdating: {json_file}")
-            scraper.update_mathematician_data_with_pageviews(json_file)
-    else:
-        print(f"Data directory not found: {data_dir}")
-        print("Please run wikipedia_scraper.py first")
+    print("This script is now used as a module by the main pipeline.")
+    print("Run main_pipeline.py instead.")

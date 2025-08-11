@@ -145,4 +145,5 @@ def main():
             print("Run the script again to process more locations.")
 
 if __name__ == "__main__":
-    main()
+    print("This script is now used as a module by the main pipeline.")
+    print("Run main_pipeline.py instead.")

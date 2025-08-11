@@ -148,4 +148,5 @@ def get_mathematician_list():
     return config_file, mathematician_config
 
 if __name__ == "__main__":
-    get_mathematician_list()
+    print("This script is now used as a module by the main pipeline.")
+    print("Run main_pipeline.py instead.")

@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Scale to 100 mathematicians with progress tracking and robust error handling"""
+"""Main data pipeline with progress tracking and robust error handling"""
 
 import json
 import os
@@ -9,6 +9,8 @@ from scrapers.wikidata_sparql import WikidataSPARQLExtractor
 from scrapers.wikipedia_scraper import WikipediaScraper
 from scrapers.pageview_scraper import PageViewScraper
 from processors.lm_studio_extractor import LMStudioTimelineExtractor
+from convert_political_data import convert_political_data
+from populate_locations_batch import find_missing_locations, geocode_location_simple
 
 # Progress bar
 try:
@@ -27,9 +29,9 @@ class MathematicianPipeline:
         self.llm_extractor = LMStudioTimelineExtractor()
         
         # Create directories
-        os.makedirs("data/raw/wikidata_100", exist_ok=True)
-        os.makedirs("data/raw/wikipedia_100", exist_ok=True)
-        os.makedirs("data/processed/frontend_100", exist_ok=True)
+        os.makedirs("data/raw/wikidata", exist_ok=True)
+        os.makedirs("data/raw/wikipedia", exist_ok=True)
+        os.makedirs("data/processed/frontend", exist_ok=True)
         os.makedirs("data/processed/enhanced_events", exist_ok=True)
         
         self.log_file = f"data/processed/pipeline_log_{datetime.now().strftime('%Y%m%d_%H%M%S')}.txt"
@@ -161,7 +163,7 @@ class MathematicianPipeline:
                         
                         # Save individual file for resume capability
                         clean_id = name.lower().replace(' ', '_').replace('.', '').replace(',', '').replace('-', '_')
-                        output_file = f"data/raw/wikipedia_100/{clean_id}.json"
+                        output_file = f"data/raw/wikipedia/{clean_id}.json"
                         with open(output_file, 'w', encoding='utf-8') as f:
                             json.dump(scraped_result, f, indent=2, ensure_ascii=False)
                         
@@ -191,11 +193,11 @@ class MathematicianPipeline:
         scraped_data = []
         failed_count = 0
         
-        # Load from wikipedia_100 directory
-        json_files = glob.glob("data/raw/wikipedia_100/*.json")
+        # Load from wikipedia directory
+        json_files = glob.glob("data/raw/wikipedia/*.json")
         
         if not json_files:
-            self.log("❌ No existing Wikipedia data found in data/raw/wikipedia_100/")
+            self.log("❌ No existing Wikipedia data found in data/raw/wikipedia/")
             return []
         
         self.log(f"Found {len(json_files)} existing Wikipedia files")
@@ -479,6 +481,100 @@ class MathematicianPipeline:
         
         return frontend_mathematicians
     
+    def process_political_data(self):
+        """Convert political data for frontend"""
+        
+        self.log("=== STEP 7: Processing political data ===")
+        
+        try:
+            political_count = convert_political_data()
+            self.log(f"✅ Processed {political_count} political events")
+            return political_count
+        except Exception as e:
+            self.log(f"❌ Political data processing failed: {e}")
+            return 0
+    
+    def populate_missing_locations(self):
+        """Populate missing locations in batches"""
+        
+        self.log("=== STEP 8: Populating missing locations ===")
+        
+        from pathlib import Path
+        import json
+        import time
+        
+        try:
+            # Paths
+            data_dir = Path(__file__).parent
+            frontend_data_dir = data_dir.parent / "frontend" / "public" / "data"
+            
+            mathematicians_path = frontend_data_dir / "mathematicians.json"
+            locations_path = frontend_data_dir / "locations.json"
+            
+            if not mathematicians_path.exists() or not locations_path.exists():
+                self.log("⚠️ mathematicians.json or locations.json not found in frontend/public/data")
+                return 0
+            
+            # Load data
+            with open(mathematicians_path, 'r', encoding='utf-8') as f:
+                mathematicians_data = json.load(f)
+            with open(locations_path, 'r', encoding='utf-8') as f:
+                locations_data = json.load(f)
+            
+            # Find missing locations
+            missing_locations = find_missing_locations(mathematicians_data, locations_data)
+            missing_list = sorted(list(missing_locations))
+            
+            self.log(f"Found {len(missing_list)} missing locations")
+            
+            if len(missing_list) == 0:
+                self.log("✅ No missing locations to process")
+                return 0
+            
+            # Process locations in batches to avoid timeouts
+            batch_size = min(20, len(missing_list))
+            processed_locations = missing_list[:batch_size]
+            
+            self.log(f"Processing first {batch_size} locations...")
+            
+            successful = 0
+            failed = 0
+            
+            for i, place_name in enumerate(processed_locations, 1):
+                self.log(f"[{i}/{batch_size}] Geocoding: {place_name}")
+                
+                location_data = geocode_location_simple(place_name)
+                
+                if location_data:
+                    locations_data[place_name] = location_data
+                    successful += 1
+                    self.log(f"  ✅ Success")
+                else:
+                    failed += 1
+                    self.log(f"  ❌ Failed")
+                
+                # Rate limiting
+                if i < len(processed_locations):
+                    time.sleep(1)
+            
+            if successful > 0:
+                # Save updated locations
+                with open(locations_path, 'w', encoding='utf-8') as f:
+                    json.dump(locations_data, f, indent=2, ensure_ascii=False)
+                
+                self.log(f"✅ Updated locations.json with {successful} new locations")
+                
+                remaining = len(missing_list) - batch_size
+                if remaining > 0:
+                    self.log(f"📋 {remaining} locations remaining - run pipeline again to process more")
+            
+            self.log(f"📊 Location processing results: {successful} successful, {failed} failed")
+            return successful
+            
+        except Exception as e:
+            self.log(f"❌ Location processing failed: {e}")
+            return 0
+    
     def _estimate_nationality(self, mathematician: Dict) -> str:
         """Estimate nationality from Wikidata info"""
         wikidata_nationality = mathematician.get('nationality', '')
@@ -706,12 +802,12 @@ class MathematicianPipeline:
             "mathematicians": frontend_mathematicians
         }
         
-        frontend_file = "data/processed/frontend_100_mathematicians.json"
+        frontend_file = "data/processed/frontend_mathematicians.json"
         with open(frontend_file, 'w', encoding='utf-8') as f:
             json.dump(frontend_mathematicians, f, indent=2, ensure_ascii=False)  # Direct format for frontend
         
         # Save with metadata for reference
-        reference_file = "data/processed/reference_100_mathematicians.json"
+        reference_file = "data/processed/reference_mathematicians.json"
         with open(reference_file, 'w', encoding='utf-8') as f:
             json.dump(frontend_output, f, indent=2, ensure_ascii=False)
         
@@ -758,7 +854,7 @@ class MathematicianPipeline:
             self.log(f"  {nat}: {count} ({percentage:.1f}%)")
         
         self.log(f"\n🎯 Dataset ready for frontend integration!")
-        self.log(f"📋 To use: Copy {total} mathematicians from data/processed/frontend_100_mathematicians.json")
+        self.log(f"📋 To use: Copy {total} mathematicians from data/processed/frontend_mathematicians.json")
         self.log(f"         to frontend/public/data/mathematicians.json")
 
 def main():
@@ -802,12 +898,12 @@ def main():
         
         return
     
-    print("🚀 Starting 100 Mathematician Pipeline with Resume Support")
+    print("🚀 Starting Main Data Pipeline with Resume Support")
     print(f"📝 Log file: {pipeline.log_file}")
     print(f"💾 Progress file: {pipeline.progress_file}")
     print("⏱️  Estimated time: 15-20 minutes (first run)")
     print("💡 Subsequent runs will skip completed mathematicians")
-    print("🔄 Use 'python scale_to_100_mathematicians.py retry' to retry only failures")
+    print("🔄 Use 'python main_pipeline.py retry' to retry only failures")
     print()
     
     try:
@@ -841,8 +937,17 @@ def main():
         # Step 6: Save results
         pipeline.save_results(frontend_mathematicians)
         
-        print(f"\n🎉 SUCCESS! Generated dataset with {len(frontend_mathematicians)} mathematicians")
-        print(f"📋 Next step: Copy data/processed/frontend_100_mathematicians.json")
+        # Step 7: Process political data
+        political_count = pipeline.process_political_data()
+        
+        # Step 8: Populate missing locations
+        location_count = pipeline.populate_missing_locations()
+        
+        print(f"\n🎉 SUCCESS! Pipeline completed:")
+        print(f"📊 Generated dataset with {len(frontend_mathematicians)} mathematicians")
+        print(f"📊 Processed {political_count} political events")  
+        print(f"📊 Added {location_count} new location coordinates")
+        print(f"📋 Next step: Copy data/processed/frontend_mathematicians.json")
         print(f"            to frontend/public/data/mathematicians.json")
         
     except KeyboardInterrupt:
