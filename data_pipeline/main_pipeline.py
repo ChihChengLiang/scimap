@@ -31,7 +31,6 @@ class MathematicianPipeline:
         # Create directories
         os.makedirs("data/raw/wikidata", exist_ok=True)
         os.makedirs("data/raw/wikipedia", exist_ok=True)
-        os.makedirs("data/processed/frontend", exist_ok=True)
         os.makedirs("data/processed/enhanced_events", exist_ok=True)
         
         self.log_file = f"data/processed/pipeline_log_{datetime.now().strftime('%Y%m%d_%H%M%S')}.txt"
@@ -51,7 +50,7 @@ class MathematicianPipeline:
         
         self.log(f"=== STEP 1: Extracting mathematicians from Wikidata (target: {target_count}) ===")
         
-        mathematicians = self.wikidata_extractor.extract_18th_century_mathematicians(1650, 1750)
+        mathematicians = self.wikidata_extractor.get_mathematician_list()
         
         if not mathematicians:
             self.log("❌ No mathematicians found from Wikidata")
