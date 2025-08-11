@@ -1,0 +1,58 @@
+{
+  "id": null,
+  "name": "Christian Goldbach",
+  "birth_year": 1690,
+  "death_year": 1764,
+  "nationality": "European",
+  "fields": [
+    "mathematics"
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Christian_Goldbach",
+  "wikipedia_data": {
+    "url": "https://en.wikipedia.org/wiki/Christian_Goldbach",
+    "title": "Christian Goldbach",
+    "page_title": "Christian_Goldbach",
+    "biography_paragraphs": [
+      "Christian Goldbach (/ˈɡoʊldbɑːk/ GOHLD-bahk, German: [ˈkʁɪsti̯a(ː)n ˈɡɔltbax]; 18 March 1690 – 20 November 1764) was a Prussian mathematician connected with some important research mainly in number theory; he also studied law and took an interest in and a role in the Russian court.[1][2] After traveling around Europe in his early life, he landed in Russia in 1725 as a professor at the newly founded Saint Petersburg Academy of Sciences.[3] Goldbach jointly led the academy in 1737.[4] However, he relinquished duties in the academy in 1742 and worked in the Russian Ministry of Foreign Affairs until his death in 1764.[4] He is remembered today for Goldbach's conjecture and the Goldbach–Euler Theorem.[1] He had a close friendship with famous mathematician Leonhard Euler, serving as inspiration for Euler's mathematical pursuits.[2]",
+      "Born in the Duchy of Prussia's capital Königsberg, part of Brandenburg-Prussia, Goldbach was the son of a pastor.[2] He studied at the Royal Albertus University.[2][5] After finishing his studies he went on long educational trips from 1710 to 1724 through Europe, visiting other German states, England, the Netherlands, Italy, and France, meeting with many famous mathematicians, such as Gottfried Leibniz, Leonhard Euler, and Nicholas I Bernoulli. These acquaintances started Goldbach's interest in mathematics.[6] He briefly attended Oxford University in 1713 and, while he was there, Goldbach studied mathematics with John Wallis and Isaac Newton.[3] Also, Goldbach's travels fostered his interest in philology, archaeology, metaphysics, ballistics, and medicine.[6] Between 1717 and 1724, Goldbach published his first few papers which, while minor, credited his mathematical ability. Back in Königsberg, he became acquainted with Georg Bernhard Bilfinger and Jakob Hermann.[2]",
+      "Goldbach followed Bilfinger and Hermann to the newly opened St. Petersburg Academy of Sciences in 1725.[4] Christian Wolff had invited and had written recommendations for all the Germans who traveled to Saint Petersburg for the academy except Goldbach.[3] Goldbach wrote to the president-designate of the academy, petitioning for a position in the academy, using his past publications and knowledge in medicine and law as qualifications.[3][4] Goldbach was then hired to a five-year contract as a professor of mathematics and historian of the academy.[3][4] As historian of the academy, he recorded each academy meeting from the opening of the school in 1725 until January 1728.[4] Goldbach worked with famous mathematicians like Leonhard Euler, Daniel Bernoulli, Johann Bernoulli, and Jean le Rond d'Alembert.[5] Goldbach also played a part in Euler's decision to academically pursue mathematics instead of medicine, cementing mathematics as the premier research field of the academy in the 1730s.[3]",
+      "In 1728, when Peter II became Tsar of Russia, Goldbach became Peter II and Anna's, Peter II's cousin, tutor.[4] Peter II moved the Russian court from St. Petersburg to Moscow in 1729, so Goldbach followed him to Moscow.[2][4] Goldbach started a correspondence with Euler in 1729, in which some of Goldbach's most important mathematics contributions can be found.[2][5] Upon Peter II's death in 1730, Goldbach stopped teaching but continued to assist Empress Anna.[4] In 1732, Goldbach returned to the St. Petersburg Academy of Sciences and stayed in the Russian government when Anna moved the court back to St. Petersburg.[2][4] Upon return to the academy, Goldbach was named corresponding secretary.[3] With Goldbach's return, his friend Euler continued his teaching and research at the academy as well.[3] Then, in 1737, Goldbach and J.D. Schumacher took over the administration of the academy.[4] Also, Goldbach took on duty in Russian court under Empress Anna.[2][4] He managed to retain his influence in court after the death of Anna and the rule of Empress Elizabeth.[2] In 1742 he entered the Russian Ministry of Foreign Affairs, stepping away from the academy once more.[4] Goldbach was gifted land and increased salary for his good work and rise in the Russian government.[2] In 1760, Goldbach created new guidelines for the education of the royal children which would remain in place for 100 years.[2][4] He died on 20 November 1764, aged 74, in Moscow.",
+      "Christian Goldbach was multilingual – he wrote a diary in German and Latin, his letters were written in German, Latin, French, and Italian and for official documents he used Russian, German and Latin.[7]"
+    ],
+    "infobox": {
+      "birth": "18 March 1690Königsberg, Brandenburg-Prussia",
+      "death": "20 November 1764 (1764-11-21) (aged 74)Moscow, Russian Empire",
+      "nationality": "Russia",
+      "fields": "Mathematics and Law"
+    },
+    "scraped_at": "2025-08-11T01:11:51.518275",
+    "raw_html_length": 130077
+  },
+  "processed_at": "2025-08-11T01:11:52.523372",
+  "wikidata_info": {
+    "wikidata_id": "Q207325",
+    "name": "Christian Goldbach",
+    "birth_year": 1690,
+    "death_year": 1764,
+    "birth_date_full": "1690-03-18T00:00:00Z",
+    "death_date_full": "1764-11-20T00:00:00Z",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Christian_Goldbach",
+    "nationality": "",
+    "birth_place": {
+      "name": "",
+      "wikidata_uri": "",
+      "coordinates": null
+    },
+    "image_url": "",
+    "fields": [
+      "mathematics"
+    ],
+    "data_source": "wikidata_sparql",
+    "extracted_at": "2025-08-11T01:11:25.224235",
+    "wikidata_query_metadata": {
+      "query_date": "2025-08-11T01:11:25.224236",
+      "endpoint": "https://query.wikidata.org/sparql",
+      "data_quality": "structured"
+    }
+  }
+}

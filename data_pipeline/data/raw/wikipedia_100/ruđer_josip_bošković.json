@@ -1,0 +1,56 @@
+{
+  "id": null,
+  "name": "Ruđer Josip Bošković",
+  "birth_year": 1711,
+  "death_year": 1787,
+  "nationality": "European",
+  "fields": [
+    "mathematics"
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Roger_Joseph_Boscovich",
+  "wikipedia_data": {
+    "url": "https://en.wikipedia.org/wiki/Roger_Joseph_Boscovich",
+    "title": "Roger Joseph Boscovich",
+    "page_title": "Roger_Joseph_Boscovich",
+    "biography_paragraphs": [
+      "Roger Joseph Boscovich SJ (Croatian: Ruđer Josip Bošković, pronounced [rûd͡ʑer jǒsip bôʃkoʋit͡ɕ]; Italian: Ruggiero Giuseppe Boscovich;[2] Latin: Rogerius (Iosephus) Boscovicius;[3] 18 May 1711 – 13 February 1787) was a Croatian physicist, astronomer, mathematician, philosopher, diplomat, poet, theologian, Jesuit priest, and a polymath from the Republic of Ragusa.[4] He studied and lived in Italy and France where he also published many of his works.[5]",
+      "Boscovich produced a precursor of atomic theory and made many contributions to astronomy, including the first geometric procedure for determining the equator of a rotating planet from three observations of a surface feature and for computing the orbit of a planet from three observations of its position. In 1753 he also discovered the absence of an atmosphere on the Moon.[6]",
+      "Boscovich was born on 18 May 1711 in Dubrovnik,  Republic of Ragusa, to Paola Bettera (1674–1777), daughter of a local nobleman of Italian origin, and Nikola Bošković, a Ragusan merchant. Boscovich's father was an ethnic Croat (some sources say Serb).[7] He was baptised on 26 May 1711 by Marinus Carolis, curatus et sacristia. The name Ruđer/Ruggiero may have been given to him because both his maternal great-grandfather, Agostino Bettera, and his mother's brother were called Ruggiero; his godfather was his uncle, Ruggiero Bettera. He was the seventh child of the family and the second youngest. His father was born in the village of Orahov Do near Ravno, at the time part of the Ottoman Empire (now Bosnia and Herzegovina).[8][9]"
+    ],
+    "infobox": {
+      "birth": "Ruđer Josip Bošković(1711-05-18)18 May 1711Dubrovnik, Republic of Ragusa(present-day Croatia)",
+      "death": "13 February 1787(1787-02-13) (aged 75)Milan, Duchy of Milan(present-day Italy)",
+      "nationality": "Republic of Ragusa",
+      "fields": "Theology, physics, astronomy, mathematics, natural philosophy, diplomacy, poetry"
+    },
+    "scraped_at": "2025-08-11T01:13:15.338689",
+    "raw_html_length": 268994
+  },
+  "processed_at": "2025-08-11T01:13:16.346500",
+  "wikidata_info": {
+    "wikidata_id": "Q310757",
+    "name": "Ruđer Josip Bošković",
+    "birth_year": 1711,
+    "death_year": 1787,
+    "birth_date_full": "1711-05-18T00:00:00Z",
+    "death_date_full": "1787-02-13T00:00:00Z",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Roger_Joseph_Boscovich",
+    "nationality": "",
+    "birth_place": {
+      "name": "",
+      "wikidata_uri": "",
+      "coordinates": null
+    },
+    "image_url": "",
+    "fields": [
+      "mathematics"
+    ],
+    "data_source": "wikidata_sparql",
+    "extracted_at": "2025-08-11T01:11:25.225516",
+    "wikidata_query_metadata": {
+      "query_date": "2025-08-11T01:11:25.225517",
+      "endpoint": "https://query.wikidata.org/sparql",
+      "data_quality": "structured"
+    }
+  }
+}

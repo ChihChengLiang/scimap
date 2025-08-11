@@ -1,0 +1,197 @@
+{
+  "id": null,
+  "name": "Alexander MacFarlane",
+  "birth_year": 1702,
+  "death_year": 1755,
+  "nationality": "French",
+  "fields": [
+    "mathematics"
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Alexander_MacFarlane_(astronomer)",
+  "wikipedia_data": {
+    "url": "https://en.wikipedia.org/wiki/Alexander_MacFarlane_(astronomer)",
+    "title": "Alexander MacFarlane (astronomer)",
+    "page_title": "Alexander_MacFarlane_(astronomer)",
+    "biography_paragraphs": [
+      "Alexander MacFarlane, FRS (c. 1702 – 23 August 1755) was a Scottish merchant, planter and astronomer. Born into an aristocratic family, he graduated from the University of Glasgow in 1728. MacFarlane subsequently emigrated to the British colony of Jamaica, where he started working as a merchant before becoming a prominent landowner and political figure. He was appointed the colony's first Postmaster General in 1735 and elected to the House of Assembly of Jamaica for Saint Elizabeth Parish in 1754. At the time of his death, MacFarlane owned multiple sugar plantations and nearly 800 slaves.",
+      "MacFarlane was also an amateur astronomer who constructed observatories in Port Royal and Kingston, equipped with a variety of instruments purchased from fellow astronomer Colin Campbell. His astronomical observations, though limited in scope, resulted in MacFarlane being elected as a fellow of the Royal Society in 1746. Upon his death, he bequeathed his scientific instruments to the University of Glasgow, which the university used to established Macfarlane Observatory, the first of its kind in Britain. In the 21st century, his legacy has come under scrutiny due to MacFarlane's ownership of slaves.",
+      "Alexander MacFarlane was born in the Kingdom of Scotland c. 1702.[1] His parents were John MacFarlane, who died in 1705, and Lady Helen Arbuthnot, a noblewoman who was the daughter of Robert Arbuthnot, 2nd Viscount of Arbuthnott; the Arbuthnot family's motto was Astra castra, Numen lumen (the stars my camp, the Lord my light).[2][3] The youngest of four sons, MacFarlane studied at the University of Glasgow, graduating from the university with a Master of Arts degree in 1728. He subsequently immigrated to Jamaica, where half the island's white population during the 18th century were Scots.[4][5]"
+    ],
+    "infobox": {
+      "birth": "c. 1702Scotland",
+      "death": "23 August 1755 (aged 52–53)Jamaica"
+    },
+    "scraped_at": "2025-08-11T01:12:20.942319",
+    "raw_html_length": 105041
+  },
+  "processed_at": "2025-08-11T01:12:21.947642",
+  "wikidata_info": {
+    "wikidata_id": "Q21165091",
+    "name": "Alexander MacFarlane",
+    "birth_year": 1702,
+    "death_year": 1755,
+    "birth_date_full": "1702-01-01T00:00:00Z",
+    "death_date_full": "1755-08-23T00:00:00Z",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Alexander_MacFarlane_(astronomer)",
+    "nationality": "",
+    "birth_place": {
+      "name": "",
+      "wikidata_uri": "",
+      "coordinates": null
+    },
+    "image_url": "",
+    "fields": [
+      "mathematics"
+    ],
+    "data_source": "wikidata_sparql",
+    "extracted_at": "2025-08-11T01:11:25.224906",
+    "wikidata_query_metadata": {
+      "query_date": "2025-08-11T01:11:25.224907",
+      "endpoint": "https://query.wikidata.org/sparql",
+      "data_quality": "structured"
+    }
+  },
+  "timeline_events": [
+    {
+      "year": "1702",
+      "year_confidence": "exact",
+      "event_type": "birth",
+      "description": "Born in the Kingdom of Scotland.",
+      "location": {
+        "place_name": "Scotland",
+        "raw_text": "Born in the Kingdom of Scotland c. 1702",
+        "confidence": 1.0
+      },
+      "source_text": "Alexander MacFarlane, FRS (c. 1702 – 23 August 1755) was a Scottish merchant, planter and astronomer.",
+      "confidence": 1.0,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:15:45.142324",
+        "extraction_confidence": 1.0,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1705",
+      "year_confidence": "exact",
+      "event_type": "death",
+      "description": "Father, John MacFarlane, dies.",
+      "location": {
+        "place_name": null,
+        "raw_text": "His parents were John MacFarlane, who died in 1705, and Lady Helen Arbuthnot...",
+        "confidence": 0.8
+      },
+      "source_text": "His parents were John MacFarlane, who died in 1705, and Lady Helen Arbuthnot...",
+      "confidence": 0.8,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:15:45.142407",
+        "extraction_confidence": 0.8,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1728",
+      "year_confidence": "exact",
+      "event_type": "education",
+      "description": "Graduated from the University of Glasgow with a Master of Arts degree.",
+      "location": {
+        "place_name": "University of Glasgow",
+        "raw_text": "graduated from the University of Glasgow in 1728",
+        "confidence": 1.0
+      },
+      "source_text": "graduated from the University of Glasgow in 1728.",
+      "confidence": 1.0,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:15:45.142414",
+        "extraction_confidence": 1.0,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1735",
+      "year_confidence": "exact",
+      "event_type": "position",
+      "description": "Appointed the colony's first Postmaster General in Jamaica.",
+      "location": {
+        "place_name": "Jamaica",
+        "raw_text": "MacFarlane subsequently emigrated to the British colony of Jamaica, where he started working as a merchant before becoming a prominent landowner and political figure. He was appointed the colony's first Postmaster General in 1735",
+        "confidence": 1.0
+      },
+      "source_text": "MacFarlane subsequently emigrated to the British colony of Jamaica, where he started working as a merchant before becoming a prominent landowner and political figure. He was appointed the colony's first Postmaster General in 1735",
+      "confidence": 1.0,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:15:45.142421",
+        "extraction_confidence": 1.0,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1746",
+      "year_confidence": "exact",
+      "event_type": "award",
+      "description": "Elected as a fellow of the Royal Society.",
+      "location": {
+        "place_name": "Royal Society",
+        "raw_text": "MacFarlane was elected as a fellow of the Royal Society in 1746",
+        "confidence": 1.0
+      },
+      "source_text": "MacFarlane was elected as a fellow of the Royal Society in 1746",
+      "confidence": 1.0,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:15:45.142427",
+        "extraction_confidence": 1.0,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1754",
+      "year_confidence": "exact",
+      "event_type": "position",
+      "description": "Elected to the House of Assembly of Jamaica for Saint Elizabeth Parish.",
+      "location": {
+        "place_name": "Jamaica, Saint Elizabeth Parish",
+        "raw_text": "and elected to the House of Assembly of Jamaica for Saint Elizabeth Parish in 1754",
+        "confidence": 1.0
+      },
+      "source_text": "and elected to the House of Assembly of Jamaica for Saint Elizabeth Parish in 1754",
+      "confidence": 1.0,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:15:45.142432",
+        "extraction_confidence": 1.0,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1755",
+      "year_confidence": "exact",
+      "event_type": "death",
+      "description": "Died on 23 August.",
+      "location": {
+        "place_name": "Jamaica",
+        "raw_text": "At the time of his death, MacFarlane owned multiple sugar plantations and nearly 800 slaves. Upon his death, he bequeathed his scientific instruments to the University of Glasgow",
+        "confidence": 1.0
+      },
+      "source_text": "At the time of his death, MacFarlane owned multiple sugar plantations and nearly 800 slaves. Upon his death, he bequeathed his scientific instruments to the University of Glasgow",
+      "confidence": 1.0,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:15:45.142438",
+        "extraction_confidence": 1.0,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    }
+  ],
+  "timeline_extraction_metadata": {
+    "extracted_at": "2025-08-11T16:15:45.142615",
+    "model_used": "lm_studio_google/gemma-3n-e4b",
+    "events_count": 7,
+    "biography_length": 1803,
+    "enhancement_level": "gemma_comprehensive",
+    "target_events_per_mathematician": "5-10"
+  }
+}

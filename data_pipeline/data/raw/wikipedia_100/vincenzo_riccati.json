@@ -1,0 +1,58 @@
+{
+  "id": null,
+  "name": "Vincenzo Riccati",
+  "birth_year": 1707,
+  "death_year": 1775,
+  "nationality": "European",
+  "fields": [
+    "mathematics"
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Vincenzo_Riccati",
+  "wikipedia_data": {
+    "url": "https://en.wikipedia.org/wiki/Vincenzo_Riccati",
+    "title": "Vincenzo Riccati",
+    "page_title": "Vincenzo_Riccati",
+    "biography_paragraphs": [
+      "Vincenzo Riccati (Castelfranco Veneto, 11 January 1707 – Treviso, 17 January 1775) was a Venetian Catholic priest, mathematician, and physicist. He is credited with introducing hyperbolic functions.[2][3][4]",
+      "Vincenzo Riccati was born in 1707 in Castelfranco Veneto, a small town about 30 km north of Padua. He was the brother of Giordano Riccati, and the second son of Jacopo Riccati.[5] He began his studies at the College of St. Francis Xavier in Bologna, under the guidance of Luigi Marchenti, a pupil of the French mathematician Pierre Varignon. He entered the Society of Jesus on December 20, 1726.[6] He taught belles lettres in the colleges of the Order in Piacenza (1728), Padua (1729), and Parma (1734). He then went to Rome to study theology. In 1739 he was assigned to the College of St. Francis Xavier of Bologna, where he taught mathematics for thirty years, succeeding his former teacher Luigi Marchenti. He was among the first members of the Italian National Academy of Sciences.[7] In 1760 he was elected Honorary Fellow of the Russian Academy of Sciences.[8]",
+      "Riccati's main research continued the work of his father in mathematical analysis, especially in the fields of the differential equations and physics. In 1746 and 1749 Riccati published two works, in which he discussed the question of the parallelogram of forces in the context of the vis viva controversy. In 1752, he published the short treatise De usu motus tractorii in constructione aequationum differentialium, in which he proved that all first-order (ordinary) differential equations conceivable at the time could be constructed using tractional motion.[9]",
+      "Riccati's main contributions to mathematics and physics were published in two volumes, Opusculorum ad res physicas mathematicas pertinentium (Bologna, 1757-1762), where he introduced the use of hyperbolic functions.[10] Vincenzo edited, in collaboration with his brother Giordano, the Works of his father and published, in collaboration with his friend and student Girolamo Saladini, the three-volume treatise Institutiones analyticae, an important textbook on calculus printed in Bologna in 1765-67. Ten years later Saladini produced an Italian translation of the work under the title Instituzioni Analitiche. Riccati's Institutiones analyticae is the fullest 18th-century Italian treatise on analytic methods in mathematics.",
+      "After the suppression of the Society of Jesus, Riccati retired to his family home in Treviso, where he died on January 17, 1775. Riccati was a friend and correspondent of Maria Gaetana Agnesi and Ramiro Rampinelli.[11]"
+    ],
+    "infobox": {
+      "birth": "(1707-01-11)11 January 1707Castelfranco Veneto, Venetian Republic",
+      "death": "17 January 1775(1775-01-17) (aged 68)Treviso, Venetian Republic",
+      "nationality": "Italian",
+      "fields": "Mathematician and physicist"
+    },
+    "scraped_at": "2025-08-11T01:12:50.553670",
+    "raw_html_length": 137956
+  },
+  "processed_at": "2025-08-11T01:12:51.562216",
+  "wikidata_info": {
+    "wikidata_id": "Q2121731",
+    "name": "Vincenzo Riccati",
+    "birth_year": 1707,
+    "death_year": 1775,
+    "birth_date_full": "1707-01-11T00:00:00Z",
+    "death_date_full": "1775-01-17T00:00:00Z",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Vincenzo_Riccati",
+    "nationality": "",
+    "birth_place": {
+      "name": "",
+      "wikidata_uri": "",
+      "coordinates": null
+    },
+    "image_url": "",
+    "fields": [
+      "mathematics"
+    ],
+    "data_source": "wikidata_sparql",
+    "extracted_at": "2025-08-11T01:11:25.225199",
+    "wikidata_query_metadata": {
+      "query_date": "2025-08-11T01:11:25.225200",
+      "endpoint": "https://query.wikidata.org/sparql",
+      "data_quality": "structured"
+    }
+  }
+}

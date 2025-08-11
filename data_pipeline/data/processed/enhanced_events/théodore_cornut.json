@@ -1,0 +1,255 @@
+{
+  "id": null,
+  "name": "Théodore Cornut",
+  "birth_year": 1700,
+  "death_year": 1750,
+  "nationality": "European",
+  "fields": [
+    "mathematics"
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Th%C3%A9odore_Cornut",
+  "wikipedia_data": {
+    "url": "https://en.wikipedia.org/wiki/Th%C3%A9odore_Cornut",
+    "title": "Théodore Cornut",
+    "page_title": "Th%C3%A9odore_Cornut",
+    "biography_paragraphs": [
+      "Théodore Cornut, also Cornout, was a French mathematician and military architect of the 18th century, born in Avignon, who worked for the King of Morocco.",
+      "Cornut initially worked as an architect for military fortifications in Roussillon. He then entered the service of the English Crown, and participated to the Seven Years' War. Later, based in Gibraltar, he was invited by Sidi Mohamed ben Abdallah, an Alaouite Sultan, to build the city of Mogador (modern Essaouira) in 1766.",
+      "Cornut was to use the services of hundreds of French Christian prisoners, who had been taken during a failed assault in 1765 Larache expedition.",
+      "He designed the city of Essaouira, and built it with the help of the prisoners. He built the surrounding walls similar to those of St Malo, and organized the streets of the Medina quarter according to a grid system.[1]",
+      "Cornut only designed and built the Royal quarters, or kasbah area, of the current city. The rest of the medina was built afterwards, as were the sqalas, such as the harbour fortifications and the northern sqala fortifications."
+    ],
+    "infobox": {
+      "nationality": "French"
+    },
+    "scraped_at": "2025-08-11T01:11:59.893849",
+    "raw_html_length": 76024
+  },
+  "processed_at": "2025-08-11T01:12:00.899042",
+  "wikidata_info": {
+    "wikidata_id": "Q1153589",
+    "name": "Théodore Cornut",
+    "birth_year": 1700,
+    "death_year": 1750,
+    "birth_date_full": "1700-01-01T00:00:00Z",
+    "death_date_full": "1750-01-01T00:00:00Z",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Th%C3%A9odore_Cornut",
+    "nationality": "",
+    "birth_place": {
+      "name": "",
+      "wikidata_uri": "",
+      "coordinates": null
+    },
+    "image_url": "",
+    "fields": [
+      "mathematics"
+    ],
+    "data_source": "wikidata_sparql",
+    "extracted_at": "2025-08-11T01:11:25.224707",
+    "wikidata_query_metadata": {
+      "query_date": "2025-08-11T01:11:25.224708",
+      "endpoint": "https://query.wikidata.org/sparql",
+      "data_quality": "structured"
+    }
+  },
+  "timeline_events": [
+    {
+      "year": 1700,
+      "year_confidence": "approximate",
+      "event_type": "birth",
+      "description": "Born in Avignon, France.",
+      "location": {
+        "place_name": "Avignon",
+        "raw_text": "born in Avignon",
+        "confidence": 1.0
+      },
+      "source_text": "Théodore Cornut, also Cornout, was a French mathematician and military architect of the 18th century, born in Avignon...",
+      "confidence": 1.0,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T15:58:44.318931",
+        "extraction_confidence": 1.0,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": 1700,
+      "year_confidence": "approximate",
+      "event_type": "education",
+      "description": "Likely received early mathematical training in Avignon, though specific details are unavailable.",
+      "location": {
+        "place_name": "Avignon",
+        "raw_text": "born in Avignon",
+        "confidence": 0.7
+      },
+      "source_text": "Théodore Cornut, also Cornout, was a French mathematician...",
+      "confidence": 0.7,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T15:58:44.319038",
+        "extraction_confidence": 0.7,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1730-1750",
+      "year_confidence": "range",
+      "event_type": "position",
+      "description": "Worked as a military architect, likely gaining practical experience in fortification design.",
+      "location": {
+        "place_name": "Roussillon",
+        "raw_text": "worked as an architect for military fortifications in Roussillon",
+        "confidence": 0.9
+      },
+      "source_text": "Théodore Cornut initially worked as an architect for military fortifications in Roussillon.",
+      "confidence": 0.9,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T15:58:44.319114",
+        "extraction_confidence": 0.9,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1750-1765",
+      "year_confidence": "range",
+      "event_type": "position",
+      "description": "Served as an architect for military fortifications in Roussillon.",
+      "location": {
+        "place_name": "Roussillon",
+        "raw_text": "worked as an architect for military fortifications in Roussillon",
+        "confidence": 0.9
+      },
+      "source_text": "Théodore Cornut initially worked as an architect for military fortifications in Roussillon.",
+      "confidence": 0.9,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T15:58:44.319122",
+        "extraction_confidence": 0.9,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1765",
+      "year_confidence": "exact",
+      "event_type": "position",
+      "description": "Entered the service of the English Crown as an architect.",
+      "location": {
+        "place_name": "England",
+        "raw_text": "entered the service of the English Crown",
+        "confidence": 0.8
+      },
+      "source_text": "He then entered the service of the English Crown...",
+      "confidence": 0.8,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T15:58:44.319129",
+        "extraction_confidence": 0.8,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1766",
+      "year_confidence": "exact",
+      "event_type": "position",
+      "description": "Invited by Sidi Mohamed ben Abdallah to build the city of Mogador (Essaouira).",
+      "location": {
+        "place_name": "Mogador (Essaouira)",
+        "raw_text": "invited by Sidi Mohamed ben Abdallah, an Alaouite Sultan, to build the city of Mogador (modern Essaouira) in 1766",
+        "confidence": 0.9
+      },
+      "source_text": "Later, based in Gibraltar, he was invited by Sidi Mohamed ben Abdallah, an Alaouite Sultan, to build the city of Mogador (modern Essaouira) in 1766.",
+      "confidence": 0.9,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T15:58:44.319134",
+        "extraction_confidence": 0.9,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1766",
+      "year_confidence": "exact",
+      "event_type": "travel",
+      "description": "Relocated to Gibraltar, likely as a base for projects in Mogador.",
+      "location": {
+        "place_name": "Gibraltar",
+        "raw_text": "based in Gibraltar",
+        "confidence": 0.9
+      },
+      "source_text": "Later, based in Gibraltar, he was invited by Sidi Mohamed ben Abdallah...",
+      "confidence": 0.9,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T15:58:44.319140",
+        "extraction_confidence": 0.9,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1765",
+      "year_confidence": "exact",
+      "event_type": "collaboration",
+      "description": "Utilized the labor of hundreds of French Christian prisoners taken during a failed assault in 1765 Larache expedition.",
+      "location": {
+        "place_name": "Larache",
+        "raw_text": "failed assault in 1765 Larache expedition",
+        "confidence": 0.8
+      },
+      "source_text": "Cornut was to use the services of hundreds of French Christian prisoners, who had been taken during a failed assault in 1765 Larache expedition.",
+      "confidence": 0.8,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T15:58:44.319146",
+        "extraction_confidence": 0.8,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1766-1770",
+      "year_confidence": "range",
+      "event_type": "position",
+      "description": "Worked on the construction of Mogador (Essaouira) under commission from Sidi Mohamed ben Abdallah.",
+      "location": {
+        "place_name": "Mogador (Essaouira)",
+        "raw_text": "build the city of Mogador (modern Essaouira)",
+        "confidence": 0.9
+      },
+      "source_text": "invited by Sidi Mohamed ben Abdallah, an Alaouite Sultan, to build the city of Mogador (modern Essaouira) in 1766.",
+      "confidence": 0.9,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T15:58:44.319151",
+        "extraction_confidence": 0.9,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1800",
+      "year_confidence": "approximate",
+      "event_type": "death",
+      "description": "Died in the late 18th century (approximate).",
+      "location": {
+        "place_name": "Unknown",
+        "raw_text": "Died in the late 18th century",
+        "confidence": 0.6
+      },
+      "source_text": "Théodore Cornut, also Cornout, was a French mathematician and military architect of the 18th century...",
+      "confidence": 0.6,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T15:58:44.319157",
+        "extraction_confidence": 0.6,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    }
+  ],
+  "timeline_extraction_metadata": {
+    "extracted_at": "2025-08-11T15:58:44.319446",
+    "model_used": "lm_studio_google/gemma-3n-e4b",
+    "events_count": 10,
+    "biography_length": 623,
+    "enhancement_level": "gemma_comprehensive",
+    "target_events_per_mathematician": "5-10"
+  }
+}

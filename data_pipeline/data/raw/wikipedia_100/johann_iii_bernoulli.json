@@ -1,0 +1,52 @@
+{
+  "id": null,
+  "name": "Johann III Bernoulli",
+  "birth_year": 1744,
+  "death_year": 1807,
+  "nationality": "European",
+  "fields": [
+    "mathematics"
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Johann_III_Bernoulli",
+  "wikipedia_data": {
+    "url": "https://en.wikipedia.org/wiki/Johann_III_Bernoulli",
+    "title": "Johann III Bernoulli",
+    "page_title": "Johann_III_Bernoulli",
+    "biography_paragraphs": [
+      "Johann III Bernoulli (also known as Jean; 4 November 1744 in Basel – 13 July 1807 in Berlin), grandson of Johann Bernoulli and son of Johann II Bernoulli, was a Swiss mathematician, philosopher, astronomer and geographer, known around the world as a child prodigy.[1]",
+      "He studied at Basel and at Neuchâtel, and when thirteen years of age took the degree of doctor in philosophy. When he was fourteen, he got the degree of master of jurisprudence.[1] At nineteen he was appointed astronomer royal of Berlin. A year later, he reorganized the astronomical observatory at the Berlin Academy.[1] Some years after, he visited Germany, France and England, and subsequently Italy, Courland, Russia and Poland. His travel accounts were of great cultural and historical importance (1772–1776; 1777–1779; 1781).[1][2] He wrote about Kashubians.",
+      "On his return to Berlin he was appointed director of the mathematical department of the academy. His writings consist of travels and astronomical, geographical and mathematical works. In 1774 he published a French translation of Leonhard Euler’s Elements of Algebra. He contributed several papers to the Academy of Berlin, and in 1774 he was elected a foreign member of the Royal Swedish Academy of Sciences.",
+      "He was entrusted with the administration of Bernoulli family's mathematical estate.[1] The bulk of the correspondence was sold to the Swedish Academy where it was overlooked until rediscovered by Hugo Gyldén at the Stockholm Observatory in 1877.[1] He is one of the last notable members of the Bernoulli family."
+    ],
+    "infobox": {},
+    "scraped_at": "2025-08-11T01:11:41.750406",
+    "raw_html_length": 112812
+  },
+  "processed_at": "2025-08-11T01:11:42.755496",
+  "wikidata_info": {
+    "wikidata_id": "Q123984",
+    "name": "Johann III Bernoulli",
+    "birth_year": 1744,
+    "death_year": 1807,
+    "birth_date_full": "1744-11-04T00:00:00Z",
+    "death_date_full": "1807-07-13T00:00:00Z",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Johann_III_Bernoulli",
+    "nationality": "",
+    "birth_place": {
+      "name": "",
+      "wikidata_uri": "",
+      "coordinates": null
+    },
+    "image_url": "",
+    "fields": [
+      "mathematics"
+    ],
+    "data_source": "wikidata_sparql",
+    "extracted_at": "2025-08-11T01:11:25.228121",
+    "wikidata_query_metadata": {
+      "query_date": "2025-08-11T01:11:25.228122",
+      "endpoint": "https://query.wikidata.org/sparql",
+      "data_quality": "structured"
+    }
+  }
+}

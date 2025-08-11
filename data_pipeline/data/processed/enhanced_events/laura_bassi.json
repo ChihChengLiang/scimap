@@ -1,0 +1,258 @@
+{
+  "id": null,
+  "name": "Laura Bassi",
+  "birth_year": 1711,
+  "death_year": 1778,
+  "nationality": "European",
+  "fields": [
+    "mathematics"
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Laura_Bassi",
+  "wikipedia_data": {
+    "url": "https://en.wikipedia.org/wiki/Laura_Bassi",
+    "title": "Laura Bassi",
+    "page_title": "Laura_Bassi",
+    "biography_paragraphs": [
+      "Laura Maria Caterina Bassi Veratti (29 October 1711 – 20 February 1778) was an Italian physicist and academic. Recognized and depicted as \"Minerva\" (goddess of wisdom), she was the first woman to have a doctorate in science, and the second woman in the world to earn the Doctor of Philosophy degree.[1][2] Working at the University of Bologna, she was the first salaried female teacher in a university. At one time the highest paid employee of the university, by the end of her life Bassi held two other professorships.[3] She was also the first female member of any scientific establishment, when she was elected to the Academy of Sciences of the Institute of Bologna in 1732 at 21.",
+      "Bassi did not receive formal education; instead, she was privately tutored from the age of five until she was twenty. By then, she was well-versed in major disciplines, including sciences and mathematics. Noticing her ability, Prospero Lambertini, the Archbishop of Bologna (later Pope Benedict XIV), became her patron. With Lambertini's arrangement, she publicly defended forty-nine theses before professors of the University of Bologna on 17 April 1732, for which she was awarded a doctoral degree on 12 May. A month later, she was appointed by the university as its first female teacher, albeit with the restriction that she was not allowed to teach all-male classes. Lambertini, by then the Pope, helped her to receive permissions for private classes and experiments, which were granted by the university in 1740.",
+      "Bassi became the most important populariser of Newtonian mechanics in Italy.[1] She was inducted by the Pope to the Benedettini (similar to modern Pontifical Academy of Sciences) as an additional member in 1745. She took up the Chair of Experimental Physics in 1776, the position she held until her death. She is interred at the Church of Corpus Domini, Bologna.",
+      "Bassi was born in 1711 in Bologna, to a prosperous lawyer Giuseppe Bassi and his wife Maria Rosa Cesari.[3] The exact date of her birth is given variously as 20 October,[citation needed] 29 October,[4] 31 October,[5][6] and 29 November.[7] But the University of Bologna and scholarly works agree on 29 October.[8][9][10]",
+      "Bassi was privately educated. Her cousin, Father Lorenzo Stegani, taught her Latin, French, and mathematics from age five.[7] Stegani not only taught her to read Latin, as was more typical, but also taught Bassi to speak and write in Latin. She lectured and published in Latin during her academic career.[11] From the age of thirteen to twenty she was taught philosophy, metaphysics, logic, and natural philosophy by Gaetano Tacconi,[9][12] the family physician and professor of medicine at the University of Bologna.[3] She and Tacconi began to drift apart after Bassi discovered an interest in Newtonian science, despite Tacconi's preference for her to focus on the less controversial Cartesian teachings.[13]"
+    ],
+    "infobox": {
+      "birth": "(1711-10-29)29 October 1711Bologna, Papal States",
+      "death": "20 February 1778(1778-02-20) (aged 66)Bologna, Papal States",
+      "nationality": "Italian",
+      "fields": "Physicsphilosophymathematics"
+    },
+    "scraped_at": "2025-08-11T01:13:20.328661",
+    "raw_html_length": 179115
+  },
+  "processed_at": "2025-08-11T01:13:21.333782",
+  "wikidata_info": {
+    "wikidata_id": "Q541652",
+    "name": "Laura Bassi",
+    "birth_year": 1711,
+    "death_year": 1778,
+    "birth_date_full": "1711-10-29T00:00:00Z",
+    "death_date_full": "1778-02-20T00:00:00Z",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Laura_Bassi",
+    "nationality": "",
+    "birth_place": {
+      "name": "",
+      "wikidata_uri": "",
+      "coordinates": null
+    },
+    "image_url": "",
+    "fields": [
+      "mathematics"
+    ],
+    "data_source": "wikidata_sparql",
+    "extracted_at": "2025-08-11T01:11:25.225549",
+    "wikidata_query_metadata": {
+      "query_date": "2025-08-11T01:11:25.225550",
+      "endpoint": "https://query.wikidata.org/sparql",
+      "data_quality": "structured"
+    }
+  },
+  "timeline_events": [
+    {
+      "year": 1711,
+      "year_confidence": "exact",
+      "event_type": "birth",
+      "description": "Born Laura Maria Caterina Bassi Veratti.",
+      "location": {
+        "place_name": "Bologna",
+        "raw_text": "Born in Bologna",
+        "confidence": 1.0
+      },
+      "source_text": "Laura Maria Caterina Bassi Veratti (1711)",
+      "confidence": 1.0,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T14:31:43.704510",
+        "extraction_confidence": 1.0,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": 1700,
+      "year_confidence": "approximate",
+      "event_type": "education",
+      "description": "Privately tutored from the age of five until she was twenty.",
+      "location": {
+        "place_name": "Bologna",
+        "raw_text": "Privately tutored in Bologna",
+        "confidence": 0.95
+      },
+      "source_text": "Bassi did not receive formal education; instead, she was privately tutored...",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T14:31:43.704634",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": 1732,
+      "year_confidence": "exact",
+      "event_type": "education",
+      "description": "Defended forty-nine theses before professors of the University of Bologna, earning a doctoral degree.",
+      "location": {
+        "place_name": "Bologna",
+        "raw_text": "defended forty-nine theses before professors of the University of Bologna",
+        "confidence": 0.95
+      },
+      "source_text": "Noticing her ability, ... she defended forty-nine theses...",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T14:31:43.704641",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": 1732,
+      "year_confidence": "exact",
+      "event_type": "collaboration",
+      "description": "Became a protégé of Prospero Lambertini, the Archbishop of Bologna (later Pope Benedict XIV).",
+      "location": {
+        "place_name": "Bologna",
+        "raw_text": "Prospero Lambertini, the Archbishop of Bologna (later Pope Benedict XIV), became her patron.",
+        "confidence": 0.95
+      },
+      "source_text": "Noticing her ability, Prospero Lambertini... became her patron.",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T14:31:43.704647",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": 1732,
+      "year_confidence": "exact",
+      "event_type": "position",
+      "description": "Elected to the Academy of Sciences of the Institute of Bologna, becoming its first female member.",
+      "location": {
+        "place_name": "Bologna",
+        "raw_text": "elected to the Academy of Sciences of the Institute of Bologna",
+        "confidence": 0.95
+      },
+      "source_text": "She was also the first female member of any scientific establishment, when she was elected to the Academy of Sciences...",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T14:31:43.704653",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": 1732,
+      "year_confidence": "exact",
+      "event_type": "position",
+      "description": "Appointed as the first female teacher at the University of Bologna.",
+      "location": {
+        "place_name": "Bologna",
+        "raw_text": "appointed by the university as its first female teacher",
+        "confidence": 0.95
+      },
+      "source_text": "Bassi became the most important populariser of Newtonian mechanics in Italy.",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T14:31:43.704658",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": 1740,
+      "year_confidence": "exact",
+      "event_type": "position",
+      "description": "Granted permission to hold private classes and conduct experiments by the university.",
+      "location": {
+        "place_name": "Bologna",
+        "raw_text": "permissions were granted by the university in 1740",
+        "confidence": 0.95
+      },
+      "source_text": "Bassi... was granted permissions for private classes and experiments...",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T14:31:43.704662",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": 1745,
+      "year_confidence": "exact",
+      "event_type": "collaboration",
+      "description": "Inducted by Pope Benedict XIV to the Benedettini (Pontifical Academy of Sciences) as an additional member.",
+      "location": {
+        "place_name": "Rome",
+        "raw_text": "Inducted by the Pope to the Benedettini",
+        "confidence": 0.95
+      },
+      "source_text": "She was inducted by the Pope to the Benedettini in 1745.",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T14:31:43.704667",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": 1776,
+      "year_confidence": "exact",
+      "event_type": "position",
+      "description": "Took up the Chair of Experimental Physics at the University of Bologna, a position she held until her death.",
+      "location": {
+        "place_name": "Bologna",
+        "raw_text": "Took up the Chair of Experimental Physics in 1776",
+        "confidence": 0.95
+      },
+      "source_text": "She took up the Chair of Experimental Physics in 1776, the position she held until her death.",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T14:31:43.704672",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": 1776,
+      "year_confidence": "exact",
+      "event_type": "death",
+      "description": "Died in Bologna.",
+      "location": {
+        "place_name": "Bologna",
+        "raw_text": "interred at the Church of Corpus Domini, Bologna",
+        "confidence": 0.95
+      },
+      "source_text": "Laura Maria Caterina Bassi Veratti (1711–20 February 1778)",
+      "confidence": 1.0,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T14:31:43.704677",
+        "extraction_confidence": 1.0,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    }
+  ],
+  "timeline_extraction_metadata": {
+    "extracted_at": "2025-08-11T14:31:43.704961",
+    "model_used": "lm_studio_google/gemma-3n-e4b",
+    "events_count": 10,
+    "biography_length": 1864,
+    "enhancement_level": "gemma_comprehensive",
+    "target_events_per_mathematician": "5-10"
+  }
+}

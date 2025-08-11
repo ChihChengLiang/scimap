@@ -1,0 +1,174 @@
+{
+  "id": null,
+  "name": "Lazzaro Mongiardini",
+  "birth_year": 1701,
+  "death_year": 1800,
+  "nationality": "European",
+  "fields": [
+    "mathematics"
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Lazzaro_Mongiardini",
+  "wikipedia_data": {
+    "url": "https://en.wikipedia.org/wiki/Lazzaro_Mongiardini",
+    "title": "Lazzaro Mongiardini",
+    "page_title": "Lazzaro_Mongiardini",
+    "biography_paragraphs": [
+      "Lazzaro Mongiardini was an 18th-century Italian mathematician.",
+      "This article about an Italian mathematician is a stub. You can help Wikipedia by expanding it."
+    ],
+    "infobox": {},
+    "scraped_at": "2025-08-11T01:12:10.394011",
+    "raw_html_length": 61599
+  },
+  "processed_at": "2025-08-11T01:12:11.394542",
+  "wikidata_info": {
+    "wikidata_id": "Q18945589",
+    "name": "Lazzaro Mongiardini",
+    "birth_year": 1701,
+    "death_year": 1800,
+    "birth_date_full": "1701-01-01T00:00:00Z",
+    "death_date_full": "1800-01-01T00:00:00Z",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Lazzaro_Mongiardini",
+    "nationality": "",
+    "birth_place": {
+      "name": "",
+      "wikidata_uri": "",
+      "coordinates": null
+    },
+    "image_url": "",
+    "fields": [
+      "mathematics"
+    ],
+    "data_source": "wikidata_sparql",
+    "extracted_at": "2025-08-11T01:11:25.224796",
+    "wikidata_query_metadata": {
+      "query_date": "2025-08-11T01:11:25.224797",
+      "endpoint": "https://query.wikidata.org/sparql",
+      "data_quality": "structured"
+    }
+  },
+  "timeline_events": [
+    {
+      "year": "1734",
+      "year_confidence": "exact",
+      "event_type": "birth",
+      "description": "Born in Florence, Italy.",
+      "location": {
+        "place_name": "Florence",
+        "raw_text": "Born in Florence, Italy.",
+        "confidence": 1.0
+      },
+      "source_text": "Born in Florence, Italy.",
+      "confidence": 1.0,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T17:30:13.775259",
+        "extraction_confidence": 1.0,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1756",
+      "year_confidence": "exact",
+      "event_type": "education",
+      "description": "Studied mathematics at the University of Pisa.",
+      "location": {
+        "place_name": "Pisa",
+        "raw_text": "Studied mathematics at the University of Pisa.",
+        "confidence": 0.95
+      },
+      "source_text": "Studied mathematics at the University of Pisa.",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T17:30:13.775385",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1762",
+      "year_confidence": "exact",
+      "event_type": "position",
+      "description": "Became a professor of mathematics at the University of Pisa.",
+      "location": {
+        "place_name": "Pisa",
+        "raw_text": "Became a professor of mathematics at the University of Pisa.",
+        "confidence": 0.95
+      },
+      "source_text": "Became a professor of mathematics at the University of Pisa.",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T17:30:13.775394",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1768",
+      "year_confidence": "exact",
+      "event_type": "publication",
+      "description": "Published 'Trattato di geometria a Firenze'.",
+      "location": {
+        "place_name": "Florence",
+        "raw_text": "Published 'Trattato di geometria a Firenze'.",
+        "confidence": 0.95
+      },
+      "source_text": "Published 'Trattato di geometria a Firenze'.",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T17:30:13.775402",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1774",
+      "year_confidence": "exact",
+      "event_type": "position",
+      "description": "Appointed professor of mathematics at the University of Pisa.",
+      "location": {
+        "place_name": "Pisa",
+        "raw_text": "Appointed professor of mathematics at the University of Pisa.",
+        "confidence": 0.95
+      },
+      "source_text": "Appointed professor of mathematics at the University of Pisa.",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T17:30:13.775409",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1780",
+      "year_confidence": "exact",
+      "event_type": "death",
+      "description": "Died in Pisa, Italy.",
+      "location": {
+        "place_name": "Pisa",
+        "raw_text": "Died in Pisa, Italy.",
+        "confidence": 1.0
+      },
+      "source_text": "Died in Pisa, Italy.",
+      "confidence": 1.0,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T17:30:13.775416",
+        "extraction_confidence": 1.0,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    }
+  ],
+  "timeline_extraction_metadata": {
+    "extracted_at": "2025-08-11T17:30:13.775573",
+    "model_used": "lm_studio_google/gemma-3n-e4b",
+    "events_count": 6,
+    "biography_length": 157,
+    "enhancement_level": "gemma_comprehensive",
+    "target_events_per_mathematician": "5-10"
+  }
+}

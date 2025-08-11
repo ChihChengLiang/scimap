@@ -1,0 +1,55 @@
+{
+  "id": null,
+  "name": "Anders Celsius",
+  "birth_year": 1701,
+  "death_year": 1744,
+  "nationality": "French",
+  "fields": [
+    "mathematics"
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Anders_Celsius",
+  "wikipedia_data": {
+    "url": "https://en.wikipedia.org/wiki/Anders_Celsius",
+    "title": "Anders Celsius",
+    "page_title": "Anders_Celsius",
+    "biography_paragraphs": [
+      "Anders Celsius (Swedish: [ˈânːdɛʂ ˈsɛ̌lːsɪɵs]; 27 November 1701 – 25 April 1744)[1] was a Swedish astronomer, physicist and mathematician. He was professor of astronomy at Uppsala University from 1730 to 1744, but traveled from 1732 to 1735 visiting notable observatories in Germany, Italy and France. He founded the Uppsala Astronomical Observatory in 1741, and in 1742 proposed (an inverted form of) the centigrade temperature scale, which was later renamed Celsius in his honour.",
+      "Anders Celsius was born in Uppsala, Sweden, on 27 November 1701.[1] His family originated from Ovanåker in the province of Hälsingland.[2] Their family estate was at Doma, also known as Höjen or Högen (locally as Högen 2). The name Celsius is a latinization of the estate's name (Latin celsus 'mound').",
+      "As the son of an astronomy professor, Nils Celsius, nephew of botanist Olof Celsius and the grandson of the mathematician Magnus Celsius and the astronomer Anders Spole,[3][4][page needed] Celsius chose a career in science. He was a talented mathematician from an early age. Anders Celsius studied at Uppsala University, where his father was a teacher, and in 1730 he, too, became a professor of astronomy there. Noted Swedish dramatic poet and actor Johan Celsius was also his uncle.[5][6]"
+    ],
+    "infobox": {
+      "birth": "(1701-11-27)27 November 1701Uppsala, Sweden",
+      "death": "25 April 1744(1744-04-25) (aged 42)Uppsala, Sweden",
+      "fields": "Astronomy, physics, mathematics, geology"
+    },
+    "scraped_at": "2025-08-11T01:12:18.599988",
+    "raw_html_length": 164550
+  },
+  "processed_at": "2025-08-11T01:12:19.600856",
+  "wikidata_info": {
+    "wikidata_id": "Q81130",
+    "name": "Anders Celsius",
+    "birth_year": 1701,
+    "death_year": 1744,
+    "birth_date_full": "1701-12-08T00:00:00Z",
+    "death_date_full": "1744-05-06T00:00:00Z",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Anders_Celsius",
+    "nationality": "",
+    "birth_place": {
+      "name": "",
+      "wikidata_uri": "",
+      "coordinates": null
+    },
+    "image_url": "",
+    "fields": [
+      "mathematics"
+    ],
+    "data_source": "wikidata_sparql",
+    "extracted_at": "2025-08-11T01:11:25.224885",
+    "wikidata_query_metadata": {
+      "query_date": "2025-08-11T01:11:25.224886",
+      "endpoint": "https://query.wikidata.org/sparql",
+      "data_quality": "structured"
+    }
+  }
+}

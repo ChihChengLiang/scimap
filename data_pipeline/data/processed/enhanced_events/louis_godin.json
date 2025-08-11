@@ -1,0 +1,315 @@
+{
+  "id": null,
+  "name": "Louis Godin",
+  "birth_year": 1704,
+  "death_year": 1760,
+  "nationality": "European",
+  "fields": [
+    "mathematics"
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Louis_Godin",
+  "wikipedia_data": {
+    "url": "https://en.wikipedia.org/wiki/Louis_Godin",
+    "title": "Louis Godin",
+    "page_title": "Louis_Godin",
+    "biography_paragraphs": [
+      "Louis Godin (28 February 1704 – 11 September 1760)[1] was a French astronomer and member of the French Academy of Sciences. He worked in Peru, Spain, Portugal and France.",
+      "Godin was born in Paris; his parents were François Godin and Elisabeth Charron.[1]   He was graduated at the College of Louis le Grand, and studied astronomy under Joseph-Nicolas Delisle. His astronomical tables (1724) gave him reputation, and the French Academy of Sciences elected him a pensionary member. He was commissioned to write a continuation of the history of the academy, left uncompleted by Bernard le Bovier de Fontenelle, and was also authorized to submit to the minister, Cardinal André-Hercule de Fleury, the best means of discovering the truth in regard to the figure of the Earth, and proposed sending expeditions to the equator and the polar sea. The minister approved the plan and appropriated the necessary means, the academy designating Charles Marie de La Condamine, Pierre Bouguer, and Godin to go to Peru in 1734.",
+      "The expedition sailed from La Rochelle on 16 May 1735, touched at Cadiz to take two naval lieutenants, Jorge Juan y Santacilia and Antonio de Ulloa,[2] whom Philip V had ordered to accompany it, and proceeded to Santo Domingo, where they remained six months to take observations. They arrived in Quito in February 1736, immediately crossed the Andes to establish their stations in the interior, and remained two years.",
+      "When they had finished their task in 1738, at the invitation of the Viceroy of Peru, Godin accepted the professorship in mathematics in Lima, where he also established a course of astronomical lectures. When the 1746 Lima–Callao earthquake destroyed the greater part of Lima, he took valuable seismological observations, assisted the sufferers, and made plans by the use of which the new buildings would be less exposed to danger from renewed shocks.",
+      "In 1751 he returned to Europe, but found that he had been nearly forgotten, and superseded as pensioner of the academy; and, as his fortune had been lost in unfortunate speculations, he accepted the presidency of the college for midshipmen in Cádiz in Spain in 1752. During the 1755 Lisbon earthquake, which was distinctly felt at Cádiz, he took observations and did much to allay the apprehensions of the public, for which he was ennobled by the king of Spain. In 1759 he was called to Paris and reinstated as pensionary member of the academy, but he died on his return to Cádiz."
+    ],
+    "infobox": {
+      "birth": "(1704-02-28)28 February 1704Paris, France",
+      "death": "11 September 1760(1760-09-11) (aged 56)Cadiz, Andalucía, Spain",
+      "education": "College of Louis le Grand",
+      "fields": "Astronomy"
+    },
+    "scraped_at": "2025-08-11T01:12:32.724970",
+    "raw_html_length": 87719
+  },
+  "processed_at": "2025-08-11T01:12:33.730263",
+  "wikidata_info": {
+    "wikidata_id": "Q1241227",
+    "name": "Louis Godin",
+    "birth_year": 1704,
+    "death_year": 1760,
+    "birth_date_full": "1704-02-28T00:00:00Z",
+    "death_date_full": "1760-09-11T00:00:00Z",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Louis_Godin",
+    "nationality": "",
+    "birth_place": {
+      "name": "",
+      "wikidata_uri": "",
+      "coordinates": null
+    },
+    "image_url": "",
+    "fields": [
+      "mathematics"
+    ],
+    "data_source": "wikidata_sparql",
+    "extracted_at": "2025-08-11T01:11:25.225056",
+    "wikidata_query_metadata": {
+      "query_date": "2025-08-11T01:11:25.225057",
+      "endpoint": "https://query.wikidata.org/sparql",
+      "data_quality": "structured"
+    }
+  },
+  "timeline_events": [
+    {
+      "year": 1704,
+      "year_confidence": "exact",
+      "event_type": "birth",
+      "description": "Born in Paris to François Godin and Elisabeth Charron.",
+      "location": {
+        "place_name": "Paris",
+        "raw_text": "Born in Paris",
+        "confidence": 1.0
+      },
+      "source_text": "Louis Godin (28 February 1704 – 11 September 1760)",
+      "confidence": 1.0,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:27:59.692491",
+        "extraction_confidence": 1.0,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1700-1704",
+      "year_confidence": "range",
+      "event_type": "education",
+      "description": "Graduated from the College of Louis le Grand.",
+      "location": {
+        "place_name": "College of Louis le Grand",
+        "raw_text": "graduated at the College of Louis le Grand",
+        "confidence": 0.95
+      },
+      "source_text": "Graduated at the College of Louis le Grand",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:27:59.692675",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1700-1734",
+      "year_confidence": "range",
+      "event_type": "education",
+      "description": "Studied astronomy under Joseph-Nicolas Delisle.",
+      "location": {
+        "place_name": null,
+        "raw_text": "studied astronomy under Joseph-Nicolas Delisle",
+        "confidence": 0.85
+      },
+      "source_text": "studied astronomy under Joseph-Nicolas Delisle",
+      "confidence": 0.85,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:27:59.692684",
+        "extraction_confidence": 0.85,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": 1724,
+      "year_confidence": "exact",
+      "event_type": "publication",
+      "description": "Published astronomical tables, gaining reputation.",
+      "location": {
+        "place_name": null,
+        "raw_text": "His astronomical tables (1724)",
+        "confidence": 0.95
+      },
+      "source_text": "His astronomical tables (1724)",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:27:59.692690",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1724",
+      "year_confidence": "exact",
+      "event_type": "position",
+      "description": "Elected a pensionary member of the French Academy of Sciences.",
+      "location": {
+        "place_name": "French Academy of Sciences",
+        "raw_text": "elected him a pensionary member",
+        "confidence": 0.95
+      },
+      "source_text": "elected him a pensionary member",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:27:59.692698",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1734",
+      "year_confidence": "exact",
+      "event_type": "collaboration",
+      "description": "Authorized to write a continuation of the history of the academy, left uncompleted by Bernard le Bovier de Fontenelle.",
+      "location": {
+        "place_name": "French Academy of Sciences",
+        "raw_text": "authorized to write a continuation",
+        "confidence": 0.95
+      },
+      "source_text": "authorized to write a continuation",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:27:59.692705",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1734",
+      "year_confidence": "exact",
+      "event_type": "travel",
+      "description": "Authorized to propose expeditions to the equator and the polar sea.",
+      "location": {
+        "place_name": null,
+        "raw_text": "proposed sending expeditions",
+        "confidence": 0.85
+      },
+      "source_text": "proposed sending expeditions",
+      "confidence": 0.85,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:27:59.692712",
+        "extraction_confidence": 0.85,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1734-1735",
+      "year_confidence": "range",
+      "event_type": "travel",
+      "description": "Designated to go to Peru as part of an expedition.",
+      "location": {
+        "place_name": "Peru",
+        "raw_text": "the academy designating Charles Marie de La Condamine, Pierre Bouguer, and Godin to go to Peru",
+        "confidence": 0.95
+      },
+      "source_text": "the academy designating Charles Marie de La Condamine, Pierre Bouguer, and Godin to go to Peru",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:27:59.692718",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1735",
+      "year_confidence": "exact",
+      "event_type": "travel",
+      "description": "Expedition sails from La Rochelle on 16 May.",
+      "location": {
+        "place_name": "La Rochelle",
+        "raw_text": "The expedition sailed from La Rochelle on 16 May 1735",
+        "confidence": 0.95
+      },
+      "source_text": "The expedition sailed from La Rochelle on 16 May 1735",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:27:59.692725",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1735-1736",
+      "year_confidence": "range",
+      "event_type": "travel",
+      "description": "Expedition travels to Cadiz and Santo Domingo.",
+      "location": {
+        "place_name": "Cadiz, Santo Domingo",
+        "raw_text": "touched at Cadiz to take two naval lieutenants, Jorge Juan y Santacilia and Antonio de Ulloa;...proceeded to Santo Domingo",
+        "confidence": 0.95
+      },
+      "source_text": "touched at Cadiz to take two naval lieutenants, Jorge Juan y Santacilia and Antonio de Ulloa;...proceeded to Santo Domingo",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:27:59.692732",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1736",
+      "year_confidence": "exact",
+      "event_type": "travel",
+      "description": "Arrives in Quito.",
+      "location": {
+        "place_name": "Quito",
+        "raw_text": "arrived in Quito",
+        "confidence": 0.95
+      },
+      "source_text": "arrived in Quito",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:27:59.692738",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1736-1738",
+      "year_confidence": "range",
+      "event_type": "travel",
+      "description": "Expedition establishes stations in the interior of Peru.",
+      "location": {
+        "place_name": "Peru",
+        "raw_text": "immediately crossed the Andes to establish their stations in the interior, and remained two years",
+        "confidence": 0.95
+      },
+      "source_text": "immediately crossed the Andes to establish their stations in the interior, and remained two years",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:27:59.692744",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1760",
+      "year_confidence": "exact",
+      "event_type": "death",
+      "description": "Died on 11 September in Paris.",
+      "location": {
+        "place_name": "Paris",
+        "raw_text": "Louis Godin (28 February 1704 – 11 September 1760)",
+        "confidence": 0.95
+      },
+      "source_text": "Louis Godin (28 February 1704 – 11 September 1760)",
+      "confidence": 1.0,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:27:59.692751",
+        "extraction_confidence": 1.0,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    }
+  ],
+  "timeline_extraction_metadata": {
+    "extracted_at": "2025-08-11T16:27:59.693011",
+    "model_used": "lm_studio_google/gemma-3n-e4b",
+    "events_count": 13,
+    "biography_length": 1428,
+    "enhancement_level": "gemma_comprehensive",
+    "target_events_per_mathematician": "5-10"
+  }
+}

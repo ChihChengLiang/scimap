@@ -1,0 +1,257 @@
+{
+  "id": null,
+  "name": "Pierre-Louis Moreau de Maupertuis",
+  "birth_year": 1698,
+  "death_year": 1759,
+  "nationality": "French",
+  "fields": [
+    "mathematics"
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Pierre_Louis_Maupertuis",
+  "wikipedia_data": {
+    "url": "https://en.wikipedia.org/wiki/Pierre_Louis_Maupertuis",
+    "title": "Pierre Louis Maupertuis",
+    "page_title": "Pierre_Louis_Maupertuis",
+    "biography_paragraphs": [
+      "Pierre Louis Moreau de Maupertuis (/ˌmoʊpɛərˈtwiː/;[1] French: [mopɛʁtɥi]; 1698 – 27 July 1759)[a] was a French mathematician, philosopher and man of letters. He became the director of the Académie des Sciences and the first president of the Prussian Academy of Science, at the invitation of Frederick the Great.",
+      "Maupertuis made an expedition to Lapland to determine the shape of the Earth. He is often credited with having discovered the principle of least action – a version of which is known as Maupertuis's principle[2] – which he expressed as an integral equation that describes the path followed by a physical system. His work in natural history is interesting in relation to modern science since he touched on aspects of heredity and the struggle for life.",
+      "Maupertuis was born at Saint-Malo, France, to a moderately wealthy family of merchant-corsairs. His father, Renė, had been involved in a number of enterprises that were central to the monarchy so that he thrived socially and politically.[3] The son was educated in mathematics by a private tutor, Nicolas Guisnée,[4] and upon completing his formal education his father secured him a largely honorific cavalry commission. After three years in the cavalry, during which time he became acquainted with fashionable social and mathematical circles, he moved to Paris and began building his reputation as a mathematician and literary wit. In 1723 he was admitted to the Académie des Sciences.",
+      "His early mathematical work revolved around the vis viva controversy, for which Maupertuis developed and extended the work of Isaac Newton (whose theories were not yet widely accepted outside England) and argued against the waning Cartesian mechanics. In the 1730s, the shape of the Earth became a flashpoint in the battle among rival systems of mechanics. Maupertuis, based on his exposition of Newton (with the help of his mentor Johan Bernoulli) predicted that the Earth should be oblate, while his rival Jacques Cassini measured it astronomically to be prolate. In 1736 Maupertuis acted as chief of the French Geodesic Mission sent by King Louis XV to Lapland to measure the length of a degree of arc of the meridian. His results, which he published in a book detailing his procedures, essentially settled the controversy in his favour. The book included an adventure narrative of the expedition, and an account of the Käymäjärvi Inscriptions in Sweden. On his return home he became a member of almost all the scientific societies of Europe.[5]",
+      "After the Lapland expedition, Maupertuis set about generalising his earlier mathematical work, proposing the principle of least action as a metaphysical principle that underlies all the laws of mechanics. He also expanded into the biological realm, anonymously publishing a book that was part popular science, part philosophy, and part erotica: Vénus physique. In that work, Maupertuis proposed a theory of generation (i.e., reproduction) in which organic matter possessed a self-organizing “intelligence” that was analogous to the contemporary chemical concept of affinities, which was widely read and commented upon favourably by Georges-Louis Leclerc, Comte de Buffon. He later developed his views on living things further in a more formal pseudonymous work that explored heredity, collecting evidence that confirmed the contributions of both sexes and treated variations as statistical phenomena."
+    ],
+    "infobox": {
+      "birth": "1698Saint-Malo, France",
+      "death": "27 July 1759(1759-07-27) (aged 60)Basel, Switzerland",
+      "fields": "Mathematics, physics, biology, metaphysics, moral philosophy, astronomy, geography"
+    },
+    "scraped_at": "2025-08-11T01:11:56.264237",
+    "raw_html_length": 188079
+  },
+  "processed_at": "2025-08-11T01:11:57.269323",
+  "wikidata_info": {
+    "wikidata_id": "Q164374",
+    "name": "Pierre-Louis Moreau de Maupertuis",
+    "birth_year": 1698,
+    "death_year": 1759,
+    "birth_date_full": "1698-09-28T00:00:00Z",
+    "death_date_full": "1759-07-27T00:00:00Z",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pierre_Louis_Maupertuis",
+    "nationality": "",
+    "birth_place": {
+      "name": "",
+      "wikidata_uri": "",
+      "coordinates": null
+    },
+    "image_url": "",
+    "fields": [
+      "mathematics"
+    ],
+    "data_source": "wikidata_sparql",
+    "extracted_at": "2025-08-11T01:11:25.224627",
+    "wikidata_query_metadata": {
+      "query_date": "2025-08-11T01:11:25.224628",
+      "endpoint": "https://query.wikidata.org/sparql",
+      "data_quality": "structured"
+    }
+  },
+  "timeline_events": [
+    {
+      "year": 1700,
+      "year_confidence": "approximate",
+      "event_type": "birth",
+      "description": "Born in Saint-Malo, France.",
+      "location": {
+        "place_name": "Saint-Malo, France",
+        "raw_text": "Born at Saint-Malo, France",
+        "confidence": 1.0
+      },
+      "source_text": "Born at Saint-Malo, France",
+      "confidence": 1.0,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T15:05:33.842370",
+        "extraction_confidence": 1.0,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1700-1705",
+      "year_confidence": "approximate",
+      "event_type": "education",
+      "description": "Educated in mathematics by a private tutor, Nicolas Guisnée.",
+      "location": {
+        "place_name": null,
+        "raw_text": "educated in mathematics by a private tutor, Nicolas Guisnée",
+        "confidence": 0.95
+      },
+      "source_text": "educated in mathematics by a private tutor, Nicolas Guisnée",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T15:05:33.842606",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1705-1708",
+      "year_confidence": "approximate",
+      "event_type": "position",
+      "description": "Obtained a cavalry commission after completing his formal education.",
+      "location": {
+        "place_name": null,
+        "raw_text": "upon completing his formal education his father secured him a largely honorific cavalry commission",
+        "confidence": 0.85
+      },
+      "source_text": "upon completing his formal education his father secured him a largely honorific cavalry commission",
+      "confidence": 0.85,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T15:05:33.842616",
+        "extraction_confidence": 0.85,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1708-1723",
+      "year_confidence": "range",
+      "event_type": "position",
+      "description": "Served in the cavalry, becoming acquainted with fashionable social and mathematical circles.",
+      "location": {
+        "place_name": "Paris",
+        "raw_text": "moved to Paris and began building his reputation as a mathematician and literary wit",
+        "confidence": 0.9
+      },
+      "source_text": "After three years in the cavalry, during which time he became acquainted with fashionable social and mathematical circles",
+      "confidence": 0.9,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T15:05:33.842624",
+        "extraction_confidence": 0.9,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1723",
+      "year_confidence": "exact",
+      "event_type": "position",
+      "description": "Admitted to the Académie des Sciences.",
+      "location": {
+        "place_name": "Paris",
+        "raw_text": "He became the director of the Académie des Sciences",
+        "confidence": 0.95
+      },
+      "source_text": "He became the director of the Académie des Sciences",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T15:05:33.842631",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1730-1734",
+      "year_confidence": "range",
+      "event_type": "position",
+      "description": "Director of the Académie des Sciences.",
+      "location": {
+        "place_name": "Paris",
+        "raw_text": "He became the director of the Académie des Sciences",
+        "confidence": 0.95
+      },
+      "source_text": "He became the director of the Académie des Sciences",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T15:05:33.842638",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1734",
+      "year_confidence": "exact",
+      "event_type": "position",
+      "description": "First president of the Prussian Academy of Science, at the invitation of Frederick the Great.",
+      "location": {
+        "place_name": "Berlin",
+        "raw_text": "the first president of the Prussian Academy of Science, at the invitation of Frederick the Great",
+        "confidence": 0.95
+      },
+      "source_text": "the first president of the Prussian Academy of Science, at the invitation of Frederick the Great",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T15:05:33.842645",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1735",
+      "year_confidence": "exact",
+      "event_type": "travel",
+      "description": "Made an expedition to Lapland to determine the shape of the Earth.",
+      "location": {
+        "place_name": "Lapland",
+        "raw_text": "Maupertuis made an expedition to Lapland to determine the shape of the Earth",
+        "confidence": 0.95
+      },
+      "source_text": "Maupertuis made an expedition to Lapland to determine the shape of the Earth",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T15:05:33.842652",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1739",
+      "year_confidence": "exact",
+      "event_type": "publication",
+      "description": "Proposed the principle of least action (Maupertuis's principle).",
+      "location": {
+        "place_name": null,
+        "raw_text": "Maupertuis's principle",
+        "confidence": 0.85
+      },
+      "source_text": "Maupertuis's principle",
+      "confidence": 0.85,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T15:05:33.842659",
+        "extraction_confidence": 0.85,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1740-1759",
+      "year_confidence": "range",
+      "event_type": "death",
+      "description": "Died on 27 July 1759.",
+      "location": {
+        "place_name": null,
+        "raw_text": "1698 – 27 July 1759",
+        "confidence": 1.0
+      },
+      "source_text": "1698 – 27 July 1759",
+      "confidence": 1.0,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T15:05:33.842666",
+        "extraction_confidence": 1.0,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    }
+  ],
+  "timeline_extraction_metadata": {
+    "extracted_at": "2025-08-11T15:05:33.842855",
+    "model_used": "lm_studio_google/gemma-3n-e4b",
+    "events_count": 10,
+    "biography_length": 1450,
+    "enhancement_level": "gemma_comprehensive",
+    "target_events_per_mathematician": "5-10"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "id": null,
+  "name": "Guillaume Le Blond",
+  "birth_year": 1704,
+  "death_year": 1781,
+  "nationality": "French",
+  "fields": [
+    "mathematics"
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Guillaume_Le_Blond",
+  "wikipedia_data": {
+    "url": "https://en.wikipedia.org/wiki/Guillaume_Le_Blond",
+    "title": "Guillaume Le Blond",
+    "page_title": "Guillaume_Le_Blond",
+    "biography_paragraphs": [
+      "Guillaume Le Blond (1705 – May 24, 1781) was a French mathematician. He was born in Paris.",
+      "He was a professor of mathematics at the grand stable of the King (1736) and then the Enfants de France (1756). Leblond kept this job until 1778, when he became secretary of the cabinet of Madame Victoire.",
+      "Le Blond wrote the following works, some of which have been translated into German. His work \"Éléments de fortification\" was translated to Ottoman Turkish language in 1833 as \"Usûl-i İstihkâmât\"(Method of Fortifications) by Ishak Efendi.[1]",
+      "He also produced editions of Mémoires d’artillerie by Pierre Surirey de Saint-Remy and the Géométrie by Joseph Sauveur and collaborated on the Encyclopédie.",
+      "This article about a French mathematician is a stub. You can help Wikipedia by expanding it."
+    ],
+    "infobox": {},
+    "scraped_at": "2025-08-11T01:12:29.192544",
+    "raw_html_length": 76733
+  },
+  "processed_at": "2025-08-11T01:12:30.197887",
+  "wikidata_info": {
+    "wikidata_id": "Q3120019",
+    "name": "Guillaume Le Blond",
+    "birth_year": 1704,
+    "death_year": 1781,
+    "birth_date_full": "1704-01-01T00:00:00Z",
+    "death_date_full": "1781-05-24T00:00:00Z",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Guillaume_Le_Blond",
+    "nationality": "",
+    "birth_place": {
+      "name": "",
+      "wikidata_uri": "",
+      "coordinates": null
+    },
+    "image_url": "",
+    "fields": [
+      "mathematics"
+    ],
+    "data_source": "wikidata_sparql",
+    "extracted_at": "2025-08-11T01:11:25.225021",
+    "wikidata_query_metadata": {
+      "query_date": "2025-08-11T01:11:25.225022",
+      "endpoint": "https://query.wikidata.org/sparql",
+      "data_quality": "structured"
+    }
+  }
+}

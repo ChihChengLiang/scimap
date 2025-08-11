@@ -1,0 +1,239 @@
+{
+  "id": null,
+  "name": "Yamaji Nushizumi",
+  "birth_year": 1704,
+  "death_year": 1773,
+  "nationality": "European",
+  "fields": [
+    "mathematics"
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Yamaji_Nushizumi",
+  "wikipedia_data": {
+    "url": "https://en.wikipedia.org/wiki/Yamaji_Nushizumi",
+    "title": "Yamaji Nushizumi",
+    "page_title": "Yamaji_Nushizumi",
+    "biography_paragraphs": [
+      "Yamaji Nuchizumi (山路 主住; 1704 – January 3, 1773), was a Japanese mathematician in the middle of the Edo period, focused on calendar reform.",
+      "The Yamaji family claimed to be descendants of Taira no Shigemori, and were vassals of the shogunate ever since an ancestor Yamaji Souemon Hisanaga was employed as an attendant. In the 9th year of Kyoho (1724), when Nushizumi was 21 years old, he started working as a servant. After that, he became an accountant in 1738, but was dismissed as \"not good at work\", and in 1739, he entered the service.",
+      "In the first year of Kanen (1748), he became a provisional helper for the supplementary calendar. He served as an assistant to Shibukawa Noriyoshi and Nishikawa Masayoshi, an astronomical director, and traveled between Kyoto and Edo. As a close aide of Tokugawa Yoshimune his teacher Nakane planned to convert the calendar to the Gregorian calendar, and he participated in this project. But the conversion to the Western calendar was not taken up, and as a result the Horeki calendar was only a modification of the Jokyo calendar.",
+      "In the first year of Meiwa (1764), at the age of 61, he was appointed to the Tenmonkata. He was given 100 bales and was second in line to the Shibukawa family. After the calendar reform, he studied the Western calendar together with his son Yamaji Yukihira and a disciple of the Sendai clan, Toita Yasusuke. In the Sutei calendar book they completed a Western calendar shift. This calendar was verified by the Yamaji and Yoshida families of Tenmonkata. But in Kansei's reform of the calendar, the Western calendar based on the second part of the calendar study by Asada Goryu and others was superior, so this was not adopted either.",
+      "He died on December 11, 1773, at the age of 69. He was buried at Daisenji Temple in Yanaka. His family was then headed by his son Yamaji Yukihira, and his descendants served the Tenmonkata for generations."
+    ],
+    "infobox": {
+      "birth": "1704",
+      "death": "January 3, 1773",
+      "nationality": "Japanese",
+      "fields": "mathematician"
+    },
+    "scraped_at": "2025-08-11T01:12:30.358981",
+    "raw_html_length": 71246
+  },
+  "processed_at": "2025-08-11T01:12:31.364319",
+  "wikidata_info": {
+    "wikidata_id": "Q11470954",
+    "name": "Yamaji Nushizumi",
+    "birth_year": 1704,
+    "death_year": 1773,
+    "birth_date_full": "1704-01-01T00:00:00Z",
+    "death_date_full": "1773-01-03T00:00:00Z",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Yamaji_Nushizumi",
+    "nationality": "",
+    "birth_place": {
+      "name": "",
+      "wikidata_uri": "",
+      "coordinates": null
+    },
+    "image_url": "",
+    "fields": [
+      "mathematics"
+    ],
+    "data_source": "wikidata_sparql",
+    "extracted_at": "2025-08-11T01:11:25.225026",
+    "wikidata_query_metadata": {
+      "query_date": "2025-08-11T01:11:25.225027",
+      "endpoint": "https://query.wikidata.org/sparql",
+      "data_quality": "structured"
+    }
+  },
+  "timeline_events": [
+    {
+      "year": 1704,
+      "year_confidence": "exact",
+      "event_type": "birth",
+      "description": "Yamaji Nushizumi is born.",
+      "location": {
+        "place_name": null,
+        "raw_text": "Yamaji Nuchizumi (山路 主住; 1704 – January 3, 1773)",
+        "confidence": 1.0
+      },
+      "source_text": "Yamaji Nuchizumi (山路 主住; 1704 – January 3, 1773)",
+      "confidence": 1.0,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:48:42.152326",
+        "extraction_confidence": 1.0,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": 1724,
+      "year_confidence": "exact",
+      "event_type": "position",
+      "description": "Begins working as a servant.",
+      "location": {
+        "place_name": null,
+        "raw_text": "In the 9th year of Kyoho (1724), when Nushizumi was 21 years old, he started working as a servant.",
+        "confidence": 0.95
+      },
+      "source_text": "In the 9th year of Kyoho (1724), when Nushizumi was 21 years old, he started working as a servant.",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:48:42.152437",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": 1738,
+      "year_confidence": "exact",
+      "event_type": "position",
+      "description": "Appointed as an accountant.",
+      "location": {
+        "place_name": null,
+        "raw_text": "After that, he became an accountant in 1738",
+        "confidence": 0.95
+      },
+      "source_text": "After that, he became an accountant in 1738",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:48:42.152444",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": 1739,
+      "year_confidence": "exact",
+      "event_type": "position",
+      "description": "Dismissed from accountant position.",
+      "location": {
+        "place_name": null,
+        "raw_text": "but was dismissed as \"not good at work\", and in 1739, he entered the service.",
+        "confidence": 0.95
+      },
+      "source_text": "but was dismissed as \"not good at work\", and in 1739, he entered the service.",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:48:42.152449",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": 1748,
+      "year_confidence": "exact",
+      "event_type": "position",
+      "description": "Becomes a provisional helper for the supplementary calendar.",
+      "location": {
+        "place_name": null,
+        "raw_text": "In the first year of Kanen (1748), he became a provisional helper for the supplementary calendar.",
+        "confidence": 0.95
+      },
+      "source_text": "In the first year of Kanen (1748), he became a provisional helper for the supplementary calendar.",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:48:42.152454",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1748-1773",
+      "year_confidence": "range",
+      "event_type": "collaboration",
+      "description": "Assists Shibukawa Noriyoshi and Nishikawa Masayoshi.",
+      "location": {
+        "place_name": "Kyoto and Edo",
+        "raw_text": "He served as an assistant to Shibukawa Noriyoshi and Nishikawa Masayoshi, an astronomical director, and traveled between Kyoto and Edo.",
+        "confidence": 0.95
+      },
+      "source_text": "He served as an assistant to Shibukawa Noriyoshi and Nishikawa Masayoshi, an astronomical director, and traveled between Kyoto and Edo.",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:48:42.152531",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1748-1773",
+      "year_confidence": "range",
+      "event_type": "collaboration",
+      "description": "Works as an assistant to Shibukawa Noriyoshi and Nishikawa Masayoshi.",
+      "location": {
+        "place_name": "Kyoto and Edo",
+        "raw_text": "He served as an assistant to Shibukawa Noriyoshi and Nishikawa Masayoshi, an astronomical director, and traveled between Kyoto and Edo.",
+        "confidence": 0.95
+      },
+      "source_text": "He served as an assistant to Shibukawa Noriyoshi and Nishikawa Masayoshi, an astronomical director, and traveled between Kyoto and Edo.",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:48:42.152539",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1748-1773",
+      "year_confidence": "range",
+      "event_type": "collaboration",
+      "description": "Participates in calendar reform project under Tokugawa Yoshimune's teacher Nakane.",
+      "location": {
+        "place_name": "Edo",
+        "raw_text": "As a close aide of Tokugawa Yoshimune his teacher Nakane planned to convert the calendar to the Gregorian calendar, and he participated in this project.",
+        "confidence": 0.95
+      },
+      "source_text": "As a close aide of Tokugawa Yoshimune his teacher Nakane planned to convert the calendar to the Gregorian calendar, and he participated in this project.",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:48:42.152547",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": 1773,
+      "year_confidence": "exact",
+      "event_type": "death",
+      "description": "Yamaji Nushizumi dies.",
+      "location": {
+        "place_name": null,
+        "raw_text": "Yamaji Nuchizumi (山路 主住; 1704 – January 3, 1773)",
+        "confidence": 1.0
+      },
+      "source_text": "Yamaji Nuchizumi (山路 主住; 1704 – January 3, 1773)",
+      "confidence": 1.0,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:48:42.152553",
+        "extraction_confidence": 1.0,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    }
+  ],
+  "timeline_extraction_metadata": {
+    "extracted_at": "2025-08-11T16:48:42.152740",
+    "model_used": "lm_studio_google/gemma-3n-e4b",
+    "events_count": 9,
+    "biography_length": 1070,
+    "enhancement_level": "gemma_comprehensive",
+    "target_events_per_mathematician": "5-10"
+  }
+}

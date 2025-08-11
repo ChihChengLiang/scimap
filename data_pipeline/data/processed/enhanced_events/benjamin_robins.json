@@ -1,0 +1,234 @@
+{
+  "id": null,
+  "name": "Benjamin Robins",
+  "birth_year": 1706,
+  "death_year": 1751,
+  "nationality": "European",
+  "fields": [
+    "mathematics"
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Benjamin_Robins",
+  "wikipedia_data": {
+    "url": "https://en.wikipedia.org/wiki/Benjamin_Robins",
+    "title": "Benjamin Robins",
+    "page_title": "Benjamin_Robins",
+    "biography_paragraphs": [
+      "Benjamin Robins (1707 – 29 July 1751) was a pioneering British scientist, Newtonian mathematician, and military engineer.",
+      "He wrote an influential treatise on gunnery, for the first time introducing Newtonian science to military men, was an early enthusiast for rifled gun barrels, and his work had substantive influence on the development of artillery during the latter half of the eighteenth century – and directly stimulated the teaching of calculus in military academies.",
+      "Benjamin Robins was born in Bath.[1] His parents were Quakers in poor circumstances, and as a result, he received very little formal education.[1] Having come to London on the advice of Dr. Henry Pemberton (1694–1771), who had recognised Robins's talents,[1] for a time he maintained himself by teaching mathematics, but soon devoted himself to engineering and the study of fortification.[2]",
+      "In particular he carried out an extensive series of experiments in gunnery, embodying his results in his famous treatise on New Principles of Gunnery (1742),[3] which contains a description of his ballistic pendulum (see chronograph).[2]",
+      "Robins also made a number of important experiments on the resistance of the air to the motion of projectiles,[4][5][6] and on the force of gunpowder, with computation of the velocities thereby communicated to projectiles. He compared the results of his theory with experimental determinations of the ranges of mortars and cannon, and gave practical maxims for the management of artillery. He also made observations on the flight of rockets, and wrote on the advantages of rifled gun barrels. His work on gunnery was translated into German by Leonhard Euler, who added a critical commentary of his own.[2] However, the work of Robins still served as an important piece of technical information that helped the later advancement of the Prussian artillery, especially of its improvement in accuracy, a big step forwards that the book turned out to be a shot in the arm of the ambitious Frederick the Great who determined to vault the status and power of Prussian artillery to the top among other European armies."
+    ],
+    "infobox": {},
+    "scraped_at": "2025-08-11T01:12:45.709009",
+    "raw_html_length": 103741
+  },
+  "processed_at": "2025-08-11T01:12:46.714211",
+  "wikidata_info": {
+    "wikidata_id": "Q201803",
+    "name": "Benjamin Robins",
+    "birth_year": 1706,
+    "death_year": 1751,
+    "birth_date_full": "1706-04-16T00:00:00Z",
+    "death_date_full": "1751-07-29T00:00:00Z",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Benjamin_Robins",
+    "nationality": "",
+    "birth_place": {
+      "name": "",
+      "wikidata_uri": "",
+      "coordinates": null
+    },
+    "image_url": "",
+    "fields": [
+      "mathematics"
+    ],
+    "data_source": "wikidata_sparql",
+    "extracted_at": "2025-08-11T01:11:25.225165",
+    "wikidata_query_metadata": {
+      "query_date": "2025-08-11T01:11:25.225166",
+      "endpoint": "https://query.wikidata.org/sparql",
+      "data_quality": "structured"
+    }
+  },
+  "timeline_events": [
+    {
+      "year": 1707,
+      "year_confidence": "exact",
+      "event_type": "birth",
+      "description": "Benjamin Robins is born in Bath.",
+      "location": {
+        "place_name": "Bath",
+        "raw_text": "Benjamin Robins was born in Bath.",
+        "confidence": 1.0
+      },
+      "source_text": "Benjamin Robins was born in Bath.",
+      "confidence": 1.0,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:01:54.174209",
+        "extraction_confidence": 1.0,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1720s",
+      "year_confidence": "range",
+      "event_type": "education",
+      "description": "Robins receives little formal education in his youth.",
+      "location": {
+        "place_name": "Bath",
+        "raw_text": "His parents were Quakers in poor circumstances, and as a result, he received very little formal education.",
+        "confidence": 0.8
+      },
+      "source_text": "His parents were Quakers in poor circumstances, and as a result, he received very little formal education.",
+      "confidence": 0.8,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:01:54.174345",
+        "extraction_confidence": 0.8,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1720s",
+      "year_confidence": "range",
+      "event_type": "education",
+      "description": "Robins teaches mathematics to support himself.",
+      "location": {
+        "place_name": "London",
+        "raw_text": "Having come to London on the advice of Dr. Henry Pemberton...",
+        "confidence": 0.7
+      },
+      "source_text": "Having come to London on the advice of Dr. Henry Pemberton...",
+      "confidence": 0.7,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:01:54.174353",
+        "extraction_confidence": 0.7,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1720s",
+      "year_confidence": "range",
+      "event_type": "collaboration",
+      "description": "Robins receives advice from Dr. Henry Pemberton.",
+      "location": {
+        "place_name": "London",
+        "raw_text": "Having come to London on the advice of Dr. Henry Pemberton...",
+        "confidence": 0.9
+      },
+      "source_text": "Having come to London on the advice of Dr. Henry Pemberton...",
+      "confidence": 0.9,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:01:54.174359",
+        "extraction_confidence": 0.9,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1730s",
+      "year_confidence": "range",
+      "event_type": "position",
+      "description": "Robins begins to focus on engineering and fortification.",
+      "location": {
+        "place_name": "London",
+        "raw_text": "but soon devoted himself to engineering and the study of fortification.",
+        "confidence": 0.8
+      },
+      "source_text": "but soon devoted himself to engineering and the study of fortification.",
+      "confidence": 0.8,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:01:54.174365",
+        "extraction_confidence": 0.8,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1730s-1740s",
+      "year_confidence": "range",
+      "event_type": "publication",
+      "description": "Robins writes an influential treatise on gunnery.",
+      "location": {
+        "place_name": "London",
+        "raw_text": "wrote an influential treatise on gunnery",
+        "confidence": 0.9
+      },
+      "source_text": "wrote an influential treatise on gunnery",
+      "confidence": 0.9,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:01:54.174370",
+        "extraction_confidence": 0.9,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1740s",
+      "year_confidence": "range",
+      "event_type": "position",
+      "description": "Robins' work influences the development of artillery.",
+      "location": {
+        "place_name": "London",
+        "raw_text": "his work had substantive influence on the development of artillery during the latter half of the eighteenth century",
+        "confidence": 0.8
+      },
+      "source_text": "his work had substantive influence on the development of artillery during the latter half of the eighteenth century",
+      "confidence": 0.8,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:01:54.174376",
+        "extraction_confidence": 0.8,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1740s",
+      "year_confidence": "range",
+      "event_type": "other",
+      "description": "Robins stimulates the teaching of calculus in military academies.",
+      "location": {
+        "place_name": "London",
+        "raw_text": "and directly stimulated the teaching of calculus in military academies.",
+        "confidence": 0.7
+      },
+      "source_text": "and directly stimulated the teaching of calculus in military academies.",
+      "confidence": 0.7,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:01:54.174381",
+        "extraction_confidence": 0.7,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1751",
+      "year_confidence": "exact",
+      "event_type": "death",
+      "description": "Benjamin Robins dies on 29 July.",
+      "location": {
+        "place_name": "Bath",
+        "raw_text": "Benjamin Robins (1707 – 29 July 1751)",
+        "confidence": 0.9
+      },
+      "source_text": "Benjamin Robins (1707 – 29 July 1751)",
+      "confidence": 0.9,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:01:54.174387",
+        "extraction_confidence": 0.9,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    }
+  ],
+  "timeline_extraction_metadata": {
+    "extracted_at": "2025-08-11T16:01:54.174518",
+    "model_used": "lm_studio_google/gemma-3n-e4b",
+    "events_count": 9,
+    "biography_length": 866,
+    "enhancement_level": "gemma_comprehensive",
+    "target_events_per_mathematician": "5-10"
+  }
+}

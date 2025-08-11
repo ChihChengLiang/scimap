@@ -1,0 +1,52 @@
+{
+  "id": null,
+  "name": "Giovanni Pagnini",
+  "birth_year": 1701,
+  "death_year": 1800,
+  "nationality": "European",
+  "fields": [
+    "mathematics"
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Giovanni_Pagnini",
+  "wikipedia_data": {
+    "url": "https://en.wikipedia.org/wiki/Giovanni_Pagnini",
+    "title": "Giovanni Pagnini",
+    "page_title": "Giovanni_Pagnini",
+    "biography_paragraphs": [
+      "Giovanni Pagnini was an 18th-century Maltese mathematician and hydrographer.[1][2]",
+      "Born in Lucca, Italy, Pagnini came to Malta known as the \"Hydrographer of the Order\" and the knowledge he brought was instrumental in the foundation of Malta's School of Navigation.[3]",
+      "Pagnini mainly expanded on theoretical mathematics, but his text Compasso di Proporzioni is focused on detailing new compass-like tools (ex: \"La Linea Aritmetica\", \"La Linea dei Piani[o] Linea Geometrica\", \"La Linea Cubica [o] Linea de Solidi\") for construction and navigation purposes.[3]",
+      "This article about a mathematician is a stub. You can help Wikipedia by expanding it."
+    ],
+    "infobox": {},
+    "scraped_at": "2025-08-11T01:12:12.728512",
+    "raw_html_length": 71938
+  },
+  "processed_at": "2025-08-11T01:12:13.734977",
+  "wikidata_info": {
+    "wikidata_id": "Q21208832",
+    "name": "Giovanni Pagnini",
+    "birth_year": 1701,
+    "death_year": 1800,
+    "birth_date_full": "1701-01-01T00:00:00Z",
+    "death_date_full": "1800-01-01T00:00:00Z",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Giovanni_Pagnini",
+    "nationality": "",
+    "birth_place": {
+      "name": "",
+      "wikidata_uri": "",
+      "coordinates": null
+    },
+    "image_url": "",
+    "fields": [
+      "mathematics"
+    ],
+    "data_source": "wikidata_sparql",
+    "extracted_at": "2025-08-11T01:11:25.224805",
+    "wikidata_query_metadata": {
+      "query_date": "2025-08-11T01:11:25.224806",
+      "endpoint": "https://query.wikidata.org/sparql",
+      "data_quality": "structured"
+    }
+  }
+}

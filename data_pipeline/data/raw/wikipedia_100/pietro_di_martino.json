@@ -1,0 +1,57 @@
+{
+  "id": null,
+  "name": "Pietro di Martino",
+  "birth_year": 1707,
+  "death_year": 1746,
+  "nationality": "European",
+  "fields": [
+    "mathematics"
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Pietro_De_Martino",
+  "wikipedia_data": {
+    "url": "https://en.wikipedia.org/wiki/Pietro_De_Martino",
+    "title": "Pietro De Martino",
+    "page_title": "Pietro_De_Martino",
+    "biography_paragraphs": [
+      "Pietro De Martino or Di Martino (31 May 1707 – 28 January 1746) was an Italian mathematician and astronomer.[1]",
+      "Born in Faicchio, he was brother of Angelo, professor first of medical physics then of mathematics at the University of Naples; and of Nicola Antonio De Martino, professor di mathematics and director of the Real Corpo degli Ingegneri (Royal Engineers Corp) and Marine Guard. Pietro De Martino was a pupil of Agostino Ariani and of Giacinto De Cristoforo (1650-1730). In 1735 he was assigned of the astronomical and nautical chair at the University of Naples.[2]",
+      "He disputed with Roger Joseph Boscovich on the question if it is possible to gain a right result starting from a wrong hypothesis.[1]",
+      "He authored various works; his Nuove istituzioni di aritmetica pratica, published originally in 1739 in Naples, had many reprints (the better known of the 1758; one also in Turin in 1762).[1] He died in Naples in 1746.[2]"
+    ],
+    "infobox": {
+      "birth": "(1707-05-31)31 May 1707Faicchio, Campania",
+      "death": "28 January 1746(1746-01-28) (aged 38)Naples, Campania",
+      "nationality": "Italian",
+      "fields": "Astronomy, Mathematics"
+    },
+    "scraped_at": "2025-08-11T01:12:52.895865",
+    "raw_html_length": 80385
+  },
+  "processed_at": "2025-08-11T01:12:53.905043",
+  "wikidata_info": {
+    "wikidata_id": "Q18945748",
+    "name": "Pietro di Martino",
+    "birth_year": 1707,
+    "death_year": 1746,
+    "birth_date_full": "1707-05-31T00:00:00Z",
+    "death_date_full": "1746-01-28T00:00:00Z",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pietro_De_Martino",
+    "nationality": "",
+    "birth_place": {
+      "name": "",
+      "wikidata_uri": "",
+      "coordinates": null
+    },
+    "image_url": "",
+    "fields": [
+      "mathematics"
+    ],
+    "data_source": "wikidata_sparql",
+    "extracted_at": "2025-08-11T01:11:25.225223",
+    "wikidata_query_metadata": {
+      "query_date": "2025-08-11T01:11:25.225224",
+      "endpoint": "https://query.wikidata.org/sparql",
+      "data_quality": "structured"
+    }
+  }
+}

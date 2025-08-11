@@ -1,0 +1,52 @@
+{
+  "id": null,
+  "name": "Michael Adelbulner",
+  "birth_year": 1702,
+  "death_year": 1779,
+  "nationality": "French",
+  "fields": [
+    "mathematics"
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Michael_Adelbulner",
+  "wikipedia_data": {
+    "url": "https://en.wikipedia.org/wiki/Michael_Adelbulner",
+    "title": "Michael Adelbulner",
+    "page_title": "Michael_Adelbulner",
+    "biography_paragraphs": [
+      "Michael A. Adelbulner (February 3, 1702 – June 21, 1779) was a German mathematician, physicist, physician, and astronomer. He was born at Nürnberg and died in Altdorf bei Nürnberg.",
+      "His claim to fame resides in his having started with Anders Celsius in 1733 a journal of astronomy called \"Mitteilungsblatt zur Förderung der Astronomie / Commercium litterarium ad astronomiae incrementum\", announcing the principal celestial phenomena, and analyzing new publications. This journal enjoyed much reputation in its day. Thirty-four numbers were published.",
+      "In 1736 he was named a member of the Königlich-Preußische Akademie der Wissenschaften.",
+      "In 1738 he received a M.D. degree with the thesis \"Theses medicae physiologico-pathologicae, Pulmonum fabricam, usum, uariaque, quibus affliguntur, incommoda generatim complectentes\".\nIn 1742 he was appointed professor of mathematics at the University of Altdorf."
+    ],
+    "infobox": {},
+    "scraped_at": "2025-08-11T01:12:22.112725",
+    "raw_html_length": 65096
+  },
+  "processed_at": "2025-08-11T01:12:23.120602",
+  "wikidata_info": {
+    "wikidata_id": "Q77818",
+    "name": "Michael Adelbulner",
+    "birth_year": 1702,
+    "death_year": 1779,
+    "birth_date_full": "1702-02-03T00:00:00Z",
+    "death_date_full": "1779-06-21T00:00:00Z",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Michael_Adelbulner",
+    "nationality": "",
+    "birth_place": {
+      "name": "",
+      "wikidata_uri": "",
+      "coordinates": null
+    },
+    "image_url": "",
+    "fields": [
+      "mathematics"
+    ],
+    "data_source": "wikidata_sparql",
+    "extracted_at": "2025-08-11T01:11:25.224921",
+    "wikidata_query_metadata": {
+      "query_date": "2025-08-11T01:11:25.224922",
+      "endpoint": "https://query.wikidata.org/sparql",
+      "data_quality": "structured"
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "id": null,
+  "name": "Johannes Gessner",
+  "birth_year": 1709,
+  "death_year": 1790,
+  "nationality": "European",
+  "fields": [
+    "mathematics"
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Johannes_Gessner",
+  "wikipedia_data": {
+    "url": "https://en.wikipedia.org/wiki/Johannes_Gessner",
+    "title": "Johannes Gessner",
+    "page_title": "Johannes_Gessner",
+    "biography_paragraphs": [
+      "Johannes Gessner (18 March 1709 – 6 May 1790) was a Swiss mathematician, physicist, botanist, mineralogist and physician. He is seen as the founder of the \"Naturforschende Gesellschaft in Zürich\".",
+      "Gessner was born and died in Zürich, where he trained under the physician Johannes von Muralt. He moved to Basel to study medicine, continuing his studies in 1726 and 1727 at the University of Leiden. There he became friendly with Albrecht von Haller, with whom he made a grand tour to Paris to finish their medical studies. There he wrote his diary, later published as Pariser Tagebuch. The two friends in 1728 studied mathematics under Johann Bernoulli and travelled through Switzerland.",
+      "Gessner became a doctor in Basel in 1730, but soon changed to a scientific career. In 1733 he became a mathematics professor and in 1738 began to teach physics in Zürich. Gessner influenced many Swiss students, such as Johann Heinrich Rahn and Johann Georg Sulzer.",
+      "Gessner produced publications on Swiss flora, and, as a follower of Carl Linnaeus, conceived the idea of creating illustrations which portrayed the Linnaean plant families. With the help of the painter and engraver Christian Gottlieb Geissler, he produced the 24-part Tabulae Phytographicae, which first appeared in 1795.[1]"
+    ],
+    "infobox": {},
+    "scraped_at": "2025-08-11T01:12:58.796213",
+    "raw_html_length": 74031
+  },
+  "processed_at": "2025-08-11T01:12:59.806155",
+  "wikidata_info": {
+    "wikidata_id": "Q117494",
+    "name": "Johannes Gessner",
+    "birth_year": 1709,
+    "death_year": 1790,
+    "birth_date_full": "1709-03-18T00:00:00Z",
+    "death_date_full": "1790-05-06T00:00:00Z",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Johannes_Gessner",
+    "nationality": "",
+    "birth_place": {
+      "name": "",
+      "wikidata_uri": "",
+      "coordinates": null
+    },
+    "image_url": "",
+    "fields": [
+      "mathematics"
+    ],
+    "data_source": "wikidata_sparql",
+    "extracted_at": "2025-08-11T01:11:25.225354",
+    "wikidata_query_metadata": {
+      "query_date": "2025-08-11T01:11:25.225355",
+      "endpoint": "https://query.wikidata.org/sparql",
+      "data_quality": "structured"
+    }
+  }
+}

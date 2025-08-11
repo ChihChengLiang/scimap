@@ -1,0 +1,53 @@
+{
+  "id": null,
+  "name": "Benjamin Robins",
+  "birth_year": 1706,
+  "death_year": 1751,
+  "nationality": "European",
+  "fields": [
+    "mathematics"
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Benjamin_Robins",
+  "wikipedia_data": {
+    "url": "https://en.wikipedia.org/wiki/Benjamin_Robins",
+    "title": "Benjamin Robins",
+    "page_title": "Benjamin_Robins",
+    "biography_paragraphs": [
+      "Benjamin Robins (1707 – 29 July 1751) was a pioneering British scientist, Newtonian mathematician, and military engineer.",
+      "He wrote an influential treatise on gunnery, for the first time introducing Newtonian science to military men, was an early enthusiast for rifled gun barrels, and his work had substantive influence on the development of artillery during the latter half of the eighteenth century – and directly stimulated the teaching of calculus in military academies.",
+      "Benjamin Robins was born in Bath.[1] His parents were Quakers in poor circumstances, and as a result, he received very little formal education.[1] Having come to London on the advice of Dr. Henry Pemberton (1694–1771), who had recognised Robins's talents,[1] for a time he maintained himself by teaching mathematics, but soon devoted himself to engineering and the study of fortification.[2]",
+      "In particular he carried out an extensive series of experiments in gunnery, embodying his results in his famous treatise on New Principles of Gunnery (1742),[3] which contains a description of his ballistic pendulum (see chronograph).[2]",
+      "Robins also made a number of important experiments on the resistance of the air to the motion of projectiles,[4][5][6] and on the force of gunpowder, with computation of the velocities thereby communicated to projectiles. He compared the results of his theory with experimental determinations of the ranges of mortars and cannon, and gave practical maxims for the management of artillery. He also made observations on the flight of rockets, and wrote on the advantages of rifled gun barrels. His work on gunnery was translated into German by Leonhard Euler, who added a critical commentary of his own.[2] However, the work of Robins still served as an important piece of technical information that helped the later advancement of the Prussian artillery, especially of its improvement in accuracy, a big step forwards that the book turned out to be a shot in the arm of the ambitious Frederick the Great who determined to vault the status and power of Prussian artillery to the top among other European armies."
+    ],
+    "infobox": {},
+    "scraped_at": "2025-08-11T01:12:45.709009",
+    "raw_html_length": 103741
+  },
+  "processed_at": "2025-08-11T01:12:46.714211",
+  "wikidata_info": {
+    "wikidata_id": "Q201803",
+    "name": "Benjamin Robins",
+    "birth_year": 1706,
+    "death_year": 1751,
+    "birth_date_full": "1706-04-16T00:00:00Z",
+    "death_date_full": "1751-07-29T00:00:00Z",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Benjamin_Robins",
+    "nationality": "",
+    "birth_place": {
+      "name": "",
+      "wikidata_uri": "",
+      "coordinates": null
+    },
+    "image_url": "",
+    "fields": [
+      "mathematics"
+    ],
+    "data_source": "wikidata_sparql",
+    "extracted_at": "2025-08-11T01:11:25.225165",
+    "wikidata_query_metadata": {
+      "query_date": "2025-08-11T01:11:25.225166",
+      "endpoint": "https://query.wikidata.org/sparql",
+      "data_quality": "structured"
+    }
+  }
+}

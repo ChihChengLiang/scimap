@@ -3,15 +3,23 @@
 import requests
 import json
 import re
-from datetime import datetime
+import os
+import hashlib
+from datetime import datetime, timedelta
 from typing import Dict, List, Optional, Tuple
 import time
 from urllib.parse import quote, unquote
 
 class WikidataSPARQLExtractor:
-    def __init__(self, endpoint_url: str = "https://query.wikidata.org/sparql"):
-        """Initialize Wikidata SPARQL extractor"""
+    def __init__(self, endpoint_url: str = "https://query.wikidata.org/sparql", cache_dir: str = "data/cache/wikidata"):
+        """Initialize Wikidata SPARQL extractor with caching"""
         self.endpoint_url = endpoint_url
+        self.cache_dir = cache_dir
+        self.cache_expiry_hours = 24  # Cache for 24 hours
+        
+        # Create cache directory
+        os.makedirs(cache_dir, exist_ok=True)
+        
         self.session = requests.Session()
         # Set User-Agent as required by Wikidata
         self.session.headers.update({
@@ -19,8 +27,59 @@ class WikidataSPARQLExtractor:
             'Accept': 'application/sparql-results+json'
         })
     
+    def _get_cache_key(self, query: str) -> str:
+        """Generate cache key from query"""
+        query_hash = hashlib.md5(query.encode('utf-8')).hexdigest()
+        return f"sparql_{query_hash}.json"
+    
+    def _get_cache_path(self, cache_key: str) -> str:
+        """Get full cache file path"""
+        return os.path.join(self.cache_dir, cache_key)
+    
+    def _is_cache_valid(self, cache_path: str) -> bool:
+        """Check if cache file is valid and not expired"""
+        if not os.path.exists(cache_path):
+            return False
+        
+        # Check if cache is expired
+        cache_time = datetime.fromtimestamp(os.path.getmtime(cache_path))
+        expiry_time = cache_time + timedelta(hours=self.cache_expiry_hours)
+        
+        return datetime.now() < expiry_time
+    
+    def _load_from_cache(self, cache_path: str) -> Optional[Dict]:
+        """Load results from cache file"""
+        try:
+            with open(cache_path, 'r', encoding='utf-8') as f:
+                return json.load(f)
+        except Exception as e:
+            print(f"Error loading cache {cache_path}: {e}")
+            return None
+    
+    def _save_to_cache(self, cache_path: str, data: Dict) -> None:
+        """Save results to cache file"""
+        try:
+            with open(cache_path, 'w', encoding='utf-8') as f:
+                json.dump(data, f, indent=2, ensure_ascii=False)
+        except Exception as e:
+            print(f"Error saving cache {cache_path}: {e}")
+
     def execute_sparql_query(self, query: str, max_retries: int = 3) -> Optional[Dict]:
-        """Execute SPARQL query against Wikidata endpoint with retry logic"""
+        """Execute SPARQL query with caching support"""
+        
+        # Check cache first
+        cache_key = self._get_cache_key(query)
+        cache_path = self._get_cache_path(cache_key)
+        
+        if self._is_cache_valid(cache_path):
+            print(f"💾 Using cached SPARQL results: {cache_key}")
+            cached_data = self._load_from_cache(cache_path)
+            if cached_data:
+                return cached_data
+        
+        # Execute query if not cached or cache invalid
+        print(f"🌐 Executing SPARQL query against Wikidata...")
+        
         for attempt in range(max_retries + 1):
             try:
                 params = {
@@ -31,11 +90,17 @@ class WikidataSPARQLExtractor:
                 response = self.session.get(
                     self.endpoint_url, 
                     params=params,
-                    timeout=30
+                    timeout=120
                 )
                 response.raise_for_status()
                 
-                return response.json()
+                result = response.json()
+                
+                # Save to cache
+                self._save_to_cache(cache_path, result)
+                print(f"💾 Saved SPARQL results to cache: {cache_key}")
+                
+                return result
                 
             except requests.exceptions.Timeout:
                 print(f"Query timeout on attempt {attempt + 1}/{max_retries + 1}")
@@ -54,29 +119,22 @@ class WikidataSPARQLExtractor:
         """Extract 18th century mathematicians using SPARQL query"""
         
         sparql_query = f"""
-        SELECT ?person ?personLabel ?birthDate ?deathDate ?birthPlace ?birthPlaceLabel 
-               ?birthCoord ?nationality ?nationalityLabel ?image ?wikipediaArticle ?fieldLabel
+        SELECT ?person ?personLabel ?birthDate ?deathDate ?wikipediaArticle
         WHERE {{
-          ?person wdt:P31 wd:Q5 .
-          ?person wdt:P106/wdt:P279* wd:Q170790 .
-          ?person wdt:P569 ?birthDate .
-          ?person wdt:P570 ?deathDate .
-          
-          FILTER(YEAR(?birthDate) >= {birth_year_start} && YEAR(?birthDate) <= {birth_year_end})
-          
-          OPTIONAL {{ ?person wdt:P19 ?birthPlace . }}
-          OPTIONAL {{ ?birthPlace wdt:P625 ?birthCoord . }}
-          OPTIONAL {{ ?person wdt:P27 ?nationality . }}
-          OPTIONAL {{ ?person wdt:P18 ?image . }}
-          OPTIONAL {{ ?person wdt:P101 ?field . }}
-          
-          OPTIONAL {{
-            ?wikipediaArticle schema:about ?person .
-            ?wikipediaArticle schema:isPartOf <https://en.wikipedia.org/> .
-          }}
-          
-          SERVICE wikibase:label {{ bd:serviceParam wikibase:language "en". }}
-        }}
+            ?person wdt:P31 wd:Q5 .
+            ?person wdt:P106/wdt:P279* wd:Q170790 .
+            ?person wdt:P569 ?birthDate .
+            ?person wdt:P570 ?deathDate .
+            
+            FILTER(YEAR(?birthDate) >= {birth_year_start} && YEAR(?birthDate) <= {birth_year_end})
+            
+            OPTIONAL {{
+                ?wikipediaArticle schema:about ?person .
+                ?wikipediaArticle schema:isPartOf <https://en.wikipedia.org/> .
+            }}
+            
+            SERVICE wikibase:label {{ bd:serviceParam wikibase:language "en". }}
+            }}
         ORDER BY ?birthDate
         """
         

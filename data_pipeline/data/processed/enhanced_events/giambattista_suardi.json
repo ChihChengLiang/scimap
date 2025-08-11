@@ -1,0 +1,155 @@
+{
+  "id": null,
+  "name": "Giambattista Suardi",
+  "birth_year": 1711,
+  "death_year": 1767,
+  "nationality": "European",
+  "fields": [
+    "mathematics"
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Giambattista_Suardi",
+  "wikipedia_data": {
+    "url": "https://en.wikipedia.org/wiki/Giambattista_Suardi",
+    "title": "Giambattista Suardi",
+    "page_title": "Giambattista_Suardi",
+    "biography_paragraphs": [
+      "Giambattista Suardi (January 9, 1711 – March 2, 1767) was an Italian mathematician.",
+      "Born into a noble family in Brescia, he studied mathematics in Padua. Suardi graduated in 1773 under the supervision of Giovanni Poleni. In 1752 he published an essay on drawing and mathematics tools: Nuovi istromenti per la descrizione di diverse curve antiche e moderne e di molte altre che servir possono alla speculazione de' geometri ed all'uso de' pratici: col progetto di due nuove macchine per la nautica ed una per la meccanica, e con alcune osservazioni sopra de' poligoni rettilinei regolari.[1]"
+    ],
+    "infobox": {},
+    "scraped_at": "2025-08-11T01:13:12.914025",
+    "raw_html_length": 81020
+  },
+  "processed_at": "2025-08-11T01:13:13.925435",
+  "wikidata_info": {
+    "wikidata_id": "Q12951789",
+    "name": "Giambattista Suardi",
+    "birth_year": 1711,
+    "death_year": 1767,
+    "birth_date_full": "1711-01-09T00:00:00Z",
+    "death_date_full": "1767-03-02T00:00:00Z",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Giambattista_Suardi",
+    "nationality": "",
+    "birth_place": {
+      "name": "",
+      "wikidata_uri": "",
+      "coordinates": null
+    },
+    "image_url": "",
+    "fields": [
+      "mathematics"
+    ],
+    "data_source": "wikidata_sparql",
+    "extracted_at": "2025-08-11T01:11:25.225501",
+    "wikidata_query_metadata": {
+      "query_date": "2025-08-11T01:11:25.225502",
+      "endpoint": "https://query.wikidata.org/sparql",
+      "data_quality": "structured"
+    }
+  },
+  "timeline_events": [
+    {
+      "year": 1711,
+      "year_confidence": "exact",
+      "event_type": "birth",
+      "description": "Born into a noble family in Brescia, Italy.",
+      "location": {
+        "place_name": "Brescia",
+        "raw_text": "Born into a noble family in Brescia",
+        "confidence": 1.0
+      },
+      "source_text": "Giambattista Suardi (January 9, 1711 – March 2, 1767) was an Italian mathematician.",
+      "confidence": 1.0,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T18:07:26.807302",
+        "extraction_confidence": 1.0,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": 1700,
+      "year_confidence": "approximate",
+      "event_type": "education",
+      "description": "Studied mathematics in Padua, Italy.",
+      "location": {
+        "place_name": "Padua",
+        "raw_text": "he studied mathematics in Padua",
+        "confidence": 0.95
+      },
+      "source_text": "Giambattista Suardi (January 9, 1711 – March 2, 1767) was an Italian mathematician. Born into a noble family in Brescia, he studied mathematics in Padua.",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T18:07:26.807332",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": 1773,
+      "year_confidence": "exact",
+      "event_type": "education",
+      "description": "Graduated from university in Padua under the supervision of Giovanni Poleni.",
+      "location": {
+        "place_name": "Padua",
+        "raw_text": "Suardi graduated in 1773 under the supervision of Giovanni Poleni.",
+        "confidence": 0.95
+      },
+      "source_text": "Suardi graduated in 1773 under the supervision of Giovanni Poleni.",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T18:07:26.807338",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": 1752,
+      "year_confidence": "exact",
+      "event_type": "publication",
+      "description": "Published 'Nuovi istromenti per la descrizione di diverse curve antiche e moderne e di molte altre che servir possono alla speculazione de' geometri ed all'uso de' pratici: col progetto di due nuove macchine per la nautica ed una per la meccanica, e con alcune osservazioni sopra de' poligoni rettilinei regolari.'",
+      "location": {
+        "place_name": null,
+        "raw_text": "In 1752 he published an essay on drawing and mathematics tools: Nuovi istromenti per la descrizione di diverse curve antiche e moderne e di molte altre che servir possono alla speculazione de' geometri ed all'uso de' pratici: col progetto di due nuove macchine per la nautica ed una per la meccanica, e con alcune osservazioni sopra de' poligoni rettilinei regolari.",
+        "confidence": 0.95
+      },
+      "source_text": "In 1752 he published an essay on drawing and mathematics tools: Nuovi istromenti per la descrizione di diverse curve antiche e moderne e di molte altre che servir possono alla speculazione de' geometri ed all'uso de' pratici: col progetto di due nuove macchine per la nautica ed una per la meccanica, e con alcune osservazioni sopra de' poligoni rettilinei regolari.",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T18:07:26.807343",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": 1767,
+      "year_confidence": "exact",
+      "event_type": "death",
+      "description": "Died on March 2, 1767.",
+      "location": {
+        "place_name": "Brescia",
+        "raw_text": "Giambattista Suardi (January 9, 1711 – March 2, 1767)",
+        "confidence": 0.85
+      },
+      "source_text": "Giambattista Suardi (January 9, 1711 – March 2, 1767) was an Italian mathematician.",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T18:07:26.807348",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    }
+  ],
+  "timeline_extraction_metadata": {
+    "extracted_at": "2025-08-11T18:07:26.807426",
+    "model_used": "lm_studio_google/gemma-3n-e4b",
+    "events_count": 5,
+    "biography_length": 590,
+    "enhancement_level": "gemma_comprehensive",
+    "target_events_per_mathematician": "5-10"
+  }
+}

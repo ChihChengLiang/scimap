@@ -1,0 +1,295 @@
+{
+  "id": null,
+  "name": "Gabriel Cramer",
+  "birth_year": 1704,
+  "death_year": 1752,
+  "nationality": "European",
+  "fields": [
+    "mathematics"
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Gabriel_Cramer",
+  "wikipedia_data": {
+    "url": "https://en.wikipedia.org/wiki/Gabriel_Cramer",
+    "title": "Gabriel Cramer",
+    "page_title": "Gabriel_Cramer",
+    "biography_paragraphs": [
+      "Gabriel Cramer (French: [kʁamɛʁ]; 31 July 1704 – 4 January 1752) was a Genevan mathematician.",
+      "Cramer was born on 31 July 1704 in Geneva, Republic of Geneva to Jean-Isaac Cramer, a physician, and Anne Mallet.[1] The progenitor of the Cramer family in Geneva was Jean-Ulrich Cramer, Gabriel's great-grandfather, who immigrated from Strasbourg in 1634.[2] Cramer's mother, a member of the Mallet family, was of Huguenot origin.[3] Cramer showed promise in mathematics from an early age. In 1722, aged 18, he received his doctorate from the Academy of Geneva, and at 20 he was made co-chair (along with Jean-Louis Calandrini)[a] of mathematics at the Academy.[1]",
+      "He became the sole professor of mathematics in 1734 and was appointed professor of philosophy at the Academy in 1750.[1] Cramer was also involved in the politics of the Republic of Geneva, entering first the Council of Two Hundred in 1734 then the Council of Sixty in 1750.[1] He was a member of the science academies of Bologna, Lyon, and Montpellier, as well as a foreign member of the Royal Society of London and the Royal Academy of Sciences of Berlin.[1] Cramer died on 4 January 1752 at Bagnols-sur-Cèze while traveling in southern France to restore his health.[1]",
+      "In 1728, Cramer proposed a solution to the St. Petersburg Paradox that came very close to the concept of expected utility theory given ten years later by Daniel Bernoulli. He did extensive travel throughout Europe in the late 1730s, which greatly influenced his works in mathematics.",
+      "Cramer published his best-known work in his forties. This included his treatise on algebraic curves (1750). It contains the earliest demonstration that a curve of the n-th degree is determined by n(n + 3)/2 points on it, in general position (see Cramer's theorem (algebraic curves)). This led to the misconception that is Cramer's paradox, concerning the number of intersections of two curves compared to the number of points that determine a curve."
+    ],
+    "infobox": {
+      "birth": "31 July 1704Geneva, Republic of Geneva",
+      "death": "4 January 1752 (age 47)Bagnols-sur-Cèze, France",
+      "fields": "Mathematics and physics"
+    },
+    "scraped_at": "2025-08-11T01:11:29.511396",
+    "raw_html_length": 103604
+  },
+  "processed_at": "2025-08-11T01:11:30.516652",
+  "wikidata_info": {
+    "wikidata_id": "Q122331",
+    "name": "Gabriel Cramer",
+    "birth_year": 1704,
+    "death_year": 1752,
+    "birth_date_full": "1704-07-31T00:00:00Z",
+    "death_date_full": "1752-01-04T00:00:00Z",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Gabriel_Cramer",
+    "nationality": "",
+    "birth_place": {
+      "name": "",
+      "wikidata_uri": "",
+      "coordinates": null
+    },
+    "image_url": "",
+    "fields": [
+      "mathematics"
+    ],
+    "data_source": "wikidata_sparql",
+    "extracted_at": "2025-08-11T01:11:25.225066",
+    "wikidata_query_metadata": {
+      "query_date": "2025-08-11T01:11:25.225067",
+      "endpoint": "https://query.wikidata.org/sparql",
+      "data_quality": "structured"
+    }
+  },
+  "timeline_events": [
+    {
+      "year": 1704,
+      "year_confidence": "exact",
+      "event_type": "birth",
+      "description": "Born in Geneva, Republic of Geneva to Jean-Isaac Cramer and Anne Mallet.",
+      "location": {
+        "place_name": "Geneva",
+        "raw_text": "born on 31 July 1704 in Geneva, Republic of Geneva",
+        "confidence": 1.0
+      },
+      "source_text": "Gabriel Cramer (French: [kʁamɛʁ]; 31 July 1704 – 4 January 1752) was a Genevan mathematician.",
+      "confidence": 1.0,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T15:14:53.621433",
+        "extraction_confidence": 1.0,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": 1722,
+      "year_confidence": "exact",
+      "event_type": "education",
+      "description": "Received his doctorate from the Academy of Geneva at age 18.",
+      "location": {
+        "place_name": "Geneva",
+        "raw_text": "received his doctorate from the Academy of Geneva in 1722, aged 18",
+        "confidence": 0.95
+      },
+      "source_text": "In 1722, aged 18, he received his doctorate from the Academy of Geneva",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T15:14:53.621523",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": 1722,
+      "year_confidence": "exact",
+      "event_type": "position",
+      "description": "Made co-chair of mathematics at the Academy of Geneva (with Jean-Louis Calandrini).",
+      "location": {
+        "place_name": "Geneva",
+        "raw_text": "was made co-chair (along with Jean-Louis Calandrini) of mathematics at the Academy",
+        "confidence": 0.95
+      },
+      "source_text": "at 20 he was made co-chair (along with Jean-Louis Calandrini) of mathematics at the Academy",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T15:14:53.621529",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": 1734,
+      "year_confidence": "exact",
+      "event_type": "position",
+      "description": "Became the sole professor of mathematics at the Academy of Geneva.",
+      "location": {
+        "place_name": "Geneva",
+        "raw_text": "became the sole professor of mathematics in 1734",
+        "confidence": 0.95
+      },
+      "source_text": "He became the sole professor of mathematics in 1734",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T15:14:53.621533",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": 1750,
+      "year_confidence": "exact",
+      "event_type": "position",
+      "description": "Appointed professor of philosophy at the Academy of Geneva.",
+      "location": {
+        "place_name": "Geneva",
+        "raw_text": "was appointed professor of philosophy at the Academy in 1750",
+        "confidence": 0.95
+      },
+      "source_text": "and was appointed professor of philosophy at the Academy in 1750",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T15:14:53.621538",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": 1750,
+      "year_confidence": "exact",
+      "event_type": "collaboration",
+      "description": "Co-chair of mathematics at the Academy of Geneva with Jean-Louis Calandrini (1722-1734).",
+      "location": {
+        "place_name": "Geneva",
+        "raw_text": "co-chair (along with Jean-Louis Calandrini) of mathematics at the Academy",
+        "confidence": 0.95
+      },
+      "source_text": "at 20 he was made co-chair (along with Jean-Louis Calandrini) of mathematics at the Academy",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T15:14:53.621542",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": 1750,
+      "year_confidence": "approximate",
+      "event_type": "collaboration",
+      "description": "Collaborated with Jean-Louis Calandrini as co-chair of mathematics at the Academy of Geneva (1722-1734).",
+      "location": {
+        "place_name": "Geneva",
+        "raw_text": "co-chair (along with Jean-Louis Calandrini) of mathematics at the Academy",
+        "confidence": 0.95
+      },
+      "source_text": "at 20 he was made co-chair (along with Jean-Louis Calandrini) of mathematics at the Academy",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T15:14:53.621546",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": 1750,
+      "year_confidence": "approximate",
+      "event_type": "award",
+      "description": "Member of the science academies of Bologna, Lyon, and Montpellier.",
+      "location": {
+        "place_name": "Bologna",
+        "raw_text": "a member of the science academies of Bologna, Lyon, and Montpellier",
+        "confidence": 0.95
+      },
+      "source_text": "Cramer was also a member of the science academies of Bologna, Lyon, and Montpellier",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T15:14:53.621550",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": 1750,
+      "year_confidence": "approximate",
+      "event_type": "award",
+      "description": "Foreign member of the Royal Society of London.",
+      "location": {
+        "place_name": "London",
+        "raw_text": "a foreign member of the Royal Society of London",
+        "confidence": 0.95
+      },
+      "source_text": "as a foreign member of the Royal Society of London",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T15:14:53.621555",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": 1750,
+      "year_confidence": "approximate",
+      "event_type": "award",
+      "description": "Foreign member of the Royal Academy of Sciences of Berlin.",
+      "location": {
+        "place_name": "Berlin",
+        "raw_text": "a foreign member of the Royal Academy of Sciences of Berlin",
+        "confidence": 0.95
+      },
+      "source_text": "and a foreign member of the Royal Academy of Sciences of Berlin",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T15:14:53.621559",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": 1750,
+      "year_confidence": "approximate",
+      "event_type": "travel",
+      "description": "Travelled to Bologna, Lyon and Montpellier.",
+      "location": {
+        "place_name": "Bologna",
+        "raw_text": "a member of the science academies of Bologna, Lyon, and Montpellier",
+        "confidence": 0.95
+      },
+      "source_text": "Cramer was also a member of the science academies of Bologna, Lyon, and Montpellier",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T15:14:53.621563",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": 1752,
+      "year_confidence": "exact",
+      "event_type": "death",
+      "description": "Died on 4 January 1752 at Bagnols-sur-Cèze while traveling in southern France.",
+      "location": {
+        "place_name": "Bagnols-sur-Cèze",
+        "raw_text": "died on 4 January 1752 at Bagnols-sur-Cèze",
+        "confidence": 0.95
+      },
+      "source_text": "Cramer died on 4 January 1752 at Bagnols-sur-Cèze while traveling in southern France",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T15:14:53.621567",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    }
+  ],
+  "timeline_extraction_metadata": {
+    "extracted_at": "2025-08-11T15:14:53.621845",
+    "model_used": "lm_studio_google/gemma-3n-e4b",
+    "events_count": 12,
+    "biography_length": 1229,
+    "enhancement_level": "gemma_comprehensive",
+    "target_events_per_mathematician": "5-10"
+  }
+}

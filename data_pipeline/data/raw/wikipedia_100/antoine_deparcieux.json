@@ -1,0 +1,51 @@
+{
+  "id": null,
+  "name": "Antoine Deparcieux",
+  "birth_year": 1703,
+  "death_year": 1768,
+  "nationality": "French",
+  "fields": [
+    "mathematics"
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Antoine_Deparcieux",
+  "wikipedia_data": {
+    "url": "https://en.wikipedia.org/wiki/Antoine_Deparcieux",
+    "title": "Antoine Deparcieux",
+    "page_title": "Antoine_Deparcieux",
+    "biography_paragraphs": [
+      "Antoine Deparcieux (28 October 1703 – 2 September 1768) was a French mathematician.\nHe was born at Clessous in the Portes, department of Gard. He attended the school of Saint Florent for 10 years while working on his family farm. In 1725, his desire for learning took him to Lyon, where he studied at a Jesuit school for five years. Then, in 1730, he went to Paris to increase his knowledge of mathematics and physics. He made a living by manufacturing sundials.",
+      "In 1746, he became a member of the Academy of Sciences, and in about 1765 was named Censeur Royal. He was also librarian at the University of Strasbourg, and member of the Academy of Sciences of Paris, Montpellier, Lyon, Amiens, Metz, Berlin, and Stockholm.",
+      "In 1758, Deparcieux was elected a foreign member of the Royal Swedish Academy of Sciences."
+    ],
+    "infobox": {},
+    "scraped_at": "2025-08-11T01:12:28.015852",
+    "raw_html_length": 78298
+  },
+  "processed_at": "2025-08-11T01:12:29.022561",
+  "wikidata_info": {
+    "wikidata_id": "Q2853864",
+    "name": "Antoine Deparcieux",
+    "birth_year": 1703,
+    "death_year": 1768,
+    "birth_date_full": "1703-10-28T00:00:00Z",
+    "death_date_full": "1768-09-02T00:00:00Z",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Antoine_Deparcieux",
+    "nationality": "",
+    "birth_place": {
+      "name": "",
+      "wikidata_uri": "",
+      "coordinates": null
+    },
+    "image_url": "",
+    "fields": [
+      "mathematics"
+    ],
+    "data_source": "wikidata_sparql",
+    "extracted_at": "2025-08-11T01:11:25.225016",
+    "wikidata_query_metadata": {
+      "query_date": "2025-08-11T01:11:25.225017",
+      "endpoint": "https://query.wikidata.org/sparql",
+      "data_quality": "structured"
+    }
+  }
+}

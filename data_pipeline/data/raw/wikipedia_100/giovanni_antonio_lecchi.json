@@ -1,0 +1,58 @@
+{
+  "id": null,
+  "name": "Giovanni Antonio Lecchi",
+  "birth_year": 1702,
+  "death_year": 1776,
+  "nationality": "French",
+  "fields": [
+    "mathematics"
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Giovanni_Antonio_Lecchi",
+  "wikipedia_data": {
+    "url": "https://en.wikipedia.org/wiki/Giovanni_Antonio_Lecchi",
+    "title": "Giovanni Antonio Lecchi",
+    "page_title": "Giovanni_Antonio_Lecchi",
+    "biography_paragraphs": [
+      "Giovanni Antonio Lecchi or Giannantonio Lecchi (Milan, 17 November 1702 – 24 July 1776) was an Italian Jesuit, mathematician, engineer and physicist.[1] He lived and worked with success in Milan rising to a notable level of prominence.[2]",
+      "Giovanni Antonio Lecchi was born in 1702 into a prominent noble family of Milan. His family owned Villa Lecchi in Crescenzago. After completing his  studies at the Jesuit College of Brera in Milan, he joined the Society of Jesus in 1718, and professed his fourth vow on 15 August 1736.[3]",
+      "At first professor of humanities in Pavia and Vercelli, Lecchi taught mathematics and hydraulics at the Brera College in Milan from 1738 to 1773.[2] He also worked as technical consultant for the Senate of Milan on hydraulic matters. His first work was published in Milan in 1739 and it was about the theory of light (\"Theoria lucis, opticam, perspectivam, catoptricam, dioptricam complectens\").[4] In his second work he dealt with mathematical analysis according to the basic elements of Newton's method, and provided also a full course of geometry, algebra and trigonometry.[2] In his first hydraulic papers, written on behalf of the College of Brera, Lecchi tried to apply mathematics to the problem of the measure of the speed and of the flow rate of water, by using a theoretical approach.",
+      "From 1757 years Lecchi worked mainly as a hydraulic engineer. In 1759, the Austrian Empress, Maria Theresa conferred upon him the title of imperial mathematician and hydraulic engineer, for which he received an annual pension of 300 florins. Later, Pope Clement XIII appointed him the director of hydraulic works of the papal territories. In the years 1765-67 Lecchi made some inspections in the Reno valleys together with two other engineers, Tommaso Temanza and Giovanni Verace.[2] The results of Lecchi’s surveys were published in the Memorie idrostatico-storiche delle operazioni eseguite nell’inalveazione del Reno di Bologna (Modena, 1773).[5] In his Idrostatica (Hydrostatics, 1765), Lecchi provided a good theoretical grounding in the science of waters. Lecchi renounced the appointment with the advent of Pope Clement XIV.[2]",
+      "Lecchi was a friend and correspondent of Roger Joseph Boscovich.[6] On his request, Boscovich revised the Idrostatica and contributed to Lecchi's work, writing a theoretical essay on the principles of hydrostatics that was inserted into the third part of the work.[7] After the suppression of the Society of Jesus Lecchi withdrew from public life. He died in Milan on 24 May 1776.[2]"
+    ],
+    "infobox": {
+      "birth": "(1702-11-17)17 November 1702Milan, Duchy of Milan",
+      "death": "24 May 1776(1776-05-24) (aged 73)Milan, Duchy of Milan",
+      "nationality": "Italian",
+      "fields": "MathematicsGeometryNatural philosophyHydrostaticHydrodinamics"
+    },
+    "scraped_at": "2025-08-11T01:12:24.483097",
+    "raw_html_length": 149727
+  },
+  "processed_at": "2025-08-11T01:12:25.488398",
+  "wikidata_info": {
+    "wikidata_id": "Q745185",
+    "name": "Giovanni Antonio Lecchi",
+    "birth_year": 1702,
+    "death_year": 1776,
+    "birth_date_full": "1702-11-17T00:00:00Z",
+    "death_date_full": "1776-08-24T00:00:00Z",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Giovanni_Antonio_Lecchi",
+    "nationality": "",
+    "birth_place": {
+      "name": "",
+      "wikidata_uri": "",
+      "coordinates": null
+    },
+    "image_url": "",
+    "fields": [
+      "mathematics"
+    ],
+    "data_source": "wikidata_sparql",
+    "extracted_at": "2025-08-11T01:11:25.224950",
+    "wikidata_query_metadata": {
+      "query_date": "2025-08-11T01:11:25.224951",
+      "endpoint": "https://query.wikidata.org/sparql",
+      "data_quality": "structured"
+    }
+  }
+}

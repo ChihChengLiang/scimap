@@ -1,0 +1,196 @@
+{
+  "id": null,
+  "name": "Christian Ludwig Gersten",
+  "birth_year": 1701,
+  "death_year": 1762,
+  "nationality": "European",
+  "fields": [
+    "mathematics"
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Christian_Ludwig_Gersten",
+  "wikipedia_data": {
+    "url": "https://en.wikipedia.org/wiki/Christian_Ludwig_Gersten",
+    "title": "Christian Ludwig Gersten",
+    "page_title": "Christian_Ludwig_Gersten",
+    "biography_paragraphs": [
+      "Christian Ludwig Gersten (7 February 1701 – 13 August 1762) was a German scientist.",
+      "He was born in Gießen, a town in the German federal state of Hessen. He studied law and mathematics at the University of Gießen and in the beginning of the 1730s he travelled to London, England, to improve his mathematical knowledge. In London in 1733 he became a fellow of the English Royal Society. In the same 1733 he return to Gießen, to accept the position of a professor of mathematics at the university of his home town.",
+      "Christian Ludwig Gersten is primarily known by his book for a series of experiments, using the barometer, entitled \"Tentamina Systematis Novi ad Mutationes Barometri ex Natura elateris Aerei demonstrandas, cui adjecta sub finem Dissertatio Roris decidui errorem Antiquum et vulgarem per Observationes et Experimenta Nova excutiens\".[1] Gersten actually was the first scientist to find out, based on observations, that dew did not fall from the heavens, but ascends from earth, especially from plants.",
+      "Gersten is also known to present a very interesting calculating device (see the link in the External Links section).",
+      "This article about a German scientist is a stub. You can help Wikipedia by expanding it."
+    ],
+    "infobox": {},
+    "scraped_at": "2025-08-11T01:12:05.725394",
+    "raw_html_length": 74444
+  },
+  "processed_at": "2025-08-11T01:12:06.727946",
+  "wikidata_info": {
+    "wikidata_id": "Q5109868",
+    "name": "Christian Ludwig Gersten",
+    "birth_year": 1701,
+    "death_year": 1762,
+    "birth_date_full": "1701-01-01T00:00:00Z",
+    "death_date_full": "1762-08-13T00:00:00Z",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Christian_Ludwig_Gersten",
+    "nationality": "",
+    "birth_place": {
+      "name": "",
+      "wikidata_uri": "",
+      "coordinates": null
+    },
+    "image_url": "",
+    "fields": [
+      "mathematics"
+    ],
+    "data_source": "wikidata_sparql",
+    "extracted_at": "2025-08-11T01:11:25.224778",
+    "wikidata_query_metadata": {
+      "query_date": "2025-08-11T01:11:25.224779",
+      "endpoint": "https://query.wikidata.org/sparql",
+      "data_quality": "structured"
+    }
+  },
+  "timeline_events": [
+    {
+      "year": 1701,
+      "year_confidence": "exact",
+      "event_type": "birth",
+      "description": "Born in Gießen, Hessen, Germany.",
+      "location": {
+        "place_name": "Gießen",
+        "raw_text": "born in Gießen, a town in the German federal state of Hessen",
+        "confidence": 1.0
+      },
+      "source_text": "Christian Ludwig Gersten (7 February 1701 – 13 August 1762) was a German scientist. He was born in Gießen, a town in the German federal state of Hessen.",
+      "confidence": 1.0,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T15:00:38.569865",
+        "extraction_confidence": 1.0,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1700-1720",
+      "year_confidence": "range",
+      "event_type": "education",
+      "description": "Studied law and mathematics at the University of Gießen.",
+      "location": {
+        "place_name": "University of Gießen",
+        "raw_text": "studied law and mathematics at the University of Gießen",
+        "confidence": 0.95
+      },
+      "source_text": "Christian Ludwig Gersten (7 February 1701 – 13 August 1762) was a German scientist. He was born in Gießen, a town in the German federal state of Hessen. He studied law and mathematics at the University of Gießen",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T15:00:38.570106",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1730s",
+      "year_confidence": "range",
+      "event_type": "travel",
+      "description": "Travelled to London, England, to improve his mathematical knowledge.",
+      "location": {
+        "place_name": "London",
+        "raw_text": "travelled to London, England, to improve his mathematical knowledge",
+        "confidence": 0.95
+      },
+      "source_text": "In the beginning of the 1730s he travelled to London, England, to improve his mathematical knowledge.",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T15:00:38.570119",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": 1733,
+      "year_confidence": "exact",
+      "event_type": "position",
+      "description": "Became a fellow of the English Royal Society.",
+      "location": {
+        "place_name": "London",
+        "raw_text": "In London in 1733 he became a fellow of the English Royal Society.",
+        "confidence": 0.95
+      },
+      "source_text": "In London in 1733 he became a fellow of the English Royal Society.",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T15:00:38.570127",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": 1733,
+      "year_confidence": "exact",
+      "event_type": "position",
+      "description": "Returned to Gießen and accepted the position of a professor of mathematics at the university.",
+      "location": {
+        "place_name": "Gießen",
+        "raw_text": "in 1733 he return to Gießen, to accept the position of a professor of mathematics at the university of his home town",
+        "confidence": 0.95
+      },
+      "source_text": "in 1733 he return to Gießen, to accept the position of a professor of mathematics at the university of his home town",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T15:00:38.570133",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1733-1762",
+      "year_confidence": "range",
+      "event_type": "publication",
+      "description": "Published \"Tentamina Systematis Novi ad Mutationes Barometri ex Natura elateris Aerei A demonstrandas, cui adjecta sub finem Dissertatio Roris decidui errorem Antiquum et vulgarem per Observationes et Experimenta Nova excutiens\".",
+      "location": {
+        "place_name": null,
+        "raw_text": "published \"Tentamina Systematis Novi ad Mutationes Barometri ex Natura elateris Aeri A demonstrandas, cui adjecta sub finem Dissertatio Roris decidui errorem Antiquum et vulgarem per Observationes et Experimenta Nova excutiens\".",
+        "confidence": 0.95
+      },
+      "source_text": "Christian Ludwig Gersten is primarily known by his book for a series of experiments, using the barometer, entitled \"Tentamina Systematis Novi ad Mutationes Barometri ex Natura elateris Aeri A demonstrandas, cui adjecta sub finem Dissertatio Roris decidui errorem Antiquum et vulgarem per Observationes et Experimenta Nova excutiens\".",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T15:00:38.570140",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1762",
+      "year_confidence": "exact",
+      "event_type": "death",
+      "description": "Died on 13 August 1762.",
+      "location": {
+        "place_name": "Gießen",
+        "raw_text": "Christian Ludwig Gersten (7 February 1701 – 13 August 1762)",
+        "confidence": 0.95
+      },
+      "source_text": "Christian Ludwig Gersten (7 February 1701 – 13 August 1762) was a German scientist.",
+      "confidence": 1.0,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T15:00:38.570147",
+        "extraction_confidence": 1.0,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    }
+  ],
+  "timeline_extraction_metadata": {
+    "extracted_at": "2025-08-11T15:00:38.570297",
+    "model_used": "lm_studio_google/gemma-3n-e4b",
+    "events_count": 7,
+    "biography_length": 1012,
+    "enhancement_level": "gemma_comprehensive",
+    "target_events_per_mathematician": "5-10"
+  }
+}

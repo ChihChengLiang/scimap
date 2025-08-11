@@ -1,0 +1,53 @@
+{
+  "id": null,
+  "name": "Lorenz Christoph Mizler",
+  "birth_year": 1711,
+  "death_year": 1778,
+  "nationality": "French",
+  "fields": [
+    "mathematics"
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Lorenz_Christoph_Mizler",
+  "wikipedia_data": {
+    "url": "https://en.wikipedia.org/wiki/Lorenz_Christoph_Mizler",
+    "title": "Lorenz Christoph Mizler",
+    "page_title": "Lorenz_Christoph_Mizler",
+    "biography_paragraphs": [
+      "Lorenz Christoph Mizler von Kolof (also known as Wawrzyniec Mitzler de Kolof and Mitzler de Koloff; 26 July 1711 – 8 May 1778) was a German physician, historian, printer, mathematician, Baroque music composer, and precursor of the Enlightenment in Poland.[1][2]",
+      "Mizler was born Lorenz Christoph Mizler von Kolof in Heidenheim, Middle Franconia to  Johann Georg Mizler, a court clerk to the Margrave of Ansbach at Heidenheim, and Barbara Stumpf, of St. Gallen, Switzerland.[3]",
+      "His first teacher was N. Müller, a minister from Obersulzbach, Lehrberg, from whom Mizler learned the flute and violin.[4] From 1724 to 1730, Mizler studied at the Ansbach Gymnasium with Rector Oeder and Johann Matthias Gesner, who became director of the St. Thomas School, Leipzig, from 1731 to 1734.",
+      "Mizler enrolled at Leipzig University on 30 April 1731, where he studied theology. His teachers there included Gesner, Johann Christoph Gottsched, and Christian Wolff. He earned a BS in December 1733 and a MS in March 1734. During this time, he also pursued the study of composition and had some association with Johann Sebastian Bach, whom, he wrote, he had the honor to call his \"good friend and patron.\"[5]",
+      "Mizler moved to Wittenberg in 1735 to study law and medicine; returning to Leipzig in 1736.[6]"
+    ],
+    "infobox": {},
+    "scraped_at": "2025-08-11T01:13:17.678093",
+    "raw_html_length": 126590
+  },
+  "processed_at": "2025-08-11T01:13:18.684640",
+  "wikidata_info": {
+    "wikidata_id": "Q65210",
+    "name": "Lorenz Christoph Mizler",
+    "birth_year": 1711,
+    "death_year": 1778,
+    "birth_date_full": "1711-07-26T00:00:00Z",
+    "death_date_full": "1778-05-08T00:00:00Z",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Lorenz_Christoph_Mizler",
+    "nationality": "",
+    "birth_place": {
+      "name": "",
+      "wikidata_uri": "",
+      "coordinates": null
+    },
+    "image_url": "",
+    "fields": [
+      "mathematics"
+    ],
+    "data_source": "wikidata_sparql",
+    "extracted_at": "2025-08-11T01:11:25.225530",
+    "wikidata_query_metadata": {
+      "query_date": "2025-08-11T01:11:25.225531",
+      "endpoint": "https://query.wikidata.org/sparql",
+      "data_quality": "structured"
+    }
+  }
+}

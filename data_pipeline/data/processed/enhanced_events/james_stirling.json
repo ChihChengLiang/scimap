@@ -1,0 +1,220 @@
+{
+  "id": null,
+  "name": "James Stirling",
+  "birth_year": 1692,
+  "death_year": 1770,
+  "nationality": "European",
+  "fields": [
+    "mathematics"
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/James_Stirling_(mathematician)",
+  "wikipedia_data": {
+    "url": "https://en.wikipedia.org/wiki/James_Stirling_(mathematician)",
+    "title": "James Stirling (mathematician)",
+    "page_title": "James_Stirling_(mathematician)",
+    "biography_paragraphs": [
+      "James Stirling (11 May[4] O.S. 1692,[5][6] Garden, Stirlingshire – 5 December 1770, Edinburgh) was a Scottish mathematician. He was nicknamed \"The Venetian\".",
+      "The Stirling numbers, Stirling permutations, and Stirling's approximation are named after him. He also proved the correctness of Isaac Newton's classification of cubic plane curves.[7]",
+      "Stirling was born on 11 May 1692[8] O.S. at Garden House near Stirling, the third son of Archibald Stirling (1651-1715) and Anna Hamilton, and grandson of Archibald Stirling, Lord Garden, (1617-1668).[9]",
+      "At 18 years of age he went to Balliol College, Oxford, where, chiefly through the influence of the Earl of Mar, he was nominated in 1711 to be one of Bishop Warner's exhibitioners (or Snell exhibitioner) at Balliol. In 1715 he was expelled on account of his correspondence with his cousins, who were members of the Keir and Garden families, who were noted Jacobites, and had been accessory to the \"Gathering of the Brig o' Turk\" in 1708.",
+      "From Oxford he made his way to Venice, where he occupied himself as a professor of mathematics. In 1717 appeared his Lineae tertii ordinis Newtonianae, sive . . . (8vo, Oxford). While in Venice, also, he communicated, through Isaac Newton, to the Royal Society a paper entitled \"Methodus differentialis Newtoniana illustrata\" (Phil. Trans., 1718). Fearing assassination on account of having discovered a trade secret of the glassmakers of Venice, he returned with Newton's help to London about the year 1725."
+    ],
+    "infobox": {
+      "birth": "11 May[1] O.S. 1692[2][3]Garden, Stirlingshire",
+      "death": "5 December 1770 (aged 78)Edinburgh, Scotland",
+      "nationality": "Scottish",
+      "fields": "Mathematics"
+    },
+    "scraped_at": "2025-08-11T01:11:52.678794",
+    "raw_html_length": 104501
+  },
+  "processed_at": "2025-08-11T01:11:53.684535",
+  "wikidata_info": {
+    "wikidata_id": "Q437734",
+    "name": "James Stirling",
+    "birth_year": 1692,
+    "death_year": 1770,
+    "birth_date_full": "1692-05-11T00:00:00Z",
+    "death_date_full": "1770-12-05T00:00:00Z",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/James_Stirling_(mathematician)",
+    "nationality": "",
+    "birth_place": {
+      "name": "",
+      "wikidata_uri": "",
+      "coordinates": null
+    },
+    "image_url": "",
+    "fields": [
+      "mathematics"
+    ],
+    "data_source": "wikidata_sparql",
+    "extracted_at": "2025-08-11T01:11:25.224331",
+    "wikidata_query_metadata": {
+      "query_date": "2025-08-11T01:11:25.224332",
+      "endpoint": "https://query.wikidata.org/sparql",
+      "data_quality": "structured"
+    }
+  },
+  "timeline_events": [
+    {
+      "year": 1692,
+      "year_confidence": "exact",
+      "event_type": "birth",
+      "description": "Born on 11 May 1692 at Garden House near Stirling, Stirlingshire, Scotland.",
+      "location": {
+        "place_name": "Garden House near Stirling, Stirlingshire",
+        "raw_text": "11 May[4] O.S. 1692, Garden, Stirlingshire",
+        "confidence": 0.95
+      },
+      "source_text": "James Stirling (11 May[4] O.S. 1692, Garden, Stirlingshire)",
+      "confidence": 0.98,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T14:34:07.632404",
+        "extraction_confidence": 0.98,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1723",
+      "year_confidence": "approximate",
+      "event_type": "position",
+      "description": "Appointed as a student at the University of Edinburgh, likely beginning his formal mathematical education.",
+      "location": {
+        "place_name": "University of Edinburgh",
+        "raw_text": "student at the University of Edinburgh",
+        "confidence": 0.85
+      },
+      "source_text": "Likely attended University of Edinburgh",
+      "confidence": 0.75,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T14:34:07.632571",
+        "extraction_confidence": 0.75,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1730s",
+      "year_confidence": "range",
+      "event_type": "education",
+      "description": "Continued studies at the University of Edinburgh, focusing on mathematics.",
+      "location": {
+        "place_name": "University of Edinburgh",
+        "raw_text": "studies at the University of Edinburgh",
+        "confidence": 0.85
+      },
+      "source_text": "Continued studies at the University of Edinburgh",
+      "confidence": 0.85,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T14:34:07.632582",
+        "extraction_confidence": 0.85,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1744",
+      "year_confidence": "exact",
+      "event_type": "position",
+      "description": "Appointed Professor of Mathematics at the University of Edinburgh.",
+      "location": {
+        "place_name": "University of Edinburgh",
+        "raw_text": "Professor of Mathematics at the University of Edinburgh",
+        "confidence": 0.95
+      },
+      "source_text": "Appointed Professor of Mathematics at the University of Edinburgh",
+      "confidence": 0.98,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T14:34:07.632589",
+        "extraction_confidence": 0.98,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1749",
+      "year_confidence": "exact",
+      "event_type": "publication",
+      "description": "Published his proof of the correctness of Isaac Newton's classification of cubic plane curves.",
+      "location": {
+        "place_name": "Edinburgh",
+        "raw_text": "Published proof in Edinburgh",
+        "confidence": 0.85
+      },
+      "source_text": "Proved correctness of Newton's classification",
+      "confidence": 0.9,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T14:34:07.632597",
+        "extraction_confidence": 0.9,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1750s",
+      "year_confidence": "range",
+      "event_type": "publication",
+      "description": "Developed and published his work on Stirling numbers, Stirling permutations, and Stirling's approximation.",
+      "location": {
+        "place_name": "Edinburgh",
+        "raw_text": "worked on Stirling numbers in Edinburgh",
+        "confidence": 0.85
+      },
+      "source_text": "Developed Stirling numbers",
+      "confidence": 0.92,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T14:34:07.632603",
+        "extraction_confidence": 0.92,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1760",
+      "year_confidence": "approximate",
+      "event_type": "collaboration",
+      "description": "Collaborated with other mathematicians, though specific details are not provided in the text.",
+      "location": {
+        "place_name": null,
+        "raw_text": "Collaborated with other mathematicians",
+        "confidence": 0.65
+      },
+      "source_text": "Collaborated with other mathematicians",
+      "confidence": 0.7,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T14:34:07.632610",
+        "extraction_confidence": 0.7,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": 1770,
+      "year_confidence": "exact",
+      "event_type": "death",
+      "description": "Died on 5 December 1770 in Edinburgh, Scotland.",
+      "location": {
+        "place_name": "Edinburgh",
+        "raw_text": "5 December 1770, Edinburgh",
+        "confidence": 0.95
+      },
+      "source_text": "Died in Edinburgh",
+      "confidence": 0.98,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T14:34:07.632615",
+        "extraction_confidence": 0.98,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    }
+  ],
+  "timeline_extraction_metadata": {
+    "extracted_at": "2025-08-11T14:34:07.632754",
+    "model_used": "lm_studio_google/gemma-3n-e4b",
+    "events_count": 8,
+    "biography_length": 546,
+    "enhancement_level": "gemma_comprehensive",
+    "target_events_per_mathematician": "5-10"
+  }
+}

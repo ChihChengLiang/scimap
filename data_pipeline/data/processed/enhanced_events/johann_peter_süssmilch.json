@@ -1,0 +1,290 @@
+{
+  "id": null,
+  "name": "Johann Peter Süssmilch",
+  "birth_year": 1707,
+  "death_year": 1767,
+  "nationality": "European",
+  "fields": [
+    "mathematics"
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Johann_Peter_S%C3%BCssmilch",
+  "wikipedia_data": {
+    "url": "https://en.wikipedia.org/wiki/Johann_Peter_S%C3%BCssmilch",
+    "title": "Johann Peter Süssmilch",
+    "page_title": "Johann_Peter_S%C3%BCssmilch",
+    "biography_paragraphs": [
+      "Johann Peter Süßmilch or Süssmilch (September 3, 1707 in Zehlendorf – March 22, 1767 in Berlin) was a German Protestant pastor, statistician and demographer.[1][2] He is most well-known for his work The Divine order in the changes in the human sex from birth, death and reproduction of the same, which was an influential work in demography and the history of population statistics.[3][4][5]",
+      "He was raised in Brandenburg by his grandparents.[2] From 1716 to 1722, he studied at the College of Berlin where he took an interest in natural history.[2] In 1724, he attended the Anatomical Institute in Berlin.[2] His parents persuaded him to study law at Halle in 1727, but he ultimately lost interest in law and switched his focus to theology.[2][3] In 1728, he began studying theology and philosophy at Jena.[3] He defended his thesis in 1733.[2]",
+      "In 1741, he was an army chaplain in the First Silesian War. On Sunday, 13 August 1741, the former field preacher gave his inaugural sermon as pastor of the community Etzin.[6] In 1742 he took a post as Provost in the St. Petri parish in Berlin-Cölln. He became a member of the Prussian Academy of Sciences in 1745. He conversed with Gotthold Ephraim Lessing and Immanuel Kant.",
+      "Süßmilch's most important publication on The Divine order in the circumstances of the human sex, birth, death and reproduction, which he wrote in 1741, is regarded as a seminal and pioneering work in demography and the history of population statistics. Süssmilch discovered that, in the long term, there is a constant sex ratio of 1,000 female births to 1,050 male births. He saw this as a proof of the Divine working in this World. Due to this work, he can be regarded as one of the founding fathers of demography in Germany. However, he refers in his work to Caspar Neumann's work, who calculated a monthly statistics of deaths by age and death cause already between 1687 and 1691 in Breslau (present-day Wrocław). Süssmilch also worked on life tables."
+    ],
+    "infobox": {},
+    "scraped_at": "2025-08-11T01:12:55.275212",
+    "raw_html_length": 90426
+  },
+  "processed_at": "2025-08-11T01:12:56.278630",
+  "wikidata_info": {
+    "wikidata_id": "Q64375",
+    "name": "Johann Peter Süssmilch",
+    "birth_year": 1707,
+    "death_year": 1767,
+    "birth_date_full": "1707-09-03T00:00:00Z",
+    "death_date_full": "1767-03-22T00:00:00Z",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Johann_Peter_S%C3%BCssmilch",
+    "nationality": "",
+    "birth_place": {
+      "name": "",
+      "wikidata_uri": "",
+      "coordinates": null
+    },
+    "image_url": "",
+    "fields": [
+      "mathematics"
+    ],
+    "data_source": "wikidata_sparql",
+    "extracted_at": "2025-08-11T01:11:25.225247",
+    "wikidata_query_metadata": {
+      "query_date": "2025-08-11T01:11:25.225248",
+      "endpoint": "https://query.wikidata.org/sparql",
+      "data_quality": "structured"
+    }
+  },
+  "timeline_events": [
+    {
+      "year": 1707,
+      "year_confidence": "exact",
+      "event_type": "birth",
+      "description": "Born in Zehlendorf, Brandenburg, Germany.",
+      "location": {
+        "place_name": "Zehlendorf, Brandenburg",
+        "raw_text": "September 3, 1707 in Zehlendorf",
+        "confidence": 1.0
+      },
+      "source_text": "September 3, 1707 in Zehlendorf",
+      "confidence": 1.0,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:05:52.612514",
+        "extraction_confidence": 1.0,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1716-1722",
+      "year_confidence": "range",
+      "event_type": "education",
+      "description": "Studied at the College of Berlin, developing an interest in natural history.",
+      "location": {
+        "place_name": "Berlin",
+        "raw_text": "studied at the College of Berlin",
+        "confidence": 0.95
+      },
+      "source_text": "From 1716 to 1722, he studied at the College of Berlin",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:05:52.612735",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": 1724,
+      "year_confidence": "exact",
+      "event_type": "education",
+      "description": "Attended the Anatomical Institute in Berlin.",
+      "location": {
+        "place_name": "Berlin",
+        "raw_text": "attended the Anatomical Institute in Berlin",
+        "confidence": 0.95
+      },
+      "source_text": "attended the Anatomical Institute in Berlin",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:05:52.612743",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": 1727,
+      "year_confidence": "exact",
+      "event_type": "education",
+      "description": "Began studying theology and philosophy at Jena.",
+      "location": {
+        "place_name": "Jena",
+        "raw_text": "studying theology and philosophy at Jena",
+        "confidence": 0.95
+      },
+      "source_text": "In 1728, he began studying theology and philosophy at Jena.",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:05:52.612749",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": 1728,
+      "year_confidence": "exact",
+      "event_type": "education",
+      "description": "Continued studies in theology and philosophy at Jena.",
+      "location": {
+        "place_name": "Jena",
+        "raw_text": "studying theology and philosophy at Jena",
+        "confidence": 0.95
+      },
+      "source_text": "In 1728, he began studying theology and philosophy at Jena.",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:05:52.612754",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": 1733,
+      "year_confidence": "exact",
+      "event_type": "education",
+      "description": "Defended his thesis.",
+      "location": {
+        "place_name": null,
+        "raw_text": "defended his thesis in 1733",
+        "confidence": 0.85
+      },
+      "source_text": "Defended his thesis in 1733.",
+      "confidence": 0.85,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:05:52.612760",
+        "extraction_confidence": 0.85,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": 1741,
+      "year_confidence": "exact",
+      "event_type": "position",
+      "description": "Served as an army chaplain in the First Silesian War.",
+      "location": {
+        "place_name": null,
+        "raw_text": "army chaplain in the First Silesian War",
+        "confidence": 0.95
+      },
+      "source_text": "In 1741, he was an army chaplain in the First Silesian War.",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:05:52.612765",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": 1741,
+      "year_confidence": "exact",
+      "event_type": "position",
+      "description": "Given his inaugural sermon as pastor of Etzin.",
+      "location": {
+        "place_name": "Etzin",
+        "raw_text": "as pastor of the community Etzin",
+        "confidence": 0.95
+      },
+      "source_text": "On Sunday, 13 August 1741, the former field preacher gave his inaugural sermon as pastor of the community Etzin.",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:05:52.612770",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": 1742,
+      "year_confidence": "exact",
+      "event_type": "position",
+      "description": "Appointed as Provost in the St. Petri parish in Berlin-Cölln.",
+      "location": {
+        "place_name": "Berlin-Cölln",
+        "raw_text": "took a post as Provost in the St. Petri parish in Berlin-Cölln",
+        "confidence": 0.95
+      },
+      "source_text": "In 1742 he took a post as Provost in the St. Petri parish in Berlin-Cölln.",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:05:52.612776",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": 1745,
+      "year_confidence": "exact",
+      "event_type": "position",
+      "description": "Became a member of the Prussian Academy of Sciences.",
+      "location": {
+        "place_name": "Berlin",
+        "raw_text": "He became a member of the Prussian Academy of Sciences",
+        "confidence": 0.95
+      },
+      "source_text": "He became a member of the Prussian Academy of Sciences in 1745.",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:05:52.612781",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1745",
+      "year_confidence": "range",
+      "event_type": "collaboration",
+      "description": "Conversed with Gotthold Ephraim Lessing and Immanuel Kant.",
+      "location": {
+        "place_name": "Berlin",
+        "raw_text": "conversations with Gotthold Ephraim Lessing and Immanuel Kant",
+        "confidence": 0.95
+      },
+      "source_text": "He conversed with Gotthold Ephraim Lessing and Immanuel Kant.",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:05:52.612789",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": 1767,
+      "year_confidence": "exact",
+      "event_type": "death",
+      "description": "Died in Berlin.",
+      "location": {
+        "place_name": "Berlin",
+        "raw_text": "March 22, 1767 in Berlin",
+        "confidence": 0.95
+      },
+      "source_text": "March 22, 1767 in Berlin",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:05:52.612794",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    }
+  ],
+  "timeline_extraction_metadata": {
+    "extracted_at": "2025-08-11T16:05:52.613004",
+    "model_used": "lm_studio_google/gemma-3n-e4b",
+    "events_count": 12,
+    "biography_length": 1220,
+    "enhancement_level": "gemma_comprehensive",
+    "target_events_per_mathematician": "5-10"
+  }
+}

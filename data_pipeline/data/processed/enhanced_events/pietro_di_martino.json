@@ -1,0 +1,181 @@
+{
+  "id": null,
+  "name": "Pietro di Martino",
+  "birth_year": 1707,
+  "death_year": 1746,
+  "nationality": "European",
+  "fields": [
+    "mathematics"
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Pietro_De_Martino",
+  "wikipedia_data": {
+    "url": "https://en.wikipedia.org/wiki/Pietro_De_Martino",
+    "title": "Pietro De Martino",
+    "page_title": "Pietro_De_Martino",
+    "biography_paragraphs": [
+      "Pietro De Martino or Di Martino (31 May 1707 – 28 January 1746) was an Italian mathematician and astronomer.[1]",
+      "Born in Faicchio, he was brother of Angelo, professor first of medical physics then of mathematics at the University of Naples; and of Nicola Antonio De Martino, professor di mathematics and director of the Real Corpo degli Ingegneri (Royal Engineers Corp) and Marine Guard. Pietro De Martino was a pupil of Agostino Ariani and of Giacinto De Cristoforo (1650-1730). In 1735 he was assigned of the astronomical and nautical chair at the University of Naples.[2]",
+      "He disputed with Roger Joseph Boscovich on the question if it is possible to gain a right result starting from a wrong hypothesis.[1]",
+      "He authored various works; his Nuove istituzioni di aritmetica pratica, published originally in 1739 in Naples, had many reprints (the better known of the 1758; one also in Turin in 1762).[1] He died in Naples in 1746.[2]"
+    ],
+    "infobox": {
+      "birth": "(1707-05-31)31 May 1707Faicchio, Campania",
+      "death": "28 January 1746(1746-01-28) (aged 38)Naples, Campania",
+      "nationality": "Italian",
+      "fields": "Astronomy, Mathematics"
+    },
+    "scraped_at": "2025-08-11T01:12:52.895865",
+    "raw_html_length": 80385
+  },
+  "processed_at": "2025-08-11T01:12:53.905043",
+  "wikidata_info": {
+    "wikidata_id": "Q18945748",
+    "name": "Pietro di Martino",
+    "birth_year": 1707,
+    "death_year": 1746,
+    "birth_date_full": "1707-05-31T00:00:00Z",
+    "death_date_full": "1746-01-28T00:00:00Z",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pietro_De_Martino",
+    "nationality": "",
+    "birth_place": {
+      "name": "",
+      "wikidata_uri": "",
+      "coordinates": null
+    },
+    "image_url": "",
+    "fields": [
+      "mathematics"
+    ],
+    "data_source": "wikidata_sparql",
+    "extracted_at": "2025-08-11T01:11:25.225223",
+    "wikidata_query_metadata": {
+      "query_date": "2025-08-11T01:11:25.225224",
+      "endpoint": "https://query.wikidata.org/sparql",
+      "data_quality": "structured"
+    }
+  },
+  "timeline_events": [
+    {
+      "year": 1707,
+      "year_confidence": "exact",
+      "event_type": "birth",
+      "description": "Born in Faicchio, Italy.",
+      "location": {
+        "place_name": "Faicchio",
+        "raw_text": "Born in Faicchio",
+        "confidence": 1.0
+      },
+      "source_text": "Pietro De Martino or Di Martino (31 May 1707 – 28 January 1746) was an Italian mathematician and astronomer.",
+      "confidence": 1.0,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T15:48:14.764711",
+        "extraction_confidence": 1.0,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1700-1707",
+      "year_confidence": "range",
+      "event_type": "education",
+      "description": "Studied under Agostino Ariani and Giacinto De Cristoforo.",
+      "location": {
+        "place_name": null,
+        "raw_text": "Pietro De Martino was a pupil of Agostino Ariani and of Giacinto De Cristoforo",
+        "confidence": 0.9
+      },
+      "source_text": "Pietro De Martino was a pupil of Agostino Ariani and of Giacinto De Cristoforo (1650-1730).",
+      "confidence": 0.9,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T15:48:14.764941",
+        "extraction_confidence": 0.9,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1735",
+      "year_confidence": "exact",
+      "event_type": "position",
+      "description": "Assigned to the astronomical and nautical chair at the University of Naples.",
+      "location": {
+        "place_name": "Naples",
+        "raw_text": "In 1735 he was assigned of the astronomical and nautical chair at the University of Naples.",
+        "confidence": 1.0
+      },
+      "source_text": "In 1735 he was assigned of the astronomical and nautical chair at the University of Naples.",
+      "confidence": 1.0,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T15:48:14.764950",
+        "extraction_confidence": 1.0,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1735",
+      "year_confidence": "exact",
+      "event_type": "position",
+      "description": "Assumed the position of professor of astronomy and nautical sciences at the University of Naples.",
+      "location": {
+        "place_name": "Naples",
+        "raw_text": "Assigned of the astronomical and nautical chair at the University of Naples",
+        "confidence": 0.95
+      },
+      "source_text": "In 1735 he was assigned of the astronomical and nautical chair at the University of Naples.",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T15:48:14.764957",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1735-1746",
+      "year_confidence": "range",
+      "event_type": "collaboration",
+      "description": "Disputed with Roger Joseph Boscovich on a scientific principle.",
+      "location": {
+        "place_name": null,
+        "raw_text": "He disputed with Roger Joseph Boscovich on the question if it is possible to gain a right result starting from a wrong hypothesis.",
+        "confidence": 0.95
+      },
+      "source_text": "He disputed with Roger Joseph Boscovich on the question if it is possible to gain a right result starting from a wrong hypothesis.",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T15:48:14.764963",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": 1746,
+      "year_confidence": "exact",
+      "event_type": "death",
+      "description": "Died on January 28, 1746.",
+      "location": {
+        "place_name": null,
+        "raw_text": "Pietro De Martino (31 May 1707 – 28 January 1746)",
+        "confidence": 1.0
+      },
+      "source_text": "Pietro De Martino (31 May 1707 – 28 January 1746)",
+      "confidence": 1.0,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T15:48:14.764968",
+        "extraction_confidence": 1.0,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    }
+  ],
+  "timeline_extraction_metadata": {
+    "extracted_at": "2025-08-11T15:48:14.765156",
+    "model_used": "lm_studio_google/gemma-3n-e4b",
+    "events_count": 6,
+    "biography_length": 707,
+    "enhancement_level": "gemma_comprehensive",
+    "target_events_per_mathematician": "5-10"
+  }
+}

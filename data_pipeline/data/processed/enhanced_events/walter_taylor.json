@@ -1,0 +1,178 @@
+{
+  "id": null,
+  "name": "Walter Taylor",
+  "birth_year": 1700,
+  "death_year": 1743,
+  "nationality": "European",
+  "fields": [
+    "mathematics"
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Walter_Taylor_(mathematician)",
+  "wikipedia_data": {
+    "url": "https://en.wikipedia.org/wiki/Walter_Taylor_(mathematician)",
+    "title": "Walter Taylor (mathematician)",
+    "page_title": "Walter_Taylor_(mathematician)",
+    "biography_paragraphs": [
+      "Walter Taylor (c. 1700 – 23 February 1743/44) was a Trinity College, Cambridge mathematics tutor who coached 83 students in the 1724–1743 period. He later was appointed as the Regius Professor of Greek.",
+      "He was the son of John Taylor, Vicar of Tuxford, Nottinghamshire. He matriculated in 1716 from Wakefield School, Yorkshire. Taylor was admitted as a pensioner at Trinity on 7 April 1716.[1]"
+    ],
+    "infobox": {
+      "birth": "c. 1700Tuxford, Nottinghamshire, England",
+      "death": "23 February 1743/44",
+      "fields": "Mathematician and classicist"
+    },
+    "scraped_at": "2025-08-11T01:11:25.792569",
+    "raw_html_length": 66639
+  },
+  "processed_at": "2025-08-11T01:11:26.797120",
+  "wikidata_info": {
+    "wikidata_id": "Q7966266",
+    "name": "Walter Taylor",
+    "birth_year": 1700,
+    "death_year": 1743,
+    "birth_date_full": "1700-01-01T00:00:00Z",
+    "death_date_full": "1743-02-23T00:00:00Z",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Walter_Taylor_(mathematician)",
+    "nationality": "",
+    "birth_place": {
+      "name": "",
+      "wikidata_uri": "",
+      "coordinates": null
+    },
+    "image_url": "",
+    "fields": [
+      "mathematics"
+    ],
+    "data_source": "wikidata_sparql",
+    "extracted_at": "2025-08-11T01:11:25.224726",
+    "wikidata_query_metadata": {
+      "query_date": "2025-08-11T01:11:25.224727",
+      "endpoint": "https://query.wikidata.org/sparql",
+      "data_quality": "structured"
+    }
+  },
+  "timeline_events": [
+    {
+      "year": "1700",
+      "year_confidence": "approximate",
+      "event_type": "birth",
+      "description": "Born approximately in 1700.",
+      "location": {
+        "place_name": null,
+        "raw_text": "c. 1700",
+        "confidence": 0.95
+      },
+      "source_text": "Walter Taylor (c. 1700 – 23 February 1743/44)",
+      "confidence": 0.98,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T14:39:09.009851",
+        "extraction_confidence": 0.98,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1716",
+      "year_confidence": "exact",
+      "event_type": "education",
+      "description": "Matriculated at Trinity College, Cambridge.",
+      "location": {
+        "place_name": "Trinity College, Cambridge",
+        "raw_text": "matriculated in 1716 from Wakefield School, Yorkshire",
+        "confidence": 0.95
+      },
+      "source_text": "Taylor was admitted as a pensioner at Trinity on 7 April 1716.",
+      "confidence": 0.98,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T14:39:09.009909",
+        "extraction_confidence": 0.98,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1716",
+      "year_confidence": "exact",
+      "event_type": "position",
+      "description": "Admitted as a pensioner at Trinity College, Cambridge.",
+      "location": {
+        "place_name": "Trinity College, Cambridge",
+        "raw_text": "Taylor was admitted as a pensioner at Trinity on 7 April 1716.",
+        "confidence": 0.95
+      },
+      "source_text": "Taylor was admitted as a pensioner at Trinity on 7 April 1716.",
+      "confidence": 0.98,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T14:39:09.009921",
+        "extraction_confidence": 0.98,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1724-1743",
+      "year_confidence": "range",
+      "event_type": "position",
+      "description": "Tutor at Trinity College, Cambridge, coaching 83 students.",
+      "location": {
+        "place_name": "Trinity College, Cambridge",
+        "raw_text": "Trinity College, Cambridge mathematics tutor who coached 83 students in the 1724–1743 period",
+        "confidence": 0.95
+      },
+      "source_text": "Walter Taylor (c. 1700 – 23 February 1743/44) was a Trinity College, Cambridge mathematics tutor who coached 83 students in the 1724–1743 period.",
+      "confidence": 0.98,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T14:39:09.009930",
+        "extraction_confidence": 0.98,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1743-1743/44",
+      "year_confidence": "range",
+      "event_type": "position",
+      "description": "Appointed as the Regius Professor of Greek (later in life).",
+      "location": {
+        "place_name": null,
+        "raw_text": "He later was appointed as the Regius Professor of Greek.",
+        "confidence": 0.85
+      },
+      "source_text": "He later was appointed as the Regius Professor of Greek.",
+      "confidence": 0.9,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T14:39:09.009939",
+        "extraction_confidence": 0.9,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1743/44",
+      "year_confidence": "range",
+      "event_type": "death",
+      "description": "Died on 23 February 1743/44.",
+      "location": {
+        "place_name": null,
+        "raw_text": "Walter Taylor (c. 1700 – 23 February 1743/44)",
+        "confidence": 0.95
+      },
+      "source_text": "Walter Taylor (c. 1700 – 23 February 1743/44)",
+      "confidence": 0.98,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T14:39:09.009948",
+        "extraction_confidence": 0.98,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    }
+  ],
+  "timeline_extraction_metadata": {
+    "extracted_at": "2025-08-11T14:39:09.010059",
+    "model_used": "lm_studio_google/gemma-3n-e4b",
+    "events_count": 6,
+    "biography_length": 392,
+    "enhancement_level": "gemma_comprehensive",
+    "target_events_per_mathematician": "5-10"
+  }
+}

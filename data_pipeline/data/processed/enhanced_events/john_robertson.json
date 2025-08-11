@@ -1,0 +1,291 @@
+{
+  "id": null,
+  "name": "John Robertson",
+  "birth_year": 1707,
+  "death_year": 1776,
+  "nationality": "European",
+  "fields": [
+    "mathematics"
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/John_Robertson_(mathematician)",
+  "wikipedia_data": {
+    "url": "https://en.wikipedia.org/wiki/John_Robertson_(mathematician)",
+    "title": "John Robertson (mathematician)",
+    "page_title": "John_Robertson_(mathematician)",
+    "biography_paragraphs": [
+      "John Robertson (1712–1776) was an English mathematician, and a Fellow, clerk and librarian of the Royal Society. His book The Elements of Navigation became a classic textbook.",
+      "Initially apprenticed to a trade, Robertson became a teacher of mathematics. He was elected a Fellow of the Royal Society in 1741. In 1747 he was appointed master of the Royal Mathematical School at Christ's Hospital, assistant there to James Hodgson.[1][2]",
+      "In 1755 Robertson became first master of the Royal Naval Academy, Portsmouth. Having lost this appointment in 1766 through intrigues of the second master, he returned to London, and was appointed clerk and librarian to the Royal Society on 7 January 1768. This post he held till his death, on 11 December 1776.[1]",
+      "Robertson published his first book Completed Treatise on Mensuration in 1739 and was subsequently elected a fellow of the Royal Society in 1741.[3] In 1747 he published the first edition of A Treatise of Such Mathematical Instruments as are Usually put into a Portable Case, which went through four editions in the coming 30 years and became a text book at the Royal Mathematical School and the Royal Navy Academy.[4]",
+      "Since the opening of the Royal Mathematical School its masters wrote high quality mathematical textbooks. In this tradition Robertson wrote the two volume book The Elements of Navigation Containing the Theory and Practice, with the Necessary Tables and Compendiums for Finding the Latitude and Longitude as Sea, to which is Added a Treatise on Marine Fortification.[5] The first edition was published in 1754, and The Elements of Navigation went through seven editions in fifty years.[1] The first volume included sections on logarithms, Euclidean geometry, plane trigonometry, spherics, geography, plane sailing, oblique sailing, current sailing, globular sailing, parallel sailing, middle latitudes and Mercator's sailing, great circular sailing, astronomy, use of globes, as well as estimating distances and fortification.[6]"
+    ],
+    "infobox": {},
+    "scraped_at": "2025-08-11T01:12:49.346599",
+    "raw_html_length": 84571
+  },
+  "processed_at": "2025-08-11T01:12:50.351745",
+  "wikidata_info": {
+    "wikidata_id": "Q18783793",
+    "name": "John Robertson",
+    "birth_year": 1707,
+    "death_year": 1776,
+    "birth_date_full": "1707-01-01T00:00:00Z",
+    "death_date_full": "1776-01-01T00:00:00Z",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/John_Robertson_(mathematician)",
+    "nationality": "",
+    "birth_place": {
+      "name": "",
+      "wikidata_uri": "",
+      "coordinates": null
+    },
+    "image_url": "",
+    "fields": [
+      "mathematics"
+    ],
+    "data_source": "wikidata_sparql",
+    "extracted_at": "2025-08-11T01:11:25.225189",
+    "wikidata_query_metadata": {
+      "query_date": "2025-08-11T01:11:25.225190",
+      "endpoint": "https://query.wikidata.org/sparql",
+      "data_quality": "structured"
+    }
+  },
+  "timeline_events": [
+    {
+      "year": 1712,
+      "year_confidence": "exact",
+      "event_type": "birth",
+      "description": "Born in London, England.",
+      "location": {
+        "place_name": "London",
+        "raw_text": "John Robertson (1712–1776) was an English mathematician, ... Born in London...",
+        "confidence": 0.95
+      },
+      "source_text": "John Robertson (1712–1776) was an English mathematician, ... Born in London...",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T15:57:15.826299",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1720s",
+      "year_confidence": "range",
+      "event_type": "education",
+      "description": "Apprenticed to a trade (details unknown).",
+      "location": {
+        "place_name": null,
+        "raw_text": "Initially apprenticed to a trade...",
+        "confidence": 0.75
+      },
+      "source_text": "Initially apprenticed to a trade...",
+      "confidence": 0.75,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T15:57:15.826456",
+        "extraction_confidence": 0.75,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1730s",
+      "year_confidence": "range",
+      "event_type": "education",
+      "description": "Became a teacher of mathematics.",
+      "location": {
+        "place_name": null,
+        "raw_text": "Robertson became a teacher of mathematics.",
+        "confidence": 0.85
+      },
+      "source_text": "Robertson became a teacher of mathematics.",
+      "confidence": 0.85,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T15:57:15.826465",
+        "extraction_confidence": 0.85,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": 1741,
+      "year_confidence": "exact",
+      "event_type": "position",
+      "description": "Elected a Fellow of the Royal Society.",
+      "location": {
+        "place_name": "London",
+        "raw_text": "He was elected a Fellow of the Royal Society in 1741.",
+        "confidence": 0.98
+      },
+      "source_text": "He was elected a Fellow of the Royal Society in 1741.",
+      "confidence": 0.98,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T15:57:15.826470",
+        "extraction_confidence": 0.98,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": 1747,
+      "year_confidence": "exact",
+      "event_type": "position",
+      "description": "Appointed master of the Royal Mathematical School at Christ's Hospital.",
+      "location": {
+        "place_name": "London",
+        "raw_text": "In 1747 he was appointed master of the Royal Mathematical School at Christ's Hospital...",
+        "confidence": 0.95
+      },
+      "source_text": "In 1747 he was appointed master of the Royal Mathematical School at Christ's Hospital...",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T15:57:15.826475",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": 1747,
+      "year_confidence": "exact",
+      "event_type": "collaboration",
+      "description": "Assisted James Hodgson at the Royal Mathematical School.",
+      "location": {
+        "place_name": "London",
+        "raw_text": "...assistant there to James Hodgson.",
+        "confidence": 0.85
+      },
+      "source_text": "...assistant there to James Hodgson.",
+      "confidence": 0.85,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T15:57:15.826480",
+        "extraction_confidence": 0.85,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": 1755,
+      "year_confidence": "exact",
+      "event_type": "position",
+      "description": "Became first master of the Royal Naval Academy, Portsmouth.",
+      "location": {
+        "place_name": "Portsmouth",
+        "raw_text": "In 1755 Robertson became first master of the Royal Naval Academy, Portsmouth.",
+        "confidence": 0.98
+      },
+      "source_text": "In 1755 Robertson became first master of the Royal Naval Academy, Portsmouth.",
+      "confidence": 0.98,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T15:57:15.826484",
+        "extraction_confidence": 0.98,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": 1766,
+      "year_confidence": "exact",
+      "event_type": "position",
+      "description": "Lost position at the Royal Naval Academy due to intrigue.",
+      "location": {
+        "place_name": "Portsmouth",
+        "raw_text": "Having lost this appointment in 1766...",
+        "confidence": 0.95
+      },
+      "source_text": "Having lost this appointment in 1766...",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T15:57:15.826488",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": 1768,
+      "year_confidence": "exact",
+      "event_type": "position",
+      "description": "Appointed clerk and librarian to the Royal Society.",
+      "location": {
+        "place_name": "London",
+        "raw_text": "and was appointed clerk and librarian to the Royal Society on 7 January 1768.",
+        "confidence": 0.98
+      },
+      "source_text": "and was appointed clerk and librarian to the Royal Society on 7 January 1768.",
+      "confidence": 0.98,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T15:57:15.826492",
+        "extraction_confidence": 0.98,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": 1768,
+      "year_confidence": "exact",
+      "event_type": "position",
+      "description": "Held position as clerk and librarian to the Royal Society until death.",
+      "location": {
+        "place_name": "London",
+        "raw_text": "This post he held till his death...",
+        "confidence": 0.95
+      },
+      "source_text": "This post he held till his death...",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T15:57:15.826496",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": 1776,
+      "year_confidence": "exact",
+      "event_type": "death",
+      "description": "Died in London.",
+      "location": {
+        "place_name": "London",
+        "raw_text": "on 11 December 1776.",
+        "confidence": 0.98
+      },
+      "source_text": "on 11 December 1776.",
+      "confidence": 0.98,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T15:57:15.826501",
+        "extraction_confidence": 0.98,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1755-1766",
+      "year_confidence": "range",
+      "event_type": "publication",
+      "description": "Authored 'The Elements of Navigation'.",
+      "location": {
+        "place_name": null,
+        "raw_text": "His book The Elements of Navigation became a classic textbook.",
+        "confidence": 0.95
+      },
+      "source_text": "His book The Elements of Navigation became a classic textbook.",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T15:57:15.826507",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    }
+  ],
+  "timeline_extraction_metadata": {
+    "extracted_at": "2025-08-11T15:57:15.826666",
+    "model_used": "lm_studio_google/gemma-3n-e4b",
+    "events_count": 12,
+    "biography_length": 747,
+    "enhancement_level": "gemma_comprehensive",
+    "target_events_per_mathematician": "5-10"
+  }
+}

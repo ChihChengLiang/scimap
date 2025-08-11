@@ -1,0 +1,57 @@
+{
+  "id": null,
+  "name": "Gaspard Monge",
+  "birth_year": 1746,
+  "death_year": 1818,
+  "nationality": "European",
+  "fields": [
+    "mathematics"
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Gaspard_Monge",
+  "wikipedia_data": {
+    "url": "https://en.wikipedia.org/wiki/Gaspard_Monge",
+    "title": "Gaspard Monge",
+    "page_title": "Gaspard_Monge",
+    "biography_paragraphs": [
+      "Gaspard Monge, Comte de Péluse (French: [ɡaspaʁ mɔ̃ʒ kɔ̃t də pelyz]; 9 May 1746[2] – 28 July 1818)[3] was a French mathematician, commonly presented as the inventor of descriptive geometry,[4][5] (the mathematical basis of) technical drawing, and the father of differential geometry.[6] During the French Revolution he served as the Minister of the Marine, and was involved in the reform of the French educational system, helping to found the École Polytechnique.",
+      "Monge was born at Beaune, Côte-d'Or, the son of a merchant.  He was educated at the college of the Oratorians at Beaune.[5] In 1762 he went to the Collège de la Trinité at Lyon, where, one year after he had begun studying, he was made a teacher of physics[5] at the age of seventeen.[7]",
+      "After finishing his education in 1764 he returned to Beaune, where he made a large-scale plan of the town, inventing the methods of observation and constructing the necessary instruments; the plan was presented to the town, and is still preserved in their library.[5] An officer of engineers who saw it wrote to the commandant of the École Royale du Génie at Mézières, recommending Monge to him and he was given a job as a draftsman.[5] L. T. C. Rolt, an engineer and historian of technology, credited Monge with the birth of engineering drawing.[8] When in the Royal School, he became a member of a Freemasonry, initiated into ″L’Union parfaite″ lodge.[9]",
+      "Those studying at the officer school were exclusively drawn from the aristocracy, so he was not allowed admission to the institution itself. His manual skill was highly regarded, but his mathematical skills were not made use of. Nevertheless, he worked on the development of his ideas in his spare time. At this time he came to contact with Charles Bossut, the professor of mathematics at the École Royale du Génie. \"I was a thousand times tempted,\" he said long afterwards, \"to tear up my drawings in disgust at the esteem in which they were held, as if I had been good for nothing better.\"[5]",
+      "After a year at the École Royale, Monge was asked to produce a plan for a fortification in such a way as to optimise its defensive arrangement. There was an established method for doing this which involved lengthy calculations but Monge devised a way of solving the problems by using drawings. At first his solution was not accepted, since it had not taken the time judged to be necessary, but upon examination the value of the work was recognised,[5] and Monge's exceptional abilities were recognised."
+    ],
+    "infobox": {
+      "birth": "(1746-05-09)9 May 1746Beaune, Côte-d'Or, Kingdom of France",
+      "death": "28 July 1818(1818-07-28) (aged 72)Paris, Kingdom of France",
+      "fields": "Mathematicsengineeringeducation"
+    },
+    "scraped_at": "2025-08-11T01:11:42.977222",
+    "raw_html_length": 168594
+  },
+  "processed_at": "2025-08-11T01:11:43.982657",
+  "wikidata_info": {
+    "wikidata_id": "Q206832",
+    "name": "Gaspard Monge",
+    "birth_year": 1746,
+    "death_year": 1818,
+    "birth_date_full": "1746-05-09T00:00:00Z",
+    "death_date_full": "1818-07-28T00:00:00Z",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Gaspard_Monge",
+    "nationality": "",
+    "birth_place": {
+      "name": "",
+      "wikidata_uri": "",
+      "coordinates": null
+    },
+    "image_url": "",
+    "fields": [
+      "mathematics"
+    ],
+    "data_source": "wikidata_sparql",
+    "extracted_at": "2025-08-11T01:11:25.228217",
+    "wikidata_query_metadata": {
+      "query_date": "2025-08-11T01:11:25.228217",
+      "endpoint": "https://query.wikidata.org/sparql",
+      "data_quality": "structured"
+    }
+  }
+}

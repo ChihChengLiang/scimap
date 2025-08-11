@@ -1,0 +1,314 @@
+{
+  "id": null,
+  "name": "Jacopo Belgrado",
+  "birth_year": 1704,
+  "death_year": 1789,
+  "nationality": "European",
+  "fields": [
+    "mathematics"
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Jacopo_Belgrado",
+  "wikipedia_data": {
+    "url": "https://en.wikipedia.org/wiki/Jacopo_Belgrado",
+    "title": "Jacopo Belgrado",
+    "page_title": "Jacopo_Belgrado",
+    "biography_paragraphs": [
+      "Jacopo Belgrado, sometimes written Giacopo (November 16, 1704 in Udine – March 26, 1789 in Udine), was an Italian Jesuit, mathematician and natural philosopher.[1]",
+      "Jacopo belonged to a noble family and received his education at Padua. He entered the novitiate of the Society of Jesus 16 October 1723, and showed marked talent, studying mathematics and philosophy at Bologna, under Father Luigi Marchenti, a former pupil of Pierre Varignon at Paris. After completing his philosophical studies he taught letters for several years at Venice.",
+      "He studied theology at Parma and then became professor of mathematics and physics at the university, holding this position for twelve years. While at Parma he did much experimental work in physics with apparatus specially constructed by two of his assistants. After pronouncing his solemn vows on 2 February 1742, Belgrado was summoned to the court, where he was appointed confessor, first to the Duchess, and later to the Duke Don Filippo, The title of mathematician of the court was also bestowed on him.",
+      "In 1757 Belgrado erected an observatory on one of the towers of the college of Parma and furnished it with the necessary instruments. He provided the observatory of a Gregorian telescope, a Parisian one, twenty-five feet long, two other smaller telescopes, a sundial, two pendulums and an astronomical clock of three feet radius.[2] For the construction of the observatory Belgrado collaborated with the famous astronomer Giuseppe Bolsi-Marchesi, who had worked for forty years in Bologna together with Eustachio Manfredi.",
+      "In 1773, he became rector of the college at Bologna. He was a member of most of the academies of Italy and a corresponding member of the French Academy of Sciences. He was likewise one of the founders of the Arcadian colony of Parma."
+    ],
+    "infobox": {
+      "birth": "(1704-11-16)November 16, 1704Udine, Republic of Venice",
+      "death": "26 March 1789(1789-03-26) (aged 84)Udine, Republic of Venice",
+      "fields": "Physics and natural philosophy"
+    },
+    "scraped_at": "2025-08-11T01:12:37.462536",
+    "raw_html_length": 104170
+  },
+  "processed_at": "2025-08-11T01:12:38.469536",
+  "wikidata_info": {
+    "wikidata_id": "Q3805845",
+    "name": "Jacopo Belgrado",
+    "birth_year": 1704,
+    "death_year": 1789,
+    "birth_date_full": "1704-11-16T00:00:00Z",
+    "death_date_full": "1789-03-26T00:00:00Z",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Jacopo_Belgrado",
+    "nationality": "",
+    "birth_place": {
+      "name": "",
+      "wikidata_uri": "",
+      "coordinates": null
+    },
+    "image_url": "",
+    "fields": [
+      "mathematics"
+    ],
+    "data_source": "wikidata_sparql",
+    "extracted_at": "2025-08-11T01:11:25.225081",
+    "wikidata_query_metadata": {
+      "query_date": "2025-08-11T01:11:25.225082",
+      "endpoint": "https://query.wikidata.org/sparql",
+      "data_quality": "structured"
+    }
+  },
+  "timeline_events": [
+    {
+      "year": 1704,
+      "year_confidence": "exact",
+      "event_type": "birth",
+      "description": "Born in Udine, Italy.",
+      "location": {
+        "place_name": "Udine",
+        "raw_text": "November 16, 1704 in Udine",
+        "confidence": 1.0
+      },
+      "source_text": "November 16, 1704 in Udine",
+      "confidence": 1.0,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T15:54:34.385657",
+        "extraction_confidence": 1.0,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": 1700,
+      "year_confidence": "approximate",
+      "event_type": "education",
+      "description": "Received education in Udine.",
+      "location": {
+        "place_name": "Udine",
+        "raw_text": "belonged to a noble family and received his education at Padua",
+        "confidence": 0.8
+      },
+      "source_text": "Jacopo belonged to a noble family and received his education at Padua.",
+      "confidence": 0.8,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T15:54:34.385730",
+        "extraction_confidence": 0.8,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": 1723,
+      "year_confidence": "exact",
+      "event_type": "education",
+      "description": "Entered the novitiate of the Society of Jesus.",
+      "location": {
+        "place_name": "Padua",
+        "raw_text": "received his education at Padua",
+        "confidence": 0.8
+      },
+      "source_text": "Jacopo belonged to a noble family and received his education at Padua.",
+      "confidence": 0.8,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T15:54:34.385734",
+        "extraction_confidence": 0.8,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": 1723,
+      "year_confidence": "exact",
+      "event_type": "education",
+      "description": "Studied mathematics and philosophy at Bologna.",
+      "location": {
+        "place_name": "Bologna",
+        "raw_text": "studying mathematics and philosophy at Bologna",
+        "confidence": 0.9
+      },
+      "source_text": "studying mathematics and philosophy at Bologna",
+      "confidence": 0.9,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T15:54:34.385737",
+        "extraction_confidence": 0.9,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": 1723,
+      "year_confidence": "exact",
+      "event_type": "education",
+      "description": "Studied under Father Luigi Marchenti in Bologna.",
+      "location": {
+        "place_name": "Bologna",
+        "raw_text": "at Bologna, under Father Luigi Marchenti",
+        "confidence": 0.9
+      },
+      "source_text": "studying mathematics and philosophy at Bologna, under Father Luigi Marchenti",
+      "confidence": 0.9,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T15:54:34.385740",
+        "extraction_confidence": 0.9,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": 1723,
+      "year_confidence": "exact",
+      "event_type": "education",
+      "description": "Father Luigi Marchenti was a former pupil of Pierre Varignon at Paris.",
+      "location": {
+        "place_name": "Paris",
+        "raw_text": "a former pupil of Pierre Varignon at Paris",
+        "confidence": 0.8
+      },
+      "source_text": "studying mathematics and philosophy at Bologna, under Father Luigi Marchenti, a former pupil of Pierre Varignon at Paris.",
+      "confidence": 0.8,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T15:54:34.385743",
+        "extraction_confidence": 0.8,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1723-1726",
+      "year_confidence": "range",
+      "event_type": "position",
+      "description": "Taught letters for several years in Venice after completing philosophical studies.",
+      "location": {
+        "place_name": "Venice",
+        "raw_text": "taught letters for several years at Venice",
+        "confidence": 0.9
+      },
+      "source_text": "After completing his philosophical studies he taught letters for several years at Venice.",
+      "confidence": 0.9,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T15:54:34.385812",
+        "extraction_confidence": 0.9,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1726-1734",
+      "year_confidence": "range",
+      "event_type": "position",
+      "description": "Became professor of mathematics and physics at the university in Parma.",
+      "location": {
+        "place_name": "Parma",
+        "raw_text": "became professor of mathematics and physics at the university, holding this position for twelve years",
+        "confidence": 0.9
+      },
+      "source_text": "and then became professor of mathematics and physics at the university, holding this position for twelve years.",
+      "confidence": 0.9,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T15:54:34.385818",
+        "extraction_confidence": 0.9,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1734-1742",
+      "year_confidence": "range",
+      "event_type": "position",
+      "description": "Professor of mathematics and physics at the university in Parma.",
+      "location": {
+        "place_name": "Parma",
+        "raw_text": "holding this position for twelve years",
+        "confidence": 0.9
+      },
+      "source_text": "holding this position for twelve years.",
+      "confidence": 0.9,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T15:54:34.385822",
+        "extraction_confidence": 0.9,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1742",
+      "year_confidence": "exact",
+      "event_type": "position",
+      "description": "Pronounced solemn vows on February 2, 1742.",
+      "location": {
+        "place_name": "Parma",
+        "raw_text": "After pronouncing his solemn vows on 2 February 1742",
+        "confidence": 0.9
+      },
+      "source_text": "After pronouncing his solemn vows on 2 February 1742",
+      "confidence": 0.9,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T15:54:34.385880",
+        "extraction_confidence": 0.9,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1742-1789",
+      "year_confidence": "range",
+      "event_type": "position",
+      "description": "Appointed confessor to the Duchess and later to the Duke Don Filippo.",
+      "location": {
+        "place_name": "Parma",
+        "raw_text": "was summoned to the court, where he was appointed confessor, first to the Duchess, and later to the Duke Don Filippo",
+        "confidence": 0.9
+      },
+      "source_text": "was summoned to the court, where he was appointed confessor, first to the Duchess, and later to the Duke Don Filippo",
+      "confidence": 0.9,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T15:54:34.385885",
+        "extraction_confidence": 0.9,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1742-1789",
+      "year_confidence": "range",
+      "event_type": "position",
+      "description": "Bestowed the title of mathematician of the court.",
+      "location": {
+        "place_name": "Parma",
+        "raw_text": "The title of mathematician of the court was also bestowed on him.",
+        "confidence": 0.9
+      },
+      "source_text": "The title of mathematician of the court was also bestowed on him.",
+      "confidence": 0.9,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T15:54:34.385889",
+        "extraction_confidence": 0.9,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": 1789,
+      "year_confidence": "exact",
+      "event_type": "death",
+      "description": "Died in Udine, Italy.",
+      "location": {
+        "place_name": "Udine",
+        "raw_text": "March 26, 1789 in Udine",
+        "confidence": 1.0
+      },
+      "source_text": "March 26, 1789 in Udine",
+      "confidence": 1.0,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T15:54:34.385903",
+        "extraction_confidence": 1.0,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    }
+  ],
+  "timeline_extraction_metadata": {
+    "extracted_at": "2025-08-11T15:54:34.386028",
+    "model_used": "lm_studio_google/gemma-3n-e4b",
+    "events_count": 13,
+    "biography_length": 1045,
+    "enhancement_level": "gemma_comprehensive",
+    "target_events_per_mathematician": "5-10"
+  }
+}

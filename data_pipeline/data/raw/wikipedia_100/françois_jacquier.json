@@ -1,0 +1,53 @@
+{
+  "id": null,
+  "name": "François Jacquier",
+  "birth_year": 1711,
+  "death_year": 1788,
+  "nationality": "European",
+  "fields": [
+    "mathematics"
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Fran%C3%A7ois_Jacquier",
+  "wikipedia_data": {
+    "url": "https://en.wikipedia.org/wiki/Fran%C3%A7ois_Jacquier",
+    "title": "François Jacquier",
+    "page_title": "Fran%C3%A7ois_Jacquier",
+    "biography_paragraphs": [
+      "François Jacquier O.M. (7 June 1711 – 3 July 1788) was a French Minim friar as well as a mathematician and physicist.",
+      "Jacquier was born on 7 June 1711 in Vitry-le-François. His early education was entrusted to his uncle, a priest, who recognized in him an inclination to science and mathematics. When sixteen years old, François, entered the Order of Minims, and after profession was sent to Rome, to complete his studies in the French monastery of the Order, Trinità dei Monti. With the permission of his superiors he specialized in mathematics, and at the same time studied the ancient languages. He became proficient in Hebrew, and spoke Greek as though it were his mother-tongue.",
+      "His learning gained for him the patronage of Cardinal Alberoni and Cardinal Portocarrero. He accompanied Cardinal Alberoni on his legation to Ravenna, and was appointed to inspect the work begun by Eustachio Manfredi to prevent the repeated floods of that territory. On his return he was given the chair of Sacred Scripture at the College of the Propaganda, and was also detailed by the general chapter of the Minim Friars, assembled at Marseille, to work upon the annals of the Order.",
+      "The King of Sardinia named him professor of physics at the University of Turin in 1745, but Cardinal Valenti, prime minister of Pope Benedict XIV had him assigned to the chair of experimental physics at the Roman College. Here he was in demand for consultation on scientific matters.",
+      "In 1763 he was appointed instructor in physics and mathematics to the young Prince Ferdinand at Parma. He was appointed in 1773 to the chair of mathematics at the Roman College, on the occasion of the suppression of the Jesuits. He died on 3 July 1788 in Rome. At his death he was connected with nearly all the great scientific and literary societies of Europe. He had been elected a Fellow of the Royal Society in 1741.[1]"
+    ],
+    "infobox": {},
+    "scraped_at": "2025-08-11T01:13:16.507051",
+    "raw_html_length": 90889
+  },
+  "processed_at": "2025-08-11T01:13:17.508819",
+  "wikidata_info": {
+    "wikidata_id": "Q675224",
+    "name": "François Jacquier",
+    "birth_year": 1711,
+    "death_year": 1788,
+    "birth_date_full": "1711-06-07T00:00:00Z",
+    "death_date_full": "1788-07-05T00:00:00Z",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Fran%C3%A7ois_Jacquier",
+    "nationality": "",
+    "birth_place": {
+      "name": "",
+      "wikidata_uri": "",
+      "coordinates": null
+    },
+    "image_url": "",
+    "fields": [
+      "mathematics"
+    ],
+    "data_source": "wikidata_sparql",
+    "extracted_at": "2025-08-11T01:11:25.225520",
+    "wikidata_query_metadata": {
+      "query_date": "2025-08-11T01:11:25.225521",
+      "endpoint": "https://query.wikidata.org/sparql",
+      "data_quality": "structured"
+    }
+  }
+}

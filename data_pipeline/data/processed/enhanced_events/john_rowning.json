@@ -1,0 +1,308 @@
+{
+  "id": null,
+  "name": "John Rowning",
+  "birth_year": 1701,
+  "death_year": 1771,
+  "nationality": "European",
+  "fields": [
+    "mathematics"
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/John_Rowning",
+  "wikipedia_data": {
+    "url": "https://en.wikipedia.org/wiki/John_Rowning",
+    "title": "John Rowning",
+    "page_title": "John_Rowning",
+    "biography_paragraphs": [
+      "John Rowning (c. 1701 – November 1771) was an English mathematician, clergyman, and philosopher. He wrote on natural philosophy, designed measuring and calculating instruments. In his book he rejected the idea of Newtonian ether and explained gravitational forces as being the action of God.",
+      "Rowning was the son of a namesake from Ashby-with-Fenby, Lincolnshire who may have been a watchmaker as a brother took to the profession. He was educated in Glanford Brigg before joining Magdalene College, Cambridge as a sizar, graduating BA in 1724 and MA four years later. He become a teacher of experimental philosophy while also working with William Deane on the design of philosophical instruments. He designed a barometer with alterable accuracy using tubes of varying diameters in 1733.[1] He also wrote on graphical solutions to parabolic equations.[2] He was made rector at Westley Waterless, Cambridgeshire in 1734 and later at Anderby. He published A Compendious System of Natural Philosophy which went through revisions from 1735 to 1772. Rowning believed that matter could both attract and repel and included examples of  cohesion of mercury drops, other liquids, capillary rise and suggested that attractive forces worked at short ranges and that they begin to repel after a certain range.[3] Joseph Priestley was educated at Daventry Academy where Rowning's text was used and he followed the idea that particles could attract or repel depending on the distance in some of his views on optics.[4] Rowning believed that the brightness of stars varied only due to the distance from the earth.[5] He was a member and sometime secretary of the Gentleman's Society of Spalding.[6]",
+      "He was married and had three sons and a daughter. He died at his home on Carey Street in London."
+    ],
+    "infobox": {},
+    "scraped_at": "2025-08-11T01:12:08.077265",
+    "raw_html_length": 73476
+  },
+  "processed_at": "2025-08-11T01:12:09.081659",
+  "wikidata_info": {
+    "wikidata_id": "Q18762011",
+    "name": "John Rowning",
+    "birth_year": 1701,
+    "death_year": 1771,
+    "birth_date_full": "1701-01-01T00:00:00Z",
+    "death_date_full": "1771-01-01T00:00:00Z",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/John_Rowning",
+    "nationality": "",
+    "birth_place": {
+      "name": "",
+      "wikidata_uri": "",
+      "coordinates": null
+    },
+    "image_url": "",
+    "fields": [
+      "mathematics"
+    ],
+    "data_source": "wikidata_sparql",
+    "extracted_at": "2025-08-11T01:11:25.224787",
+    "wikidata_query_metadata": {
+      "query_date": "2025-08-11T01:11:25.224788",
+      "endpoint": "https://query.wikidata.org/sparql",
+      "data_quality": "structured"
+    }
+  },
+  "timeline_events": [
+    {
+      "year": 1701,
+      "year_confidence": "approximate",
+      "event_type": "birth",
+      "description": "Born in Lincolnshire, England.",
+      "location": {
+        "place_name": "Ashby-with-Fenby, Lincolnshire",
+        "raw_text": "John Rowning was the son of a namesake from Ashby-with-Fenby, Lincolnshire",
+        "confidence": 0.95
+      },
+      "source_text": "John Rowning was the son of a namesake from Ashby-with-Fenby, Lincolnshire",
+      "confidence": 1.0,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b_partial",
+        "extracted_at": "2025-08-11T14:42:24.563851",
+        "extraction_confidence": 1.0,
+        "extraction_method": "partial_json_recovery"
+      }
+    },
+    {
+      "year": "1700-1724",
+      "year_confidence": "range",
+      "event_type": "education",
+      "description": "Educated in Glanford Brigg.",
+      "location": {
+        "place_name": "Glanford Brigg",
+        "raw_text": "He was educated in Glanford Brigg",
+        "confidence": 0.95
+      },
+      "source_text": "He was educated in Glanford Brigg",
+      "confidence": 1.0,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b_partial",
+        "extracted_at": "2025-08-11T14:42:24.563989",
+        "extraction_confidence": 1.0,
+        "extraction_method": "partial_json_recovery"
+      }
+    },
+    {
+      "year": "1724",
+      "year_confidence": "exact",
+      "event_type": "education",
+      "description": "Enrolled as a sizar at Magdalene College, Cambridge.",
+      "location": {
+        "place_name": "Magdalene College, Cambridge",
+        "raw_text": "joining Magdalene College, Cambridge as a sizar",
+        "confidence": 0.95
+      },
+      "source_text": "joining Magdalene College, Cambridge as a sizar",
+      "confidence": 1.0,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b_partial",
+        "extracted_at": "2025-08-11T14:42:24.564095",
+        "extraction_confidence": 1.0,
+        "extraction_method": "partial_json_recovery"
+      }
+    },
+    {
+      "year": "1724-1728",
+      "year_confidence": "range",
+      "event_type": "education",
+      "description": "Studied at Magdalene College, Cambridge.",
+      "location": {
+        "place_name": "Cambridge",
+        "raw_text": "joining Magdalene College, Cambridge as a sizar",
+        "confidence": 0.95
+      },
+      "source_text": "joining Magdalene College, Cambridge as a sizar",
+      "confidence": 1.0,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b_partial",
+        "extracted_at": "2025-08-11T14:42:24.564195",
+        "extraction_confidence": 1.0,
+        "extraction_method": "partial_json_recovery"
+      }
+    },
+    {
+      "year": "1728",
+      "year_confidence": "exact",
+      "event_type": "education",
+      "description": "Graduated BA from Magdalene College, Cambridge.",
+      "location": {
+        "place_name": "Cambridge",
+        "raw_text": "graduating BA in 1724 and MA four years later.",
+        "confidence": 0.95
+      },
+      "source_text": "graduating BA in 1724 and MA four years later.",
+      "confidence": 1.0,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b_partial",
+        "extracted_at": "2025-08-11T14:42:24.564296",
+        "extraction_confidence": 1.0,
+        "extraction_method": "partial_json_recovery"
+      }
+    },
+    {
+      "year": "1728-1732",
+      "year_confidence": "range",
+      "event_type": "education",
+      "description": "Studied at Magdalene College, Cambridge to obtain MA.",
+      "location": {
+        "place_name": "Cambridge",
+        "raw_text": "graduating BA in 1724 and MA four years later.",
+        "confidence": 0.95
+      },
+      "source_text": "graduating BA in 1724 and MA four years later.",
+      "confidence": 1.0,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b_partial",
+        "extracted_at": "2025-08-11T14:42:24.564402",
+        "extraction_confidence": 1.0,
+        "extraction_method": "partial_json_recovery"
+      }
+    },
+    {
+      "year": "1730-1733",
+      "year_confidence": "range",
+      "event_type": "position",
+      "description": "Taught experimental philosophy while working with William Deane on philosophical instruments.",
+      "location": {
+        "place_name": "Cambridge",
+        "raw_text": "He become a teacher of experimental philosophy while also working with William Deane on the design of philosophical instruments.",
+        "confidence": 0.95
+      },
+      "source_text": "He become a teacher of experimental philosophy while also working with William Deane on the design of philosophical instruments.",
+      "confidence": 1.0,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b_partial",
+        "extracted_at": "2025-08-11T14:42:24.564552",
+        "extraction_confidence": 1.0,
+        "extraction_method": "partial_json_recovery"
+      }
+    },
+    {
+      "year": "1733",
+      "year_confidence": "exact",
+      "event_type": "publication",
+      "description": "Designed a barometer with alterable accuracy.",
+      "location": {
+        "place_name": "Cambridge",
+        "raw_text": "He designed a barometer with alterable accuracy using tubes of varying diameters in 1733.",
+        "confidence": 0.95
+      },
+      "source_text": "He designed a barometer with alterable accuracy using tubes of varying diameters in 1733.",
+      "confidence": 1.0,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b_partial",
+        "extracted_at": "2025-08-11T14:42:24.564669",
+        "extraction_confidence": 1.0,
+        "extraction_method": "partial_json_recovery"
+      }
+    },
+    {
+      "year": "1734",
+      "year_confidence": "exact",
+      "event_type": "position",
+      "description": "Made rector at Westley Waterless, Cambridgeshire.",
+      "location": {
+        "place_name": "Westley Waterless, Cambridgeshire",
+        "raw_text": "He was made rector at Westley Waterless, Cambridgeshire in 1734",
+        "confidence": 0.95
+      },
+      "source_text": "He was made rector at Westley Waterless, Cambridgeshire in 1734",
+      "confidence": 1.0,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b_partial",
+        "extracted_at": "2025-08-11T14:42:24.564776",
+        "extraction_confidence": 1.0,
+        "extraction_method": "partial_json_recovery"
+      }
+    },
+    {
+      "year": "1735-1772",
+      "year_confidence": "range",
+      "event_type": "publication",
+      "description": "Published 'A Compendious System of Natural Philosophy' (revised).",
+      "location": {
+        "place_name": "Cambridge",
+        "raw_text": "His book A Compendious System of Natural Philosophy which went through revisions from 1735 to 1772.",
+        "confidence": 0.95
+      },
+      "source_text": "His book A Compendious System of Natural Philosophy which went through revisions from 1735 to 1772.",
+      "confidence": 1.0,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b_partial",
+        "extracted_at": "2025-08-11T14:42:24.564902",
+        "extraction_confidence": 1.0,
+        "extraction_method": "partial_json_recovery"
+      }
+    },
+    {
+      "year": "1734",
+      "year_confidence": "exact",
+      "event_type": "position",
+      "description": "Later became rector at Anderby.",
+      "location": {
+        "place_name": "Anderby",
+        "raw_text": "He was made rector at Westley Waterless, Cambridgeshire in 1734 and later at Anderby.",
+        "confidence": 0.95
+      },
+      "source_text": "He was made rector at Westley Waterless, Cambridgeshire in 1734 and later at Anderby.",
+      "confidence": 1.0,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b_partial",
+        "extracted_at": "2025-08-11T14:42:24.565011",
+        "extraction_confidence": 1.0,
+        "extraction_method": "partial_json_recovery"
+      }
+    },
+    {
+      "year": "1735-1772",
+      "year_confidence": "range",
+      "event_type": "publication",
+      "description": "Revised 'A Compendious System of Natural Philosophy'.",
+      "location": {
+        "place_name": "Cambridge",
+        "raw_text": "His book A Compendious System of Natural Philosophy which went through revisions from 1735 to 1772.",
+        "confidence": 0.95
+      },
+      "source_text": "His book A Compendious System of Natural Philosophy which went through revisions from 1735 to 1772.",
+      "confidence": 1.0,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b_partial",
+        "extracted_at": "2025-08-11T14:42:24.565133",
+        "extraction_confidence": 1.0,
+        "extraction_method": "partial_json_recovery"
+      }
+    },
+    {
+      "year": "1735-1772",
+      "year_confidence": "range",
+      "event_type": "publication",
+      "description": "Continued to revise 'A Compendious System of Natural Philosophy'.",
+      "location": {
+        "place_name": "Cambridge",
+        "raw_text": "His book A Compendious System of Natural Philosophy which went through revisions from 1735 to 1772.",
+        "confidence": 0.95
+      },
+      "source_text": "His book A Compendious System of Natural Philosophy which went through revisions from 1735 to 1772.",
+      "confidence": 1.0,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b_partial",
+        "extracted_at": "2025-08-11T14:42:24.565262",
+        "extraction_confidence": 1.0,
+        "extraction_method": "partial_json_recovery"
+      }
+    }
+  ],
+  "timeline_extraction_metadata": {
+    "extracted_at": "2025-08-11T14:42:24.565552",
+    "model_used": "lm_studio_google/gemma-3n-e4b",
+    "events_count": 13,
+    "biography_length": 1778,
+    "enhancement_level": "gemma_comprehensive",
+    "target_events_per_mathematician": "5-10"
+  }
+}

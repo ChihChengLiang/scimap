@@ -1,0 +1,53 @@
+{
+  "id": null,
+  "name": "Alexander Webster",
+  "birth_year": 1707,
+  "death_year": 1784,
+  "nationality": "French",
+  "fields": [
+    "mathematics"
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Alexander_Webster",
+  "wikipedia_data": {
+    "url": "https://en.wikipedia.org/wiki/Alexander_Webster",
+    "title": "Alexander Webster",
+    "page_title": "Alexander_Webster",
+    "biography_paragraphs": [
+      "Alexander Webster (1707 – 25 January 1784) was a Scottish writer and minister of the Church of Scotland, who served as Moderator of the General Assembly of the Church of Scotland in 1753. After his service as Moderator he was addressed as Very Rev Dr Alexander Webster.",
+      "He was born in Edinburgh in 1707, the son of Rev James Webster, second charge of Tolbooth parish in St Giles Cathedral and a covenanting minister, originally from Fife. Alexander was educated at the High School of Edinburgh then studied at Edinburgh University. He was licensed to preach by the Presbytery of Haddington in March 1733.[1]",
+      "In September 1733 Alexander was ordained as minister of the Church of Scotland at Culross Parish Church in western Fife. On 2 June 1737 he was translated to Tolbooth parish, one of the four parishes contained in St Giles Cathedral in Edinburgh.",
+      "He propounded a scheme in 1742 for providing pensions for the widows of ministers. The tables which he drew up from information obtained from all the presbyteries of Scotland were based on a system of actuarial calculation that supplied a precedent followed by insurance companies in modern times for reckoning averages of longevity.[2]",
+      "Webster published in 1748 his Calculations, setting forth the principles on which his scheme for widows' pensions was based; he also wrote a defence of the Methodist movement in 1742, and Zeal for the Civil and Religious Interests of Mankind Commended (1754).[2]"
+    ],
+    "infobox": {},
+    "scraped_at": "2025-08-11T01:12:48.144888",
+    "raw_html_length": 90246
+  },
+  "processed_at": "2025-08-11T01:12:49.150065",
+  "wikidata_info": {
+    "wikidata_id": "Q4720349",
+    "name": "Alexander Webster",
+    "birth_year": 1707,
+    "death_year": 1784,
+    "birth_date_full": "1707-01-01T00:00:00Z",
+    "death_date_full": "1784-01-25T00:00:00Z",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Alexander_Webster",
+    "nationality": "",
+    "birth_place": {
+      "name": "",
+      "wikidata_uri": "",
+      "coordinates": null
+    },
+    "image_url": "",
+    "fields": [
+      "mathematics"
+    ],
+    "data_source": "wikidata_sparql",
+    "extracted_at": "2025-08-11T01:11:25.225185",
+    "wikidata_query_metadata": {
+      "query_date": "2025-08-11T01:11:25.225186",
+      "endpoint": "https://query.wikidata.org/sparql",
+      "data_quality": "structured"
+    }
+  }
+}

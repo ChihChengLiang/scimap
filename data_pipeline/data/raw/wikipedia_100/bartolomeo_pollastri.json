@@ -1,0 +1,51 @@
+{
+  "id": null,
+  "name": "Bartolomeo Pollastri",
+  "birth_year": 1701,
+  "death_year": 1800,
+  "nationality": "European",
+  "fields": [
+    "mathematics"
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Bartolomeo_Pollastri",
+  "wikipedia_data": {
+    "url": "https://en.wikipedia.org/wiki/Bartolomeo_Pollastri",
+    "title": "Bartolomeo Pollastri",
+    "page_title": "Bartolomeo_Pollastri",
+    "biography_paragraphs": [
+      "Bartolomeo Pollastri was an 18th-century Italian mathematician and astronomer.",
+      "This article about an Italian astronomer is a stub. You can help Wikipedia by expanding it.",
+      "This article about an Italian mathematician is a stub. You can help Wikipedia by expanding it."
+    ],
+    "infobox": {},
+    "scraped_at": "2025-08-11T01:12:13.887045",
+    "raw_html_length": 66864
+  },
+  "processed_at": "2025-08-11T01:12:14.892224",
+  "wikidata_info": {
+    "wikidata_id": "Q21208946",
+    "name": "Bartolomeo Pollastri",
+    "birth_year": 1701,
+    "death_year": 1800,
+    "birth_date_full": "1701-01-01T00:00:00Z",
+    "death_date_full": "1800-01-01T00:00:00Z",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Bartolomeo_Pollastri",
+    "nationality": "",
+    "birth_place": {
+      "name": "",
+      "wikidata_uri": "",
+      "coordinates": null
+    },
+    "image_url": "",
+    "fields": [
+      "mathematics"
+    ],
+    "data_source": "wikidata_sparql",
+    "extracted_at": "2025-08-11T01:11:25.224810",
+    "wikidata_query_metadata": {
+      "query_date": "2025-08-11T01:11:25.224811",
+      "endpoint": "https://query.wikidata.org/sparql",
+      "data_quality": "structured"
+    }
+  }
+}

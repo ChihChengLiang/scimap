@@ -1,0 +1,53 @@
+{
+  "id": null,
+  "name": "Thomas Wright",
+  "birth_year": 1711,
+  "death_year": 1786,
+  "nationality": "European",
+  "fields": [
+    "mathematics"
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Thomas_Wright_(astronomer)",
+  "wikipedia_data": {
+    "url": "https://en.wikipedia.org/wiki/Thomas_Wright_(astronomer)",
+    "title": "Thomas Wright (astronomer)",
+    "page_title": "Thomas_Wright_(astronomer)",
+    "biography_paragraphs": [
+      "Thomas Wright (22 September 1711 – 25 February 1786) was an English astronomer, mathematician, instrument maker, architect and garden designer. He was the first to describe the shape of the Milky Way and to speculate that faint nebulæ were distant galaxies.",
+      "Wright was born at Byers Green in County Durham, being the third son of John and Margaret Wright of Pegg's Poole House.[1] His father was a carpenter.[2] He was educated at home as he suffered from speech impediment, and then at King James I Academy. In 1725 he entered into a clock-making apprenticeship to Bryan Stobart of Bishop Auckland, continuing to study on his own. He also took courses on mathematics and navigation at a free school in the parish of Gateshead founded by Dr Theophilus Pickering. Then he went to London to study mathematical instrument-making with Heath and Sisson, and made a trial sea voyage to Amsterdam.",
+      "In 1730, he set up a school in Sunderland, where he taught mathematics and navigation.[3] He later moved back to London to work on a number of projects for his wealthy patrons. He travelled in 1746-7 to Ireland which resulted in a book, Louthiana, with plans and engravings of the ancient monuments of County Louth, published in London in 1748. That was before he retired to County Durham and built a small observatory at Westerton.",
+      "Wright's publication An Original Theory or New Hypothesis of the Universe (1750) explained the appearance of the Milky Way as \"an optical effect due to our immersion in what locally approximates to a flat layer of stars.\"[4] This work influenced Immanuel Kant in writing his Universal Natural History and Theory of the Heavens (1755).[5] The theory was later empirically advanced by William Herschel in 1785,[6] leading to galactocentrism (a form of heliocentrism, with the Sun at the centre of the Milky Way). Another of Wright's ideas, which is also often attributed to Kant, was that many faint nebulæ are actually incredibly distant galaxies. Wright wrote:[7][8]",
+      "...the many cloudy spots, just perceivable by us, as far without our Starry regions, in which tho' visibly luminous spaces, no one star or particular constituent body can possibly be distinguished; those in all likelihood may be external creation, bordering upon the known one, too remote for even our telescopes to reach."
+    ],
+    "infobox": {},
+    "scraped_at": "2025-08-11T01:13:19.099227",
+    "raw_html_length": 135744
+  },
+  "processed_at": "2025-08-11T01:13:20.104464",
+  "wikidata_info": {
+    "wikidata_id": "Q460791",
+    "name": "Thomas Wright",
+    "birth_year": 1711,
+    "death_year": 1786,
+    "birth_date_full": "1711-09-22T00:00:00Z",
+    "death_date_full": "1786-02-22T00:00:00Z",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Thomas_Wright_(astronomer)",
+    "nationality": "",
+    "birth_place": {
+      "name": "",
+      "wikidata_uri": "",
+      "coordinates": null
+    },
+    "image_url": "",
+    "fields": [
+      "mathematics"
+    ],
+    "data_source": "wikidata_sparql",
+    "extracted_at": "2025-08-11T01:11:25.225544",
+    "wikidata_query_metadata": {
+      "query_date": "2025-08-11T01:11:25.225545",
+      "endpoint": "https://query.wikidata.org/sparql",
+      "data_quality": "structured"
+    }
+  }
+}

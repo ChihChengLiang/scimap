@@ -1,0 +1,194 @@
+{
+  "id": null,
+  "name": "Gottfried Heinsius",
+  "birth_year": 1709,
+  "death_year": 1769,
+  "nationality": "European",
+  "fields": [
+    "mathematics"
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Gottfried_Heinsius",
+  "wikipedia_data": {
+    "url": "https://en.wikipedia.org/wiki/Gottfried_Heinsius",
+    "title": "Gottfried Heinsius",
+    "page_title": "Gottfried_Heinsius",
+    "biography_paragraphs": [
+      "Gottfried Heinsius (April, 1709 – May 21, 1769) was a German mathematician, geographer and astronomer.[1]",
+      "He was born near Naumburg and was awarded a Ph.D. in 1733 from the University of Leipzig with a dissertation on De viribus motricibus.[2] Later he became professor of mathematics at the same institution. Professor Heinsius may have been the first to publish an announcement about the return of Halley's Comet in 1759.[3] From 1736–1743 he taught in St. Petersburg with Leonhard Euler and was a member of the St. Petersburg Academy of Sciences.[4] While in Russia, he was given the task to provide the Russian Tsar Ivan VI with a horoscope.[4] He died in Leipzig. The crater Heinsius on the Moon is named after him.",
+      "This article about a German astronomer is a stub. You can help Wikipedia by expanding it."
+    ],
+    "infobox": {},
+    "scraped_at": "2025-08-11T01:13:01.131274",
+    "raw_html_length": 79036
+  },
+  "processed_at": "2025-08-11T01:13:02.136608",
+  "wikidata_info": {
+    "wikidata_id": "Q95982",
+    "name": "Gottfried Heinsius",
+    "birth_year": 1709,
+    "death_year": 1769,
+    "birth_date_full": "1709-04-27T00:00:00Z",
+    "death_date_full": "1769-05-21T00:00:00Z",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Gottfried_Heinsius",
+    "nationality": "",
+    "birth_place": {
+      "name": "",
+      "wikidata_uri": "",
+      "coordinates": null
+    },
+    "image_url": "",
+    "fields": [
+      "mathematics"
+    ],
+    "data_source": "wikidata_sparql",
+    "extracted_at": "2025-08-11T01:11:25.225368",
+    "wikidata_query_metadata": {
+      "query_date": "2025-08-11T01:11:25.225369",
+      "endpoint": "https://query.wikidata.org/sparql",
+      "data_quality": "structured"
+    }
+  },
+  "timeline_events": [
+    {
+      "year": 1709,
+      "year_confidence": "exact",
+      "event_type": "birth",
+      "description": "Born near Naumburg, Germany.",
+      "location": {
+        "place_name": "Naumburg",
+        "raw_text": "Born near Naumburg",
+        "confidence": 1.0
+      },
+      "source_text": "Gottfried Heinsius (April, 1709 – May 21, 1769) was a German mathematician, geographer and astronomer.",
+      "confidence": 1.0,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T18:23:51.772754",
+        "extraction_confidence": 1.0,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": 1733,
+      "year_confidence": "exact",
+      "event_type": "education",
+      "description": "Awarded a Ph.D. from the University of Leipzig with a dissertation on De viribus motricibus.",
+      "location": {
+        "place_name": "University of Leipzig",
+        "raw_text": "He was awarded a Ph.D. in 1733 from the University of Leipzig with a dissertation on De viribus motricibus.",
+        "confidence": 1.0
+      },
+      "source_text": "He was awarded a Ph.D. in 1733 from the University of Leipzig with a dissertation on De viribus motricibus.",
+      "confidence": 1.0,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T18:23:51.772804",
+        "extraction_confidence": 1.0,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1736-1743",
+      "year_confidence": "range",
+      "event_type": "position",
+      "description": "Taught in St. Petersburg with Leonhard Euler and was a member of the St. Petersburg Academy of Sciences.",
+      "location": {
+        "place_name": "St. Petersburg",
+        "raw_text": "From 1736–1743 he taught in St. Petersburg",
+        "confidence": 1.0
+      },
+      "source_text": "From 1736–1743 he taught in St. Petersburg with Leonhard Euler and was a member of the St. Petersburg Academy of Sciences.",
+      "confidence": 1.0,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T18:23:51.772833",
+        "extraction_confidence": 1.0,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1736-1743",
+      "year_confidence": "range",
+      "event_type": "collaboration",
+      "description": "Collaborated with Leonhard Euler during his time teaching in St. Petersburg.",
+      "location": {
+        "place_name": "St. Petersburg",
+        "raw_text": "From 1736–1743 he taught in St. Petersburg with Leonhard Euler",
+        "confidence": 0.9
+      },
+      "source_text": "From 1736–1743 he taught in St. Petersburg with Leonhard Euler",
+      "confidence": 0.9,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T18:23:51.772840",
+        "extraction_confidence": 0.9,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1736-1743",
+      "year_confidence": "range",
+      "event_type": "position",
+      "description": "Member of the St. Petersburg Academy of Sciences.",
+      "location": {
+        "place_name": "St. Petersburg Academy of Sciences",
+        "raw_text": "and was a member of the St. Petersburg Academy of Sciences",
+        "confidence": 0.9
+      },
+      "source_text": "and was a member of the St. Petersburg Academy of Sciences",
+      "confidence": 0.9,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T18:23:51.772846",
+        "extraction_confidence": 0.9,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1759",
+      "year_confidence": "exact",
+      "event_type": "publication",
+      "description": "May have published an announcement about the return of Halley's Comet.",
+      "location": {
+        "place_name": null,
+        "raw_text": "Professor Heinsius may have been the first to publish an announcement about the return of Halley's Comet in 1759.",
+        "confidence": 0.8
+      },
+      "source_text": "Professor Heinsius may have been the first to publish an announcement about the return of Halley's Comet in 1759.",
+      "confidence": 0.8,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T18:23:51.772851",
+        "extraction_confidence": 0.8,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1769",
+      "year_confidence": "exact",
+      "event_type": "death",
+      "description": "Died in Leipzig.",
+      "location": {
+        "place_name": "Leipzig",
+        "raw_text": "He died in Leipzig.",
+        "confidence": 1.0
+      },
+      "source_text": "He died in Leipzig.",
+      "confidence": 1.0,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T18:23:51.772857",
+        "extraction_confidence": 1.0,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    }
+  ],
+  "timeline_extraction_metadata": {
+    "extracted_at": "2025-08-11T18:23:51.772956",
+    "model_used": "lm_studio_google/gemma-3n-e4b",
+    "events_count": 7,
+    "biography_length": 810,
+    "enhancement_level": "gemma_comprehensive",
+    "target_events_per_mathematician": "5-10"
+  }
+}

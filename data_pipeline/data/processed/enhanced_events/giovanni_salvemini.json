@@ -1,0 +1,215 @@
+{
+  "id": null,
+  "name": "Giovanni Salvemini",
+  "birth_year": 1708,
+  "death_year": 1791,
+  "nationality": "European",
+  "fields": [
+    "mathematics"
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Giovanni_Salvemini",
+  "wikipedia_data": {
+    "url": "https://en.wikipedia.org/wiki/Giovanni_Salvemini",
+    "title": "Giovanni Salvemini",
+    "page_title": "Giovanni_Salvemini",
+    "biography_paragraphs": [
+      "Giovanni Francesco Mauro Melchiorre Salvemini di Castiglione FRS (15 January 1708 in Castiglione del Valdarno – 11 October 1791 in Berlin)[1] was an Italian mathematician and astronomer.",
+      "Salvemini was born on 15 January 1708 in Castiglione del Valdarno (currently in the province of Arezzo), Grand Duchy of Tuscany.[2] His father, Giuseppe Salvemini of Castiglion Fiorentino, was a diplomat and jurist, and an ambassador for the Grand Duchy.[3]  His mother was Maria Maddalena Lucia Braccesi whose family came from Pisa.[3][4] Salvemini was home schooled by tutors and then attended a seminary in Florence.[3]",
+      "He graduated from the University of Pisa where he studied law and mathematics, earning a doctorate on 3 March 1730.[3] On 8 January 1732 he was appointed as a sub-chancellor at the Opera di Santa Maria del Fiore, for a five-year term. His religious views having evolved, he left his job and fled the Inquisition to Switzerland in 1736.[5] On 16 April 1737, he formally enrolled in the Calvinist faith in Geneva.[3]",
+      "He settled in Vevey near Lausanne, where in August 1737 he received an appointment as the principal at the school. He was known in French as Jean de Castillon. He taught there until 1748 when he was dismissed due in part to his harsh teaching methods.[3] Unable to find employment in Switzerland, in 1751 he obtained a job teaching mathematics and astronomy at the University of Utrecht where he began work on a second doctorate, which he received in 1754 under the name Johann Castillon. He was made a professor of mathematics and philosophy there the following year, and served as the rector there from 1758 to 1759.[4]",
+      "In 1763, Frederick the Great invited Salvemini to Berlin to teach mathematics to Prussian artillery officers.[1][6] Although he had been a corresponding member since 1755, in 1764 he was elected a full member of the Prussian Academy of Sciences.[1] That same year Salvemini moved to Berlin.[1] In 1765, he received the position of First Astronomer (\"Royal Astronomer\") at the Berlin Observatory.[4] He remained in Berlin for the rest of his life.[4] Although he had a stroke in November 1787, he remained lucid and continued his work until his death.[1]"
+    ],
+    "infobox": {},
+    "scraped_at": "2025-08-11T01:12:56.459088",
+    "raw_html_length": 105787
+  },
+  "processed_at": "2025-08-11T01:12:57.464318",
+  "wikidata_info": {
+    "wikidata_id": "Q1371138",
+    "name": "Giovanni Salvemini",
+    "birth_year": 1708,
+    "death_year": 1791,
+    "birth_date_full": "1708-01-15T00:00:00Z",
+    "death_date_full": "1791-10-11T00:00:00Z",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Giovanni_Salvemini",
+    "nationality": "",
+    "birth_place": {
+      "name": "",
+      "wikidata_uri": "",
+      "coordinates": null
+    },
+    "image_url": "",
+    "fields": [
+      "mathematics"
+    ],
+    "data_source": "wikidata_sparql",
+    "extracted_at": "2025-08-11T01:11:25.225295",
+    "wikidata_query_metadata": {
+      "query_date": "2025-08-11T01:11:25.225296",
+      "endpoint": "https://query.wikidata.org/sparql",
+      "data_quality": "structured"
+    }
+  },
+  "timeline_events": [
+    {
+      "year": 1708,
+      "year_confidence": "exact",
+      "event_type": "birth",
+      "description": "Born in Castiglione del Valdarno, Grand Duchy of Tuscany.",
+      "location": {
+        "place_name": "Castiglione del Valdarno",
+        "raw_text": "15 January 1708 in Castiglione del Valdarno",
+        "confidence": 1.0
+      },
+      "source_text": "Giovanni Francesco Mauro Melchiorre Salvemini di Castiglione FRS (15 January 1708 in Castiglione del Valdarno – 11 October 1791 in Berlin)",
+      "confidence": 1.0,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T15:44:21.246214",
+        "extraction_confidence": 1.0,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": 1708,
+      "year_confidence": "exact",
+      "event_type": "education",
+      "description": "Home schooled by tutors.",
+      "location": {
+        "place_name": null,
+        "raw_text": "Salvemini was home schooled by tutors",
+        "confidence": 0.8
+      },
+      "source_text": "Salvemini was home schooled by tutors",
+      "confidence": 0.8,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T15:44:21.246315",
+        "extraction_confidence": 0.8,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": 1708,
+      "year_confidence": "exact",
+      "event_type": "education",
+      "description": "Attended a seminary in Florence.",
+      "location": {
+        "place_name": "Florence",
+        "raw_text": "attended a seminary in Florence",
+        "confidence": 0.9
+      },
+      "source_text": "Salvemini was home schooled by tutors and then attended a seminary in Florence",
+      "confidence": 0.9,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T15:44:21.246322",
+        "extraction_confidence": 0.9,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": 1730,
+      "year_confidence": "exact",
+      "event_type": "education",
+      "description": "Graduated from the University of Pisa with a doctorate in law and mathematics.",
+      "location": {
+        "place_name": "Pisa",
+        "raw_text": "graduated from the University of Pisa",
+        "confidence": 0.95
+      },
+      "source_text": "He graduated from the University of Pisa where he studied law and mathematics, earning a doctorate on 3 March 1730.",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T15:44:21.246327",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": 1732,
+      "year_confidence": "exact",
+      "event_type": "position",
+      "description": "Appointed as a sub-chancellor at the Opera di Santa Maria del Fiore for a five-year term.",
+      "location": {
+        "place_name": "Florence",
+        "raw_text": "appointed as a sub-chancellor at the Opera di Santa Maria del Fiore",
+        "confidence": 0.95
+      },
+      "source_text": "On 8 January 1732 he was appointed as a sub-chancellor at the Opera di Santa Maria del Fiore, for a five-year term.",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T15:44:21.246333",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": 1736,
+      "year_confidence": "exact",
+      "event_type": "travel",
+      "description": "Fled to Switzerland after his religious views evolved and he faced the Inquisition.",
+      "location": {
+        "place_name": "Switzerland",
+        "raw_text": "fled to Switzerland in 1736",
+        "confidence": 0.9
+      },
+      "source_text": "His religious views having evolved, he left his job and fled the Inquisition to Switzerland in 1736.",
+      "confidence": 0.9,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T15:44:21.246339",
+        "extraction_confidence": 0.9,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": 1737,
+      "year_confidence": "exact",
+      "event_type": "collaboration",
+      "description": "Formally enrolled in the Calvinist faith in Geneva.",
+      "location": {
+        "place_name": "Geneva",
+        "raw_text": "enrolled in the Calvinist faith in Geneva",
+        "confidence": 0.95
+      },
+      "source_text": "On 16 April 1737, he formally enrolled in the Calvinist faith in Geneva.",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T15:44:21.246344",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": 1791,
+      "year_confidence": "exact",
+      "event_type": "death",
+      "description": "Died in Berlin.",
+      "location": {
+        "place_name": "Berlin",
+        "raw_text": "11 October 1791 in Berlin",
+        "confidence": 0.95
+      },
+      "source_text": "Giovanni Francesco Mauro Melchiorre Salvemini di Castiglione FRS (15 January 1708 – 11 October 1791 in Berlin)",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T15:44:21.246349",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    }
+  ],
+  "timeline_extraction_metadata": {
+    "extracted_at": "2025-08-11T15:44:21.246542",
+    "model_used": "lm_studio_google/gemma-3n-e4b",
+    "events_count": 8,
+    "biography_length": 1024,
+    "enhancement_level": "gemma_comprehensive",
+    "target_events_per_mathematician": "5-10"
+  }
+}

@@ -1,0 +1,215 @@
+{
+  "id": null,
+  "name": "Guillaume Le Blond",
+  "birth_year": 1704,
+  "death_year": 1781,
+  "nationality": "French",
+  "fields": [
+    "mathematics"
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Guillaume_Le_Blond",
+  "wikipedia_data": {
+    "url": "https://en.wikipedia.org/wiki/Guillaume_Le_Blond",
+    "title": "Guillaume Le Blond",
+    "page_title": "Guillaume_Le_Blond",
+    "biography_paragraphs": [
+      "Guillaume Le Blond (1705 – May 24, 1781) was a French mathematician. He was born in Paris.",
+      "He was a professor of mathematics at the grand stable of the King (1736) and then the Enfants de France (1756). Leblond kept this job until 1778, when he became secretary of the cabinet of Madame Victoire.",
+      "Le Blond wrote the following works, some of which have been translated into German. His work \"Éléments de fortification\" was translated to Ottoman Turkish language in 1833 as \"Usûl-i İstihkâmât\"(Method of Fortifications) by Ishak Efendi.[1]",
+      "He also produced editions of Mémoires d’artillerie by Pierre Surirey de Saint-Remy and the Géométrie by Joseph Sauveur and collaborated on the Encyclopédie.",
+      "This article about a French mathematician is a stub. You can help Wikipedia by expanding it."
+    ],
+    "infobox": {},
+    "scraped_at": "2025-08-11T01:12:29.192544",
+    "raw_html_length": 76733
+  },
+  "processed_at": "2025-08-11T01:12:30.197887",
+  "wikidata_info": {
+    "wikidata_id": "Q3120019",
+    "name": "Guillaume Le Blond",
+    "birth_year": 1704,
+    "death_year": 1781,
+    "birth_date_full": "1704-01-01T00:00:00Z",
+    "death_date_full": "1781-05-24T00:00:00Z",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Guillaume_Le_Blond",
+    "nationality": "",
+    "birth_place": {
+      "name": "",
+      "wikidata_uri": "",
+      "coordinates": null
+    },
+    "image_url": "",
+    "fields": [
+      "mathematics"
+    ],
+    "data_source": "wikidata_sparql",
+    "extracted_at": "2025-08-11T01:11:25.225021",
+    "wikidata_query_metadata": {
+      "query_date": "2025-08-11T01:11:25.225022",
+      "endpoint": "https://query.wikidata.org/sparql",
+      "data_quality": "structured"
+    }
+  },
+  "timeline_events": [
+    {
+      "year": 1705,
+      "year_confidence": "exact",
+      "event_type": "birth",
+      "description": "Born in Paris, France.",
+      "location": {
+        "place_name": "Paris",
+        "raw_text": "Born in Paris.",
+        "confidence": 1.0
+      },
+      "source_text": "Guillaume Le Blond (1705 – May 24, 1781) was a French mathematician. He was born in Paris.",
+      "confidence": 1.0,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T17:33:19.661185",
+        "extraction_confidence": 1.0,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": 1736,
+      "year_confidence": "exact",
+      "event_type": "position",
+      "description": "Appointed professor of mathematics at the grand stable of the King.",
+      "location": {
+        "place_name": "Grand Stable of the King",
+        "raw_text": "professor of mathematics at the grand stable of the King (1736)",
+        "confidence": 0.95
+      },
+      "source_text": "Guillaume Le Blond (1705 – May 24, 1781) was a French mathematician. He was born in Paris. He was a professor of mathematics at the grand stable of the King (1736).",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T17:33:19.661313",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": 1756,
+      "year_confidence": "exact",
+      "event_type": "position",
+      "description": "Appointed professor of mathematics at the Enfants de France.",
+      "location": {
+        "place_name": "Enfants de France",
+        "raw_text": "and then the Enfants de France (1756).",
+        "confidence": 0.95
+      },
+      "source_text": "Guillaume Le Blond (1705 – May 24, 1781) was a French mathematician. He was born in Paris. He was a professor of mathematics at the grand stable of the King (1736) and then the Enfants de France (1756).",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T17:33:19.661321",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": 1778,
+      "year_confidence": "exact",
+      "event_type": "position",
+      "description": "Became secretary of the cabinet of Madame Victoire.",
+      "location": {
+        "place_name": "Cabinet of Madame Victoire",
+        "raw_text": "Leblond kept this job until 1778, when he became secretary of the cabinet of Madame Victoire.",
+        "confidence": 0.95
+      },
+      "source_text": "Leblond kept this job until 1778, when he became secretary of the cabinet of Madame Victoire.",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T17:33:19.661326",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1778-1778",
+      "year_confidence": "exact",
+      "event_type": "position",
+      "description": "Continued as secretary of the cabinet of Madame Victoire.",
+      "location": {
+        "place_name": "Cabinet of Madame Victoire",
+        "raw_text": "Leblond kept this job until 1778, when he became secretary of the cabinet of Madame Victoire.",
+        "confidence": 0.95
+      },
+      "source_text": "Leblond kept this job until 1778, when he became secretary of the cabinet of Madame Victoire.",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T17:33:19.661417",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1833",
+      "year_confidence": "exact",
+      "event_type": "publication",
+      "description": "His work \"Éléments de fortification\" was translated to Ottoman Turkish language as \"Usûl-i İstihkâmât\".",
+      "location": {
+        "place_name": "Ottoman Empire",
+        "raw_text": "His work \"Éléments de fortification\" was translated to Ottoman Turkish language in 1833 as \"Usûl-i İstihkâmât\" (Method of Fortifications) by Ishak Efendi.",
+        "confidence": 0.95
+      },
+      "source_text": "His work \"Éléments de fortification\" was translated to Ottoman Turkish language in 1833 as \"Usûl-i İstihkâmât\" (Method of Fortifications) by Ishak Efendi.",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T17:33:19.661426",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": 1700,
+      "year_confidence": "range",
+      "event_type": "education",
+      "description": "Likely received early mathematical education in Paris.",
+      "location": {
+        "place_name": "Paris",
+        "raw_text": "Born in Paris.",
+        "confidence": 0.8
+      },
+      "source_text": "Guillaume Le Blond (1705 – May 24, 1781) was a French mathematician. He was born in Paris.",
+      "confidence": 0.8,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T17:33:19.661432",
+        "extraction_confidence": 0.8,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1756-1778",
+      "year_confidence": "range",
+      "event_type": "publication",
+      "description": "Authored \"Éléments de fortification\".",
+      "location": {
+        "place_name": "France",
+        "raw_text": "His work \"Éléments de fortification\"",
+        "confidence": 0.95
+      },
+      "source_text": "His work \"Éléments de fortification\"",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T17:33:19.661439",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    }
+  ],
+  "timeline_extraction_metadata": {
+    "extracted_at": "2025-08-11T17:33:19.661599",
+    "model_used": "lm_studio_google/gemma-3n-e4b",
+    "events_count": 8,
+    "biography_length": 537,
+    "enhancement_level": "gemma_comprehensive",
+    "target_events_per_mathematician": "5-10"
+  }
+}

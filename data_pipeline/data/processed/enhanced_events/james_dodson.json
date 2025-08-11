@@ -1,0 +1,215 @@
+{
+  "id": null,
+  "name": "James Dodson",
+  "birth_year": 1705,
+  "death_year": 1757,
+  "nationality": "European",
+  "fields": [
+    "mathematics"
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/James_Dodson_(mathematician)",
+  "wikipedia_data": {
+    "url": "https://en.wikipedia.org/wiki/James_Dodson_(mathematician)",
+    "title": "James Dodson (mathematician)",
+    "page_title": "James_Dodson_(mathematician)",
+    "biography_paragraphs": [
+      "James Dodson FRS (c.1705–1757) was a British mathematician, actuary and innovator in the insurance industry.",
+      "Matthew Maty, in his Mémoire sur la vie et sur les écrits de M. A. de Moivre, wrote that Dodson was a pupil of Abraham de Moivre. He worked as an accountant and teacher. In 1752 George Parker, 2nd Earl of Macclesfield, a friend of Dodson, became President of the Royal Society, and Dodson was elected a Fellow on 16 January 1755. On 7 August of the same year he was elected master of the Royal Mathematical School, Christ's Hospital, and also of Stone's School there. Dodson died 23 November 1757, being then over fifty-two years of age. He lived at Bell Dock, Wapping.",
+      "Having been refused admission to the Amicable Life Assurance Society, because they took no one over 45, he decided to form a new society on a plan of assurance that would be more \"equitable\". Dodson built on the statistical mortality tables developed by Edmund Halley in 1693. Equitable Life, as it was to be, charged premiums aimed at correctly offsetting the risks of long term life assurance policies. But Dodson made only unsuccessful attempts to procure a charter. The Equitable Life Assurance Society was founded in 1762 to put the actuarial principles that Dodson had developed over the previous decade into practice, by a group of mathematicians and others including Edward Rowe Mores.",
+      "As a mathematician Dodson is known mainly for his work on The Anti-Logarithmic Canon and The Mathematical Miscellany.",
+      "In 1742 Dodson published The Anti-Logarithmic Canon. Being a table of numbers consisting of eleven places of figures, corresponding to all Logarithms under 100,000, with an Introduction containing a short account of Logarithms. This was a unique tabulation until 1849. The canon had been actually calculated, it is said, by Walter Warner and John Pell, in the period 1630 to 1640. Its provenance was that Warner had left it to Herbert Thorndike, at whose death it came to Richard Busby, and finally was bought for the Royal Society; but for some years it had been lost. In a letter of Pell's, 7 August 1644, written to Sir Charles Cavendish, it is said that Warner became bankrupt, and Pell surmises that the manuscript would be destroyed by the creditors in ignorance."
+    ],
+    "infobox": {},
+    "scraped_at": "2025-08-11T01:12:39.805615",
+    "raw_html_length": 79490
+  },
+  "processed_at": "2025-08-11T01:12:40.810859",
+  "wikidata_info": {
+    "wikidata_id": "Q3710079",
+    "name": "James Dodson",
+    "birth_year": 1705,
+    "death_year": 1757,
+    "birth_date_full": "1705-01-01T00:00:00Z",
+    "death_date_full": "1757-01-01T00:00:00Z",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/James_Dodson_(mathematician)",
+    "nationality": "",
+    "birth_place": {
+      "name": "",
+      "wikidata_uri": "",
+      "coordinates": null
+    },
+    "image_url": "",
+    "fields": [
+      "mathematics"
+    ],
+    "data_source": "wikidata_sparql",
+    "extracted_at": "2025-08-11T01:11:25.225097",
+    "wikidata_query_metadata": {
+      "query_date": "2025-08-11T01:11:25.225098",
+      "endpoint": "https://query.wikidata.org/sparql",
+      "data_quality": "structured"
+    }
+  },
+  "timeline_events": [
+    {
+      "year": "1700-1757",
+      "year_confidence": "range",
+      "event_type": "birth",
+      "description": "James Dodson was born around 1705.",
+      "location": {
+        "place_name": null,
+        "raw_text": "James Dodson FRS (c.1705–1757)",
+        "confidence": 0.95
+      },
+      "source_text": "James Dodson FRS (c.1705–1757)",
+      "confidence": 1.0,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:22:28.877328",
+        "extraction_confidence": 1.0,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1700-1757",
+      "year_confidence": "range",
+      "event_type": "education",
+      "description": "Dodson was a pupil of Abraham de Moivre.",
+      "location": {
+        "place_name": null,
+        "raw_text": "Matthew Maty, in his Mémoire sur la vie et sur les écrits de M. A. de Moivre, wrote that Dodson was a pupil of Abraham de Moivre.",
+        "confidence": 0.9
+      },
+      "source_text": "Matthew Maty, in his Mémoire sur la vie et sur les écrits de M. A. de Moivre, wrote that Dodson was a pupil of Abraham de Moivre.",
+      "confidence": 1.0,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:22:28.877420",
+        "extraction_confidence": 1.0,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1700-1757",
+      "year_confidence": "range",
+      "event_type": "position",
+      "description": "Worked as an accountant and teacher.",
+      "location": {
+        "place_name": null,
+        "raw_text": "He worked as an accountant and teacher.",
+        "confidence": 0.85
+      },
+      "source_text": "He worked as an accountant and teacher.",
+      "confidence": 1.0,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:22:28.877430",
+        "extraction_confidence": 1.0,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1752",
+      "year_confidence": "exact",
+      "event_type": "position",
+      "description": "Elected a Fellow of the Royal Society.",
+      "location": {
+        "place_name": "London",
+        "raw_text": "On 7 August of the same year he was elected master of the Royal Mathematical School, Christ's Hospital, and also of Stone's School there.",
+        "confidence": 0.95
+      },
+      "source_text": "On 7 August of the same year he was elected master of the Royal Mathematical School, Christ's Hospital, and also of Stone's School there.",
+      "confidence": 1.0,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:22:28.877437",
+        "extraction_confidence": 1.0,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1755",
+      "year_confidence": "exact",
+      "event_type": "position",
+      "description": "Elected Master of the Royal Mathematical School, Christ's Hospital and Stone's School.",
+      "location": {
+        "place_name": "London",
+        "raw_text": "On 7 August of the same year he was elected master of the Royal Mathematical School, Christ's Hospital, and also of Stone's School there.",
+        "confidence": 0.95
+      },
+      "source_text": "On 7 August of the same year he was elected master of the Royal Mathematical School, Christ's Hospital, and also of Stone's School there.",
+      "confidence": 1.0,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:22:28.877444",
+        "extraction_confidence": 1.0,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1755",
+      "year_confidence": "exact",
+      "event_type": "position",
+      "description": "Elected Fellow of the Royal Society.",
+      "location": {
+        "place_name": "London",
+        "raw_text": "On 7 August of the same year he was elected master of the Royal Mathematical School, Christ's Hospital, and also of Stone's School there.",
+        "confidence": 0.95
+      },
+      "source_text": "On 7 August of the same year he was elected master of the Royal Mathematical School, Christ's Hospital, and also of Stone's School there.",
+      "confidence": 1.0,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:22:28.877451",
+        "extraction_confidence": 1.0,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1762",
+      "year_confidence": "exact",
+      "event_type": "publication",
+      "description": "The Equitable Life Assurance Society was founded, utilizing Dodson's actuarial work.",
+      "location": {
+        "place_name": "London",
+        "raw_text": "The Equitable Life Assurance Society was founded in 1762 to put the actuarial principles that Dodson had developed over the previous decade into practice...",
+        "confidence": 0.95
+      },
+      "source_text": "The Equitable Life Assurance Society was founded in 1762 to put the actuarial principles that Dodson had developed over the previous decade into practice...",
+      "confidence": 1.0,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:22:28.877458",
+        "extraction_confidence": 1.0,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1757",
+      "year_confidence": "exact",
+      "event_type": "death",
+      "description": "James Dodson died at the age of approximately 52.",
+      "location": {
+        "place_name": "Wapping",
+        "raw_text": "Dodson died 23 November 1757, being then over fifty-two years of age. He lived at Bell Dock, Wapping.",
+        "confidence": 0.95
+      },
+      "source_text": "Dodson died 23 November 1757, being then over fifty-two years of age. He lived at Bell Dock, Wapping.",
+      "confidence": 1.0,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:22:28.877464",
+        "extraction_confidence": 1.0,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    }
+  ],
+  "timeline_extraction_metadata": {
+    "extracted_at": "2025-08-11T16:22:28.877672",
+    "model_used": "lm_studio_google/gemma-3n-e4b",
+    "events_count": 8,
+    "biography_length": 1372,
+    "enhancement_level": "gemma_comprehensive",
+    "target_events_per_mathematician": "5-10"
+  }
+}

@@ -1,0 +1,257 @@
+{
+  "id": null,
+  "name": "Jean-Louis Calandrini",
+  "birth_year": 1703,
+  "death_year": 1758,
+  "nationality": "European",
+  "fields": [
+    "mathematics"
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Jean-Louis_Calandrini",
+  "wikipedia_data": {
+    "url": "https://en.wikipedia.org/wiki/Jean-Louis_Calandrini",
+    "title": "Jean-Louis Calandrini",
+    "page_title": "Jean-Louis_Calandrini",
+    "biography_paragraphs": [
+      "Jean-Louis Calandrini (August 30, 1703 – December 29, 1758) was a Genevan scientist.  He was a professor of mathematics and philosophy.  He was the author of some studies on the aurora borealis, comets, and the effects of lightning, as well as of an important but unpublished work on flat and spherical trigonometry.  He also wrote a commentary on the Principia of Isaac Newton (published in Geneva, 1739–42), for which he wrote approximately one hundred footnotes.",
+      "He was also known as a botanist. The genus Calandrinia was named after him.[1]",
+      "His father was a pastor, also named Jean-Louis, and his mother was Michée Du Pan. He was the grandnephew of Bénédict Calandrini (de) (fr). In 1729, he married  Renée Lullin. At the Academy of Geneva, he obtained his thesis in physics (1722). In 1724, Calandrini was named mathematics professor at the same time as Gabriel Cramer, but he first undertook a three-year journey to France and  England. He was appointed professor of philosophy from 1734 to 1750. He also played an active role on the political scene of Geneva.",
+      "This biographical article about a scientist is a stub. You can help Wikipedia by expanding it."
+    ],
+    "infobox": {
+      "birth": "August 30, 1703Geneva, Republic of Geneva",
+      "death": "December 29, 1758Geneva, Republic of Geneva",
+      "nationality": "Genevan",
+      "fields": "Mathematics, philosophy, and physics"
+    },
+    "scraped_at": "2025-08-11T01:12:26.859170",
+    "raw_html_length": 78228
+  },
+  "processed_at": "2025-08-11T01:12:27.861212",
+  "wikidata_info": {
+    "wikidata_id": "Q3166677",
+    "name": "Jean-Louis Calandrini",
+    "birth_year": 1703,
+    "death_year": 1758,
+    "birth_date_full": "1703-08-30T00:00:00Z",
+    "death_date_full": "1758-12-29T00:00:00Z",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Jean-Louis_Calandrini",
+    "nationality": "",
+    "birth_place": {
+      "name": "",
+      "wikidata_uri": "",
+      "coordinates": null
+    },
+    "image_url": "",
+    "fields": [
+      "mathematics"
+    ],
+    "data_source": "wikidata_sparql",
+    "extracted_at": "2025-08-11T01:11:25.224997",
+    "wikidata_query_metadata": {
+      "query_date": "2025-08-11T01:11:25.224998",
+      "endpoint": "https://query.wikidata.org/sparql",
+      "data_quality": "structured"
+    }
+  },
+  "timeline_events": [
+    {
+      "year": 1703,
+      "year_confidence": "exact",
+      "event_type": "birth",
+      "description": "Born in Geneva, Switzerland.",
+      "location": {
+        "place_name": "Geneva",
+        "raw_text": "Jean-Louis Calandrini (August 30, 1703 – December 29, 1758) was a Genevan scientist.",
+        "confidence": 1.0
+      },
+      "source_text": "Jean-Louis Calandrini (August 30, 1703 – December 29, 1758) was a Genevan scientist.",
+      "confidence": 1.0,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:30:52.965024",
+        "extraction_confidence": 1.0,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": 1722,
+      "year_confidence": "exact",
+      "event_type": "education",
+      "description": "Obtained thesis in physics from the Academy of Geneva.",
+      "location": {
+        "place_name": "Academy of Geneva",
+        "raw_text": "At the Academy of Geneva, he obtained his thesis in physics (1722).",
+        "confidence": 0.95
+      },
+      "source_text": "At the Academy of Geneva, he obtained his thesis in physics (1722).",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:30:52.965185",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": 1724,
+      "year_confidence": "exact",
+      "event_type": "position",
+      "description": "Appointed mathematics professor at the Academy of Geneva, alongside Gabriel Cramer.",
+      "location": {
+        "place_name": "Geneva",
+        "raw_text": "In 1724, Calandrini was named mathematics professor at the same time as Gabriel Cramer, but he first undertook a three-year journey to France and  England.",
+        "confidence": 0.95
+      },
+      "source_text": "In 1724, Calandrini was named mathematics professor at the same time as Gabriel Cramer...",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:30:52.965190",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1724-1727",
+      "year_confidence": "range",
+      "event_type": "travel",
+      "description": "Undertook a three-year journey to France and England after his appointment as mathematics professor.",
+      "location": {
+        "place_name": "France, England",
+        "raw_text": "Calandrini was named mathematics professor... but he first undertook a three-year journey to France and  England.",
+        "confidence": 0.95
+      },
+      "source_text": "Calandrini was named mathematics professor... but he first undertook a three-year journey to France and  England.",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:30:52.965380",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": 1734,
+      "year_confidence": "exact",
+      "event_type": "position",
+      "description": "Appointed professor of philosophy at the Academy of Geneva.",
+      "location": {
+        "place_name": "Geneva",
+        "raw_text": "He was appointed professor of philosophy from 1734 to 1750.",
+        "confidence": 0.95
+      },
+      "source_text": "He was appointed professor of philosophy from 1734 to 1750.",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:30:52.965392",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1739-1742",
+      "year_confidence": "range",
+      "event_type": "publication",
+      "description": "Published a commentary on Isaac Newton's Principia Mathematica in Geneva.",
+      "location": {
+        "place_name": "Geneva",
+        "raw_text": "He was also known as a botanist. He also wrote a commentary on the Principia of Isaac Newton (published in Geneva, 1739–42, for which he wrote approximately one hundred footnotes.",
+        "confidence": 0.95
+      },
+      "source_text": "He was also known as a botanist. He also wrote a commentary on the Principia of Isaac Newton (published in Geneva, 1739–42...",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:30:52.965400",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1739-1742",
+      "year_confidence": "range",
+      "event_type": "publication",
+      "description": "Wrote approximately one hundred footnotes for his commentary on Newton's Principia.",
+      "location": {
+        "place_name": "Geneva",
+        "raw_text": "He was also known as a botanist. He also wrote a commentary on the Principia of Isaac Newton (published in Geneva, 1739–42, for which he wrote approximately one hundred footnotes.",
+        "confidence": 0.95
+      },
+      "source_text": "He was also known as a botanist. He also wrote a commentary on the Principia of Isaac Newton (published in Geneva, 1739–42...",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:30:52.965404",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1740s",
+      "year_confidence": "range",
+      "event_type": "collaboration",
+      "description": "Collaborated with Gabriel Cramer during their time as mathematics professors at the Academy of Geneva.",
+      "location": {
+        "place_name": "Geneva",
+        "raw_text": "He was appointed mathematics professor at the same time as Gabriel Cramer, but he first undertook a three-year journey to France and  England.",
+        "confidence": 0.85
+      },
+      "source_text": "He was appointed mathematics professor at the same time as Gabriel Cramer...",
+      "confidence": 0.85,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:30:52.965409",
+        "extraction_confidence": 0.85,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1750",
+      "year_confidence": "exact",
+      "event_type": "position",
+      "description": "Left his position as professor of philosophy at the Academy of Geneva.",
+      "location": {
+        "place_name": "Geneva",
+        "raw_text": "He was appointed professor of philosophy from 1734 to 1750.",
+        "confidence": 0.95
+      },
+      "source_text": "He was appointed professor of philosophy from 1734 to 1750.",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:30:52.965413",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": 1758,
+      "year_confidence": "exact",
+      "event_type": "death",
+      "description": "Died in Geneva, Switzerland.",
+      "location": {
+        "place_name": "Geneva",
+        "raw_text": "Jean-Louis Calandrini (August 30, 1703 – December 29, 1758) was a Genevan scientist.",
+        "confidence": 1.0
+      },
+      "source_text": "Jean-Louis Calandrini (August 30, 1703 – December 29, 1758) was a Genevan scientist.",
+      "confidence": 1.0,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:30:52.965416",
+        "extraction_confidence": 1.0,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    }
+  ],
+  "timeline_extraction_metadata": {
+    "extracted_at": "2025-08-11T16:30:52.965979",
+    "model_used": "lm_studio_google/gemma-3n-e4b",
+    "events_count": 10,
+    "biography_length": 1066,
+    "enhancement_level": "gemma_comprehensive",
+    "target_events_per_mathematician": "5-10"
+  }
+}

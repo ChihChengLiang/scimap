@@ -1,0 +1,138 @@
+{
+  "id": null,
+  "name": "Dirk Klinkenberg",
+  "birth_year": 1709,
+  "death_year": 1799,
+  "nationality": "European",
+  "fields": [
+    "mathematics"
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Dirk_Klinkenberg",
+  "wikipedia_data": {
+    "url": "https://en.wikipedia.org/wiki/Dirk_Klinkenberg",
+    "title": "Dirk Klinkenberg",
+    "page_title": "Dirk_Klinkenberg",
+    "biography_paragraphs": [
+      "Dirk Klinkenberg (15 November 1709, Haarlem – 3 March 1799, The Hague) was secretary of the Dutch government for 40 years. He was also known as a mathematician and amateur astronomer.[1]",
+      "Jan de Munck, Dirk Klinkenberg, and Jean-Philippe de Cheseaux each independently discovered the Great Comet of 1744 (aka C/1743 X1). Klinkenberg would later also discover comets C/1748 K1 and C/1762 K1.",
+      "Anticipating the return of Halley's Comet, he made an independent calculation of its orbit and sent Paris astronomers an estimate that it might reappear by May 1758. It was not observed until late December 1758. He was able to confirm its return independently on 24 April 1759.[2]",
+      "Asteroid 10427 Klinkenberg, named after him, was discovered on September 24, 1960 by husband and wife team Cornelis Johannes van Houten and Ingrid van Houten-Groeneveld.[1]"
+    ],
+    "infobox": {},
+    "scraped_at": "2025-08-11T01:13:02.282036",
+    "raw_html_length": 60837
+  },
+  "processed_at": "2025-08-11T01:13:03.287244",
+  "wikidata_info": {
+    "wikidata_id": "Q1227921",
+    "name": "Dirk Klinkenberg",
+    "birth_year": 1709,
+    "death_year": 1799,
+    "birth_date_full": "1709-11-15T00:00:00Z",
+    "death_date_full": "1799-03-03T00:00:00Z",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Dirk_Klinkenberg",
+    "nationality": "",
+    "birth_place": {
+      "name": "",
+      "wikidata_uri": "",
+      "coordinates": null
+    },
+    "image_url": "",
+    "fields": [
+      "mathematics"
+    ],
+    "data_source": "wikidata_sparql",
+    "extracted_at": "2025-08-11T01:11:25.225397",
+    "wikidata_query_metadata": {
+      "query_date": "2025-08-11T01:11:25.225398",
+      "endpoint": "https://query.wikidata.org/sparql",
+      "data_quality": "structured"
+    }
+  },
+  "timeline_events": [
+    {
+      "year": 1709,
+      "year_confidence": "exact",
+      "event_type": "birth",
+      "description": "Born in Haarlem, Netherlands.",
+      "location": {
+        "place_name": "Haarlem",
+        "raw_text": "Dirk Klinkenberg (15 November 1709, Haarlem)",
+        "confidence": 1.0
+      },
+      "source_text": "Dirk Klinkenberg (15 November 1709, Haarlem)",
+      "confidence": 1.0,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:08:39.443516",
+        "extraction_confidence": 1.0,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1700-1800",
+      "year_confidence": "range",
+      "event_type": "position",
+      "description": "Secretary of the Dutch government for 40 years (dates unspecified within this range).",
+      "location": {
+        "place_name": "The Hague",
+        "raw_text": "secretary of the Dutch government for 40 years. He was also known as a mathematician and amateur astronomer.",
+        "confidence": 0.8
+      },
+      "source_text": "Secretary of the Dutch government for 40 years",
+      "confidence": 0.9,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:08:39.443739",
+        "extraction_confidence": 0.9,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1758",
+      "year_confidence": "exact",
+      "event_type": "publication",
+      "description": "Anticipated the return of Halley's Comet and calculated its orbit, sending an estimate to Paris astronomers.",
+      "location": {
+        "place_name": "Paris",
+        "raw_text": "Anticipating the return of Halley's Comet, he made an independent calculation of its orbit and sent Paris astronomers an estimate that it might reappear by May 1758.",
+        "confidence": 0.95
+      },
+      "source_text": "Calculated orbit of Halley's Comet",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:08:39.443848",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1799",
+      "year_confidence": "exact",
+      "event_type": "death",
+      "description": "Died in The Hague, Netherlands.",
+      "location": {
+        "place_name": "The Hague",
+        "raw_text": "Dirk Klinkenberg (15 November 1709, Haarlem – 3 March 1799, The Hague)",
+        "confidence": 1.0
+      },
+      "source_text": "Died in The Hague",
+      "confidence": 1.0,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:08:39.443863",
+        "extraction_confidence": 1.0,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    }
+  ],
+  "timeline_extraction_metadata": {
+    "extracted_at": "2025-08-11T16:08:39.443947",
+    "model_used": "lm_studio_google/gemma-3n-e4b",
+    "events_count": 4,
+    "biography_length": 670,
+    "enhancement_level": "gemma_comprehensive",
+    "target_events_per_mathematician": "5-10"
+  }
+}

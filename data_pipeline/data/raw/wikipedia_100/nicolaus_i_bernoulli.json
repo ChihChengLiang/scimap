@@ -1,0 +1,53 @@
+{
+  "id": null,
+  "name": "Nicolaus I Bernoulli",
+  "birth_year": 1687,
+  "death_year": 1759,
+  "nationality": "European",
+  "fields": [
+    "mathematics"
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Nicolaus_I_Bernoulli",
+  "wikipedia_data": {
+    "url": "https://en.wikipedia.org/wiki/Nicolaus_I_Bernoulli",
+    "title": "Nicolaus I Bernoulli",
+    "page_title": "Nicolaus_I_Bernoulli",
+    "biography_paragraphs": [
+      "Nicolaus Bernoulli (also spelled Nicolas or Nikolas; 20 October [O.S. 10 October] 1687 in Basel – 29 November 1759 in Basel) was a Swiss mathematician and was one of the many prominent mathematicians in the Bernoulli family.",
+      "Nicolaus Bernoulli was born on 20 October [O.S. 10 October] 1687 in Basel.[1] He was the son of Nicolaus Bernoulli, painter and Alderman of Basel. In 1704 he graduated from the University of Basel under Jakob Bernoulli and obtained his PhD five years later (in 1709) with a work on probability theory in law. His thesis was titled Dissertatio Inauguralis Mathematico-Juridica de Usu Artis Conjectandi in Jure.[2]",
+      "In 1716 he obtained the Galileo-chair at the University of Padua, where he worked on differential equations and geometry. In 1722 he returned to Switzerland and obtained a chair in Logics at the University of Basel.",
+      "Nicolaus I Bernoulli was deeply influenced by his family, particularly his uncle Jacob Bernoulli and his cousin Daniel Bernoulli, both of whom were prominent mathematicians. Jacob Bernoulli, one of the early developers of calculus and a pioneer in the field of probability, had a significant impact on Nicolaus’s academic direction. Jacob’s work on the Bernoulli numbers and the Bernoulli theorem provided a strong foundation for Nicolaus’s own research in probability theory.[3]",
+      "He was elected a Fellow of the Royal Society of London in 1714.[4]"
+    ],
+    "infobox": {},
+    "scraped_at": "2025-08-11T01:11:50.320795",
+    "raw_html_length": 115001
+  },
+  "processed_at": "2025-08-11T01:11:51.326689",
+  "wikidata_info": {
+    "wikidata_id": "Q123992",
+    "name": "Nicolaus I Bernoulli",
+    "birth_year": 1687,
+    "death_year": 1759,
+    "birth_date_full": "1687-10-21T00:00:00Z",
+    "death_date_full": "1759-11-29T00:00:00Z",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Nicolaus_I_Bernoulli",
+    "nationality": "",
+    "birth_place": {
+      "name": "",
+      "wikidata_uri": "",
+      "coordinates": null
+    },
+    "image_url": "",
+    "fields": [
+      "mathematics"
+    ],
+    "data_source": "wikidata_sparql",
+    "extracted_at": "2025-08-11T01:11:25.224096",
+    "wikidata_query_metadata": {
+      "query_date": "2025-08-11T01:11:25.224097",
+      "endpoint": "https://query.wikidata.org/sparql",
+      "data_quality": "structured"
+    }
+  }
+}

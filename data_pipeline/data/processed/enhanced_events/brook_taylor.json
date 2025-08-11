@@ -1,0 +1,201 @@
+{
+  "id": null,
+  "name": "Brook Taylor",
+  "birth_year": 1685,
+  "death_year": 1732,
+  "nationality": "European",
+  "fields": [
+    "mathematics"
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Brook_Taylor",
+  "wikipedia_data": {
+    "url": "https://en.wikipedia.org/wiki/Brook_Taylor",
+    "title": "Brook Taylor",
+    "page_title": "Brook_Taylor",
+    "biography_paragraphs": [
+      "Brook Taylor FRS (18 August 1685 – 29 December 1731) was an English mathematician and barrister best known for several results in mathematical analysis. Taylor's most famous developments are Taylor's theorem and the Taylor series, essential in the infinitesimal approach of functions in specific points.",
+      "Brook Taylor was born in Edmonton (former Middlesex). Taylor was the son of John Taylor, MP of Patrixbourne, Kent[1] and Olivia Tempest, the daughter of Sir Nicholas Tempest, Baronet of Durham.[2]",
+      "He entered St John's College, Cambridge, as a fellow-commoner in 1701, and took degrees in LL.B. in 1709 and LL.D. in 1714.[3] Taylor studied mathematics under John Machin and John Keill, leading to Taylor obtaining a solution to the problem of \"center of oscillation\". Taylor's solution remained unpublished until May 1714,[4] when his claim to priority was disputed by Johann Bernoulli.",
+      "Taylor's Methodus Incrementorum Directa et Inversa (1715) (\"Direct and Indirect Methods of Incrementation\") added a new branch to higher mathematics, called \"calculus of finite differences\". Taylor used this development to determine the form of movement in vibrating strings. Taylor also wrote the first satisfactory investigation of astronomical refraction.[5][6] The same work contains the well-known Taylor's theorem, the importance of which remained unrecognized until 1772, when Joseph-Louis Lagrange realized its usefulness and termed it \"the main foundation of differential calculus\".[7][8]",
+      "In Taylor's 1715 essay Linear Perspective, Taylor set forth the principles of perspective in a more understandable form, but the work suffered from brevity and obscurity problems which plagued most of his writings, meaning the essay required further explanation in the treatises of Joshua Kirby (1754) and Daniel Fournier (1761).[8][9]"
+    ],
+    "infobox": {
+      "birth": "Brook Taylor18 August 1685Edmonton, Middlesex, England",
+      "death": "29 December 1731(1731-12-29) (aged 46)London, England",
+      "nationality": "English",
+      "fields": "Mathematics"
+    },
+    "scraped_at": "2025-08-11T01:11:49.146559",
+    "raw_html_length": 154438
+  },
+  "processed_at": "2025-08-11T01:11:50.151828",
+  "wikidata_info": {
+    "wikidata_id": "Q212085",
+    "name": "Brook Taylor",
+    "birth_year": 1685,
+    "death_year": 1732,
+    "birth_date_full": "1685-08-18T00:00:00Z",
+    "death_date_full": "1732-01-09T00:00:00Z",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Brook_Taylor",
+    "nationality": "",
+    "birth_place": {
+      "name": "",
+      "wikidata_uri": "",
+      "coordinates": null
+    },
+    "image_url": "",
+    "fields": [
+      "mathematics"
+    ],
+    "data_source": "wikidata_sparql",
+    "extracted_at": "2025-08-11T01:11:25.224029",
+    "wikidata_query_metadata": {
+      "query_date": "2025-08-11T01:11:25.224030",
+      "endpoint": "https://query.wikidata.org/sparql",
+      "data_quality": "structured"
+    }
+  },
+  "timeline_events": [
+    {
+      "year": 1701,
+      "year_confidence": "exact",
+      "event_type": "education",
+      "description": "Entered St John's College, Cambridge as a fellow-commoner.",
+      "location": {
+        "place_name": "St John's College, Cambridge",
+        "raw_text": "entered St John's College, Cambridge as a fellow-commoner in 1701",
+        "confidence": 1.0
+      },
+      "source_text": "entered St John's College, Cambridge as a fellow-commoner in 1701",
+      "confidence": 1.0,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T15:55:42.030579",
+        "extraction_confidence": 1.0,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": 1709,
+      "year_confidence": "exact",
+      "event_type": "education",
+      "description": "Obtained LL.B. degree.",
+      "location": {
+        "place_name": "Cambridge",
+        "raw_text": "took degrees in LL.B. in 1709",
+        "confidence": 0.95
+      },
+      "source_text": "took degrees in LL.B. in 1709",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T15:55:42.030670",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": 1714,
+      "year_confidence": "exact",
+      "event_type": "education",
+      "description": "Obtained LL.D. degree.",
+      "location": {
+        "place_name": "Cambridge",
+        "raw_text": "and LL.D. in 1714",
+        "confidence": 0.95
+      },
+      "source_text": "and LL.D. in 1714",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T15:55:42.030677",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": 1700,
+      "year_confidence": "range",
+      "event_type": "collaboration",
+      "description": "Studied mathematics under John Machin.",
+      "location": {
+        "place_name": "Cambridge",
+        "raw_text": "Taylor studied mathematics under John Machin",
+        "confidence": 0.95
+      },
+      "source_text": "Taylor studied mathematics under John Machin",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T15:55:42.030682",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": 1700,
+      "year_confidence": "range",
+      "event_type": "collaboration",
+      "description": "Studied mathematics under John Keill.",
+      "location": {
+        "place_name": "Cambridge",
+        "raw_text": "and John Keill",
+        "confidence": 0.95
+      },
+      "source_text": "and John Keill",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T15:55:42.030688",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": 1714,
+      "year_confidence": "exact",
+      "event_type": "publication",
+      "description": "Solution to the problem of 'center of oscillation' obtained (unpublished).",
+      "location": {
+        "place_name": "Cambridge",
+        "raw_text": "Taylor obtaining a solution to the problem of 'center of oscillation'",
+        "confidence": 0.95
+      },
+      "source_text": "Taylor obtaining a solution to the problem of 'center of oscillation'",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T15:55:42.030693",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": 1714,
+      "year_confidence": "exact",
+      "event_type": "publication",
+      "description": "Solution to the problem of 'center of oscillation' published (May).",
+      "location": {
+        "place_name": "Cambridge",
+        "raw_text": "his claim to priority was disputed by Johann Bernoulli.",
+        "confidence": 0.95
+      },
+      "source_text": "his claim to priority was disputed by Johann Bernoulli.",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T15:55:42.030698",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    }
+  ],
+  "timeline_extraction_metadata": {
+    "extracted_at": "2025-08-11T15:55:42.030915",
+    "model_used": "lm_studio_google/gemma-3n-e4b",
+    "events_count": 7,
+    "biography_length": 889,
+    "enhancement_level": "gemma_comprehensive",
+    "target_events_per_mathematician": "5-10"
+  }
+}

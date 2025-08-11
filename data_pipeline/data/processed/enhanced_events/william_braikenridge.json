@@ -1,0 +1,195 @@
+{
+  "id": null,
+  "name": "William Braikenridge",
+  "birth_year": 1700,
+  "death_year": 1762,
+  "nationality": "European",
+  "fields": [
+    "mathematics"
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/William_Braikenridge",
+  "wikipedia_data": {
+    "url": "https://en.wikipedia.org/wiki/William_Braikenridge",
+    "title": "William Braikenridge",
+    "page_title": "William_Braikenridge",
+    "biography_paragraphs": [
+      "William Braikenridge (also Brakenridge) (c.1700–1762) was a Scottish mathematician and cleric, a Fellow of the Royal Society from 1752.[1]",
+      "He was son of John Braikenridge of Glasgow.[2] In the 1720s he taught mathematics in Edinburgh.[3]",
+      "Braikenridge was Honorary A.M. in 1735,[4] and D.D. in 1739, of Marischal College, when he was vicar of New Church, Isle of Wight.[5] He was incorporated at The Queen's College, Oxford, in 1741.[2] He became rector of St Michael Bassishaw, and from 1745 librarian of Sion College, in London.[6][7]",
+      "In geometry the Braikenridge–Maclaurin theorem was independently discovered by Colin Maclaurin.[8] It occasioned a priority dispute after Braikenridge published it in 1733;[9] Stella Mills writes that, while Braikenridge may have wished to establish priority, Maclaurin rather felt slighted by the implication that he did not know theorems in the Exercitatio that he had taught for a number of years.[10]"
+    ],
+    "infobox": {},
+    "scraped_at": "2025-08-11T01:12:01.056878",
+    "raw_html_length": 86000
+  },
+  "processed_at": "2025-08-11T01:12:02.058403",
+  "wikidata_info": {
+    "wikidata_id": "Q15994322",
+    "name": "William Braikenridge",
+    "birth_year": 1700,
+    "death_year": 1762,
+    "birth_date_full": "1700-01-01T00:00:00Z",
+    "death_date_full": "1762-07-30T00:00:00Z",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/William_Braikenridge",
+    "nationality": "",
+    "birth_place": {
+      "name": "",
+      "wikidata_uri": "",
+      "coordinates": null
+    },
+    "image_url": "",
+    "fields": [
+      "mathematics"
+    ],
+    "data_source": "wikidata_sparql",
+    "extracted_at": "2025-08-11T01:11:25.224712",
+    "wikidata_query_metadata": {
+      "query_date": "2025-08-11T01:11:25.224713",
+      "endpoint": "https://query.wikidata.org/sparql",
+      "data_quality": "structured"
+    }
+  },
+  "timeline_events": [
+    {
+      "year": "1720s",
+      "year_confidence": "range",
+      "event_type": "education",
+      "description": "Taught mathematics in Edinburgh during the 1720s.",
+      "location": {
+        "place_name": "Edinburgh",
+        "raw_text": "taught mathematics in Edinburgh",
+        "confidence": 0.9
+      },
+      "source_text": "In the 1720s he taught mathematics in Edinburgh.",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T15:04:11.152899",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1735",
+      "year_confidence": "exact",
+      "event_type": "award",
+      "description": "Honorary A.M. (Academiaeee मैथमेटicae) in 1735.",
+      "location": {
+        "place_name": "null",
+        "raw_text": "Braikenridge was Honorary A.M. in 1735",
+        "confidence": 0.8
+      },
+      "source_text": "Braikenridge was Honorary A.M. in 1735",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T15:04:11.152952",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1739",
+      "year_confidence": "exact",
+      "event_type": "award",
+      "description": "D.D. (Doctor Doctorum) of Marischal College, awarded in 1739.",
+      "location": {
+        "place_name": "Isle of Wight",
+        "raw_text": "when he was vicar of New Church, Isle of Wight",
+        "confidence": 0.85
+      },
+      "source_text": "Braikenridge was D.D. in 1739, of Marischal College, when he was vicar of New Church, Isle of Wight.",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T15:04:11.152963",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1741",
+      "year_confidence": "exact",
+      "event_type": "education",
+      "description": "Incorporated at The Queen's College, Oxford in 1741.",
+      "location": {
+        "place_name": "Oxford",
+        "raw_text": "incorporated at The Queen's College, Oxford, in 1741",
+        "confidence": 0.95
+      },
+      "source_text": "He was incorporated at The Queen's College, Oxford, in 1741.",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T15:04:11.152972",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1745",
+      "year_confidence": "exact",
+      "event_type": "position",
+      "description": "Became rector of St Michael Bassishaw in 1745.",
+      "location": {
+        "place_name": "London",
+        "raw_text": "Became rector of St Michael Bassishaw, and from 1745 librarian of Sion College, in London.",
+        "confidence": 0.9
+      },
+      "source_text": "He became rector of St Michael Bassishaw, and from 1745 librarian of Sion College, in London.",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T15:04:11.152981",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1745",
+      "year_confidence": "exact",
+      "event_type": "position",
+      "description": "Appointed librarian of Sion College, London in 1745.",
+      "location": {
+        "place_name": "London",
+        "raw_text": "from 1745 librarian of Sion College, in London",
+        "confidence": 0.95
+      },
+      "source_text": "He became rector of St Michael Bassishaw, and from 1745 librarian of Sion College, in London.",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T15:04:11.152989",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1762",
+      "year_confidence": "exact",
+      "event_type": "death",
+      "description": "William Braikenridge died in 1762.",
+      "location": {
+        "place_name": "null",
+        "raw_text": "William Braikenridge (also Brakenridge) (c.1700–1762)",
+        "confidence": 0.85
+      },
+      "source_text": "William Braikenridge (also Brakenridge) (c.1700–1762) was a Scottish mathematician and cleric, a Fellow of the Royal Society from 1752.",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T15:04:11.153013",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    }
+  ],
+  "timeline_extraction_metadata": {
+    "extracted_at": "2025-08-11T15:04:11.153119",
+    "model_used": "lm_studio_google/gemma-3n-e4b",
+    "events_count": 7,
+    "biography_length": 535,
+    "enhancement_level": "gemma_comprehensive",
+    "target_events_per_mathematician": "5-10"
+  }
+}

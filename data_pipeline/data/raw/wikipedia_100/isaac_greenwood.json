@@ -1,0 +1,58 @@
+{
+  "id": null,
+  "name": "Isaac Greenwood",
+  "birth_year": 1702,
+  "death_year": 1745,
+  "nationality": "European",
+  "fields": [
+    "mathematics"
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Isaac_Greenwood",
+  "wikipedia_data": {
+    "url": "https://en.wikipedia.org/wiki/Isaac_Greenwood",
+    "title": "Isaac Greenwood",
+    "page_title": "Isaac_Greenwood",
+    "biography_paragraphs": [
+      "Isaac Greenwood (11 May 1702 – 22 October 1745) was an American mathematician. He was the first Hollisian Professor of Mathematics and Natural Philosophy at Harvard College.[2]",
+      "He graduated at Harvard in 1721, and was instrumental in the smallpox inoculation controversy of that year, speaking out in favour of inoculation. He travelled to London, where he lodged with John Theophilus Desaguliers and attended his lectures on Newtonian Experimental Philosophy. He later introduced the subject in the American Colonies and his book An Experimental Course of Mechanical Philosophy, published in Boston in 1726, owed much to Desaguliers. In London Greenwood met with Thomas Hollis, who wished to endow a chair at Harvard College for him. Hollis later fell out with Greenwood, over his financial imprudence. However, back in Boston, Greenwood was eventually appointed to the new Hollis Chair in 1727.[citation needed]",
+      "During his tenure, he wrote anonymously the first natively-published American book on mathematics – the Greenwood Book, published in 1729.[3] This book made the first published statement of the short scale value for billion in the United States, which eventually became the value used in most English-speaking countries.[4]",
+      "Greenwood married Sara Shrimpton Clarke, daughter of Dr John Clarke, on 31 July 1729, and had five children, of whom the eldest, Isaac, became a noted dentist.[1]",
+      "He was removed from the chair for intemperance in 1737. Unable to support his family, he joined the Royal Navy as a chaplain aboard HMS Rose in 1742, transferring to HMS Aldborough in 1744. He was released from service in Charleston, South Carolina, on 22 May 1744 and died from the effects of alcohol on 22 October 1745.[5]"
+    ],
+    "infobox": {
+      "birth": "(1702-05-11)11 May 1702Boston,[1] Province of Massachusetts Bay",
+      "death": "22 October 1745(1745-10-22) (aged 43)Charleston,[1] Province of South Carolina",
+      "nationality": "American Colonies",
+      "fields": "Mathematics"
+    },
+    "scraped_at": "2025-08-11T01:12:23.293269",
+    "raw_html_length": 83164
+  },
+  "processed_at": "2025-08-11T01:12:24.304391",
+  "wikidata_info": {
+    "wikidata_id": "Q6076406",
+    "name": "Isaac Greenwood",
+    "birth_year": 1702,
+    "death_year": 1745,
+    "birth_date_full": "1702-05-11T00:00:00Z",
+    "death_date_full": "1745-10-22T00:00:00Z",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Isaac_Greenwood",
+    "nationality": "",
+    "birth_place": {
+      "name": "",
+      "wikidata_uri": "",
+      "coordinates": null
+    },
+    "image_url": "",
+    "fields": [
+      "mathematics"
+    ],
+    "data_source": "wikidata_sparql",
+    "extracted_at": "2025-08-11T01:11:25.224925",
+    "wikidata_query_metadata": {
+      "query_date": "2025-08-11T01:11:25.224926",
+      "endpoint": "https://query.wikidata.org/sparql",
+      "data_quality": "structured"
+    }
+  }
+}

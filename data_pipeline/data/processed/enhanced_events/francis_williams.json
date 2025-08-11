@@ -1,0 +1,158 @@
+{
+  "id": null,
+  "name": "Francis Williams",
+  "birth_year": 1702,
+  "death_year": 1770,
+  "nationality": "European",
+  "fields": [
+    "mathematics"
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Francis_Williams_(polymath)",
+  "wikipedia_data": {
+    "url": "https://en.wikipedia.org/wiki/Francis_Williams_(polymath)",
+    "title": "Francis Williams (polymath)",
+    "page_title": "Francis_Williams_(polymath)",
+    "biography_paragraphs": [
+      "Francis Williams (c. 1690 – c. 1770) was a Jamaican polymath, scholar, astronomer and poet who was one of the most notable free black people in Jamaica. Born in Kingston, Jamaica, into a slaveholding family, Williams subsequently travelled to England where he officially became a British subject. After returning to Jamaica, he established a free school for free people of colour in Jamaica. His portrait is considered to be the earliest known example in the canon of western art to have been commissioned by a known Black person to record their own intellectual achievements.[1]",
+      "Due to poor archival conditions, most information about Williams comes from a lengthy racist attack on him by his white contemporary Edward Long, and from the portrait itself, which displays some of Williams' library and shows that he had observed the return of Halley's Comet which confirmed Newton's laws of motion. The portrait was purchased by Long after Williams' death.[2]",
+      "Francis Williams was born c. 1690 in the English colony of Jamaica to John and Dorothy Williams, both of whom were free people of colour. John had been emancipated in 1699 through the will and testament of his former enslaver.[3] The Williams family's status as free, property-owning black people set them apart from other Jamaican inhabitants, who were at the time mostly white colonists and enslaved Africans. Eventually, the Williams family property expanded to include both land and slaves. Although it was rare for black people in the 18th century to receive an education, Francis Williams and his siblings were able to afford schooling due to their father's wealth. Francis travelled to Europe, where he was reported to be in 1721.[4]: 220–221",
+      "Williams was officially made a British subject and took the oath of citizenship in 1723.[3] On 8 August 1721, Williams became a member of Lincoln's Inn in London, one of the four Inns of Court for barristers of England and Wales.[5][6] Williams was allowed to attend scientific Royal Society meetings, but in 1716, when he was proposed by Martin Folkes as a fellow of the Royal Society at a large meeting - in the presence of Isaac Newton and Edmond Halley[1][2] - he was denied membership by a subsequent committee \"on account of his complection\".[5][7]",
+      "Edward Long, a colonial administrator who was an exponent of racist theories and a supporter of slavery, attempted to undermine William's achievements by reporting that he was the beneficiary of a social experiment devised by John Montagu, 2nd Duke of Montagu to determine whether adequate education could lead Williams to match the intellectual achievements of his white contemporaries. This story holds that the Duke paid for Williams to attend an English grammar school and then continue at the University of Cambridge, a narrative likely originating from Montagu's relationships with Job Ben Solomon and Ignatius Sancho. However, Cambridge has no record of Williams' attendance; furthermore the Williams family's wealth could have easily supported his overseas education without the Duke's sponsorship.[5]"
+    ],
+    "infobox": {},
+    "scraped_at": "2025-08-11T01:12:19.760785",
+    "raw_html_length": 97098
+  },
+  "processed_at": "2025-08-11T01:12:20.766071",
+  "wikidata_info": {
+    "wikidata_id": "Q5482798",
+    "name": "Francis Williams",
+    "birth_year": 1702,
+    "death_year": 1770,
+    "birth_date_full": "1702-01-01T00:00:00Z",
+    "death_date_full": "1770-01-01T00:00:00Z",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Francis_Williams_(polymath)",
+    "nationality": "",
+    "birth_place": {
+      "name": "",
+      "wikidata_uri": "",
+      "coordinates": null
+    },
+    "image_url": "",
+    "fields": [
+      "mathematics"
+    ],
+    "data_source": "wikidata_sparql",
+    "extracted_at": "2025-08-11T01:11:25.224901",
+    "wikidata_query_metadata": {
+      "query_date": "2025-08-11T01:11:25.224901",
+      "endpoint": "https://query.wikidata.org/sparql",
+      "data_quality": "structured"
+    }
+  },
+  "timeline_events": [
+    {
+      "year": "1700-1721",
+      "year_confidence": "approximate",
+      "event_type": "education",
+      "description": "Attended schooling in Jamaica, facilitated by his father's wealth.",
+      "location": {
+        "place_name": "Jamaica",
+        "raw_text": "in Jamaica",
+        "confidence": 1.0
+      },
+      "source_text": "Although it was rare for black people in the 18th century to receive an education, Francis Williams and his siblings were able to afford schooling due to their father's wealth.",
+      "confidence": 1.0,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T17:30:57.614488",
+        "extraction_confidence": 1.0,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1721",
+      "year_confidence": "approximate",
+      "event_type": "travel",
+      "description": "Traveled to Europe.",
+      "location": {
+        "place_name": "Europe",
+        "raw_text": "Francis travelled to Europe",
+        "confidence": 1.0
+      },
+      "source_text": "Francis travelled to Europe, where he was reported to be in 1721.",
+      "confidence": 1.0,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T17:30:57.614553",
+        "extraction_confidence": 1.0,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1721",
+      "year_confidence": "approximate",
+      "event_type": "travel",
+      "description": "Reported to be in Europe.",
+      "location": {
+        "place_name": "Europe",
+        "raw_text": "where he was reported to be in 1721",
+        "confidence": 0.8
+      },
+      "source_text": "Francis travelled to Europe, where he was reported to be in 1721.",
+      "confidence": 0.8,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T17:30:57.614567",
+        "extraction_confidence": 0.8,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1730-1740",
+      "year_confidence": "range",
+      "event_type": "position",
+      "description": "Established a free school for free people of colour in Jamaica.",
+      "location": {
+        "place_name": "Jamaica",
+        "raw_text": "established a free school for free people of colour in Jamaica",
+        "confidence": 1.0
+      },
+      "source_text": "After returning to Jamaica, he established a free school for free people of colour in Jamaica.",
+      "confidence": 1.0,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T17:30:57.614580",
+        "extraction_confidence": 1.0,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1760-1770",
+      "year_confidence": "range",
+      "event_type": "death",
+      "description": "Died in Jamaica.",
+      "location": {
+        "place_name": "Jamaica",
+        "raw_text": "c. 1770",
+        "confidence": 1.0
+      },
+      "source_text": "Francis Williams (c. 1690 – c. 1770)",
+      "confidence": 1.0,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T17:30:57.614593",
+        "extraction_confidence": 1.0,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    }
+  ],
+  "timeline_extraction_metadata": {
+    "extracted_at": "2025-08-11T17:30:57.614735",
+    "model_used": "lm_studio_google/gemma-3n-e4b",
+    "events_count": 5,
+    "biography_length": 1708,
+    "enhancement_level": "gemma_comprehensive",
+    "target_events_per_mathematician": "5-10"
+  }
+}

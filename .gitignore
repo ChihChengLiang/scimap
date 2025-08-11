@@ -1,1 +1,3 @@
 __pycache__/
+pipeline_log_*
+sparql_*

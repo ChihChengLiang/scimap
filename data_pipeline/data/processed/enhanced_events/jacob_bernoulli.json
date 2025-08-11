@@ -1,0 +1,201 @@
+{
+  "id": null,
+  "name": "Jacob Bernoulli",
+  "birth_year": 1654,
+  "death_year": 1705,
+  "nationality": "European",
+  "fields": [
+    "mathematics"
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Jacob_Bernoulli",
+  "wikipedia_data": {
+    "url": "https://en.wikipedia.org/wiki/Jacob_Bernoulli",
+    "title": "Jacob Bernoulli",
+    "page_title": "Jacob_Bernoulli",
+    "biography_paragraphs": [
+      "Jacob Bernoulli[a] (also known as James in English or Jacques in French; 6 January 1655 [O.S. 27 December 1654] – 16 August 1705) was a Swiss mathematician. He sided with Gottfried Wilhelm Leibniz during the Leibniz–Newton calculus controversy and was an early proponent of Leibnizian calculus, to which he made numerous contributions. A member of the Bernoulli family, he, along with his brother Johann, was one of the founders of the calculus of variations. He also discovered the fundamental mathematical constant e. However, his most important contribution was in the field of probability, where he derived the first version of the law of large numbers in his work Ars Conjectandi.[3]",
+      "Jacob Bernoulli was born in Basel in the Swiss Confederation,[4] the son and grandson of Protestant[5] spice merchants on his fathers side, his mother was born into a family engaged in banking and city governing.[6]",
+      "Following his father's wish, he studied theology and entered the ministry. But contrary to the desires of his parents,[7] he also studied mathematics and astronomy. He traveled throughout Europe from 1676 to 1682, learning about the latest discoveries in mathematics and the sciences under leading figures of the time. This included the work of Johannes Hudde, Robert Boyle, and Robert Hooke. During this time he also produced an incorrect theory of comets.",
+      "Bernoulli returned to Switzerland, and began teaching mechanics at the University of Basel from 1683. His doctoral dissertation Solutionem tergemini problematis was submitted in 1684.[8] It appeared in print in 1687.[9]",
+      "In 1684, Bernoulli married Judith Stupanus; they had two children. During this decade, he also began a fertile research career. His travels allowed him to establish correspondence with many leading mathematicians and scientists of his era, which he maintained throughout his life. During this time, he studied the new discoveries in mathematics, including Christiaan Huygens's De ratiociniis in aleae ludo, Descartes' La Géométrie and Frans van Schooten's supplements of it. He also studied Isaac Barrow and John Wallis, leading to his interest in infinitesimal geometry. Apart from these, it was between 1684 and 1689 that many of the results that were to make up Ars Conjectandi were discovered."
+    ],
+    "infobox": {
+      "birth": "(1655-01-06)6 January 1655Basel, Switzerland",
+      "death": "16 August 1705(1705-08-16) (aged 50)Basel, Switzerland",
+      "education": "University of Basel(D.Th., 1676; Dr. phil. hab., 1684)",
+      "fields": "Mathematics, mechanics"
+    },
+    "scraped_at": "2025-08-11T01:11:45.507122",
+    "raw_html_length": 189351
+  },
+  "processed_at": "2025-08-11T01:11:46.512213",
+  "wikidata_info": {
+    "wikidata_id": "Q122392",
+    "name": "Jacob Bernoulli",
+    "birth_year": 1654,
+    "death_year": 1705,
+    "birth_date_full": "1654-12-27T00:00:00Z",
+    "death_date_full": "1705-08-16T00:00:00Z",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Jacob_Bernoulli",
+    "nationality": "",
+    "birth_place": {
+      "name": "",
+      "wikidata_uri": "",
+      "coordinates": null
+    },
+    "image_url": "",
+    "fields": [
+      "mathematics"
+    ],
+    "data_source": "wikidata_sparql",
+    "extracted_at": "2025-08-11T01:11:25.222668",
+    "wikidata_query_metadata": {
+      "query_date": "2025-08-11T01:11:25.222669",
+      "endpoint": "https://query.wikidata.org/sparql",
+      "data_quality": "structured"
+    }
+  },
+  "timeline_events": [
+    {
+      "year": 1700,
+      "year_confidence": "approximate",
+      "event_type": "death",
+      "description": "Jacob Bernoulli died on 16 August 1705.",
+      "location": {
+        "place_name": "Basel",
+        "raw_text": "Jacob Bernoulli died on 16 August 1705.",
+        "confidence": 1.0
+      },
+      "source_text": "Jacob Bernoulli died on 16 August 1705.",
+      "confidence": 1.0,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T15:01:39.417953",
+        "extraction_confidence": 1.0,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1676",
+      "year_confidence": "exact",
+      "event_type": "travel",
+      "description": "Jacob Bernoulli began traveling throughout Europe.",
+      "location": {
+        "place_name": "Europe",
+        "raw_text": "He traveled throughout Europe from 1676 to 1682",
+        "confidence": 1.0
+      },
+      "source_text": "He traveled throughout Europe from 1676 to 1682",
+      "confidence": 1.0,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T15:01:39.418142",
+        "extraction_confidence": 1.0,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1682",
+      "year_confidence": "approximate",
+      "event_type": "travel",
+      "description": "Jacob Bernoulli concluded his travels throughout Europe.",
+      "location": {
+        "place_name": "Europe",
+        "raw_text": "He traveled throughout Europe from 1676 to 1682",
+        "confidence": 1.0
+      },
+      "source_text": "He traveled throughout Europe from 1676 to 1682",
+      "confidence": 1.0,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T15:01:39.418150",
+        "extraction_confidence": 1.0,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1676-1682",
+      "year_confidence": "range",
+      "event_type": "travel",
+      "description": "Jacob Bernoulli traveled throughout Europe, studying mathematics and sciences.",
+      "location": {
+        "place_name": "Europe",
+        "raw_text": "He traveled throughout Europe from 1676 to 1682",
+        "confidence": 1.0
+      },
+      "source_text": "He traveled throughout Europe from 1676 to 1682",
+      "confidence": 1.0,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T15:01:39.418157",
+        "extraction_confidence": 1.0,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1682",
+      "year_confidence": "approximate",
+      "event_type": "publication",
+      "description": "Jacob Bernoulli produced an incorrect theory of comets.",
+      "location": {
+        "place_name": "Europe",
+        "raw_text": "During this time he also produced an incorrect theory of comets.",
+        "confidence": 0.8
+      },
+      "source_text": "During this time he also produced an incorrect theory of comets.",
+      "confidence": 0.8,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T15:01:39.418163",
+        "extraction_confidence": 0.8,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1696",
+      "year_confidence": "approximate",
+      "event_type": "publication",
+      "description": "Jacob Bernoulli published 'Ars Conjectandi', containing the first version of the law of large numbers.",
+      "location": {
+        "place_name": "Basel",
+        "raw_text": "where he derived the first version of the law of large numbers in his work Ars Conjectandi",
+        "confidence": 0.9
+      },
+      "source_text": "where he derived the first version of the law of large numbers in his work Ars Conjectandi",
+      "confidence": 0.9,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T15:01:39.418169",
+        "extraction_confidence": 0.9,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1700-1705",
+      "year_confidence": "range",
+      "event_type": "collaboration",
+      "description": "Jacob Bernoulli collaborated with Gottfried Wilhelm Leibniz on the development of calculus, supporting Leibnizian calculus.",
+      "location": {
+        "place_name": "Europe",
+        "raw_text": "Jacob Bernoulli sided with Gottfried Wilhelm Leibniz during the Leibniz–Newton calculus controversy",
+        "confidence": 0.9
+      },
+      "source_text": "Jacob Bernoulli sided with Gottfried Wilhelm Leibniz during the Leibniz–Newton calculus controversy",
+      "confidence": 0.9,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T15:01:39.418174",
+        "extraction_confidence": 0.9,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    }
+  ],
+  "timeline_extraction_metadata": {
+    "extracted_at": "2025-08-11T15:01:39.418326",
+    "model_used": "lm_studio_google/gemma-3n-e4b",
+    "events_count": 7,
+    "biography_length": 1362,
+    "enhancement_level": "gemma_comprehensive",
+    "target_events_per_mathematician": "5-10"
+  }
+}

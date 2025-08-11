@@ -1,0 +1,58 @@
+{
+  "id": null,
+  "name": "William Emerson",
+  "birth_year": 1701,
+  "death_year": 1782,
+  "nationality": "European",
+  "fields": [
+    "mathematics"
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/William_Emerson_(mathematician)",
+  "wikipedia_data": {
+    "url": "https://en.wikipedia.org/wiki/William_Emerson_(mathematician)",
+    "title": "William Emerson (mathematician)",
+    "page_title": "William_Emerson_(mathematician)",
+    "biography_paragraphs": [
+      "William Emerson (14 May 1701 – 20 May 1782) was an English mathematician. He was born in Hurworth, near Darlington, where his father, Dudley Emerson, also a mathematician, taught a school.",
+      "William himself had a small estate in Weardale called Castle Gate situated not far from Eastgate where he would repair to work throughout the summer on projects as disparate as stonemasonry and watchmaking.\nUnsuccessful as a teacher, he devoted himself entirely to studious retirement. Possessed of remarkable energy and forthrightness of speech, Emerson published many works which are singularly free from errata.",
+      "In The Principles of Mechanics (1754) he shows a wind-powered vehicle in which the vertically mounted propeller gives direct power to the front wheels via a system of cogs. In mechanics he never advanced a proposition which he had not previously tested in practice, nor published an invention without first proving its effects by a model. He was skilled in the science of music, the theory of sounds, and the ancient and modern scales; but he never attained any excellence as a performer. He died on 20 May 1782 at his native village, where his gravestone bears epitaphs in Latin and Hebrew.",
+      "Emerson dressed in old clothes and his manners were uncouth. He wore his shirt back to front and his legs wrapped in sacking so as not to scorch them as he sat over the fire. He declined an offer to become FRS because it would cost too much after all the expense of farthing candles he had been put to in the course of his life of study. Emerson rode regularly into Darlington on a horse like Don Quixote's, led by a hired small boy. In old age, plagued by the stone, he would alternately pray and curse, wishing his soul 'could shake off the rags of mortality without such a clitter-me-clatter.'",
+      "Like his fellow County Durham savant John Bird, Emerson makes an appearance in Mason and Dixon by Thomas Pynchon."
+    ],
+    "infobox": {
+      "birth": "14 May 1701 (1701-05-14)Hurworth",
+      "death": "20 May 1782 (1782-05-21) (aged 81)",
+      "nationality": "British",
+      "fields": "mathematics"
+    },
+    "scraped_at": "2025-08-11T01:12:16.250981",
+    "raw_html_length": 86338
+  },
+  "processed_at": "2025-08-11T01:12:17.252311",
+  "wikidata_info": {
+    "wikidata_id": "Q3031685",
+    "name": "William Emerson",
+    "birth_year": 1701,
+    "death_year": 1782,
+    "birth_date_full": "1701-05-14T00:00:00Z",
+    "death_date_full": "1782-05-20T00:00:00Z",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/William_Emerson_(mathematician)",
+    "nationality": "",
+    "birth_place": {
+      "name": "",
+      "wikidata_uri": "",
+      "coordinates": null
+    },
+    "image_url": "",
+    "fields": [
+      "mathematics"
+    ],
+    "data_source": "wikidata_sparql",
+    "extracted_at": "2025-08-11T01:11:25.224867",
+    "wikidata_query_metadata": {
+      "query_date": "2025-08-11T01:11:25.224867",
+      "endpoint": "https://query.wikidata.org/sparql",
+      "data_quality": "structured"
+    }
+  }
+}

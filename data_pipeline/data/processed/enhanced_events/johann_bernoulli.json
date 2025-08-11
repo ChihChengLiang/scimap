@@ -1,0 +1,182 @@
+{
+  "id": null,
+  "name": "Johann Bernoulli",
+  "birth_year": 1667,
+  "death_year": 1748,
+  "nationality": "European",
+  "fields": [
+    "mathematics"
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Johann_Bernoulli",
+  "wikipedia_data": {
+    "url": "https://en.wikipedia.org/wiki/Johann_Bernoulli",
+    "title": "Johann Bernoulli",
+    "page_title": "Johann_Bernoulli",
+    "biography_paragraphs": [
+      "Johann Bernoulli[a] (also known as Jean in French or John in English; 6 August [O.S. 27 July] 1667 – 1 January 1748) was a Swiss mathematician and was one of the many prominent mathematicians in the Bernoulli family. He is known for his contributions to infinitesimal calculus and educating Leonhard Euler in the pupil's youth.",
+      "Johann was born in Basel, the son of Nicolaus Bernoulli, an apothecary, and his wife, Margarethe Schongauer, and began studying medicine at University of Basel.  His father desired that he study business so that he might take over the family spice trade, but Johann Bernoulli did not like business and convinced his father to allow him to study medicine instead. Johann Bernoulli began studying mathematics on the side with his older brother Jacob Bernoulli.[5] Throughout Johann Bernoulli's education at Basel University, the Bernoulli brothers worked together, spending much of their time studying the newly discovered infinitesimal calculus. They were among the first mathematicians to not only study and understand calculus but to apply it to various problems.[6] In 1690,[7] he completed a degree dissertation in medicine,[8] reviewed by Gottfried Leibniz,[7] whose title was De Motu musculorum et de effervescent et fermentation.[9]",
+      "After graduating from Basel University, Johann Bernoulli moved to teach differential equations. Later, in 1694, he married Dorothea Falkner, the daughter of an alderman of Basel, and soon after accepted a position as the professor of mathematics at the University of Groningen. At the request of his father-in-law, Bernoulli began the voyage back to his home town of Basel in 1705. Just after setting out on the journey he learned of his brother's death to tuberculosis. Bernoulli had planned on becoming the professor of Greek at Basel University upon returning but instead was able to take over as professor of mathematics, his older brother's former position. As a student of Leibniz's calculus, Bernoulli sided with him in 1713 in the Leibniz–Newton debate over who deserved credit for the discovery of calculus. Bernoulli defended Leibniz by showing that he had solved certain problems with his methods that Newton had failed to solve. Bernoulli also promoted Descartes' vortex theory over Newton's theory of gravitation. This ultimately delayed acceptance of Newton's theory in continental Europe.[10]",
+      "In 1724, Johann Bernoulli entered a competition sponsored by the French Académie Royale des Sciences, which posed the question:",
+      "In defending a view previously espoused by Leibniz, he found himself postulating an infinite external force required to make the body elastic by overcoming the infinite internal force making the body hard. In consequence, he was disqualified for the prize, which was won by Maclaurin. However, Bernoulli's paper was subsequently accepted in 1726 when the Académie considered papers regarding elastic bodies, for which the prize was awarded to Pierre Mazière. Bernoulli received an honourable mention in both competitions."
+    ],
+    "infobox": {
+      "birth": "(1667-08-06)6 August 1667Basel, Switzerland",
+      "death": "1 January 1748(1748-01-01) (aged 80)Basel, Switzerland",
+      "education": "University of Basel(M.D., 1694)",
+      "fields": "Mathematics"
+    },
+    "scraped_at": "2025-08-11T01:11:47.912073",
+    "raw_html_length": 181309
+  },
+  "processed_at": "2025-08-11T01:11:48.917268",
+  "wikidata_info": {
+    "wikidata_id": "Q227897",
+    "name": "Johann Bernoulli",
+    "birth_year": 1667,
+    "death_year": 1748,
+    "birth_date_full": "1667-08-06T00:00:00Z",
+    "death_date_full": "1748-01-01T00:00:00Z",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Johann_Bernoulli",
+    "nationality": "",
+    "birth_place": {
+      "name": "",
+      "wikidata_uri": "",
+      "coordinates": null
+    },
+    "image_url": "",
+    "fields": [
+      "mathematics"
+    ],
+    "data_source": "wikidata_sparql",
+    "extracted_at": "2025-08-11T01:11:25.223183",
+    "wikidata_query_metadata": {
+      "query_date": "2025-08-11T01:11:25.223184",
+      "endpoint": "https://query.wikidata.org/sparql",
+      "data_quality": "structured"
+    }
+  },
+  "timeline_events": [
+    {
+      "year": 1700,
+      "year_confidence": "approximate",
+      "event_type": "position",
+      "description": "Johann Bernoulli likely continued his studies at the University of Basel, focusing on mathematics.",
+      "location": {
+        "place_name": "University of Basel",
+        "raw_text": "University of Basel",
+        "confidence": 0.95
+      },
+      "source_text": "Johann Bernoulli began studying mathematics on the side...",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:25:05.780632",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": 1705,
+      "year_confidence": "exact",
+      "event_type": "travel",
+      "description": "Travelled to Basel from Groningen after learning of his brother's death.",
+      "location": {
+        "place_name": "Groningen, Basel",
+        "raw_text": "Bernoulli began the voyage back to his home town of Basel",
+        "confidence": 0.98
+      },
+      "source_text": "At the request of his father-in-law, Bernoulli began the voyage back to his home town...",
+      "confidence": 0.98,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:25:05.780664",
+        "extraction_confidence": 0.98,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": 1705,
+      "year_confidence": "exact",
+      "event_type": "position",
+      "description": "Took over as professor of mathematics at the University of Basel, succeeding his brother.",
+      "location": {
+        "place_name": "University of Basel",
+        "raw_text": "instead was able to take over as professor of mathematics",
+        "confidence": 0.95
+      },
+      "source_text": "Bernoulli...was able to take over as professor of mathematics",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:25:05.780674",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": 1713,
+      "year_confidence": "exact",
+      "event_type": "collaboration",
+      "description": "Supported Gottfried Leibniz in the Leibniz–Newton debate regarding the discovery of calculus, defending his methods.",
+      "location": {
+        "place_name": "Continental Europe",
+        "raw_text": "Bernoulli sided with him in 1713 in the Leibniz–Newton debate",
+        "confidence": 0.95
+      },
+      "source_text": "As a student of Leibniz's calculus, Bernoulli sided with him...",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:25:05.780683",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1713-1748",
+      "year_confidence": "range",
+      "event_type": "publication",
+      "description": "Continued to publish mathematical works, likely focusing on calculus and related fields.",
+      "location": {
+        "place_name": "Basel",
+        "raw_text": "Bernoulli...promoted Descartes' vortex theory...",
+        "confidence": 0.85
+      },
+      "source_text": "Bernoulli also promoted Descartes' vortex theory...",
+      "confidence": 0.85,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:25:05.780706",
+        "extraction_confidence": 0.85,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1748",
+      "year_confidence": "exact",
+      "event_type": "death",
+      "description": "Died in Basel, Switzerland.",
+      "location": {
+        "place_name": "Basel, Switzerland",
+        "raw_text": "1 January 1748",
+        "confidence": 0.98
+      },
+      "source_text": "Johann Bernoulli (also known as Jean in French or John in English; 6 August 1667 – 1 January 1748)",
+      "confidence": 0.98,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:25:05.780719",
+        "extraction_confidence": 0.98,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    }
+  ],
+  "timeline_extraction_metadata": {
+    "extracted_at": "2025-08-11T16:25:05.780852",
+    "model_used": "lm_studio_google/gemma-3n-e4b",
+    "events_count": 6,
+    "biography_length": 2374,
+    "enhancement_level": "gemma_comprehensive",
+    "target_events_per_mathematician": "5-10"
+  }
+}

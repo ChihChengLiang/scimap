@@ -1,0 +1,55 @@
+{
+  "id": null,
+  "name": "Théodore Cornut",
+  "birth_year": 1700,
+  "death_year": 1750,
+  "nationality": "European",
+  "fields": [
+    "mathematics"
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Th%C3%A9odore_Cornut",
+  "wikipedia_data": {
+    "url": "https://en.wikipedia.org/wiki/Th%C3%A9odore_Cornut",
+    "title": "Théodore Cornut",
+    "page_title": "Th%C3%A9odore_Cornut",
+    "biography_paragraphs": [
+      "Théodore Cornut, also Cornout, was a French mathematician and military architect of the 18th century, born in Avignon, who worked for the King of Morocco.",
+      "Cornut initially worked as an architect for military fortifications in Roussillon. He then entered the service of the English Crown, and participated to the Seven Years' War. Later, based in Gibraltar, he was invited by Sidi Mohamed ben Abdallah, an Alaouite Sultan, to build the city of Mogador (modern Essaouira) in 1766.",
+      "Cornut was to use the services of hundreds of French Christian prisoners, who had been taken during a failed assault in 1765 Larache expedition.",
+      "He designed the city of Essaouira, and built it with the help of the prisoners. He built the surrounding walls similar to those of St Malo, and organized the streets of the Medina quarter according to a grid system.[1]",
+      "Cornut only designed and built the Royal quarters, or kasbah area, of the current city. The rest of the medina was built afterwards, as were the sqalas, such as the harbour fortifications and the northern sqala fortifications."
+    ],
+    "infobox": {
+      "nationality": "French"
+    },
+    "scraped_at": "2025-08-11T01:11:59.893849",
+    "raw_html_length": 76024
+  },
+  "processed_at": "2025-08-11T01:12:00.899042",
+  "wikidata_info": {
+    "wikidata_id": "Q1153589",
+    "name": "Théodore Cornut",
+    "birth_year": 1700,
+    "death_year": 1750,
+    "birth_date_full": "1700-01-01T00:00:00Z",
+    "death_date_full": "1750-01-01T00:00:00Z",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Th%C3%A9odore_Cornut",
+    "nationality": "",
+    "birth_place": {
+      "name": "",
+      "wikidata_uri": "",
+      "coordinates": null
+    },
+    "image_url": "",
+    "fields": [
+      "mathematics"
+    ],
+    "data_source": "wikidata_sparql",
+    "extracted_at": "2025-08-11T01:11:25.224707",
+    "wikidata_query_metadata": {
+      "query_date": "2025-08-11T01:11:25.224708",
+      "endpoint": "https://query.wikidata.org/sparql",
+      "data_quality": "structured"
+    }
+  }
+}

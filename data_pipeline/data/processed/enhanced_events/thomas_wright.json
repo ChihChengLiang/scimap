@@ -1,0 +1,262 @@
+{
+  "id": null,
+  "name": "Thomas Wright",
+  "birth_year": 1711,
+  "death_year": 1786,
+  "nationality": "European",
+  "fields": [
+    "mathematics"
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Thomas_Wright_(astronomer)",
+  "wikipedia_data": {
+    "url": "https://en.wikipedia.org/wiki/Thomas_Wright_(astronomer)",
+    "title": "Thomas Wright (astronomer)",
+    "page_title": "Thomas_Wright_(astronomer)",
+    "biography_paragraphs": [
+      "Thomas Wright (22 September 1711 – 25 February 1786) was an English astronomer, mathematician, instrument maker, architect and garden designer. He was the first to describe the shape of the Milky Way and to speculate that faint nebulæ were distant galaxies.",
+      "Wright was born at Byers Green in County Durham, being the third son of John and Margaret Wright of Pegg's Poole House.[1] His father was a carpenter.[2] He was educated at home as he suffered from speech impediment, and then at King James I Academy. In 1725 he entered into a clock-making apprenticeship to Bryan Stobart of Bishop Auckland, continuing to study on his own. He also took courses on mathematics and navigation at a free school in the parish of Gateshead founded by Dr Theophilus Pickering. Then he went to London to study mathematical instrument-making with Heath and Sisson, and made a trial sea voyage to Amsterdam.",
+      "In 1730, he set up a school in Sunderland, where he taught mathematics and navigation.[3] He later moved back to London to work on a number of projects for his wealthy patrons. He travelled in 1746-7 to Ireland which resulted in a book, Louthiana, with plans and engravings of the ancient monuments of County Louth, published in London in 1748. That was before he retired to County Durham and built a small observatory at Westerton.",
+      "Wright's publication An Original Theory or New Hypothesis of the Universe (1750) explained the appearance of the Milky Way as \"an optical effect due to our immersion in what locally approximates to a flat layer of stars.\"[4] This work influenced Immanuel Kant in writing his Universal Natural History and Theory of the Heavens (1755).[5] The theory was later empirically advanced by William Herschel in 1785,[6] leading to galactocentrism (a form of heliocentrism, with the Sun at the centre of the Milky Way). Another of Wright's ideas, which is also often attributed to Kant, was that many faint nebulæ are actually incredibly distant galaxies. Wright wrote:[7][8]",
+      "...the many cloudy spots, just perceivable by us, as far without our Starry regions, in which tho' visibly luminous spaces, no one star or particular constituent body can possibly be distinguished; those in all likelihood may be external creation, bordering upon the known one, too remote for even our telescopes to reach."
+    ],
+    "infobox": {},
+    "scraped_at": "2025-08-11T01:13:19.099227",
+    "raw_html_length": 135744
+  },
+  "processed_at": "2025-08-11T01:13:20.104464",
+  "wikidata_info": {
+    "wikidata_id": "Q460791",
+    "name": "Thomas Wright",
+    "birth_year": 1711,
+    "death_year": 1786,
+    "birth_date_full": "1711-09-22T00:00:00Z",
+    "death_date_full": "1786-02-22T00:00:00Z",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Thomas_Wright_(astronomer)",
+    "nationality": "",
+    "birth_place": {
+      "name": "",
+      "wikidata_uri": "",
+      "coordinates": null
+    },
+    "image_url": "",
+    "fields": [
+      "mathematics"
+    ],
+    "data_source": "wikidata_sparql",
+    "extracted_at": "2025-08-11T01:11:25.225544",
+    "wikidata_query_metadata": {
+      "query_date": "2025-08-11T01:11:25.225545",
+      "endpoint": "https://query.wikidata.org/sparql",
+      "data_quality": "structured"
+    }
+  },
+  "timeline_events": [
+    {
+      "year": 1711,
+      "year_confidence": "exact",
+      "event_type": "birth",
+      "description": "Born at Byers Green in County Durham, the third son of John and Margaret Wright.",
+      "location": {
+        "place_name": "Byers Green, County Durham",
+        "raw_text": "Born at Byers Green in County Durham",
+        "confidence": 1.0
+      },
+      "source_text": "Thomas Wright (22 September 1711 – 25 February 1786) was an English astronomer, mathematician, instrument maker, architect and garden designer. He was the first to describe the shape of the Milky Way and to speculate that faint nebulæ were distant galaxies. Wright was born at Byers Green in County Durham, being the third son of John and Margaret Wright of Pegg's Poole House.",
+      "confidence": 1.0,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:46:17.411741",
+        "extraction_confidence": 1.0,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": 1725,
+      "year_confidence": "exact",
+      "event_type": "education",
+      "description": "Entered into a clock-making apprenticeship to Bryan Stobart of Bishop Auckland.",
+      "location": {
+        "place_name": "Bishop Auckland",
+        "raw_text": "entered into a clock-making apprenticeship to Bryan Stobart of Bishop Auckland",
+        "confidence": 0.95
+      },
+      "source_text": "He was educated at home as he suffered from speech impediment, and then at King James I Academy. He entered into a clock-making apprenticeship to Bryan Stobart of Bishop Auckland",
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:46:17.411845",
+        "extraction_confidence": 0.8,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": 1725,
+      "year_confidence": "exact",
+      "event_type": "education",
+      "description": "Studied mathematics and navigation at a free school in the parish of Gateshead.",
+      "location": {
+        "place_name": "Gateshead",
+        "raw_text": "took courses on mathematics and navigation at a free school in the parish of Gateshead",
+        "confidence": 0.95
+      },
+      "source_text": "He was educated at home as he suffered from speech impediment, and then at King James I Academy. He also took courses on mathematics and navigation at a free school in the parish of Gateshead.",
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:46:17.411852",
+        "extraction_confidence": 0.8,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": 1725,
+      "year_confidence": "exact",
+      "event_type": "education",
+      "description": "Studied mathematical instrument-making with Heath and Sisson in London.",
+      "location": {
+        "place_name": "London",
+        "raw_text": "went to London to study mathematical instrument-making with Heath and Sisson",
+        "confidence": 0.95
+      },
+      "source_text": "Then he went to London to study mathematical instrument-making with Heath and Sisson, and made a trial sea voyage to Amsterdam.",
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:46:17.411857",
+        "extraction_confidence": 0.8,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": 1725,
+      "year_confidence": "exact",
+      "event_type": "travel",
+      "description": "Made a trial sea voyage to Amsterdam.",
+      "location": {
+        "place_name": "Amsterdam",
+        "raw_text": "made a trial sea voyage to Amsterdam",
+        "confidence": 0.95
+      },
+      "source_text": "Then he went to London to study mathematical instrument-making with Heath and Sisson, and made a trial sea voyage to Amsterdam.",
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:46:17.411863",
+        "extraction_confidence": 0.8,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": 1730,
+      "year_confidence": "exact",
+      "event_type": "position",
+      "description": "Set up a school in Sunderland, teaching mathematics and navigation.",
+      "location": {
+        "place_name": "Sunderland",
+        "raw_text": "set up a school in Sunderland, where he taught mathematics and navigation",
+        "confidence": 0.95
+      },
+      "source_text": "In 1730, he set up a school in Sunderland, where he taught mathematics and navigation.",
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:46:17.411868",
+        "extraction_confidence": 0.8,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": 1730,
+      "year_confidence": "exact",
+      "event_type": "position",
+      "description": "Worked on projects for wealthy patrons in London.",
+      "location": {
+        "place_name": "London",
+        "raw_text": "He later moved back to London to work on a number of projects for his wealthy patrons.",
+        "confidence": 0.95
+      },
+      "source_text": "He later moved back to London to work on a number of projects for his wealthy patrons.",
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:46:17.411873",
+        "extraction_confidence": 0.8,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": 1746,
+      "year_confidence": "exact",
+      "event_type": "travel",
+      "description": "Travelled to Ireland.",
+      "location": {
+        "place_name": "Ireland",
+        "raw_text": "Travelled in 1746-7 to Ireland",
+        "confidence": 0.95
+      },
+      "source_text": "He travelled in 1746-7 to Ireland which resulted in a book, Louthiana...",
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:46:17.411877",
+        "extraction_confidence": 0.8,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1746-1747",
+      "year_confidence": "range",
+      "event_type": "publication",
+      "description": "Wrote 'Louthiana', a book with plans and engravings of the ancient monuments of County Louth.",
+      "location": {
+        "place_name": "London",
+        "raw_text": "Louthiana, with plans and engravings of the ancient monuments of County Louth, published in London in 1748",
+        "confidence": 0.95
+      },
+      "source_text": "That was before he retired to County Durham and built a small observatory at Westerton. He travelled in 1746-7 to Ireland which resulted in a book, Louthiana, with plans and engravings of the ancient monuments of County Louth, published in London in 1748.",
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:46:17.411961",
+        "extraction_confidence": 0.8,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": 1748,
+      "year_confidence": "exact",
+      "event_type": "publication",
+      "description": "'Louthiana' published in London.",
+      "location": {
+        "place_name": "London",
+        "raw_text": "Louthiana, with plans and engravings of the ancient monuments of County Louth, published in London in 1748",
+        "confidence": 0.95
+      },
+      "source_text": "That was before he retired to County Durham and built a small observatory at Westerton. He travelled in 1746-7 to Ireland which resulted in a book, Louthiana, with plans and engravings of the ancient monuments of County Louth, published in London in 1748.",
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:46:17.411967",
+        "extraction_confidence": 0.8,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": 1786,
+      "year_confidence": "exact",
+      "event_type": "death",
+      "description": "Died on 25 February 1786.",
+      "location": {
+        "place_name": "Westerton, County Durham",
+        "raw_text": "Thomas Wright (22 September 1711 – 25 February 1786)",
+        "confidence": 0.95
+      },
+      "source_text": "Thomas Wright (22 September 1711 – 25 February 1786) was an English astronomer, mathematician, instrument maker, architect and garden designer.",
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:46:17.412057",
+        "extraction_confidence": 0.8,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    }
+  ],
+  "timeline_extraction_metadata": {
+    "extracted_at": "2025-08-11T16:46:17.412273",
+    "model_used": "lm_studio_google/gemma-3n-e4b",
+    "events_count": 11,
+    "biography_length": 1323,
+    "enhancement_level": "gemma_comprehensive",
+    "target_events_per_mathematician": "5-10"
+  }
+}

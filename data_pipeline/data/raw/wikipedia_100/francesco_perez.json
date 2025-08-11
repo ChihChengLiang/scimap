@@ -1,0 +1,50 @@
+{
+  "id": null,
+  "name": "Francesco Perez",
+  "birth_year": 1701,
+  "death_year": 1800,
+  "nationality": "European",
+  "fields": [
+    "mathematics"
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Francesco_Perez",
+  "wikipedia_data": {
+    "url": "https://en.wikipedia.org/wiki/Francesco_Perez",
+    "title": "Francesco Perez",
+    "page_title": "Francesco_Perez",
+    "biography_paragraphs": [
+      "Francesco Perez was an 18th-century Italian abbot and mathematician, whose work Tri-lichanon goni-arith-metron, describing a goniometer (instrument for measurement of angles), was published in 1781.[1] He later published a letter complaining about the \"plagiarizing usurpation\" of this invention by Eliseo della Concezione.[2][3]",
+      "This article about an Italian mathematician is a stub. You can help Wikipedia by expanding it."
+    ],
+    "infobox": {},
+    "scraped_at": "2025-08-11T01:12:15.045067",
+    "raw_html_length": 67653
+  },
+  "processed_at": "2025-08-11T01:12:16.050191",
+  "wikidata_info": {
+    "wikidata_id": "Q21282955",
+    "name": "Francesco Perez",
+    "birth_year": 1701,
+    "death_year": 1800,
+    "birth_date_full": "1701-01-01T00:00:00Z",
+    "death_date_full": "1800-01-01T00:00:00Z",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Francesco_Perez",
+    "nationality": "",
+    "birth_place": {
+      "name": "",
+      "wikidata_uri": "",
+      "coordinates": null
+    },
+    "image_url": "",
+    "fields": [
+      "mathematics"
+    ],
+    "data_source": "wikidata_sparql",
+    "extracted_at": "2025-08-11T01:11:25.224846",
+    "wikidata_query_metadata": {
+      "query_date": "2025-08-11T01:11:25.224847",
+      "endpoint": "https://query.wikidata.org/sparql",
+      "data_quality": "structured"
+    }
+  }
+}

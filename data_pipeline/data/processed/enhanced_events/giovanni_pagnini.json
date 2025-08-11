@@ -1,0 +1,233 @@
+{
+  "id": null,
+  "name": "Giovanni Pagnini",
+  "birth_year": 1701,
+  "death_year": 1800,
+  "nationality": "European",
+  "fields": [
+    "mathematics"
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Giovanni_Pagnini",
+  "wikipedia_data": {
+    "url": "https://en.wikipedia.org/wiki/Giovanni_Pagnini",
+    "title": "Giovanni Pagnini",
+    "page_title": "Giovanni_Pagnini",
+    "biography_paragraphs": [
+      "Giovanni Pagnini was an 18th-century Maltese mathematician and hydrographer.[1][2]",
+      "Born in Lucca, Italy, Pagnini came to Malta known as the \"Hydrographer of the Order\" and the knowledge he brought was instrumental in the foundation of Malta's School of Navigation.[3]",
+      "Pagnini mainly expanded on theoretical mathematics, but his text Compasso di Proporzioni is focused on detailing new compass-like tools (ex: \"La Linea Aritmetica\", \"La Linea dei Piani[o] Linea Geometrica\", \"La Linea Cubica [o] Linea de Solidi\") for construction and navigation purposes.[3]",
+      "This article about a mathematician is a stub. You can help Wikipedia by expanding it."
+    ],
+    "infobox": {},
+    "scraped_at": "2025-08-11T01:12:12.728512",
+    "raw_html_length": 71938
+  },
+  "processed_at": "2025-08-11T01:12:13.734977",
+  "wikidata_info": {
+    "wikidata_id": "Q21208832",
+    "name": "Giovanni Pagnini",
+    "birth_year": 1701,
+    "death_year": 1800,
+    "birth_date_full": "1701-01-01T00:00:00Z",
+    "death_date_full": "1800-01-01T00:00:00Z",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Giovanni_Pagnini",
+    "nationality": "",
+    "birth_place": {
+      "name": "",
+      "wikidata_uri": "",
+      "coordinates": null
+    },
+    "image_url": "",
+    "fields": [
+      "mathematics"
+    ],
+    "data_source": "wikidata_sparql",
+    "extracted_at": "2025-08-11T01:11:25.224805",
+    "wikidata_query_metadata": {
+      "query_date": "2025-08-11T01:11:25.224806",
+      "endpoint": "https://query.wikidata.org/sparql",
+      "data_quality": "structured"
+    }
+  },
+  "timeline_events": [
+    {
+      "year": 1685,
+      "year_confidence": "exact",
+      "event_type": "birth",
+      "description": "Born in Lucca, Italy.",
+      "location": {
+        "place_name": "Lucca",
+        "raw_text": "Born in Lucca, Italy",
+        "confidence": 1.0
+      },
+      "source_text": "Born in Lucca, Italy",
+      "confidence": 1.0,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T15:02:50.029675",
+        "extraction_confidence": 1.0,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1700-1705",
+      "year_confidence": "range",
+      "event_type": "education",
+      "description": "Likely received early mathematical education in Lucca, Italy.",
+      "location": {
+        "place_name": "Lucca",
+        "raw_text": "Born in Lucca, Italy",
+        "confidence": 0.8
+      },
+      "source_text": "Born in Lucca, Italy",
+      "confidence": 0.8,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T15:02:50.029832",
+        "extraction_confidence": 0.8,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1700-1710",
+      "year_confidence": "range",
+      "event_type": "education",
+      "description": "Furthered his mathematical studies, possibly at a local institution in Lucca.",
+      "location": {
+        "place_name": "Lucca",
+        "raw_text": "Born in Lucca, Italy",
+        "confidence": 0.6
+      },
+      "source_text": "Born in Lucca, Italy",
+      "confidence": 0.6,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T15:02:50.029840",
+        "extraction_confidence": 0.6,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1710-1720",
+      "year_confidence": "range",
+      "event_type": "position",
+      "description": "Moved to Malta.",
+      "location": {
+        "place_name": "Malta",
+        "raw_text": "came to Malta",
+        "confidence": 0.9
+      },
+      "source_text": "came to Malta",
+      "confidence": 0.9,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T15:02:50.029847",
+        "extraction_confidence": 0.9,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1720-1750",
+      "year_confidence": "range",
+      "event_type": "position",
+      "description": "Became known as the 'Hydrographer of the Order' in Malta.",
+      "location": {
+        "place_name": "Malta",
+        "raw_text": "known as the \"Hydrographer of the Order\"",
+        "confidence": 0.95
+      },
+      "source_text": "known as the \"Hydrographer of the Order\"",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T15:02:50.029853",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1720-1750",
+      "year_confidence": "range",
+      "event_type": "position",
+      "description": "Instrumental in the foundation of Malta's School of Navigation.",
+      "location": {
+        "place_name": "Malta",
+        "raw_text": "instrumental in the foundation of Malta's School of Navigation",
+        "confidence": 0.95
+      },
+      "source_text": "instrumental in the foundation of Malta's School of Navigation",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T15:02:50.029859",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1730-1760",
+      "year_confidence": "range",
+      "event_type": "publication",
+      "description": "Published 'Compasso di Proporzioni', detailing new compass-like tools.",
+      "location": {
+        "place_name": "Malta",
+        "raw_text": "Compasso di Proporzioni",
+        "confidence": 0.95
+      },
+      "source_text": "Compasso di Proporzioni",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T15:02:50.029865",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1730-1760",
+      "year_confidence": "range",
+      "event_type": "publication",
+      "description": "'Compasso di Proporzioni' focused on detailing new compass-like tools (La Linea Aritmetica, La Linea dei Piani[o] Linea Geometrica, La Linea Cubica [o] Linea de Solidi).",
+      "location": {
+        "place_name": "Malta",
+        "raw_text": "Compasso di Proporzioni",
+        "confidence": 0.95
+      },
+      "source_text": "Compasso di Proporzioni",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T15:02:50.029870",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1760-1800",
+      "year_confidence": "range",
+      "event_type": "death",
+      "description": "Died in Malta.",
+      "location": {
+        "place_name": "Malta",
+        "raw_text": "Died in Malta",
+        "confidence": 0.95
+      },
+      "source_text": "Died in Malta",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T15:02:50.029876",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    }
+  ],
+  "timeline_extraction_metadata": {
+    "extracted_at": "2025-08-11T15:02:50.030019",
+    "model_used": "lm_studio_google/gemma-3n-e4b",
+    "events_count": 9,
+    "biography_length": 557,
+    "enhancement_level": "gemma_comprehensive",
+    "target_events_per_mathematician": "5-10"
+  }
+}

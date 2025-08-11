@@ -1,0 +1,334 @@
+{
+  "id": null,
+  "name": "Vincenzo Riccati",
+  "birth_year": 1707,
+  "death_year": 1775,
+  "nationality": "European",
+  "fields": [
+    "mathematics"
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Vincenzo_Riccati",
+  "wikipedia_data": {
+    "url": "https://en.wikipedia.org/wiki/Vincenzo_Riccati",
+    "title": "Vincenzo Riccati",
+    "page_title": "Vincenzo_Riccati",
+    "biography_paragraphs": [
+      "Vincenzo Riccati (Castelfranco Veneto, 11 January 1707 – Treviso, 17 January 1775) was a Venetian Catholic priest, mathematician, and physicist. He is credited with introducing hyperbolic functions.[2][3][4]",
+      "Vincenzo Riccati was born in 1707 in Castelfranco Veneto, a small town about 30 km north of Padua. He was the brother of Giordano Riccati, and the second son of Jacopo Riccati.[5] He began his studies at the College of St. Francis Xavier in Bologna, under the guidance of Luigi Marchenti, a pupil of the French mathematician Pierre Varignon. He entered the Society of Jesus on December 20, 1726.[6] He taught belles lettres in the colleges of the Order in Piacenza (1728), Padua (1729), and Parma (1734). He then went to Rome to study theology. In 1739 he was assigned to the College of St. Francis Xavier of Bologna, where he taught mathematics for thirty years, succeeding his former teacher Luigi Marchenti. He was among the first members of the Italian National Academy of Sciences.[7] In 1760 he was elected Honorary Fellow of the Russian Academy of Sciences.[8]",
+      "Riccati's main research continued the work of his father in mathematical analysis, especially in the fields of the differential equations and physics. In 1746 and 1749 Riccati published two works, in which he discussed the question of the parallelogram of forces in the context of the vis viva controversy. In 1752, he published the short treatise De usu motus tractorii in constructione aequationum differentialium, in which he proved that all first-order (ordinary) differential equations conceivable at the time could be constructed using tractional motion.[9]",
+      "Riccati's main contributions to mathematics and physics were published in two volumes, Opusculorum ad res physicas mathematicas pertinentium (Bologna, 1757-1762), where he introduced the use of hyperbolic functions.[10] Vincenzo edited, in collaboration with his brother Giordano, the Works of his father and published, in collaboration with his friend and student Girolamo Saladini, the three-volume treatise Institutiones analyticae, an important textbook on calculus printed in Bologna in 1765-67. Ten years later Saladini produced an Italian translation of the work under the title Instituzioni Analitiche. Riccati's Institutiones analyticae is the fullest 18th-century Italian treatise on analytic methods in mathematics.",
+      "After the suppression of the Society of Jesus, Riccati retired to his family home in Treviso, where he died on January 17, 1775. Riccati was a friend and correspondent of Maria Gaetana Agnesi and Ramiro Rampinelli.[11]"
+    ],
+    "infobox": {
+      "birth": "(1707-01-11)11 January 1707Castelfranco Veneto, Venetian Republic",
+      "death": "17 January 1775(1775-01-17) (aged 68)Treviso, Venetian Republic",
+      "nationality": "Italian",
+      "fields": "Mathematician and physicist"
+    },
+    "scraped_at": "2025-08-11T01:12:50.553670",
+    "raw_html_length": 137956
+  },
+  "processed_at": "2025-08-11T01:12:51.562216",
+  "wikidata_info": {
+    "wikidata_id": "Q2121731",
+    "name": "Vincenzo Riccati",
+    "birth_year": 1707,
+    "death_year": 1775,
+    "birth_date_full": "1707-01-11T00:00:00Z",
+    "death_date_full": "1775-01-17T00:00:00Z",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Vincenzo_Riccati",
+    "nationality": "",
+    "birth_place": {
+      "name": "",
+      "wikidata_uri": "",
+      "coordinates": null
+    },
+    "image_url": "",
+    "fields": [
+      "mathematics"
+    ],
+    "data_source": "wikidata_sparql",
+    "extracted_at": "2025-08-11T01:11:25.225199",
+    "wikidata_query_metadata": {
+      "query_date": "2025-08-11T01:11:25.225200",
+      "endpoint": "https://query.wikidata.org/sparql",
+      "data_quality": "structured"
+    }
+  },
+  "timeline_events": [
+    {
+      "year": 1707,
+      "year_confidence": "exact",
+      "event_type": "birth",
+      "description": "Born in Castelfranco Veneto, Italy.",
+      "location": {
+        "place_name": "Castelfranco Veneto",
+        "raw_text": "Born in 1707 in Castelfranco Veneto",
+        "confidence": 1.0
+      },
+      "source_text": "Vincenzo Riccati was born in 1707 in Castelfranco Veneto",
+      "confidence": 1.0,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b_partial",
+        "extracted_at": "2025-08-11T16:20:59.031677",
+        "extraction_confidence": 1.0,
+        "extraction_method": "partial_json_recovery"
+      }
+    },
+    {
+      "year": "1700-1707",
+      "year_confidence": "range",
+      "event_type": "education",
+      "description": "Early studies in Castelfranco Veneto (implied).",
+      "location": {
+        "place_name": "Castelfranco Veneto",
+        "raw_text": "Born in Castelfranco Veneto",
+        "confidence": 0.8
+      },
+      "source_text": "Born in Castelfranco Veneto",
+      "confidence": 0.8,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b_partial",
+        "extracted_at": "2025-08-11T16:20:59.032035",
+        "extraction_confidence": 0.8,
+        "extraction_method": "partial_json_recovery"
+      }
+    },
+    {
+      "year": "1700-1707",
+      "year_confidence": "range",
+      "event_type": "education",
+      "description": "Studies at the College of St. Francis Xavier in Bologna.",
+      "location": {
+        "place_name": "Bologna",
+        "raw_text": "began his studies at the College of St. Francis Xavier in Bologna",
+        "confidence": 1.0
+      },
+      "source_text": "began his studies at the College of St. Francis Xavier in Bologna",
+      "confidence": 1.0,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b_partial",
+        "extracted_at": "2025-08-11T16:20:59.032170",
+        "extraction_confidence": 1.0,
+        "extraction_method": "partial_json_recovery"
+      }
+    },
+    {
+      "year": "1700-1707",
+      "year_confidence": "range",
+      "event_type": "education",
+      "description": "Studied under Luigi Marchenti, a pupil of Pierre Varignon.",
+      "location": {
+        "place_name": "Bologna",
+        "raw_text": "under the guidance of Luigi Marchenti, a pupil of the French mathematician Pierre Varignon",
+        "confidence": 1.0
+      },
+      "source_text": "under the guidance of Luigi Marchenti, a pupil of Pierre Varignon",
+      "confidence": 1.0,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b_partial",
+        "extracted_at": "2025-08-11T16:20:59.032287",
+        "extraction_confidence": 1.0,
+        "extraction_method": "partial_json_recovery"
+      }
+    },
+    {
+      "year": "1726",
+      "year_confidence": "exact",
+      "event_type": "position",
+      "description": "Entered the Society of Jesus.",
+      "location": {
+        "place_name": "Rome",
+        "raw_text": "entered the Society of Jesus on December 20, 1726",
+        "confidence": 0.9
+      },
+      "source_text": "entered the Society of Jesus on December 20, 1726",
+      "confidence": 1.0,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b_partial",
+        "extracted_at": "2025-08-11T16:20:59.032384",
+        "extraction_confidence": 1.0,
+        "extraction_method": "partial_json_recovery"
+      }
+    },
+    {
+      "year": "1728",
+      "year_confidence": "exact",
+      "event_type": "position",
+      "description": "Taught belles lettres in the colleges of the Order in Piacenza.",
+      "location": {
+        "place_name": "Piacenza",
+        "raw_text": "taught belles lettres in the colleges of the Order in Piacenza",
+        "confidence": 1.0
+      },
+      "source_text": "taught belles lettres in the colleges of the Order in Piacenza",
+      "confidence": 1.0,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b_partial",
+        "extracted_at": "2025-08-11T16:20:59.032493",
+        "extraction_confidence": 1.0,
+        "extraction_method": "partial_json_recovery"
+      }
+    },
+    {
+      "year": "1729",
+      "year_confidence": "exact",
+      "event_type": "position",
+      "description": "Taught belles lettres in the colleges of the Order in Padua.",
+      "location": {
+        "place_name": "Padua",
+        "raw_text": "taught belles lettres in the colleges of the Order in Padua",
+        "confidence": 1.0
+      },
+      "source_text": "taught belles lettres in the colleges of the Order in Padua",
+      "confidence": 1.0,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b_partial",
+        "extracted_at": "2025-08-11T16:20:59.032604",
+        "extraction_confidence": 1.0,
+        "extraction_method": "partial_json_recovery"
+      }
+    },
+    {
+      "year": "1734",
+      "year_confidence": "exact",
+      "event_type": "position",
+      "description": "Taught belles lettres in the colleges of the Order in Parma.",
+      "location": {
+        "place_name": "Parma",
+        "raw_text": "taught belles lettres in the colleges of the Order in Parma",
+        "confidence": 1.0
+      },
+      "source_text": "taught belles lettres in the colleges of the Order in Parma",
+      "confidence": 1.0,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b_partial",
+        "extracted_at": "2025-08-11T16:20:59.032713",
+        "extraction_confidence": 1.0,
+        "extraction_method": "partial_json_recovery"
+      }
+    },
+    {
+      "year": "1739",
+      "year_confidence": "exact",
+      "event_type": "position",
+      "description": "Assigned to the College of St. Francis Xavier of Bologna, teaching mathematics.",
+      "location": {
+        "place_name": "Bologna",
+        "raw_text": "assigned to the College of St. Francis Xavier of Bologna, where he taught mathematics",
+        "confidence": 1.0
+      },
+      "source_text": "assigned to the College of St. Francis Xavier of Bologna, where he taught mathematics",
+      "confidence": 1.0,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b_partial",
+        "extracted_at": "2025-08-11T16:20:59.032837",
+        "extraction_confidence": 1.0,
+        "extraction_method": "partial_json_recovery"
+      }
+    },
+    {
+      "year": "1739-1800",
+      "year_confidence": "range",
+      "event_type": "position",
+      "description": "Taught mathematics at the College of St. Francis Xavier of Bologna for thirty years, succeeding Luigi Marchenti.",
+      "location": {
+        "place_name": "Bologna",
+        "raw_text": "taught mathematics for thirty years, succeeding his former teacher Luigi Marchenti",
+        "confidence": 1.0
+      },
+      "source_text": "taught mathematics for thirty years, succeeding his former teacher Luigi Marchenti",
+      "confidence": 1.0,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b_partial",
+        "extracted_at": "2025-08-11T16:20:59.032970",
+        "extraction_confidence": 1.0,
+        "extraction_method": "partial_json_recovery"
+      }
+    },
+    {
+      "year": "1746",
+      "year_confidence": "exact",
+      "event_type": "publication",
+      "description": "Published a work discussing the parallelogram of forces in the context of the vis viva controversy.",
+      "location": {
+        "place_name": "Italy",
+        "raw_text": "published two works",
+        "confidence": 0.8
+      },
+      "source_text": "published two works in 1746 and 1749",
+      "confidence": 0.8,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b_partial",
+        "extracted_at": "2025-08-11T16:20:59.033093",
+        "extraction_confidence": 0.8,
+        "extraction_method": "partial_json_recovery"
+      }
+    },
+    {
+      "year": "1749",
+      "year_confidence": "exact",
+      "event_type": "publication",
+      "description": "Published a work discussing the parallelogram of forces in the context of the vis viva controversy.",
+      "location": {
+        "place_name": "Italy",
+        "raw_text": "published two works",
+        "confidence": 0.8
+      },
+      "source_text": "published two works in 1746 and 1749",
+      "confidence": 0.8,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b_partial",
+        "extracted_at": "2025-08-11T16:20:59.033206",
+        "extraction_confidence": 0.8,
+        "extraction_method": "partial_json_recovery"
+      }
+    },
+    {
+      "year": "1752",
+      "year_confidence": "exact",
+      "event_type": "publication",
+      "description": "Published 'De usu motus tractorii in constructione aequationum differentialium', proving that all first-order (ordinary) differential equations could be constructed using tractional motion.",
+      "location": {
+        "place_name": "Italy",
+        "raw_text": "published the short treatise De usu motus tractorii in constructione aequationum differentialium",
+        "confidence": 0.9
+      },
+      "source_text": "published the short treatise De usu motus tractorii in constructione aequationum differentialium",
+      "confidence": 1.0,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b_partial",
+        "extracted_at": "2025-08-11T16:20:59.033372",
+        "extraction_confidence": 1.0,
+        "extraction_method": "partial_json_recovery"
+      }
+    },
+    {
+      "year": "1760",
+      "year_confidence": "exact",
+      "event_type": "award",
+      "description": "Elected Honorary Fellow of the Russian Academy of Sciences.",
+      "location": {
+        "place_name": "Russia",
+        "raw_text": "elected Honorary Fellow of the Russian Academy of Sciences",
+        "confidence": 0.9
+      },
+      "source_text": "Elected Honorary Fellow of the Russian Academy of Sciences in 1760",
+      "confidence": 1.0,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b_partial",
+        "extracted_at": "2025-08-11T16:20:59.033488",
+        "extraction_confidence": 1.0,
+        "extraction_method": "partial_json_recovery"
+      }
+    }
+  ],
+  "timeline_extraction_metadata": {
+    "extracted_at": "2025-08-11T16:20:59.033931",
+    "model_used": "lm_studio_google/gemma-3n-e4b",
+    "events_count": 14,
+    "biography_length": 1639,
+    "enhancement_level": "gemma_comprehensive",
+    "target_events_per_mathematician": "5-10"
+  }
+}

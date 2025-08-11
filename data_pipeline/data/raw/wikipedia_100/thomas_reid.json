@@ -1,0 +1,58 @@
+{
+  "id": null,
+  "name": "Thomas Reid",
+  "birth_year": 1710,
+  "death_year": 1796,
+  "nationality": "European",
+  "fields": [
+    "mathematics"
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Thomas_Reid",
+  "wikipedia_data": {
+    "url": "https://en.wikipedia.org/wiki/Thomas_Reid",
+    "title": "Thomas Reid",
+    "page_title": "Thomas_Reid",
+    "biography_paragraphs": [
+      "Thomas Reid FRSE (/riːd/; 7 May (O.S. 26 April) 1710[6] – 7 October 1796) was a religiously trained Scottish philosopher best known for his philosophical method, his theory of perception, and its wide implications on epistemology, and as the developer and defender of an agent-causal theory of free will. He also focused extensively on ethics, theory of action, language and philosophy of mind.",
+      "He was the founder of the Scottish School of Common Sense and played an integral role in the Scottish Enlightenment. In 1783 he was a joint founder of the Royal Society of Edinburgh. A contemporary of David Hume, Reid was also \"Hume's earliest and fiercest critic\".[7]",
+      "Reid was born in the manse at Strachan, Aberdeenshire, on 26 April 1710,[6] the son of Lewis Reid (1676–1762) and his wife Margaret Gregory, first cousin to James Gregory. He was educated at Kincardine Parish School then the O'Neil Grammar School in Kincardine.[8]",
+      "He went to the University of Aberdeen in 1723 and graduated MA in 1726. He was licensed to preach by the Church of Scotland in 1731 when he came of age. He began his career as a minister of the Church of Scotland but ceased to be a minister when he was given a professorship at King's College, Aberdeen, in 1752. He obtained his doctorate and wrote An Inquiry Into the Human Mind on the Principles of Common Sense (published in 1764). He and his colleagues founded the 'Aberdeen Philosophical Society, popularly known as the 'Wise Club' (a literary-philosophical association).[9] Shortly after the publication of his first book, he was given the prestigious Professorship of Moral Philosophy at the University of Glasgow when he was called to replace Adam Smith. He resigned from this position in 1781, after which he prepared his university lectures for publication in two books: Essays on the Intellectual Powers of Man (1785) and Essays on the Active Powers of the Human Mind (1788). However, in 1787 he is still listed as \"Professor of Moral Philosophy\" at the university, but his classes were being taught by Archibald Arthur.[10]",
+      "In 1740 Thomas Reid married his cousin Elizabeth, daughter of the London physician George Reid. His wife and \"numerous\" children predeceased him, except for a daughter who married Patrick Carmichael.[11] Reid died of palsy, in Glasgow. He was buried at Blackfriars Church in the grounds of Glasgow College and when the university moved to Gilmorehill in the west of Glasgow, his tombstone was inserted in the main building."
+    ],
+    "infobox": {
+      "birth": "(1710-04-26)26 April 1710Strachan, Scotland",
+      "death": "7 October 1796(1796-10-07) (aged 86)Glasgow, Scotland",
+      "nationality": "Scottish",
+      "education": "University of Aberdeen"
+    },
+    "scraped_at": "2025-08-11T01:13:10.585187",
+    "raw_html_length": 213713
+  },
+  "processed_at": "2025-08-11T01:13:11.590387",
+  "wikidata_info": {
+    "wikidata_id": "Q316347",
+    "name": "Thomas Reid",
+    "birth_year": 1710,
+    "death_year": 1796,
+    "birth_date_full": "1710-04-26T00:00:00Z",
+    "death_date_full": "1796-10-07T00:00:00Z",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Thomas_Reid",
+    "nationality": "",
+    "birth_place": {
+      "name": "",
+      "wikidata_uri": "",
+      "coordinates": null
+    },
+    "image_url": "",
+    "fields": [
+      "mathematics"
+    ],
+    "data_source": "wikidata_sparql",
+    "extracted_at": "2025-08-11T01:11:25.225461",
+    "wikidata_query_metadata": {
+      "query_date": "2025-08-11T01:11:25.225462",
+      "endpoint": "https://query.wikidata.org/sparql",
+      "data_quality": "structured"
+    }
+  }
+}

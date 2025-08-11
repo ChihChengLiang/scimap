@@ -1,0 +1,315 @@
+{
+  "id": null,
+  "name": "Alexis Clairaut",
+  "birth_year": 1713,
+  "death_year": 1765,
+  "nationality": "French",
+  "fields": [
+    "mathematics"
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Alexis_Clairaut",
+  "wikipedia_data": {
+    "url": "https://en.wikipedia.org/wiki/Alexis_Clairaut",
+    "title": "Alexis Clairaut",
+    "page_title": "Alexis_Clairaut",
+    "biography_paragraphs": [
+      "Alexis Claude Clairaut (/klɛərˈroʊ/;[2] French: [alɛksi klod klɛʁo]; 13 May 1713 – 17 May 1765) was a French mathematician, astronomer, and geophysicist. He was a prominent Newtonian whose work helped to establish the validity of the principles and results that Sir Isaac Newton had outlined in the Principia of 1687. Clairaut was one of the key figures in the expedition to Lapland that helped to confirm Newton's theory for the figure of the Earth. In that context, Clairaut worked out a mathematical result now known as \"Clairaut's theorem\". He also tackled the gravitational three-body problem, being the first to obtain a satisfactory result for the apsidal precession of the Moon's orbit. In mathematics he is also credited with Clairaut's equation and Clairaut's relation.",
+      "Clairaut was born in Paris, France, to Jean-Baptiste and Catherine Petit Clairaut. The couple had 20 children, however only a few of them survived childbirth.[3] His father taught mathematics. Alexis was a prodigy – at the age of ten he began studying calculus. At the age of twelve he wrote a memoir on four geometrical curves and under his father's tutelage he made such rapid progress in the subject that in his thirteenth year he read before the Académie française an account of the properties of four curves which he had discovered.[4] When only sixteen he finished a treatise on Tortuous Curves, Recherches sur les courbes a double courbure, which, on its publication in 1731, procured his admission into the Royal Academy of Sciences, although he was below the legal age as he was only eighteen. He gave a path-breaking formulae called the distance formulae which helps to find out the distance between any 2 points on the cartesian or XY plane.",
+      "Clairaut was unmarried, and known for leading an active social life.[3] His growing popularity in society hindered his scientific work: \"He was focused,\" says Bossut, \"with dining and with evenings, coupled with a lively taste for women, and seeking to make his pleasures into his day to day work, he lost rest, health, and finally life at the age of fifty-two.\" Though he led a fulfilling social life, he was very prominent in the advancement of learning in young mathematicians.",
+      "He was elected a Fellow of the Royal Society of London on 27 October 1737.[5]",
+      "In 1736, together with Pierre Louis Maupertuis, he took part in the expedition to Lapland, which was undertaken for the purpose of estimating a degree of the meridian arc.[6] The goal of the excursion was to geometrically calculate the shape of the Earth, which Sir Isaac Newton theorised in his book Principia was an ellipsoid shape. They sought to prove if Newton's theory and calculations were correct or not. Before the expedition team returned to Paris, Clairaut sent his calculations to the Royal Society of London. The writing was later published by the society in the 1736–37 volume of Philosophical Transactions.[7] Initially, Clairaut disagrees with Newton's theory on the shape of the Earth. In the article, he outlines several key problems that effectively disprove Newton's calculations, and provides some solutions to the complications. The issues addressed include calculating gravitational attraction, the rotation of an ellipsoid on its axis, and the difference in density of an ellipsoid on its axes.[7] At the end of his letter, Clairaut writes that:"
+    ],
+    "infobox": {
+      "birth": "(1713-05-13)13 May 1713[1]Paris, France",
+      "death": "17 May 1765(1765-05-17) (aged 52)Paris, France",
+      "nationality": "French",
+      "fields": "Mathematics"
+    },
+    "scraped_at": "2025-08-11T01:11:34.476260",
+    "raw_html_length": 144011
+  },
+  "processed_at": "2025-08-11T01:11:35.481414",
+  "wikidata_info": {
+    "wikidata_id": "Q28937",
+    "name": "Alexis Clairaut",
+    "birth_year": 1713,
+    "death_year": 1765,
+    "birth_date_full": "1713-05-13T00:00:00Z",
+    "death_date_full": "1765-05-17T00:00:00Z",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Alexis_Clairaut",
+    "nationality": "",
+    "birth_place": {
+      "name": "",
+      "wikidata_uri": "",
+      "coordinates": null
+    },
+    "image_url": "",
+    "fields": [
+      "mathematics"
+    ],
+    "data_source": "wikidata_sparql",
+    "extracted_at": "2025-08-11T01:11:25.225667",
+    "wikidata_query_metadata": {
+      "query_date": "2025-08-11T01:11:25.225668",
+      "endpoint": "https://query.wikidata.org/sparql",
+      "data_quality": "structured"
+    }
+  },
+  "timeline_events": [
+    {
+      "year": 1700,
+      "year_confidence": "approximate",
+      "event_type": "birth",
+      "description": "Born in Paris, France to Jean-Baptiste and Catherine Petit Clairaut.",
+      "location": {
+        "place_name": "Paris, France",
+        "raw_text": "Born in Paris, France...",
+        "confidence": 1.0
+      },
+      "source_text": "Alexis Clairaut was born in Paris, France...",
+      "confidence": 1.0,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:10:32.424317",
+        "extraction_confidence": 1.0,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": 1713,
+      "year_confidence": "exact",
+      "event_type": "birth",
+      "description": "Born on May 13, 1713 in Paris, France.",
+      "location": {
+        "place_name": "Paris, France",
+        "raw_text": "13 May 1713",
+        "confidence": 1.0
+      },
+      "source_text": "Alexis Claude Clairaut (13 May 1713 - 17 May 1765)...",
+      "confidence": 1.0,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:10:32.424422",
+        "extraction_confidence": 1.0,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": 1713,
+      "year_confidence": "exact",
+      "event_type": "education",
+      "description": "Begun studying calculus at the age of ten under his father's tutelage.",
+      "location": {
+        "place_name": "Paris, France",
+        "raw_text": "His father taught mathematics.",
+        "confidence": 0.95
+      },
+      "source_text": "His father taught mathematics...",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:10:32.424430",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": 1713,
+      "year_confidence": "exact",
+      "event_type": "education",
+      "description": "At age twelve, wrote a memoir on four geometrical curves.",
+      "location": {
+        "place_name": "Paris, France",
+        "raw_text": "At the age of twelve he wrote a memoir...",
+        "confidence": 0.95
+      },
+      "source_text": "At the age of twelve he wrote a memoir...",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:10:32.424435",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": 1713,
+      "year_confidence": "exact",
+      "event_type": "education",
+      "description": "At age thirteen, read an account of his discoveries before the Académie française.",
+      "location": {
+        "place_name": "Paris, France",
+        "raw_text": "he read before the Académie française...",
+        "confidence": 0.95
+      },
+      "source_text": "At the age of thirteen he read before the Académie française...",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:10:32.424440",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": 1731,
+      "year_confidence": "exact",
+      "event_type": "publication",
+      "description": "Published 'Recherches sur les courbes a double courbure' (Research on Curves of Double Curvature), gaining admission to the Royal Academy of Sciences.",
+      "location": {
+        "place_name": "Paris, France",
+        "raw_text": "publication in 1731...",
+        "confidence": 0.95
+      },
+      "source_text": "When only sixteen he finished a treatise on Tortuous Curves, Recherches sur les courbes a double courbure...",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:10:32.424446",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": 1731,
+      "year_confidence": "exact",
+      "event_type": "position",
+      "description": "Admitted to the Royal Academy of Sciences at age 18.",
+      "location": {
+        "place_name": "Paris, France",
+        "raw_text": "admission into the Royal Academy of Sciences...",
+        "confidence": 0.95
+      },
+      "source_text": "When only sixteen he finished a treatise on Tortuous Curves...",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:10:32.424451",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1740s",
+      "year_confidence": "range",
+      "event_type": "collaboration",
+      "description": "Worked on the expedition to Lapland with other scientists, contributing to the confirmation of Newton's theory for the figure of the Earth.",
+      "location": {
+        "place_name": "Lapland",
+        "raw_text": "expedition to Lapland...",
+        "confidence": 0.95
+      },
+      "source_text": "Clairaut was one of the key figures in the expedition to Lapland...",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:10:32.424544",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1740s",
+      "year_confidence": "range",
+      "event_type": "publication",
+      "description": "Developed a mathematical result known as 'Clairaut's theorem' during the Lapland expedition.",
+      "location": {
+        "place_name": "Lapland",
+        "raw_text": "Clairaut worked out a mathematical result now known as \"Clairaut's theorem\".",
+        "confidence": 0.95
+      },
+      "source_text": "In that context, Clairaut worked out a mathematical result now known as \"Clairaut's theorem\".",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:10:32.424553",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1740s",
+      "year_confidence": "range",
+      "event_type": "publication",
+      "description": "First to obtain a satisfactory result for the apsidal precession of the Moon's orbit.",
+      "location": {
+        "place_name": "Paris, France",
+        "raw_text": "being the first to obtain a satisfactory result for the apsidal precession of the Moon's orbit.",
+        "confidence": 0.95
+      },
+      "source_text": "He also tackled the gravitational three-body problem, being the first to obtain a satisfactory result for the apsidal precession of the Moon's orbit.",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:10:32.424560",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1740s",
+      "year_confidence": "range",
+      "event_type": "publication",
+      "description": "Developed Clairaut's equation and Clairaut's relation in mathematics.",
+      "location": {
+        "place_name": "Paris, France",
+        "raw_text": "In mathematics he is also credited with Clairaut's equation and Clairaut's relation.",
+        "confidence": 0.95
+      },
+      "source_text": "In mathematics he is also credited with Clairaut's equation and Clairaut's relation.",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:10:32.424567",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1740s",
+      "year_confidence": "range",
+      "event_type": "position",
+      "description": "Held a prominent position in the advancement of learning for young mathematicians.",
+      "location": {
+        "place_name": "Paris, France",
+        "raw_text": "was very prominent in the advancement of learning in young mathematicians.",
+        "confidence": 0.95
+      },
+      "source_text": "Though he led a fulfilling social life, he was very prominent in the advancement of learning in young mathematicians.",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:10:32.424573",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1765",
+      "year_confidence": "exact",
+      "event_type": "death",
+      "description": "Died on May 17, 1765 at the age of 52.",
+      "location": {
+        "place_name": "Paris, France",
+        "raw_text": "Alexis Clairaut (13 May 1713 – 17 May 1765)",
+        "confidence": 1.0
+      },
+      "source_text": "Alexis Claude Clairaut (13 May 1713 – 17 May 1765)...",
+      "confidence": 1.0,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:10:32.424579",
+        "extraction_confidence": 1.0,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    }
+  ],
+  "timeline_extraction_metadata": {
+    "extracted_at": "2025-08-11T16:10:32.424915",
+    "model_used": "lm_studio_google/gemma-3n-e4b",
+    "events_count": 13,
+    "biography_length": 2213,
+    "enhancement_level": "gemma_comprehensive",
+    "target_events_per_mathematician": "5-10"
+  }
+}

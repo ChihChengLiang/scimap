@@ -8,11 +8,11 @@ from typing import Dict, List, Optional
 import time
 
 class LMStudioTimelineExtractor:
-    def __init__(self, model_name: str = "google/gemma-3-2b-e4b", base_url: str = "http://localhost:1234"):
+    def __init__(self, model_name: str = "google/gemma-3n-e4b", base_url: str = "http://localhost:1234"):
         """Initialize LM Studio extractor with Google Gemma-3n-e4b"""
         self.model_name = model_name
         self.base_url = base_url
-        self.api_url = f"{base_url}/v1/chat/completions"
+        self.api_url = f"{base_url}/api/v0/chat/completions"
     
     def _call_llm(self, prompt: str, system_prompt: str = "", retries: int = 2) -> str:
         """Make API call to LM Studio with OpenAI-compatible format"""
@@ -109,8 +109,21 @@ Return only the JSON array, no other text."""
         response = self._call_llm(prompt, system_prompt)
         
         try:
-            # Try to parse JSON response
-            events = json.loads(response)
+            # First try to clean markdown code blocks
+            cleaned_response = response.strip()
+            
+            # Remove markdown code blocks if present
+            if cleaned_response.startswith('```json'):
+                cleaned_response = cleaned_response[7:]  # Remove ```json
+            if cleaned_response.startswith('```'):
+                cleaned_response = cleaned_response[3:]   # Remove ```
+            if cleaned_response.endswith('```'):
+                cleaned_response = cleaned_response[:-3]  # Remove trailing ```
+            
+            cleaned_response = cleaned_response.strip()
+            
+            # Try to parse cleaned JSON response
+            events = json.loads(cleaned_response)
             if isinstance(events, list):
                 # Validate and enhance events
                 cleaned_events = []
@@ -125,6 +138,7 @@ Return only the JSON array, no other text."""
                         }
                         cleaned_events.append(event)
                 
+                print(f"Successfully parsed JSON response for {mathematician_name}: {len(cleaned_events)} events")
                 return cleaned_events
             else:
                 print(f"LM Studio returned non-list response for {mathematician_name}")
@@ -134,27 +148,83 @@ Return only the JSON array, no other text."""
             print(f"Failed to parse LM Studio JSON response for {mathematician_name}: {e}")
             print(f"Raw response: {response[:500]}...")
             
-            # Try to extract JSON from mixed response
-            return self._extract_json_from_mixed_response(response, mathematician_name)
+            # Try partial JSON recovery first
+            partial_events = self._extract_partial_json_events(response, mathematician_name)
+            if partial_events:
+                return partial_events
+            
+            # If partial recovery fails, treat as complete failure for rerun
+            print(f"No events could be recovered from response for {mathematician_name}")
+            print(f"This mathematician will be marked for retry.")
+            return []  # Return empty list to force retry
     
     def _extract_json_from_mixed_response(self, response: str, mathematician_name: str) -> List[Dict]:
         """Extract JSON array from response that might contain extra text"""
         try:
-            # Look for JSON array pattern
+            # Try multiple strategies to extract valid JSON
+            
+            # Strategy 1: Look for complete JSON array pattern
             json_match = re.search(r'\[.*\]', response, re.DOTALL)
             if json_match:
                 json_str = json_match.group(0)
-                events = json.loads(json_str)
-                if isinstance(events, list):
-                    print(f"Successfully extracted JSON from mixed response for {mathematician_name}")
-                    return [event for event in events if self._validate_event(event)]
+                try:
+                    events = json.loads(json_str)
+                    if isinstance(events, list):
+                        print(f"Successfully extracted complete JSON from mixed response for {mathematician_name}")
+                        valid_events = [event for event in events if self._validate_event(event)]
+                        if valid_events:
+                            return valid_events
+                except json.JSONDecodeError as e:
+                    print(f"Complete JSON parsing failed: {e}")
             
-            # If no JSON found, use fallback
-            return self._fallback_extraction(response, mathematician_name)
+            # Strategy 2: Try to fix common JSON issues and extract partial arrays
+            return self._extract_partial_json_events(response, mathematician_name)
             
         except Exception as e:
             print(f"Failed to extract JSON from mixed response: {e}")
-            return self._fallback_extraction(response, mathematician_name)
+            # Return empty list to force retry instead of using regex fallback
+            print(f"JSON extraction completely failed for {mathematician_name} - marking for retry")
+            return []
+    
+    def _extract_partial_json_events(self, response: str, mathematician_name: str) -> List[Dict]:
+        """Extract individual JSON objects even if the full array is malformed"""
+        print(f"Attempting partial JSON extraction for {mathematician_name}")
+        
+        events = []
+        
+        # Find individual event objects using regex
+        event_pattern = r'\{[^{}]*"year"[^{}]*"event_type"[^{}]*"description"[^{}]*\}'
+        
+        # More comprehensive pattern that handles nested objects
+        nested_pattern = r'\{(?:[^{}]|{[^{}]*})*"year"(?:[^{}]|{[^{}]*})*"event_type"(?:[^{}]|{[^{}]*})*"description"(?:[^{}]|{[^{}]*})*\}'
+        
+        for pattern in [nested_pattern, event_pattern]:
+            matches = re.finditer(pattern, response, re.DOTALL)
+            for match in matches:
+                try:
+                    event_str = match.group(0)
+                    # Try to parse individual event
+                    event = json.loads(event_str)
+                    if self._validate_event(event):
+                        # Add extraction metadata
+                        event['extraction_metadata'] = {
+                            'model_version': f"lm_studio_{self.model_name}_partial",
+                            'extracted_at': datetime.now().isoformat(),
+                            'extraction_confidence': event.get('confidence', 0.7),
+                            'extraction_method': 'partial_json_recovery'
+                        }
+                        events.append(event)
+                        print(f"  Recovered event: {event['year']} - {event['event_type']}")
+                except json.JSONDecodeError:
+                    continue
+        
+        if events:
+            print(f"Successfully recovered {len(events)} events from partial JSON for {mathematician_name}")
+            return events
+        
+        # If partial extraction fails, return empty for retry
+        print(f"Partial JSON extraction failed for {mathematician_name} - marking for retry")
+        return []
     
     def _validate_event(self, event: Dict) -> bool:
         """Validate event structure and content with Gemma-specific checks"""
@@ -346,7 +416,7 @@ if __name__ == "__main__":
     
     # Check if LM Studio is running
     try:
-        response = requests.get("http://localhost:1234/v1/models", timeout=5)
+        response = requests.get("http://localhost:1234/api/v0/models", timeout=5)
         if response.status_code == 200:
             print("✓ LM Studio server is running")
             models = response.json()

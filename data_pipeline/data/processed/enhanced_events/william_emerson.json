@@ -1,0 +1,163 @@
+{
+  "id": null,
+  "name": "William Emerson",
+  "birth_year": 1701,
+  "death_year": 1782,
+  "nationality": "European",
+  "fields": [
+    "mathematics"
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/William_Emerson_(mathematician)",
+  "wikipedia_data": {
+    "url": "https://en.wikipedia.org/wiki/William_Emerson_(mathematician)",
+    "title": "William Emerson (mathematician)",
+    "page_title": "William_Emerson_(mathematician)",
+    "biography_paragraphs": [
+      "William Emerson (14 May 1701 – 20 May 1782) was an English mathematician. He was born in Hurworth, near Darlington, where his father, Dudley Emerson, also a mathematician, taught a school.",
+      "William himself had a small estate in Weardale called Castle Gate situated not far from Eastgate where he would repair to work throughout the summer on projects as disparate as stonemasonry and watchmaking.\nUnsuccessful as a teacher, he devoted himself entirely to studious retirement. Possessed of remarkable energy and forthrightness of speech, Emerson published many works which are singularly free from errata.",
+      "In The Principles of Mechanics (1754) he shows a wind-powered vehicle in which the vertically mounted propeller gives direct power to the front wheels via a system of cogs. In mechanics he never advanced a proposition which he had not previously tested in practice, nor published an invention without first proving its effects by a model. He was skilled in the science of music, the theory of sounds, and the ancient and modern scales; but he never attained any excellence as a performer. He died on 20 May 1782 at his native village, where his gravestone bears epitaphs in Latin and Hebrew.",
+      "Emerson dressed in old clothes and his manners were uncouth. He wore his shirt back to front and his legs wrapped in sacking so as not to scorch them as he sat over the fire. He declined an offer to become FRS because it would cost too much after all the expense of farthing candles he had been put to in the course of his life of study. Emerson rode regularly into Darlington on a horse like Don Quixote's, led by a hired small boy. In old age, plagued by the stone, he would alternately pray and curse, wishing his soul 'could shake off the rags of mortality without such a clitter-me-clatter.'",
+      "Like his fellow County Durham savant John Bird, Emerson makes an appearance in Mason and Dixon by Thomas Pynchon."
+    ],
+    "infobox": {
+      "birth": "14 May 1701 (1701-05-14)Hurworth",
+      "death": "20 May 1782 (1782-05-21) (aged 81)",
+      "nationality": "British",
+      "fields": "mathematics"
+    },
+    "scraped_at": "2025-08-11T01:12:16.250981",
+    "raw_html_length": 86338
+  },
+  "processed_at": "2025-08-11T01:12:17.252311",
+  "wikidata_info": {
+    "wikidata_id": "Q3031685",
+    "name": "William Emerson",
+    "birth_year": 1701,
+    "death_year": 1782,
+    "birth_date_full": "1701-05-14T00:00:00Z",
+    "death_date_full": "1782-05-20T00:00:00Z",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/William_Emerson_(mathematician)",
+    "nationality": "",
+    "birth_place": {
+      "name": "",
+      "wikidata_uri": "",
+      "coordinates": null
+    },
+    "image_url": "",
+    "fields": [
+      "mathematics"
+    ],
+    "data_source": "wikidata_sparql",
+    "extracted_at": "2025-08-11T01:11:25.224867",
+    "wikidata_query_metadata": {
+      "query_date": "2025-08-11T01:11:25.224867",
+      "endpoint": "https://query.wikidata.org/sparql",
+      "data_quality": "structured"
+    }
+  },
+  "timeline_events": [
+    {
+      "year": 1701,
+      "year_confidence": "exact",
+      "event_type": "birth",
+      "description": "William Emerson is born in Hurworth, near Darlington, England.",
+      "location": {
+        "place_name": "Hurworth, near Darlington",
+        "raw_text": "William Emerson (14 May 1701 – 20 May 1782) was an English mathematician. He was born in Hurworth, near Darlington, where his father, Dudley Emerson, also a mathematician, taught a school.",
+        "confidence": 1.0
+      },
+      "source_text": "William Emerson (14 May 1701 – 20 May 1782) was an English mathematician. He was born in Hurworth, near Darlington, where his father, Dudley Emerson, also a mathematician, taught a school.",
+      "confidence": 1.0,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T17:57:21.888251",
+        "extraction_confidence": 1.0,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1700-1701",
+      "year_confidence": "range",
+      "event_type": "education",
+      "description": "William Emerson receives early mathematical education from his father, Dudley Emerson, who teaches at a school in Hurworth.",
+      "location": {
+        "place_name": "Hurworth, near Darlington",
+        "raw_text": "William Emerson (14 May 1701 – 20 May 1782) was an English mathematician. He was born in Hurworth, near Darlington, where his father, Dudley Emerson, also a mathematician, taught a school.",
+        "confidence": 0.8
+      },
+      "source_text": "William Emerson (14 May 1701 – 20 May 1782) was an English mathematician. He was born in Hurworth, near Darlington, where his father, Dudley Emerson, also a mathematician, taught a school.",
+      "confidence": 0.8,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T17:57:21.888329",
+        "extraction_confidence": 0.8,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": 1754,
+      "year_confidence": "exact",
+      "event_type": "publication",
+      "description": "Publishes 'The Principles of Mechanics', detailing a wind-powered vehicle.",
+      "location": {
+        "place_name": "England",
+        "raw_text": "In The Principles of Mechanics (1754) he shows a wind-powered vehicle in which the vertically mounted propeller gives direct power to the front wheels via a system of cogs.",
+        "confidence": 0.9
+      },
+      "source_text": "In The Principles of Mechanics (1754) he shows a wind-powered vehicle in which the vertically mounted propeller gives direct power to the front wheels via a system of cogs.",
+      "confidence": 0.9,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T17:57:21.888335",
+        "extraction_confidence": 0.9,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1754",
+      "year_confidence": "exact",
+      "event_type": "publication",
+      "description": "Publishes numerous other works, noted for their lack of errors.",
+      "location": {
+        "place_name": "England",
+        "raw_text": "Possessed of remarkable energy and forthrightness of speech, Emerson published many works which are singularly free from errata.",
+        "confidence": 0.8
+      },
+      "source_text": "Possessed of remarkable energy and forthrightness of speech, Emerson published many works which are singularly free from errata.",
+      "confidence": 0.8,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T17:57:21.888342",
+        "extraction_confidence": 0.8,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1700-1782",
+      "year_confidence": "range",
+      "event_type": "death",
+      "description": "William Emerson dies on May 20, 1782, in his native village.",
+      "location": {
+        "place_name": "Hurworth, near Darlington",
+        "raw_text": "He died on 20 May 1782 at his native village, where his gravestone bears epitaphs in Latin and Hebrew.",
+        "confidence": 0.95
+      },
+      "source_text": "He died on 20 May 1782 at his native village, where his gravestone bears epitaphs in Latin and Hebrew.",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T17:57:21.888348",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    }
+  ],
+  "timeline_extraction_metadata": {
+    "extracted_at": "2025-08-11T17:57:21.888452",
+    "model_used": "lm_studio_google/gemma-3n-e4b",
+    "events_count": 5,
+    "biography_length": 1195,
+    "enhancement_level": "gemma_comprehensive",
+    "target_events_per_mathematician": "5-10"
+  }
+}

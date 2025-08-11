@@ -1,0 +1,253 @@
+{
+  "id": null,
+  "name": "Richard Jack",
+  "birth_year": 1710,
+  "death_year": 1759,
+  "nationality": "European",
+  "fields": [
+    "mathematics"
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Richard_Jack_(mathematician)",
+  "wikipedia_data": {
+    "url": "https://en.wikipedia.org/wiki/Richard_Jack_(mathematician)",
+    "title": "Richard Jack (mathematician)",
+    "page_title": "Richard_Jack_(mathematician)",
+    "biography_paragraphs": [
+      "Richard Jack (died 1759) was a Scottish mathematician, astronomer, and engineer active in the mid-18th century. He provided the only testimony against Lt. Gen. John Cope at the court martial following the Battle of Prestonpans during the 1745 Jacobite uprising, but Having exaggerated his own accomplishments and lacking corroboration, Jack had his testimony discounted by the judges, who found Cope blameless. Jack was later involved in the development of achromatic lenses and his work on conic sections was a source for the mathematical sections of the first edition of the Encyclopaedia Britannica.",
+      "Richard Jack was born in Scotland, in the Great Britain, probably between 1710 and 1715.[1] He married Elizabeth Brown on 14 March 1737,[2] around the time that he was teaching mathematics in Newcastle-upon-Tyne in 1737.[1] The couple later had a son, also named Richard.[3] Jack lectured on mathematics in Edinburgh, probably from 1739 to 1743 when he ran advertisements in the Caledonian Mercury.[1] He enjoyed the patronage of Hugh Hume-Campbell, the 3rd earl of Marchmont,[4] whom he was helping to observe sunspots.[5]",
+      "During Charles Edward Stuart's Jacobite uprising in 1745, Jack remained loyal to George II. Volunteering, he was entrusted with arranging some of the placement of the cannon at Edinburgh[6] as a fortifications engineer[4] under the guidance of Prof. Colin MacLaurin.[7] He fled with most of the other Hanoverian forces ahead of Charles's unopposed entrance into Edinburgh on 17 September.[4] He then performed reconnaissance on the Stuart forces, counting and evaluating the men in the main force encamped on Arthur's Seat on 19 September.[6] He claimed that on the next day he had assisted with the planning of the artillery placement[8] and then personally fired two cannons, dislodging Stuart men from the church at Tranent. Other witnesses later averred Jack had claimed knowledge of the theory of gunnery but had not been involved in any of the army's strategy;[9] he had scouted some areas and helped direct artillery fire against the men in Tranent after almost being killed by them, but he had proven so completely inept at the cannons' operation that he never fired them himself.[9] The following day was the 21 September Battle of Prestonpans, during which Jack said he and four sailors worked the same two cannon while Lt. Col. Alan Whiteford and five sailors worked the other four; Lt. Col. Whiteford and other witnesses, however, said the nine sailors had fled before the battle, Jack had been sent away as useless and wasn't seen in the fighting, and Whiteford had been forced to operate all six guns on his own.[10] A year later, on 24 September 1746,[6] Jack was the only eyewitness to testify under oath at the court martial of the Whig commander Lt. Gen. John Cope.[1] He testified that he had seen three officers—probably but not certainly including Cope—flee the battlefield ahead of the general defeat after a Highland charge.[11] Given his inflated claims in other matters and lack of corroboration, however, the court discounted his testimony and exonerated Cope,[4][12] although the general never again held high position.[13]",
+      "On 25 May 1750, Jack received patent No. 656 for a \"quadrant for taking the altitude of the sun or moon by refraction\" and also \"a refracting telescope with four spherical lenses\"[14] jointly with the successful London instrument maker George Adams.[5][15] They claimed that their design offered 30 levels of magnification[16] and eliminated color aberrations. Although those claims were vigorously disputed by rival instrument makers,[17] Jack and Adams seem to have been vindicated by some practical and authoritative test in early 1752 and made a sizeable profit on the design.[18] None of the devices are known to still exist[19] but, on the basis of surviving records, Millburn considers it likely that representatives of the Admiralty or Board of Ordnance praised the patent telescope's high level of magnification—the most essential attribute for long-range fire—despite the accuracy of other complaints about its faults.[20] Jack advertised his lectures on math in London in 1751 and 1754.[1] He also lectured on experimental philosophy, fortification, and gunnery.[21]",
+      "Jack died in 1759.[1] The advertisement for his probate auction stated that he had been \"assistant engineer in the late expedition against Guadaloupe\",[3] a French colony captured by British forces under Maj. Gen. Peregrine Hopson after a six-month siege during the Seven Years' War. His effects included an air pump, microscope, telescopes, and other scientific instruments.[19]"
+    ],
+    "infobox": {},
+    "scraped_at": "2025-08-11T01:13:08.204218",
+    "raw_html_length": 103917
+  },
+  "processed_at": "2025-08-11T01:13:09.209343",
+  "wikidata_info": {
+    "wikidata_id": "Q19326554",
+    "name": "Richard Jack",
+    "birth_year": 1710,
+    "death_year": 1759,
+    "birth_date_full": "1710-01-01T00:00:00Z",
+    "death_date_full": "1759-01-01T00:00:00Z",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Richard_Jack_(mathematician)",
+    "nationality": "",
+    "birth_place": {
+      "name": "",
+      "wikidata_uri": "",
+      "coordinates": null
+    },
+    "image_url": "",
+    "fields": [
+      "mathematics"
+    ],
+    "data_source": "wikidata_sparql",
+    "extracted_at": "2025-08-11T01:11:25.225421",
+    "wikidata_query_metadata": {
+      "query_date": "2025-08-11T01:11:25.225422",
+      "endpoint": "https://query.wikidata.org/sparql",
+      "data_quality": "structured"
+    }
+  },
+  "timeline_events": [
+    {
+      "year": "1710-1715",
+      "year_confidence": "range",
+      "event_type": "birth",
+      "description": "Richard Jack was born in Scotland, Great Britain.",
+      "location": {
+        "place_name": "Scotland",
+        "raw_text": "Richard Jack was born in Scotland, in the Great Britain",
+        "confidence": 1.0
+      },
+      "source_text": "Richard Jack was born in Scotland, in the Great Britain, probably between 1710 and 1715.",
+      "confidence": 1.0,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:41:22.837193",
+        "extraction_confidence": 1.0,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1737",
+      "year_confidence": "exact",
+      "event_type": "position",
+      "description": "Richard Jack was teaching mathematics in Newcastle-upon-Tyne.",
+      "location": {
+        "place_name": "Newcastle-upon-Tyne",
+        "raw_text": "Richard Jack was teaching mathematics in Newcastle-upon-Tyne in 1737",
+        "confidence": 1.0
+      },
+      "source_text": "Richard Jack was teaching mathematics in Newcastle-upon-Tyne in 1737.",
+      "confidence": 1.0,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:41:22.837306",
+        "extraction_confidence": 1.0,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1739-1743",
+      "year_confidence": "range",
+      "event_type": "position",
+      "description": "Richard Jack lectured on mathematics in Edinburgh.",
+      "location": {
+        "place_name": "Edinburgh",
+        "raw_text": "Jack lectured on mathematics in Edinburgh, probably from 1739 to 1743",
+        "confidence": 0.95
+      },
+      "source_text": "Jack lectured on mathematics in Edinburgh, probably from 1739 to 1743.",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:41:22.837315",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1737",
+      "year_confidence": "exact",
+      "event_type": "collaboration",
+      "description": "Richard Jack married Elizabeth Brown.",
+      "location": {
+        "place_name": null,
+        "raw_text": "married Elizabeth Brown on 14 March 1737",
+        "confidence": 0.95
+      },
+      "source_text": "Richard Jack married Elizabeth Brown on 14 March 1737.",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:41:22.837322",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1745",
+      "year_confidence": "exact",
+      "event_type": "position",
+      "description": "Richard Jack assisted with cannon placement at Edinburgh as a fortifications engineer under Prof. Colin MacLaurin.",
+      "location": {
+        "place_name": "Edinburgh",
+        "raw_text": "entrusted with arranging some of the placement of the cannon at Edinburgh",
+        "confidence": 0.95
+      },
+      "source_text": "During Charles Edward Stuart's Jacobite uprising in 1745, Jack remained loyal to George II. Volunteering, he was entrusted with arranging some of the placement of the cannon at Edinburgh as a fortifications engineer under the guidance of Prof. Colin MacLaurin.",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:41:22.837329",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1745",
+      "year_confidence": "exact",
+      "event_type": "collaboration",
+      "description": "Richard Jack worked with Prof. Colin MacLaurin on fortifications at Edinburgh.",
+      "location": {
+        "place_name": "Edinburgh",
+        "raw_text": "under the guidance of Prof. Colin MacLaurin",
+        "confidence": 0.95
+      },
+      "source_text": "Richard Jack was entrusted with arranging some of the placement of the cannon at Edinburgh as a fortifications engineer under the guidance of Prof. Colin MacLaurin.",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:41:22.837336",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1745",
+      "year_confidence": "exact",
+      "event_type": "travel",
+      "description": "Richard Jack fled Edinburgh with Hanoverian forces.",
+      "location": {
+        "place_name": "Edinburgh",
+        "raw_text": "He fled with most of the other Hanoverian forces ahead of Charles's unopposed entrance into Edinburgh",
+        "confidence": 0.95
+      },
+      "source_text": "He fled with most of the other Hanoverian forces ahead of Charles's unopposed entrance into Edinburgh on 17 September.",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:41:22.837342",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1745",
+      "year_confidence": "exact",
+      "event_type": "travel",
+      "description": "Richard Jack performed reconnaissance on the Stuart forces at Arthur's Seat.",
+      "location": {
+        "place_name": "Arthur's Seat",
+        "raw_text": "performed reconnaissance on the Stuart forces, counting and evaluating the men in the main force encamped on Arthur's Seat",
+        "confidence": 0.95
+      },
+      "source_text": "He then performed reconnaissance on the Stuart forces, counting and evaluating the men in the main force encamped on Arthur's Seat on 19 September.",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:41:22.837349",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1745",
+      "year_confidence": "exact",
+      "event_type": "other",
+      "description": "Richard Jack claimed to have assisted with artillery placement and fired cannons at Tranent.",
+      "location": {
+        "place_name": "Tranent",
+        "raw_text": "personally fired two cannons, dislodging Stuart men from the church at Tranent",
+        "confidence": 0.85
+      },
+      "source_text": "He claimed that on the next day he had assisted with the planning of the artillery placement and then personally fired two cannons, dislodging Stuart men from the church at Tranent.",
+      "confidence": 0.85,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:41:22.837356",
+        "extraction_confidence": 0.85,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1759",
+      "year_confidence": "exact",
+      "event_type": "death",
+      "description": "Richard Jack died.",
+      "location": {
+        "place_name": null,
+        "raw_text": "died 1759",
+        "confidence": 1.0
+      },
+      "source_text": "Richard Jack (died 1759)",
+      "confidence": 1.0,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:41:22.837362",
+        "extraction_confidence": 1.0,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    }
+  ],
+  "timeline_extraction_metadata": {
+    "extracted_at": "2025-08-11T16:41:22.837551",
+    "model_used": "lm_studio_google/gemma-3n-e4b",
+    "events_count": 10,
+    "biography_length": 2503,
+    "enhancement_level": "gemma_comprehensive",
+    "target_events_per_mathematician": "5-10"
+  }
+}

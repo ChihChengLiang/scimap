@@ -1,0 +1,57 @@
+{
+  "id": null,
+  "name": "Jedediah Buxton",
+  "birth_year": 1707,
+  "death_year": 1772,
+  "nationality": "French",
+  "fields": [
+    "mathematics"
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Jedediah_Buxton",
+  "wikipedia_data": {
+    "url": "https://en.wikipedia.org/wiki/Jedediah_Buxton",
+    "title": "Jedediah Buxton",
+    "page_title": "Jedediah_Buxton",
+    "biography_paragraphs": [
+      "Jedediah Buxton (1707–1772) was a noted English mental calculator, born at Elmton, near Creswell, in Derbyshire.[2][3]",
+      "Buxton was born in 1707 and although his father was schoolmaster of Elmton, and his grandfather had been the vicar, he could not write; and his knowledge, except of numbers, was extremely limited. How he came to understand the relative proportions of numbers and their progressive denominations, he did not remember. However, this was his interest. He frequently took no notice of objects, and when he did, it was only with reference to their numbers. After hearing a sermon he knew nothing about its content other than that it contained a certain number of words which he had counted during its delivery.",
+      "He measured the lands of Elmton, consisting of some thousand acres (4 km2), simply by striding over it. He gave the area not only in acres, roods and perches, but even in square inches. After this, he reduced them into square hairs'-breadths, reckoning forty-eight to each side of the inch. His memory was so great, that in resolving a question he could leave off and resume the operation again at the same point after the lapse of several months. His perpetual application to figures prevented the acquisition of other knowledge. Among the examples of Buxton's arithmetical feats which are given are his calculation of the product of a farthing doubled 139 times. The result, expressed in pounds, extends to thirty-nine figures, and is correct so far as it can be readily verified by the use of logarithms.[1] Buxton afterwards multiplied this enormous number by itself. It appears that he had invented an original nomenclature for large numbers, a 'tribe' being the cube of a million, and a 'cramp' (if Mr. Holliday's statement can be trusted) a thousand 'tribes of tribes'.[1]",
+      "His mental acuity was tested in 1754 by the Royal Society when he walked to London,[1] who acknowledged their satisfaction by presenting him with a handsome gratuity. During his visit to the metropolis, he was taken to see the tragedy of Richard III. performed at Drury Lane theatre, but his whole mind was given to the counting of the words uttered by David Garrick.[1] Similarly, he set himself to count the steps of the dancers; and he declared that the innumerable sounds produced by the musical instruments had perplexed him beyond measure.",
+      "A memoir appeared in the Gentleman's Magazine for June 1754, to which (probably through the medium of a Mr Holliday, of Haughton Hall, Nottinghamshire), Buxton had contributed several letters. In this memoir, his age is given as forty-nine, which points to his birth in 1705; the date adopted above is on the authority of Daniel and Samuel Lysons' Magna Britannia (Derbyshire)."
+    ],
+    "infobox": {
+      "birth": "1707[1]Elmton, near Creswell",
+      "death": "1772Elmton",
+      "fields": "Farm labourer"
+    },
+    "scraped_at": "2025-08-11T01:12:51.732358",
+    "raw_html_length": 84050
+  },
+  "processed_at": "2025-08-11T01:12:52.738609",
+  "wikidata_info": {
+    "wikidata_id": "Q4076065",
+    "name": "Jedediah Buxton",
+    "birth_year": 1707,
+    "death_year": 1772,
+    "birth_date_full": "1707-03-20T00:00:00Z",
+    "death_date_full": "1772-01-01T00:00:00Z",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Jedediah_Buxton",
+    "nationality": "",
+    "birth_place": {
+      "name": "",
+      "wikidata_uri": "",
+      "coordinates": null
+    },
+    "image_url": "",
+    "fields": [
+      "mathematics"
+    ],
+    "data_source": "wikidata_sparql",
+    "extracted_at": "2025-08-11T01:11:25.225204",
+    "wikidata_query_metadata": {
+      "query_date": "2025-08-11T01:11:25.225205",
+      "endpoint": "https://query.wikidata.org/sparql",
+      "data_quality": "structured"
+    }
+  }
+}

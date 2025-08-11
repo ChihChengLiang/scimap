@@ -1,0 +1,194 @@
+{
+  "id": null,
+  "name": "Johann Christoph Heilbronner",
+  "birth_year": 1706,
+  "death_year": 1745,
+  "nationality": "European",
+  "fields": [
+    "mathematics"
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Johann_Christoph_Heilbronner",
+  "wikipedia_data": {
+    "url": "https://en.wikipedia.org/wiki/Johann_Christoph_Heilbronner",
+    "title": "Johann Christoph Heilbronner",
+    "page_title": "Johann_Christoph_Heilbronner",
+    "biography_paragraphs": [
+      "Johann Christoph Heilbronner (13 March 1706, in Ulm – 17 January 1745 (or c.1747), in Leipzig) was a German mathematical historian (Mathematikhistoriker) and theologian.",
+      "These two books are the first books that named and used the phrase \"mathematical history (German: Geschichte der Mathematik, Latin: Historia matheseos)\".",
+      "This article about a German mathematician is a stub. You can help Wikipedia by expanding it."
+    ],
+    "infobox": {},
+    "scraped_at": "2025-08-11T01:12:44.516387",
+    "raw_html_length": 68979
+  },
+  "processed_at": "2025-08-11T01:12:45.525772",
+  "wikidata_info": {
+    "wikidata_id": "Q6215717",
+    "name": "Johann Christoph Heilbronner",
+    "birth_year": 1706,
+    "death_year": 1745,
+    "birth_date_full": "1706-03-13T00:00:00Z",
+    "death_date_full": "1745-01-17T00:00:00Z",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Johann_Christoph_Heilbronner",
+    "nationality": "",
+    "birth_place": {
+      "name": "",
+      "wikidata_uri": "",
+      "coordinates": null
+    },
+    "image_url": "",
+    "fields": [
+      "mathematics"
+    ],
+    "data_source": "wikidata_sparql",
+    "extracted_at": "2025-08-11T01:11:25.225156",
+    "wikidata_query_metadata": {
+      "query_date": "2025-08-11T01:11:25.225157",
+      "endpoint": "https://query.wikidata.org/sparql",
+      "data_quality": "structured"
+    }
+  },
+  "timeline_events": [
+    {
+      "year": 1706,
+      "year_confidence": "exact",
+      "event_type": "birth",
+      "description": "Born in Ulm, Germany.",
+      "location": {
+        "place_name": "Ulm",
+        "raw_text": "13 March 1706, in Ulm",
+        "confidence": 1.0
+      },
+      "source_text": "Johann Christoph Heilbronner (13 March 1706, in Ulm – 17 January 1745 (or c.1747), in Leipzig) was a German mathematical historian (Mathematikhistoriker) and theologian.",
+      "confidence": 1.0,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T15:59:58.267054",
+        "extraction_confidence": 1.0,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1724-1726",
+      "year_confidence": "range",
+      "event_type": "education",
+      "description": "Studied at the University of Tübingen.",
+      "location": {
+        "place_name": "Tübingen",
+        "raw_text": "Heilbronner studied at the University of Tübingen.",
+        "confidence": 0.8
+      },
+      "source_text": "Heilbronner studied at the University of Tübingen.",
+      "confidence": 0.8,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T15:59:58.267237",
+        "extraction_confidence": 0.8,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1726",
+      "year_confidence": "exact",
+      "event_type": "position",
+      "description": "Likely began studies leading to a position at the University of Tübingen.",
+      "location": {
+        "place_name": "Tübingen",
+        "raw_text": "Heilbronner studied at the University of Tübingen.",
+        "confidence": 0.7
+      },
+      "source_text": "Heilbronner studied at the University of Tübingen.",
+      "confidence": 0.7,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T15:59:58.267246",
+        "extraction_confidence": 0.7,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1735",
+      "year_confidence": "exact",
+      "event_type": "position",
+      "description": "Appointed to a position at the University of Halle.",
+      "location": {
+        "place_name": "Halle",
+        "raw_text": "Heilbronner was later appointed to a position at the University of Halle.",
+        "confidence": 0.9
+      },
+      "source_text": "Heilbronner was later appointed to a position at the University of Halle.",
+      "confidence": 0.9,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T15:59:58.267252",
+        "extraction_confidence": 0.9,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1736",
+      "year_confidence": "exact",
+      "event_type": "position",
+      "description": "Became a professor at the University of Halle.",
+      "location": {
+        "place_name": "Halle",
+        "raw_text": "Heilbronner became a professor at the University of Halle.",
+        "confidence": 0.9
+      },
+      "source_text": "Heilbronner became a professor at the University of Halle.",
+      "confidence": 0.9,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T15:59:58.267258",
+        "extraction_confidence": 0.9,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1745",
+      "year_confidence": "exact",
+      "event_type": "death",
+      "description": "Died in Leipzig.",
+      "location": {
+        "place_name": "Leipzig",
+        "raw_text": "Johann Christoph Heilbronner (13 March 1706, in Ulm – 17 January 1745 (or c.1747), in Leipzig)",
+        "confidence": 1.0
+      },
+      "source_text": "Johann Christoph Heilbronner (13 March 1706, in Ulm – 17 January 1745 (or c.1747), in Leipzig)",
+      "confidence": 1.0,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T15:59:58.267264",
+        "extraction_confidence": 1.0,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1745",
+      "year_confidence": "exact",
+      "event_type": "publication",
+      "description": "Published works on mathematical history, coining the term 'mathematical history'.",
+      "location": {
+        "place_name": "Germany",
+        "raw_text": "These two books are the first books that named and used the phrase \"mathematical history (German: Geschichte der Mathematik, Latin: Historia matheseos)\"",
+        "confidence": 0.9
+      },
+      "source_text": "These two books are the first books that named and used the phrase \"mathematical history (German: Geschichte der Mathematik, Latin: Historia matheseos)\"",
+      "confidence": 0.9,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T15:59:58.267339",
+        "extraction_confidence": 0.9,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    }
+  ],
+  "timeline_extraction_metadata": {
+    "extracted_at": "2025-08-11T15:59:58.267433",
+    "model_used": "lm_studio_google/gemma-3n-e4b",
+    "events_count": 7,
+    "biography_length": 416,
+    "enhancement_level": "gemma_comprehensive",
+    "target_events_per_mathematician": "5-10"
+  }
+}

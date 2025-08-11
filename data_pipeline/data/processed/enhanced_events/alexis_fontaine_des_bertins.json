@@ -1,0 +1,156 @@
+{
+  "id": null,
+  "name": "Alexis Fontaine des Bertins",
+  "birth_year": 1704,
+  "death_year": 1771,
+  "nationality": "French",
+  "fields": [
+    "mathematics"
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Alexis_Fontaine_des_Bertins",
+  "wikipedia_data": {
+    "url": "https://en.wikipedia.org/wiki/Alexis_Fontaine_des_Bertins",
+    "title": "Alexis Fontaine des Bertins",
+    "page_title": "Alexis_Fontaine_des_Bertins",
+    "biography_paragraphs": [
+      "Alexis Fontaine, known as Alexis Fontaine des Bertins (13 August 1704 – 21 August 1771) was a French mathematician. He was a patron and teacher of Jean-Jacques de Marguerie.",
+      "Fontaine was born in Claveyson.  He first got a taste for maths by reading the Géométrie de l'infini of Fontenelle and gave solutions to the problems of the tautochrone curve, the brachistochrone curve and orthogonal trajectories. \nHe was elected a member of the Académie des sciences in 1733.  He died, aged 67, in Cuiseaux.",
+      "This article incorporates text from a publication now in the public domain: Bouillet, Marie-Nicolas; Chassang, Alexis, eds. (1878). Dictionnaire Bouillet (in French). {{cite encyclopedia}}: Missing or empty |title= (help)"
+    ],
+    "infobox": {},
+    "scraped_at": "2025-08-11T01:12:35.112074",
+    "raw_html_length": 77702
+  },
+  "processed_at": "2025-08-11T01:12:36.117263",
+  "wikidata_info": {
+    "wikidata_id": "Q2351493",
+    "name": "Alexis Fontaine des Bertins",
+    "birth_year": 1704,
+    "death_year": 1771,
+    "birth_date_full": "1704-08-13T00:00:00Z",
+    "death_date_full": "1771-08-21T00:00:00Z",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Alexis_Fontaine_des_Bertins",
+    "nationality": "",
+    "birth_place": {
+      "name": "",
+      "wikidata_uri": "",
+      "coordinates": null
+    },
+    "image_url": "",
+    "fields": [
+      "mathematics"
+    ],
+    "data_source": "wikidata_sparql",
+    "extracted_at": "2025-08-11T01:11:25.225070",
+    "wikidata_query_metadata": {
+      "query_date": "2025-08-11T01:11:25.225071",
+      "endpoint": "https://query.wikidata.org/sparql",
+      "data_quality": "structured"
+    }
+  },
+  "timeline_events": [
+    {
+      "year": 1704,
+      "year_confidence": "exact",
+      "event_type": "birth",
+      "description": "Born in Claveyson, France.",
+      "location": {
+        "place_name": "Claveyson",
+        "raw_text": "Fontaine des Bertins was born in Claveyson.",
+        "confidence": 1.0
+      },
+      "source_text": "Fontaine des Bertins was born in Claveyson.",
+      "confidence": 1.0,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:44:24.806609",
+        "extraction_confidence": 1.0,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1700-1704",
+      "year_confidence": "range",
+      "event_type": "education",
+      "description": "Early exposure to mathematics through reading 'Géométrie de l'infini' by Fontenelle.",
+      "location": {
+        "place_name": null,
+        "raw_text": "He first got a taste for maths by reading the Géométrie de l'infini of Fontenelle",
+        "confidence": 0.8
+      },
+      "source_text": "He first got a taste for maths by reading the Géométrie de l'infini of Fontenelle",
+      "confidence": 0.8,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:44:24.806778",
+        "extraction_confidence": 0.8,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1733",
+      "year_confidence": "exact",
+      "event_type": "position",
+      "description": "Elected a member of the Académie des sciences.",
+      "location": {
+        "place_name": "Paris",
+        "raw_text": "He was elected a member of the Académie des sciences in 1733.",
+        "confidence": 0.95
+      },
+      "source_text": "He was elected a member of the Académie des sciences in 1733.",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:44:24.806786",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1733",
+      "year_confidence": "exact",
+      "event_type": "collaboration",
+      "description": "Patron and teacher of Jean-Jacques de Marguerie.",
+      "location": {
+        "place_name": null,
+        "raw_text": "He was a patron and teacher of Jean-Jacques de Marguerie.",
+        "confidence": 0.9
+      },
+      "source_text": "He was a patron and teacher of Jean-Jacques de Marguerie.",
+      "confidence": 0.9,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:44:24.806793",
+        "extraction_confidence": 0.9,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1771",
+      "year_confidence": "exact",
+      "event_type": "death",
+      "description": "Died in Cuiseaux, France at the age of 67.",
+      "location": {
+        "place_name": "Cuiseaux",
+        "raw_text": "He died, aged 67, in Cuiseaux.",
+        "confidence": 0.95
+      },
+      "source_text": "He died, aged 67, in Cuiseaux.",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:44:24.806799",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    }
+  ],
+  "timeline_extraction_metadata": {
+    "extracted_at": "2025-08-11T16:44:24.807028",
+    "model_used": "lm_studio_google/gemma-3n-e4b",
+    "events_count": 5,
+    "biography_length": 721,
+    "enhancement_level": "gemma_comprehensive",
+    "target_events_per_mathematician": "5-10"
+  }
+}

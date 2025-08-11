@@ -1,0 +1,56 @@
+{
+  "id": null,
+  "name": "Pierre Lyonnet",
+  "birth_year": 1707,
+  "death_year": 1789,
+  "nationality": "European",
+  "fields": [
+    "mathematics"
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Pierre_Lyonnet",
+  "wikipedia_data": {
+    "url": "https://en.wikipedia.org/wiki/Pierre_Lyonnet",
+    "title": "Pierre Lyonnet",
+    "page_title": "Pierre_Lyonnet",
+    "biography_paragraphs": [
+      "Pierre Lyonnet or Lyonet (21 July 1706 – 10 January 1789)[1]  was a Dutch artist and engraver who became a naturalist.  He was a collector both of shells (a major collecting craze at the time) and paintings, whose collection included Woman Reading a Letter by Vermeer, now in the Rijksmuseum.  This fetched far less than his best shells in the auctions of his collection after his death.[2]",
+      "According to the RKD he was a pupil of Hendrik van Limborch, Carel de Moor, and Jan Wandelaar.[1]\nHe was secretary and translator (he spoke more than eight languages) for the government of the Dutch Republic.",
+      "Initially he trained as a lawyer before choosing to specialize in the engraving of natural history and the work of dissection. He illustrated Theology of the insects, or demonstration of the perfections of God in all that relates to the insects (1742) of Friedrich Christian Lesser (1692–1754) and Treatise on the polyps (1744) of Abraham Trembley (1710–1784). He then decided to make his do  own observations and to write his own monograph on the anatomy of the insects. His first work appeared in 1760 under the name of Anatomical treatise of the caterpillar which corrodes the wood of Willow. He illustrated 4,041 different muscles thus. He lacked the anatomical knowledge of Jan Swammerdam (1637–1680) and of Marcello Malpighi (1628–1694) and his observations show it. His book was received with scepticism which affirmed that Lyonnet imagined the details which he drew with so much precision. It was to counter these criticisms, that he put in the second edition which appears in 1762, a drawing of its instruments and a description of its method. Lyonnet planned to study the chrysalis and the adult but, sixty years old, the tiredness of his eyes obliged him to stop his projects.",
+      "Lyonnet was elected a fellow of the Royal Society on 14 January 1748.[3]"
+    ],
+    "infobox": {
+      "birth": "21 July 1706Maastricht, Netherlands",
+      "death": "10 January 1789 (1789-01-11) (aged 82)The Hague, Netherlands",
+      "fields": "naturalist."
+    },
+    "scraped_at": "2025-08-11T01:12:54.093251",
+    "raw_html_length": 81365
+  },
+  "processed_at": "2025-08-11T01:12:55.108364",
+  "wikidata_info": {
+    "wikidata_id": "Q2203935",
+    "name": "Pierre Lyonnet",
+    "birth_year": 1707,
+    "death_year": 1789,
+    "birth_date_full": "1707-07-21T00:00:00Z",
+    "death_date_full": "1789-01-10T00:00:00Z",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pierre_Lyonnet",
+    "nationality": "",
+    "birth_place": {
+      "name": "",
+      "wikidata_uri": "",
+      "coordinates": null
+    },
+    "image_url": "",
+    "fields": [
+      "mathematics"
+    ],
+    "data_source": "wikidata_sparql",
+    "extracted_at": "2025-08-11T01:11:25.225242",
+    "wikidata_query_metadata": {
+      "query_date": "2025-08-11T01:11:25.225243",
+      "endpoint": "https://query.wikidata.org/sparql",
+      "data_quality": "structured"
+    }
+  }
+}

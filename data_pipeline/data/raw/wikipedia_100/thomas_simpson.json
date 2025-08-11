@@ -1,0 +1,56 @@
+{
+  "id": null,
+  "name": "Thomas Simpson",
+  "birth_year": 1710,
+  "death_year": 1761,
+  "nationality": "European",
+  "fields": [
+    "mathematics"
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Thomas_Simpson",
+  "wikipedia_data": {
+    "url": "https://en.wikipedia.org/wiki/Thomas_Simpson",
+    "title": "Thomas Simpson",
+    "page_title": "Thomas_Simpson",
+    "biography_paragraphs": [
+      "Thomas Simpson FRS (20 August 1710 – 14 May 1761) was a British mathematician and inventor known for the eponymous Simpson's rule to approximate definite integrals. The attribution, as often in mathematics, can be debated: this rule had been found 100 years earlier by Johannes Kepler, and in German it is called Keplersche Fassregel, or roughly \"Kepler's Barrel Rule\".",
+      "Simpson was born in Sutton Cheney, Leicestershire. The son of a weaver,[1] Simpson taught himself mathematics. At the age of nineteen, he married a fifty-year old widow with two children.[2] As a youth, he became interested in astrology after seeing a solar eclipse. He also dabbled in divination and caused fits in a girl after 'raising a devil' from her.  After this incident, he and his wife fled to Derby.[3] He moved with his wife and children to London at age twenty-five, where he supported his family by weaving during the day and teaching mathematics at night.[4]",
+      "From 1743, he taught mathematics at the Royal Military Academy, Woolwich. Simpson was a fellow of the Royal Society. In 1758, Simpson was elected a foreign member of the Royal Swedish Academy of Sciences.",
+      "He died in Market Bosworth, and was laid to rest in Sutton Cheney. A plaque inside the church commemorates him.",
+      "Simpson's treatise entitled The Nature and Laws of Chance and The Doctrine of Annuities and Reversions were based on the work of De Moivre and were attempts at making the same material more brief and understandable. Simpson stated this clearly in The Nature and Laws of Chance, referring to Abraham De Moivre's The Doctrine of Chances: \"tho' it neither wants Matter nor Elegance to recommend it, yet the Price must, I am sensible, have put it out of the Power of many to purchase it\". In both works, Simpson cited De Moivre's work and did not claim originality beyond the presentation of some more accurate data. While he and De Moivre initially got along, De Moivre eventually felt that his income was threatened by Simpson's work and in his second edition of Annuities upon Lives, wrote in the preface:[5]"
+    ],
+    "infobox": {
+      "birth": "20 August 1710Sutton Cheney, Leicestershire",
+      "death": "14 May 1761(1761-05-14) (aged 50)Market Bosworth, Leicestershire"
+    },
+    "scraped_at": "2025-08-11T01:11:33.280480",
+    "raw_html_length": 110824
+  },
+  "processed_at": "2025-08-11T01:11:34.280951",
+  "wikidata_info": {
+    "wikidata_id": "Q336780",
+    "name": "Thomas Simpson",
+    "birth_year": 1710,
+    "death_year": 1761,
+    "birth_date_full": "1710-08-31T00:00:00Z",
+    "death_date_full": "1761-05-14T00:00:00Z",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Thomas_Simpson",
+    "nationality": "",
+    "birth_place": {
+      "name": "",
+      "wikidata_uri": "",
+      "coordinates": null
+    },
+    "image_url": "",
+    "fields": [
+      "mathematics"
+    ],
+    "data_source": "wikidata_sparql",
+    "extracted_at": "2025-08-11T01:11:25.225492",
+    "wikidata_query_metadata": {
+      "query_date": "2025-08-11T01:11:25.225493",
+      "endpoint": "https://query.wikidata.org/sparql",
+      "data_quality": "structured"
+    }
+  }
+}

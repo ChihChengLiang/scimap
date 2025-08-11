@@ -1,0 +1,58 @@
+{
+  "id": null,
+  "name": "James Short",
+  "birth_year": 1710,
+  "death_year": 1768,
+  "nationality": "European",
+  "fields": [
+    "mathematics"
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/James_Short_(mathematician)",
+  "wikipedia_data": {
+    "url": "https://en.wikipedia.org/wiki/James_Short_(mathematician)",
+    "title": "James Short (mathematician)",
+    "page_title": "James_Short_(mathematician)",
+    "biography_paragraphs": [
+      "James Short FRS (10 June O.S. (21 June N.S.) 1710 – 14 June 1768) was a Scottish mathematician and manufacturer of optical instruments, principally telescopes. During his 35-year career as a telescope-maker he produced approximately 1,360 scientific instruments.[1]",
+      "Short was born in Edinburgh in 1710 to Margaret Grierson and William Short, a carpenter. When he was orphaned at about the age of 10, he was accepted into the Heriot's Hospital, an orphanage, and at 12 transferred to the Royal High School where he excelled in the study of the classics. In 1726 he entered the University of Edinburgh to study divinity, however after being inspired by lectures given by professor of mathematics Colin Maclaurin, he transferred to astronomy and mathematics.[2]",
+      "In 1732 Maclaurin gave Short access to use his rooms in the university to work on for experiments in the construction of telescopes. Such was the quality of Short's instruments that in recognition of his skill he was elected as a Fellow of the Royal Society on 24 March 1737.[2] In Short's first telescopes the specula were made of glass, as suggested by James Gregory, however later he used metallic specula only, and thus succeeded in giving them true parabolic and elliptic shapes.",
+      "Short then adopted telescope-making as his profession, which he practised first in Edinburgh up until 1738, after which he transferred to London.",
+      "Almost all of Short's telescopes were of the Gregorian form, and some of them even today retain their original high polish and sharp definition."
+    ],
+    "infobox": {
+      "birth": "(1710-06-21)21 June 1710Edinburgh, Scotland",
+      "death": "14 June 1768(1768-06-14) (aged 57)London, England",
+      "nationality": "Scottish",
+      "fields": "mathematics"
+    },
+    "scraped_at": "2025-08-11T01:13:11.764182",
+    "raw_html_length": 88979
+  },
+  "processed_at": "2025-08-11T01:13:12.770591",
+  "wikidata_info": {
+    "wikidata_id": "Q957681",
+    "name": "James Short",
+    "birth_year": 1710,
+    "death_year": 1768,
+    "birth_date_full": "1710-06-21T00:00:00Z",
+    "death_date_full": "1768-06-15T00:00:00Z",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/James_Short_(mathematician)",
+    "nationality": "",
+    "birth_place": {
+      "name": "",
+      "wikidata_uri": "",
+      "coordinates": null
+    },
+    "image_url": "",
+    "fields": [
+      "mathematics"
+    ],
+    "data_source": "wikidata_sparql",
+    "extracted_at": "2025-08-11T01:11:25.225477",
+    "wikidata_query_metadata": {
+      "query_date": "2025-08-11T01:11:25.225478",
+      "endpoint": "https://query.wikidata.org/sparql",
+      "data_quality": "structured"
+    }
+  }
+}

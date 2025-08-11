@@ -1,0 +1,50 @@
+{
+  "id": null,
+  "name": "Tommaso Perelli",
+  "birth_year": 1704,
+  "death_year": 1783,
+  "nationality": "European",
+  "fields": [
+    "mathematics"
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Tommaso_Perelli",
+  "wikipedia_data": {
+    "url": "https://en.wikipedia.org/wiki/Tommaso_Perelli",
+    "title": "Tommaso Perelli",
+    "page_title": "Tommaso_Perelli",
+    "biography_paragraphs": [
+      "Tommaso Perelli (21 June 1704, Florence – 5 October 1783, Arezzo) was an Italian astronomer.",
+      "Born into a noble family of Arezzo, Perelli was encouraged by his father to study law at the University of Pisa, but Guido Grandi (1671–1742), an abbot who was teaching mathematics there, steered him toward science. When his father died, Perelli abandoned the study of law for good. He decided to get a degree in physics and medicine. He studied astronomy and medicine at the University of Bologna, and Greek literature at the University of Padua. He was then appointed by the Tuscan government to the chair in astronomy at the University of Pisa, where he became a noted astronomer and hydraulics expert. He was the first to identify the hill of Arcetri, near Galileo's (1564–1642) last home, Villa Il Gioiello, as ideal location for astronomical observations.[1]"
+    ],
+    "infobox": {},
+    "scraped_at": "2025-08-11T01:12:31.538840",
+    "raw_html_length": 82164
+  },
+  "processed_at": "2025-08-11T01:12:32.546063",
+  "wikidata_info": {
+    "wikidata_id": "Q18945809",
+    "name": "Tommaso Perelli",
+    "birth_year": 1704,
+    "death_year": 1783,
+    "birth_date_full": "1704-01-01T00:00:00Z",
+    "death_date_full": "1783-01-01T00:00:00Z",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Tommaso_Perelli",
+    "nationality": "",
+    "birth_place": {
+      "name": "",
+      "wikidata_uri": "",
+      "coordinates": null
+    },
+    "image_url": "",
+    "fields": [
+      "mathematics"
+    ],
+    "data_source": "wikidata_sparql",
+    "extracted_at": "2025-08-11T01:11:25.225030",
+    "wikidata_query_metadata": {
+      "query_date": "2025-08-11T01:11:25.225033",
+      "endpoint": "https://query.wikidata.org/sparql",
+      "data_quality": "structured"
+    }
+  }
+}

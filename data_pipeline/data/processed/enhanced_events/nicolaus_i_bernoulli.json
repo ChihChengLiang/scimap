@@ -1,0 +1,234 @@
+{
+  "id": null,
+  "name": "Nicolaus I Bernoulli",
+  "birth_year": 1687,
+  "death_year": 1759,
+  "nationality": "European",
+  "fields": [
+    "mathematics"
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Nicolaus_I_Bernoulli",
+  "wikipedia_data": {
+    "url": "https://en.wikipedia.org/wiki/Nicolaus_I_Bernoulli",
+    "title": "Nicolaus I Bernoulli",
+    "page_title": "Nicolaus_I_Bernoulli",
+    "biography_paragraphs": [
+      "Nicolaus Bernoulli (also spelled Nicolas or Nikolas; 20 October [O.S. 10 October] 1687 in Basel – 29 November 1759 in Basel) was a Swiss mathematician and was one of the many prominent mathematicians in the Bernoulli family.",
+      "Nicolaus Bernoulli was born on 20 October [O.S. 10 October] 1687 in Basel.[1] He was the son of Nicolaus Bernoulli, painter and Alderman of Basel. In 1704 he graduated from the University of Basel under Jakob Bernoulli and obtained his PhD five years later (in 1709) with a work on probability theory in law. His thesis was titled Dissertatio Inauguralis Mathematico-Juridica de Usu Artis Conjectandi in Jure.[2]",
+      "In 1716 he obtained the Galileo-chair at the University of Padua, where he worked on differential equations and geometry. In 1722 he returned to Switzerland and obtained a chair in Logics at the University of Basel.",
+      "Nicolaus I Bernoulli was deeply influenced by his family, particularly his uncle Jacob Bernoulli and his cousin Daniel Bernoulli, both of whom were prominent mathematicians. Jacob Bernoulli, one of the early developers of calculus and a pioneer in the field of probability, had a significant impact on Nicolaus’s academic direction. Jacob’s work on the Bernoulli numbers and the Bernoulli theorem provided a strong foundation for Nicolaus’s own research in probability theory.[3]",
+      "He was elected a Fellow of the Royal Society of London in 1714.[4]"
+    ],
+    "infobox": {},
+    "scraped_at": "2025-08-11T01:11:50.320795",
+    "raw_html_length": 115001
+  },
+  "processed_at": "2025-08-11T01:11:51.326689",
+  "wikidata_info": {
+    "wikidata_id": "Q123992",
+    "name": "Nicolaus I Bernoulli",
+    "birth_year": 1687,
+    "death_year": 1759,
+    "birth_date_full": "1687-10-21T00:00:00Z",
+    "death_date_full": "1759-11-29T00:00:00Z",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Nicolaus_I_Bernoulli",
+    "nationality": "",
+    "birth_place": {
+      "name": "",
+      "wikidata_uri": "",
+      "coordinates": null
+    },
+    "image_url": "",
+    "fields": [
+      "mathematics"
+    ],
+    "data_source": "wikidata_sparql",
+    "extracted_at": "2025-08-11T01:11:25.224096",
+    "wikidata_query_metadata": {
+      "query_date": "2025-08-11T01:11:25.224097",
+      "endpoint": "https://query.wikidata.org/sparql",
+      "data_quality": "structured"
+    }
+  },
+  "timeline_events": [
+    {
+      "year": 1704,
+      "year_confidence": "exact",
+      "event_type": "education",
+      "description": "Graduated from the University of Basel.",
+      "location": {
+        "place_name": "University of Basel",
+        "raw_text": "graduated from the University of Basel",
+        "confidence": 0.95
+      },
+      "source_text": "In 1704 he graduated from the University of Basel.",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T17:11:45.654655",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": 1704,
+      "year_confidence": "exact",
+      "event_type": "education",
+      "description": "Studied under Jakob Bernoulli at the University of Basel.",
+      "location": {
+        "place_name": "University of Basel",
+        "raw_text": "under Jakob Bernoulli",
+        "confidence": 0.85
+      },
+      "source_text": "He graduated from the University of Basel under Jakob Bernoulli",
+      "confidence": 0.85,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T17:11:45.654736",
+        "extraction_confidence": 0.85,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": 1709,
+      "year_confidence": "exact",
+      "event_type": "education",
+      "description": "Obtained a PhD from the University of Basel.",
+      "location": {
+        "place_name": "University of Basel",
+        "raw_text": "obtained his PhD",
+        "confidence": 0.95
+      },
+      "source_text": "obtained his PhD five years later (in 1709)",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T17:11:45.654740",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": 1709,
+      "year_confidence": "exact",
+      "event_type": "publication",
+      "description": "Thesis: Dissertatio Inauguralis Mathematico-Juridica de Usu Artis Conjectandi in Jure.",
+      "location": {
+        "place_name": "University of Basel",
+        "raw_text": "His thesis was titled Dissertatio Inauguralis Mathematico-Juridica de Usu Artis Conjectandi in Jure.",
+        "confidence": 0.95
+      },
+      "source_text": "His thesis was titled Dissertatio Inauguralis Mathematico-Juridica de Usu Artis Conjectandi in Jure.",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T17:11:45.654743",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": 1716,
+      "year_confidence": "exact",
+      "event_type": "position",
+      "description": "Obtained the Galileo-chair at the University of Padua.",
+      "location": {
+        "place_name": "Padua",
+        "raw_text": "obtained the Galileo-chair at the University of Padua",
+        "confidence": 0.95
+      },
+      "source_text": "In 1716 he obtained the Galileo-chair at the University of Padua",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T17:11:45.654745",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": 1716,
+      "year_confidence": "exact",
+      "event_type": "position",
+      "description": "Worked at the University of Padua.",
+      "location": {
+        "place_name": "Padua",
+        "raw_text": "worked on differential equations and geometry",
+        "confidence": 0.95
+      },
+      "source_text": "obtained the Galileo-chair at the University of Padua, where he worked on differential equations and geometry.",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T17:11:45.654748",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": 1722,
+      "year_confidence": "exact",
+      "event_type": "position",
+      "description": "Obtained a chair in Logics at the University of Basel.",
+      "location": {
+        "place_name": "University of Basel",
+        "raw_text": "obtained a chair in Logics at the University of Basel",
+        "confidence": 0.95
+      },
+      "source_text": "In 1722 he returned to Switzerland and obtained a chair in Logics at the University of Basel.",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T17:11:45.654750",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": 1722,
+      "year_confidence": "exact",
+      "event_type": "travel",
+      "description": "Returned to Switzerland.",
+      "location": {
+        "place_name": "Switzerland",
+        "raw_text": "returned to Switzerland",
+        "confidence": 0.85
+      },
+      "source_text": "In 1722 he returned to Switzerland",
+      "confidence": 0.85,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T17:11:45.654753",
+        "extraction_confidence": 0.85,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": 1759,
+      "year_confidence": "exact",
+      "event_type": "death",
+      "description": "Died in Basel.",
+      "location": {
+        "place_name": "Basel",
+        "raw_text": "29 November 1759 in Basel",
+        "confidence": 0.95
+      },
+      "source_text": "29 November 1759 in Basel",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T17:11:45.654755",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    }
+  ],
+  "timeline_extraction_metadata": {
+    "extracted_at": "2025-08-11T17:11:45.654881",
+    "model_used": "lm_studio_google/gemma-3n-e4b",
+    "events_count": 9,
+    "biography_length": 853,
+    "enhancement_level": "gemma_comprehensive",
+    "target_events_per_mathematician": "5-10"
+  }
+}

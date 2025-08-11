@@ -1,0 +1,231 @@
+{
+  "id": null,
+  "name": "Giuseppe Suzzi",
+  "birth_year": 1701,
+  "death_year": 1764,
+  "nationality": "European",
+  "fields": [
+    "mathematics"
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Giuseppe_Suzzi",
+  "wikipedia_data": {
+    "url": "https://en.wikipedia.org/wiki/Giuseppe_Suzzi",
+    "title": "Giuseppe Suzzi",
+    "page_title": "Giuseppe_Suzzi",
+    "biography_paragraphs": [
+      "Giuseppe Suzzi (1701[1] - 5 January 1764) was an Italian mathematician and abbot.[2][3][4]",
+      "Born in Ragogna, province of Udine, he studied in Udine and later in Murano, Venice, in the seminary of Somaschi Fathers, where he was a relevant student of Giovanni Francesco Crivelli.[2] In 1722 he moved to the University of Padua, when he also took lessons from Jacopo Riccati privately with Lodovico da Riva. These lessons were published in 1761 in a posthumous book by Riccati, with the solutions of many problems by Suzzi.[2] Suzzi, an abbey, published many books on mathematical analysis and in 1744 he became professor of natural history in Padua, where he taught mainly within the tradition of aristotelianism, but also giving space to newer philosophical ideas.[2] In 1750 he became a member of the Accademia dei Ricovrati in Padua (later Accademia galileiana di scienze, lettere ed arti). He retired from University in 1762 and died in Venice 5 January 1764.[2]"
+    ],
+    "infobox": {},
+    "scraped_at": "2025-08-11T01:12:11.562284",
+    "raw_html_length": 73606
+  },
+  "processed_at": "2025-08-11T01:12:12.567371",
+  "wikidata_info": {
+    "wikidata_id": "Q20140435",
+    "name": "Giuseppe Suzzi",
+    "birth_year": 1701,
+    "death_year": 1764,
+    "birth_date_full": "1701-01-01T00:00:00Z",
+    "death_date_full": "1764-01-05T00:00:00Z",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Giuseppe_Suzzi",
+    "nationality": "",
+    "birth_place": {
+      "name": "",
+      "wikidata_uri": "",
+      "coordinates": null
+    },
+    "image_url": "",
+    "fields": [
+      "mathematics"
+    ],
+    "data_source": "wikidata_sparql",
+    "extracted_at": "2025-08-11T01:11:25.224801",
+    "wikidata_query_metadata": {
+      "query_date": "2025-08-11T01:11:25.224802",
+      "endpoint": "https://query.wikidata.org/sparql",
+      "data_quality": "structured"
+    }
+  },
+  "timeline_events": [
+    {
+      "year": 1701,
+      "year_confidence": "exact",
+      "event_type": "birth",
+      "description": "Giuseppe Suzzi was born in Ragogna, province of Udine, Italy.",
+      "location": {
+        "place_name": "Ragogna",
+        "raw_text": "Born in Ragogna, province of Udine...",
+        "confidence": 1.0
+      },
+      "source_text": "Giuseppe Suzzi (1701[1] - 5 January 1764) was an Italian mathematician and abbot.",
+      "confidence": 1.0,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T14:27:46.399914",
+        "extraction_confidence": 1.0,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1700-1722",
+      "year_confidence": "range",
+      "event_type": "education",
+      "description": "Studied in Udine and later in Murano, Venice, in the seminary of Somaschi Fathers.",
+      "location": {
+        "place_name": "Udine",
+        "raw_text": "studied in Udine...",
+        "confidence": 0.95
+      },
+      "source_text": "Born in Ragogna, province of Udine, he studied in Udine and later in Murano, Venice...",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T14:27:46.400110",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1722",
+      "year_confidence": "exact",
+      "event_type": "position",
+      "description": "Moved to the University of Padua and took lessons from Jacopo Riccati privately.",
+      "location": {
+        "place_name": "Padua",
+        "raw_text": "moved to the University of Padua...",
+        "confidence": 0.95
+      },
+      "source_text": "In 1722 he moved to the University of Padua...",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T14:27:46.400118",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1722",
+      "year_confidence": "exact",
+      "event_type": "collaboration",
+      "description": "Took lessons from Jacopo Riccati privately, with Lodovico da Riva.",
+      "location": {
+        "place_name": "Padua",
+        "raw_text": "took lessons from Jacopo Riccati privately with Lodovico da Riva",
+        "confidence": 0.95
+      },
+      "source_text": "In 1722 he moved to the University of Padua, when he also took lessons from Jacopo Riccati privately with Lodovico da Riva.",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T14:27:46.400125",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1761",
+      "year_confidence": "exact",
+      "event_type": "publication",
+      "description": "Riccati published Suzzi's lessons, including solutions to many problems.",
+      "location": {
+        "place_name": "Padua",
+        "raw_text": "These lessons were published in 1761 in a posthumous book by Riccati, with the solutions of many problems by Suzzi.",
+        "confidence": 0.95
+      },
+      "source_text": "These lessons were published in 1761 in a posthumous book by Riccati, with the solutions of many problems by Suzzi.",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T14:27:46.400131",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1744",
+      "year_confidence": "exact",
+      "event_type": "position",
+      "description": "Became professor of natural history in Padua.",
+      "location": {
+        "place_name": "Padua",
+        "raw_text": "in 1744 he became professor of natural history in Padua...",
+        "confidence": 0.95
+      },
+      "source_text": "In 1744 he became professor of natural history in Padua...",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T14:27:46.400137",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1750",
+      "year_confidence": "exact",
+      "event_type": "collaboration",
+      "description": "Became a member of the Accademia dei Ricovrati in Padua.",
+      "location": {
+        "place_name": "Padua",
+        "raw_text": "In 1750 he became a member of the Accademia dei Ricovrati in Padua...",
+        "confidence": 0.95
+      },
+      "source_text": "In 1750 he became a member of the Accademia dei Ricovrati in Padua.",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T14:27:46.400143",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1762",
+      "year_confidence": "exact",
+      "event_type": "position",
+      "description": "Retired from the University of Padua.",
+      "location": {
+        "place_name": "Padua",
+        "raw_text": "retired from University in 1762...",
+        "confidence": 0.95
+      },
+      "source_text": "He retired from University in 1762 and died in Venice 5 January 1764.",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T14:27:46.400148",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1764",
+      "year_confidence": "exact",
+      "event_type": "death",
+      "description": "Died in Venice on January 5, 1764.",
+      "location": {
+        "place_name": "Venice",
+        "raw_text": "and died in Venice 5 January 1764.",
+        "confidence": 0.95
+      },
+      "source_text": "Giuseppe Suzzi (1701[1] - 5 January 1764) was an Italian mathematician and abbot.",
+      "confidence": 1.0,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T14:27:46.400154",
+        "extraction_confidence": 1.0,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    }
+  ],
+  "timeline_extraction_metadata": {
+    "extracted_at": "2025-08-11T14:27:46.400319",
+    "model_used": "lm_studio_google/gemma-3n-e4b",
+    "events_count": 9,
+    "biography_length": 963,
+    "enhancement_level": "gemma_comprehensive",
+    "target_events_per_mathematician": "5-10"
+  }
+}

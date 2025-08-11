@@ -1,8 +1,8 @@
 {
   "metadata": {
     "source": "wikidata_sparql_list",
-    "generated_at": "2025-08-10T23:39:31.201214",
-    "total_mathematicians": 13,
+    "generated_at": "2025-08-11T00:32:31.993500",
+    "total_mathematicians": 510,
     "method": "wikidata_list_wikipedia_scraping"
   },
   "mathematicians": {
@@ -135,6 +135,4976 @@
         "mathematics"
       ],
       "wikipedia_url": "https://en.wikipedia.org/wiki/Pierre-Simon_Laplace"
+    },
+    "jacob_bernoulli": {
+      "name": "Jacob Bernoulli",
+      "birth_year": 1655,
+      "death_year": 1705,
+      "nationality": "Swiss",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Jacob_Bernoulli"
+    },
+    "abraham_de_moivre": {
+      "name": "Abraham de Moivre",
+      "birth_year": 1667,
+      "death_year": 1754,
+      "nationality": "English",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Abraham_de_Moivre"
+    },
+    "johann_bernoulli": {
+      "name": "Johann Bernoulli",
+      "birth_year": 1667,
+      "death_year": 1748,
+      "nationality": "Swiss",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Johann_Bernoulli"
+    },
+    "nicolaus_i_bernoulli": {
+      "name": "Nicolaus I Bernoulli",
+      "birth_year": 1687,
+      "death_year": 1759,
+      "nationality": "Swiss",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Nicolaus_I_Bernoulli"
+    },
+    "christian_goldbach": {
+      "name": "Christian Goldbach",
+      "birth_year": 1690,
+      "death_year": 1764,
+      "nationality": "German",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Christian_Goldbach"
+    },
+    "nicolaus_ii_bernoulli": {
+      "name": "Nicolaus II Bernoulli",
+      "birth_year": 1695,
+      "death_year": 1726,
+      "nationality": "Swiss",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Nicolaus_II_Bernoulli"
+    },
+    "colin_maclaurin": {
+      "name": "Colin MacLaurin",
+      "birth_year": 1698,
+      "death_year": 1746,
+      "nationality": "Scottish",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Colin_Maclaurin"
+    },
+    "sámuel_mikoviny": {
+      "name": "Sámuel Mikoviny",
+      "birth_year": 1700,
+      "death_year": 1750,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/S%C3%A1muel_Mikoviny"
+    },
+    "théodore_cornut": {
+      "name": "Théodore Cornut",
+      "birth_year": 1700,
+      "death_year": 1750,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Th%C3%A9odore_Cornut"
+    },
+    "edmund_stone": {
+      "name": "Edmund Stone",
+      "birth_year": 1700,
+      "death_year": 1768,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Edmund_Stone"
+    },
+    "israel_zamosz": {
+      "name": "Israel Zamosz",
+      "birth_year": 1700,
+      "death_year": 1772,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Israel_Zamosz"
+    },
+    "walter_taylor": {
+      "name": "Walter Taylor",
+      "birth_year": 1700,
+      "death_year": 1743,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Walter_Taylor_(mathematician)"
+    },
+    "william_braikenridge": {
+      "name": "William Braikenridge",
+      "birth_year": 1700,
+      "death_year": 1762,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/William_Braikenridge"
+    },
+    "nathaniel_bliss": {
+      "name": "Nathaniel Bliss",
+      "birth_year": 1700,
+      "death_year": 1764,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Nathaniel_Bliss"
+    },
+    "john_rowning": {
+      "name": "John Rowning",
+      "birth_year": 1701,
+      "death_year": 1771,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/John_Rowning"
+    },
+    "christian_ludwig_gersten": {
+      "name": "Christian Ludwig Gersten",
+      "birth_year": 1701,
+      "death_year": 1762,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Christian_Ludwig_Gersten"
+    },
+    "george_baron": {
+      "name": "George Baron",
+      "birth_year": 1701,
+      "death_year": 1818,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/George_Baron"
+    },
+    "fortunato_da_brescia": {
+      "name": "Fortunato da Brescia",
+      "birth_year": 1701,
+      "death_year": 1754,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Fortunato_of_Brescia"
+    },
+    "lazzaro_mongiardini": {
+      "name": "Lazzaro Mongiardini",
+      "birth_year": 1701,
+      "death_year": 1800,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Lazzaro_Mongiardini"
+    },
+    "giuseppe_suzzi": {
+      "name": "Giuseppe Suzzi",
+      "birth_year": 1701,
+      "death_year": 1764,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Giuseppe_Suzzi"
+    },
+    "giovanni_pagnini": {
+      "name": "Giovanni Pagnini",
+      "birth_year": 1701,
+      "death_year": 1800,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Giovanni_Pagnini"
+    },
+    "bartolomeo_pollastri": {
+      "name": "Bartolomeo Pollastri",
+      "birth_year": 1701,
+      "death_year": 1800,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Bartolomeo_Pollastri"
+    },
+    "francesco_perez": {
+      "name": "Francesco Perez",
+      "birth_year": 1701,
+      "death_year": 1800,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Francesco_Perez"
+    },
+    "charles_marie_de_la_condamine": {
+      "name": "Charles Marie de La Condamine",
+      "birth_year": 1701,
+      "death_year": 1774,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Charles_Marie_de_La_Condamine"
+    },
+    "william_emerson": {
+      "name": "William Emerson",
+      "birth_year": 1701,
+      "death_year": 1782,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/William_Emerson_(mathematician)"
+    },
+    "jean_joseph_rallier_des_ourmes": {
+      "name": "Jean-Joseph Rallier des Ourmes",
+      "birth_year": 1701,
+      "death_year": 1771,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Jean-Joseph_Rallier_des_Ourmes"
+    },
+    "anders_celsius": {
+      "name": "Anders Celsius",
+      "birth_year": 1701,
+      "death_year": 1744,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Anders_Celsius"
+    },
+    "francis_williams": {
+      "name": "Francis Williams",
+      "birth_year": 1702,
+      "death_year": 1770,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Francis_Williams_(polymath)"
+    },
+    "alexander_macfarlane": {
+      "name": "Alexander MacFarlane",
+      "birth_year": 1702,
+      "death_year": 1755,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Alexander_MacFarlane_(astronomer)"
+    },
+    "michael_adelbulner": {
+      "name": "Michael Adelbulner",
+      "birth_year": 1702,
+      "death_year": 1779,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Michael_Adelbulner"
+    },
+    "isaac_greenwood": {
+      "name": "Isaac Greenwood",
+      "birth_year": 1702,
+      "death_year": 1745,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Isaac_Greenwood"
+    },
+    "giovanni_antonio_lecchi": {
+      "name": "Giovanni Antonio Lecchi",
+      "birth_year": 1702,
+      "death_year": 1776,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Giovanni_Antonio_Lecchi"
+    },
+    "josé_antonio_villaseñor_y_sánchez": {
+      "name": "José Antonio Villaseñor y Sánchez",
+      "birth_year": 1703,
+      "death_year": 1759,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Jos%C3%A9_Antonio_Villase%C3%B1or_y_S%C3%A1nchez"
+    },
+    "ferdinand_augustin_hallerstein": {
+      "name": "Ferdinand Augustin Hallerstein",
+      "birth_year": 1703,
+      "death_year": 1774,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Ferdinand_Augustin_Hallerstein"
+    },
+    "jean_louis_calandrini": {
+      "name": "Jean-Louis Calandrini",
+      "birth_year": 1703,
+      "death_year": 1758,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Jean-Louis_Calandrini"
+    },
+    "françois_fresneau_de_la_gataudière": {
+      "name": "François Fresneau de La Gataudière",
+      "birth_year": 1703,
+      "death_year": 1770,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Fran%C3%A7ois_Fresneau_de_La_Gataudi%C3%A8re"
+    },
+    "antoine_deparcieux": {
+      "name": "Antoine Deparcieux",
+      "birth_year": 1703,
+      "death_year": 1768,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Antoine_Deparcieux"
+    },
+    "guillaume_le_blond": {
+      "name": "Guillaume Le Blond",
+      "birth_year": 1704,
+      "death_year": 1781,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Guillaume_Le_Blond"
+    },
+    "yamaji_nushizumi": {
+      "name": "Yamaji Nushizumi",
+      "birth_year": 1704,
+      "death_year": 1773,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Yamaji_Nushizumi"
+    },
+    "tommaso_perelli": {
+      "name": "Tommaso Perelli",
+      "birth_year": 1704,
+      "death_year": 1783,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Tommaso_Perelli"
+    },
+    "louis_godin": {
+      "name": "Louis Godin",
+      "birth_year": 1704,
+      "death_year": 1760,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Louis_Godin"
+    },
+    "federico_sanvitale": {
+      "name": "Federico Sanvitale",
+      "birth_year": 1704,
+      "death_year": 1761,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Federico_Sanvitale"
+    },
+    "alexis_fontaine_des_bertins": {
+      "name": "Alexis Fontaine des Bertins",
+      "birth_year": 1704,
+      "death_year": 1771,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Alexis_Fontaine_des_Bertins"
+    },
+    "johann_andreas_segner": {
+      "name": "Johann Andreas Segner",
+      "birth_year": 1704,
+      "death_year": 1777,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Johann_Andreas_Segner"
+    },
+    "jacopo_belgrado": {
+      "name": "Jacopo Belgrado",
+      "birth_year": 1704,
+      "death_year": 1789,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Jacopo_Belgrado"
+    },
+    "pedro_vicente_maldonado": {
+      "name": "Pedro Vicente Maldonado",
+      "birth_year": 1704,
+      "death_year": 1748,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Pedro_Vicente_Maldonado"
+    },
+    "james_dodson": {
+      "name": "James Dodson",
+      "birth_year": 1705,
+      "death_year": 1757,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/James_Dodson_(mathematician)"
+    },
+    "matthew_raper": {
+      "name": "Matthew Raper",
+      "birth_year": 1705,
+      "death_year": 1778,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Matthew_Raper"
+    },
+    "johann_friedrich_endersch": {
+      "name": "Johann Friedrich Endersch",
+      "birth_year": 1705,
+      "death_year": 1769,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Johann_Friedrich_Endersch"
+    },
+    "faustina_pignatelli": {
+      "name": "Faustina Pignatelli",
+      "birth_year": 1705,
+      "death_year": 1769,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Faustina_Pignatelli"
+    },
+    "johann_christoph_heilbronner": {
+      "name": "Johann Christoph Heilbronner",
+      "birth_year": 1706,
+      "death_year": 1745,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Johann_Christoph_Heilbronner"
+    },
+    "benjamin_robins": {
+      "name": "Benjamin Robins",
+      "birth_year": 1707,
+      "death_year": 1751,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Benjamin_Robins"
+    },
+    "émilie_du_châtelet": {
+      "name": "Émilie du Châtelet",
+      "birth_year": 1706,
+      "death_year": 1749,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/%C3%89milie_du_Ch%C3%A2telet"
+    },
+    "alexander_webster": {
+      "name": "Alexander Webster",
+      "birth_year": 1707,
+      "death_year": 1784,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Alexander_Webster"
+    },
+    "john_robertson": {
+      "name": "John Robertson",
+      "birth_year": 1712,
+      "death_year": 1776,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/John_Robertson_(mathematician)"
+    },
+    "vincenzo_riccati": {
+      "name": "Vincenzo Riccati",
+      "birth_year": 1707,
+      "death_year": 1775,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Vincenzo_Riccati"
+    },
+    "jedediah_buxton": {
+      "name": "Jedediah Buxton",
+      "birth_year": 1707,
+      "death_year": 1772,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Jedediah_Buxton"
+    },
+    "pietro_di_martino": {
+      "name": "Pietro di Martino",
+      "birth_year": 1707,
+      "death_year": 1746,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Pietro_De_Martino"
+    },
+    "pierre_lyonnet": {
+      "name": "Pierre Lyonnet",
+      "birth_year": 1707,
+      "death_year": 1789,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Pierre_Lyonnet"
+    },
+    "johann_peter_süssmilch": {
+      "name": "Johann Peter Süssmilch",
+      "birth_year": 1707,
+      "death_year": 1767,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Johann_Peter_S%C3%BCssmilch"
+    },
+    "georges_louis_leclerc_comte_de_buffon": {
+      "name": "Georges-Louis Leclerc, Comte de Buffon",
+      "birth_year": 1707,
+      "death_year": 1788,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Georges-Louis_Leclerc,_Comte_de_Buffon"
+    },
+    "giovanni_salvemini": {
+      "name": "Giovanni Salvemini",
+      "birth_year": 1709,
+      "death_year": 1791,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Giovanni_Salvemini"
+    },
+    "alberto_pappiani": {
+      "name": "Alberto Pappiani",
+      "birth_year": 1709,
+      "death_year": 1790,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Alberto_Pappiani"
+    },
+    "johannes_gessner": {
+      "name": "Johannes Gessner",
+      "birth_year": 1709,
+      "death_year": 1790,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Johannes_Gessner"
+    },
+    "giovanni_domenico_maraldi": {
+      "name": "Giovanni Domenico Maraldi",
+      "birth_year": 1709,
+      "death_year": 1788,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Giovanni_Domenico_Maraldi"
+    },
+    "gottfried_heinsius": {
+      "name": "Gottfried Heinsius",
+      "birth_year": 1709,
+      "death_year": 1769,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Gottfried_Heinsius"
+    },
+    "dirk_klinkenberg": {
+      "name": "Dirk Klinkenberg",
+      "birth_year": 1709,
+      "death_year": 1799,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Dirk_Klinkenberg"
+    },
+    "jean_baptiste_de_la_chapelle": {
+      "name": "Jean-Baptiste de La Chapelle",
+      "birth_year": 1710,
+      "death_year": 1791,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Jean-Baptiste_de_La_Chapelle"
+    },
+    "joão_de_loureiro": {
+      "name": "João de Loureiro",
+      "birth_year": 1717,
+      "death_year": 1791,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Jo%C3%A3o_de_Loureiro"
+    },
+    "corbyn_morris": {
+      "name": "Corbyn Morris",
+      "birth_year": 1710,
+      "death_year": 1779,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Corbyn_Morris"
+    },
+    "thomas_fuller": {
+      "name": "Thomas Fuller",
+      "birth_year": 1710,
+      "death_year": 1790,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Thomas_Fuller_(mental_calculator)"
+    },
+    "george_gargrave": {
+      "name": "George Gargrave",
+      "birth_year": 1710,
+      "death_year": 1785,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/George_Gargrave"
+    },
+    "richard_jack": {
+      "name": "Richard Jack",
+      "birth_year": 1710,
+      "death_year": 1759,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Richard_Jack_(mathematician)"
+    },
+    "jean_paul_de_gua_de_malves": {
+      "name": "Jean Paul de Gua de Malves",
+      "birth_year": 1710,
+      "death_year": 1786,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Jean_Paul_de_Gua_de_Malves"
+    },
+    "thomas_reid": {
+      "name": "Thomas Reid",
+      "birth_year": 1710,
+      "death_year": 1796,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Thomas_Reid"
+    },
+    "james_short": {
+      "name": "James Short",
+      "birth_year": 1710,
+      "death_year": 1768,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/James_Short_(mathematician)"
+    },
+    "thomas_simpson": {
+      "name": "Thomas Simpson",
+      "birth_year": 1710,
+      "death_year": 1761,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Thomas_Simpson"
+    },
+    "giambattista_suardi": {
+      "name": "Giambattista Suardi",
+      "birth_year": 1711,
+      "death_year": 1767,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Giambattista_Suardi"
+    },
+    "cosme_bueno": {
+      "name": "Cosme Bueno",
+      "birth_year": 1711,
+      "death_year": 1798,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Francisco_Antonio_Cosme_Bueno"
+    },
+    "ruđer_josip_bošković": {
+      "name": "Ruđer Josip Bošković",
+      "birth_year": 1711,
+      "death_year": 1787,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Roger_Joseph_Boscovich"
+    },
+    "françois_jacquier": {
+      "name": "François Jacquier",
+      "birth_year": 1711,
+      "death_year": 1788,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Fran%C3%A7ois_Jacquier"
+    },
+    "lorenz_christoph_mizler": {
+      "name": "Lorenz Christoph Mizler",
+      "birth_year": 1711,
+      "death_year": 1778,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Lorenz_Christoph_Mizler"
+    },
+    "thomas_wright": {
+      "name": "Thomas Wright",
+      "birth_year": 1711,
+      "death_year": 1786,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Thomas_Wright_(astronomer)"
+    },
+    "laura_bassi": {
+      "name": "Laura Bassi",
+      "birth_year": 1711,
+      "death_year": 1778,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Laura_Bassi"
+    },
+    "mikhail_lomonosov": {
+      "name": "Mikhail Lomonosov",
+      "birth_year": 1711,
+      "death_year": 1765,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Mikhail_Lomonosov"
+    },
+    "johann_samuel_könig": {
+      "name": "Johann Samuel König",
+      "birth_year": 1712,
+      "death_year": 1757,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Johann_Samuel_K%C3%B6nig"
+    },
+    "francesco_algarotti": {
+      "name": "Francesco Algarotti",
+      "birth_year": 1712,
+      "death_year": 1764,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Francesco_Algarotti"
+    },
+    "alexander_bryce": {
+      "name": "Alexander Bryce",
+      "birth_year": 1713,
+      "death_year": 1786,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Alexander_Bryce_(minister)"
+    },
+    "francesco_ventretti": {
+      "name": "Francesco Ventretti",
+      "birth_year": 1713,
+      "death_year": 1784,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Francesco_Ventretti"
+    },
+    "jorge_juan_y_santacilia": {
+      "name": "Jorge Juan y Santacilia",
+      "birth_year": 1713,
+      "death_year": 1773,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Jorge_Juan_y_Santacilia"
+    },
+    "giammaria_ortes": {
+      "name": "Giammaria Ortes",
+      "birth_year": 1713,
+      "death_year": 1790,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Giammaria_Ortes"
+    },
+    "nicolas_louis_de_lacaille": {
+      "name": "Nicolas Louis de Lacaille",
+      "birth_year": 1713,
+      "death_year": 1762,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Nicolas-Louis_de_Lacaille"
+    },
+    "johann_kies": {
+      "name": "Johann Kies",
+      "birth_year": 1713,
+      "death_year": 1781,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Johann_Kies"
+    },
+    "jean_nicolas_sébastien_allamand": {
+      "name": "Jean Nicolas Sébastien Allamand",
+      "birth_year": 1713,
+      "death_year": 1787,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Jean-Nicolas-S%C3%A9bastien_Allamand"
+    },
+    "georg_friedrich_brander": {
+      "name": "Georg Friedrich Brander",
+      "birth_year": 1713,
+      "death_year": 1783,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Georg_Friedrich_Brander"
+    },
+    "abraham_fletcher": {
+      "name": "Abraham Fletcher",
+      "birth_year": 1714,
+      "death_year": 1793,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Abraham_Fletcher"
+    },
+    "alexander_wilson": {
+      "name": "Alexander Wilson",
+      "birth_year": 1714,
+      "death_year": 1786,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Alexander_Wilson_(astronomer)"
+    },
+    "charles_benjamin_de_lubières": {
+      "name": "Charles-Benjamin de Lubières",
+      "birth_year": 1714,
+      "death_year": 1790,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Charles-Benjamin_de_Lubi%C3%A8res"
+    },
+    "thomas_gordon": {
+      "name": "Thomas Gordon",
+      "birth_year": 1714,
+      "death_year": 1797,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Thomas_Gordon_(philosopher)"
+    },
+    "giovanni_battista_audiffredi": {
+      "name": "Giovanni Battista Audiffredi",
+      "birth_year": 1714,
+      "death_year": 1794,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Giovanni_Battista_Audiffredi"
+    },
+    "tomasz_żebrowski": {
+      "name": "Tomasz Żebrowski",
+      "birth_year": 1714,
+      "death_year": 1758,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Thomas_Zebrowski"
+    },
+    "john_winthrop": {
+      "name": "John Winthrop",
+      "birth_year": 1714,
+      "death_year": 1779,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/John_Winthrop_(educator)"
+    },
+    "arima_yoriyuki": {
+      "name": "Arima Yoriyuki",
+      "birth_year": 1714,
+      "death_year": 1783,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Arima_Yoriyuki"
+    },
+    "michel_ferdinand_d'albert_d'ailly": {
+      "name": "Michel Ferdinand d'Albert d'Ailly",
+      "birth_year": 1714,
+      "death_year": 1769,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Michel_Ferdinand_d%27Albert,_5th_Duke_of_Chaulnes"
+    },
+    "giovanni_fagnano": {
+      "name": "Giovanni Fagnano",
+      "birth_year": 1715,
+      "death_year": 1797,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Giovanni_Fagnano"
+    },
+    "gaspard_le_compasseur_de_créqui_montfort_marquis_de_courtivron": {
+      "name": "Gaspard Le Compasseur de Créqui-Montfort marquis de Courtivron",
+      "birth_year": 1715,
+      "death_year": 1785,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Gaspard_le_Compasseur_de_Cr%C3%A9quy-Montfort_Courtivron"
+    },
+    "mohammad_mahdi_naraqi": {
+      "name": "Mohammad Mahdi Naraqi",
+      "birth_year": 1716,
+      "death_year": 1795,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Mulla_Muhammad_Mahdi_Naraqi"
+    },
+    "shlomo_of_chelme": {
+      "name": "Shlomo of Chelme",
+      "birth_year": 1717,
+      "death_year": 1781,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Solomon_ben_Moses_Chelm"
+    },
+    "henry_owen": {
+      "name": "Henry Owen",
+      "birth_year": 1716,
+      "death_year": 1795,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Henry_Owen"
+    },
+    "filippo_antonio_revelli": {
+      "name": "Filippo Antonio Revelli",
+      "birth_year": 1716,
+      "death_year": 1801,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Filippo_Antonio_Revelli"
+    },
+    "andré_pierre_le_guay_de_prémontval": {
+      "name": "André-Pierre Le Guay de Prémontval",
+      "birth_year": 1716,
+      "death_year": 1764,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Pierre_Le_Guay_de_Pr%C3%A9montval"
+    },
+    "carl_scherffer": {
+      "name": "Carl Scherffer",
+      "birth_year": 1716,
+      "death_year": 1783,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Karl_Scherffer"
+    },
+    "leonardo_ximenes": {
+      "name": "Leonardo Ximenes",
+      "birth_year": 1716,
+      "death_year": 1786,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Leonardo_Ximenes"
+    },
+    "william_ludlam": {
+      "name": "William Ludlam",
+      "birth_year": 1717,
+      "death_year": 1788,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/William_Ludlam"
+    },
+    "matthew_stewart": {
+      "name": "Matthew Stewart",
+      "birth_year": 1717,
+      "death_year": 1785,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Matthew_Stewart_(mathematician)"
+    },
+    "andrew_planta": {
+      "name": "Andrew Planta",
+      "birth_year": 1717,
+      "death_year": 1773,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Andrew_Planta"
+    },
+    "pehr_wilhelm_wargentin": {
+      "name": "Pehr Wilhelm Wargentin",
+      "birth_year": 1717,
+      "death_year": 1783,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Pehr_Wilhelm_Wargentin"
+    },
+    "william_chapple": {
+      "name": "William Chapple",
+      "birth_year": 1718,
+      "death_year": 1781,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/William_Chapple_(surveyor)"
+    },
+    "antoine_de_chézy": {
+      "name": "Antoine de Chézy",
+      "birth_year": 1718,
+      "death_year": 1798,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Antoine_de_Ch%C3%A9zy"
+    },
+    "istván_hatvani": {
+      "name": "István Hatvani",
+      "birth_year": 1718,
+      "death_year": 1786,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Istv%C3%A1n_Hatvani"
+    },
+    "john_lodge_cowley": {
+      "name": "John Lodge Cowley",
+      "birth_year": 1719,
+      "death_year": 1787,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/John_Lodge_Cowley"
+    },
+    "joseph_walcher": {
+      "name": "Joseph Walcher",
+      "birth_year": 1719,
+      "death_year": 1803,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Joseph_Walcher"
+    },
+    "john_landen": {
+      "name": "John Landen",
+      "birth_year": 1719,
+      "death_year": 1790,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/John_Landen"
+    },
+    "joseph_liesganig": {
+      "name": "Joseph Liesganig",
+      "birth_year": 1719,
+      "death_year": 1799,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Joseph_Liesganig"
+    },
+    "giuseppe_toaldo": {
+      "name": "Giuseppe Toaldo",
+      "birth_year": 1719,
+      "death_year": 1797,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Giuseppe_Toaldo"
+    },
+    "christian_mayer": {
+      "name": "Christian Mayer",
+      "birth_year": 1719,
+      "death_year": 1783,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Christian_Mayer_(astronomer)"
+    },
+    "abraham_gotthelf_kästner": {
+      "name": "Abraham Gotthelf Kästner",
+      "birth_year": 1719,
+      "death_year": 1800,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Abraham_Gotthelf_K%C3%A4stner"
+    },
+    "gottfried_achenwall": {
+      "name": "Gottfried Achenwall",
+      "birth_year": 1719,
+      "death_year": 1772,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Gottfried_Achenwall"
+    },
+    "jens_kraft": {
+      "name": "Jens Kraft",
+      "birth_year": 1720,
+      "death_year": 1765,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Jens_Kraft"
+    },
+    "john_stokes": {
+      "name": "John Stokes",
+      "birth_year": 1720,
+      "death_year": 1781,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/John_Stokes_(Irish_mathematician)"
+    },
+    "francesco_maria_de_regi": {
+      "name": "Francesco Maria De Regi",
+      "birth_year": 1720,
+      "death_year": 1794,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Francesco_Maria_De_Regi"
+    },
+    "maximilian_hell": {
+      "name": "Maximilian Hell",
+      "birth_year": 1720,
+      "death_year": 1792,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Maximilian_Hell"
+    },
+    "alexandre_savérien": {
+      "name": "Alexandre Savérien",
+      "birth_year": 1720,
+      "death_year": 1805,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Alexandre_Sav%C3%A9rien"
+    },
+    "johann_georg_sulzer": {
+      "name": "Johann Georg Sulzer",
+      "birth_year": 1720,
+      "death_year": 1779,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Johann_Georg_Sulzer"
+    },
+    "maría_andresa_casamayor": {
+      "name": "María Andresa Casamayor",
+      "birth_year": 1720,
+      "death_year": 1780,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Mar%C3%ADa_Andrea_Casamayor"
+    },
+    "john_smith": {
+      "name": "John Smith",
+      "birth_year": 1721,
+      "death_year": 1797,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/John_Smith_(anatomist_and_chemist)"
+    },
+    "louis_jacques_goussier": {
+      "name": "Louis-Jacques Goussier",
+      "birth_year": 1722,
+      "death_year": 1799,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Louis-Jacques_Goussier"
+    },
+    "etienne_hyacinthe_ratte": {
+      "name": "Etienne Hyacinthe Ratte",
+      "birth_year": 1722,
+      "death_year": 1805,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/%C3%89tienne-Hyacinthe_de_Ratte"
+    },
+    "nicole_reine_lepaute": {
+      "name": "Nicole-Reine Lepaute",
+      "birth_year": 1723,
+      "death_year": 1788,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Nicole-Reine_Lepaute"
+    },
+    "tobias_mayer": {
+      "name": "Tobias Mayer",
+      "birth_year": 1723,
+      "death_year": 1762,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Tobias_Mayer"
+    },
+    "richard_price": {
+      "name": "Richard Price",
+      "birth_year": 1723,
+      "death_year": 1791,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Richard_Price"
+    },
+    "ferdinando_morozzi": {
+      "name": "Ferdinando Morozzi",
+      "birth_year": 1723,
+      "death_year": 1785,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Ferdinando_Morozzi"
+    },
+    "marie_anne_victoire_pigeon": {
+      "name": "Marie Anne Victoire Pigeon",
+      "birth_year": 1724,
+      "death_year": 1765,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Marie_Anne_Victoire_Pigeon"
+    },
+    "mihalj_šilobod": {
+      "name": "Mihalj Šilobod",
+      "birth_year": 1724,
+      "death_year": 1787,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Mihalj_%C5%A0ilobod_Bol%C5%A1i%C4%87"
+    },
+    "anders_planman": {
+      "name": "Anders Planman",
+      "birth_year": 1724,
+      "death_year": 1803,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Anders_Planman"
+    },
+    "dai_zhen": {
+      "name": "Dai Zhen",
+      "birth_year": 1724,
+      "death_year": 1777,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Dai_Zhen"
+    },
+    "immanuel_kant": {
+      "name": "Immanuel Kant",
+      "birth_year": 1724,
+      "death_year": 1804,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Immanuel_Kant"
+    },
+    "franz_aepinus": {
+      "name": "Franz Aepinus",
+      "birth_year": 1724,
+      "death_year": 1802,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Franz_Aepinus"
+    },
+    "samuel_dunn": {
+      "name": "Samuel Dunn",
+      "birth_year": 1725,
+      "death_year": 1794,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Samuel_Dunn_(mathematician)"
+    },
+    "jakub_nakcjanowicz": {
+      "name": "Jakub Nakcjanowicz",
+      "birth_year": 1725,
+      "death_year": 1777,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Jakub_Nakcjanowicz"
+    },
+    "jean_étienne_montucla": {
+      "name": "Jean-Étienne Montucla",
+      "birth_year": 1725,
+      "death_year": 1799,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Jean-%C3%89tienne_Montucla"
+    },
+    "patrick_d'arcy": {
+      "name": "Patrick d'Arcy",
+      "birth_year": 1725,
+      "death_year": 1779,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Patrick_d%27Arcy"
+    },
+    "thomas_malton": {
+      "name": "Thomas Malton",
+      "birth_year": 1726,
+      "death_year": 1801,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Thomas_Malton,_the_elder"
+    },
+    "giovanni_battista_nicolai": {
+      "name": "Giovanni Battista Nicolai",
+      "birth_year": 1726,
+      "death_year": 1793,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Giovanni_Battista_Nicolai"
+    },
+    "francesco_cetti": {
+      "name": "Francesco Cetti",
+      "birth_year": 1726,
+      "death_year": 1778,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Francesco_Cetti"
+    },
+    "august_nathanael_grischow": {
+      "name": "August Nathanael Grischow",
+      "birth_year": 1726,
+      "death_year": 1760,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/August_Nathanael_Grischow"
+    },
+    "daniel_melanderhjelm": {
+      "name": "Daniel Melanderhjelm",
+      "birth_year": 1726,
+      "death_year": 1810,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Daniel_Melanderhjelm"
+    },
+    "johann_georg_büsch": {
+      "name": "Johann Georg Büsch",
+      "birth_year": 1728,
+      "death_year": 1800,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Johann_Georg_B%C3%BCsch"
+    },
+    "paolo_frisi": {
+      "name": "Paolo Frisi",
+      "birth_year": 1728,
+      "death_year": 1784,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Paolo_Frisi"
+    },
+    "maria_angela_ardinghelli": {
+      "name": "Maria Angela Ardinghelli",
+      "birth_year": 1728,
+      "death_year": 1825,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Maria_Angela_Ardinghelli"
+    },
+    "marcin_odlanicki_poczobutt": {
+      "name": "Marcin Odlanicki Poczobutt",
+      "birth_year": 1728,
+      "death_year": 1810,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Marcin_Odlanicki_Poczobutt"
+    },
+    "franz_xaver_von_wulfen": {
+      "name": "Franz Xaver von Wulfen",
+      "birth_year": 1728,
+      "death_year": 1805,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Franz_Xaver_von_Wulfen"
+    },
+    "jan_tesánek": {
+      "name": "Jan Tesánek",
+      "birth_year": 1728,
+      "death_year": 1788,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Jan_Tes%C3%A1nek"
+    },
+    "benjamin_donn": {
+      "name": "Benjamin Donn",
+      "birth_year": 1729,
+      "death_year": 1798,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Benjamin_Donn"
+    },
+    "johann_daniel_titius": {
+      "name": "Johann Daniel Titius",
+      "birth_year": 1729,
+      "death_year": 1796,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Johann_Daniel_Titius"
+    },
+    "hugh_hamilton": {
+      "name": "Hugh Hamilton",
+      "birth_year": 1729,
+      "death_year": 1805,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Hugh_Hamilton_(bishop)"
+    },
+    "gelenbevi_ismail_efendi": {
+      "name": "Gelenbevi Ismail Efendi",
+      "birth_year": 1730,
+      "death_year": 1790,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Gelenbevi_Ismail_Efendi"
+    },
+    "jean_baptiste_gaspard_bochart_de_saron": {
+      "name": "Jean Baptiste Gaspard Bochart de Saron",
+      "birth_year": 1730,
+      "death_year": 1794,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Jean_Baptiste_Gaspard_Bochart_de_Saron"
+    },
+    "étienne_bézout": {
+      "name": "Étienne Bézout",
+      "birth_year": 1730,
+      "death_year": 1783,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/%C3%89tienne_B%C3%A9zout"
+    },
+    "anna_barbara_reinhart": {
+      "name": "Anna Barbara Reinhart",
+      "birth_year": 1730,
+      "death_year": 1796,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Anna_Barbara_Reinhart"
+    },
+    "charles_bossut": {
+      "name": "Charles Bossut",
+      "birth_year": 1730,
+      "death_year": 1814,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Charles_Bossut"
+    },
+    "louis_necker": {
+      "name": "Louis Necker",
+      "birth_year": 1730,
+      "death_year": 1804,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Louis_Necker"
+    },
+    "thomas_postlethwaite": {
+      "name": "Thomas Postlethwaite",
+      "birth_year": 1731,
+      "death_year": 1798,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Thomas_Postlethwaite"
+    },
+    "edward_rowe_mores": {
+      "name": "Edward Rowe Mores",
+      "birth_year": 1731,
+      "death_year": 1778,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Edward_Rowe_Mores"
+    },
+    "kosmas_balanos": {
+      "name": "Kosmas Balanos",
+      "birth_year": 1731,
+      "death_year": 1808,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Kosmas_Balanos"
+    },
+    "yao_nai": {
+      "name": "Yao Nai",
+      "birth_year": 1731,
+      "death_year": 1815,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Yao_Nai"
+    },
+    "hong_dae_yong": {
+      "name": "Hong Dae-yong",
+      "birth_year": 1731,
+      "death_year": 1783,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Hong_Taeyong"
+    },
+    "girolamo_saladini": {
+      "name": "Girolamo Saladini",
+      "birth_year": 1731,
+      "death_year": 1813,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Girolamo_Saladini"
+    },
+    "gian_francesco_malfatti": {
+      "name": "Gian Francesco Malfatti",
+      "birth_year": 1731,
+      "death_year": 1807,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Gian_Francesco_Malfatti"
+    },
+    "louis_bertrand": {
+      "name": "Louis Bertrand",
+      "birth_year": 1731,
+      "death_year": 1812,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Louis_Bertrand_(mathematician)"
+    },
+    "henry_cavendish": {
+      "name": "Henry Cavendish",
+      "birth_year": 1731,
+      "death_year": 1810,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Henry_Cavendish"
+    },
+    "benjamin_banneker": {
+      "name": "Benjamin Banneker",
+      "birth_year": 1731,
+      "death_year": 1806,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Benjamin_Banneker"
+    },
+    "ajima_naonobu": {
+      "name": "Ajima Naonobu",
+      "birth_year": 1732,
+      "death_year": 1798,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Ajima_Naonobu"
+    },
+    "robert_small": {
+      "name": "Robert Small",
+      "birth_year": 1732,
+      "death_year": 1808,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Robert_Small_(minister)"
+    },
+    "george_washington": {
+      "name": "George Washington",
+      "birth_year": 1732,
+      "death_year": 1799,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/George_Washington"
+    },
+    "josé_celestino_mutis_y_bosio": {
+      "name": "José Celestino Mutis y Bosio",
+      "birth_year": 1732,
+      "death_year": 1808,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Jos%C3%A9_Celestino_Mutis"
+    },
+    "david_rittenhouse": {
+      "name": "David Rittenhouse",
+      "birth_year": 1732,
+      "death_year": 1796,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/David_Rittenhouse"
+    },
+    "élie_salomon_françois_reverdil": {
+      "name": "Élie Salomon François Reverdil",
+      "birth_year": 1732,
+      "death_year": 1808,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/%C3%89lie_Salomon_Fran%C3%A7ois_Reverdil"
+    },
+    "jérôme_lalande": {
+      "name": "Jérôme Lalande",
+      "birth_year": 1732,
+      "death_year": 1807,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/J%C3%A9r%C3%B4me_Lalande"
+    },
+    "johann_baptist_horváth": {
+      "name": "Johann Baptist Horváth",
+      "birth_year": 1732,
+      "death_year": 1799,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Johann_Baptiste_Horvath"
+    },
+    "nevil_maskelyne": {
+      "name": "Nevil Maskelyne",
+      "birth_year": 1732,
+      "death_year": 1811,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Nevil_Maskelyne"
+    },
+    "emiland_gauthey": {
+      "name": "Emiland Gauthey",
+      "birth_year": 1732,
+      "death_year": 1806,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/%C3%89miland_Gauthey"
+    },
+    "wenceslaus_johann_gustav_karsten": {
+      "name": "Wenceslaus Johann Gustav Karsten",
+      "birth_year": 1732,
+      "death_year": 1787,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Wenceslaus_Johann_Gustav_Karsten"
+    },
+    "thomas_hornsby": {
+      "name": "Thomas Hornsby",
+      "birth_year": 1733,
+      "death_year": 1810,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Thomas_Hornsby"
+    },
+    "alexander_cumming": {
+      "name": "Alexander Cumming",
+      "birth_year": 1733,
+      "death_year": 1814,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Alexander_Cumming"
+    },
+    "carsten_niebuhr": {
+      "name": "Carsten Niebuhr",
+      "birth_year": 1733,
+      "death_year": 1815,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Carsten_Niebuhr"
+    },
+    "jean_charles_de_borda": {
+      "name": "Jean-Charles de Borda",
+      "birth_year": 1733,
+      "death_year": 1799,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Jean-Charles_de_Borda"
+    },
+    "jános_sajnovics": {
+      "name": "János Sajnovics",
+      "birth_year": 1733,
+      "death_year": 1785,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/J%C3%A1nos_Sajnovics"
+    },
+    "samuel_horsley": {
+      "name": "Samuel Horsley",
+      "birth_year": 1733,
+      "death_year": 1806,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Samuel_Horsley"
+    },
+    "simone_stratigo": {
+      "name": "Simone Stratigo",
+      "birth_year": 1733,
+      "death_year": 1824,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Simone_Stratigo"
+    },
+    "johann_friedrich_hennert": {
+      "name": "Johann Friedrich Hennert",
+      "birth_year": 1733,
+      "death_year": 1813,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Johann_Friedrich_Hennert"
+    },
+    "christophe_gadbled": {
+      "name": "Christophe Gadbled",
+      "birth_year": 1734,
+      "death_year": 1782,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Christophe_Gadbled"
+    },
+    "william_wales": {
+      "name": "William Wales",
+      "birth_year": 1734,
+      "death_year": 1798,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/William_Wales_(astronomer)"
+    },
+    "george_walker": {
+      "name": "George Walker",
+      "birth_year": 1734,
+      "death_year": 1807,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/George_Walker_(mathematician)"
+    },
+    "john_dawson": {
+      "name": "John Dawson",
+      "birth_year": 1734,
+      "death_year": 1820,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/John_Dawson_(surgeon)"
+    },
+    "achille_pierre_dionis_du_séjour": {
+      "name": "Achille Pierre Dionis du Séjour",
+      "birth_year": 1734,
+      "death_year": 1794,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Achille_Pierre_Dionis_du_S%C3%A9jour"
+    },
+    "françois_daviet_de_foncenex": {
+      "name": "François Daviet de Foncenex",
+      "birth_year": 1734,
+      "death_year": 1798,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Fran%C3%A7ois_Daviet_de_Foncenex"
+    },
+    "stepan_rumovsky": {
+      "name": "Stepan Rumovsky",
+      "birth_year": 1734,
+      "death_year": 1812,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Stepan_Rumovsky"
+    },
+    "abraham_hülphers": {
+      "name": "Abraham Hülphers",
+      "birth_year": 1734,
+      "death_year": 1798,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Abraham_H%C3%BClphers_the_Younger"
+    },
+    "fujita_sadasuke": {
+      "name": "Fujita Sadasuke",
+      "birth_year": 1734,
+      "death_year": 1807,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Fujita_Sadasuke"
+    },
+    "alexandre_théophile_vandermonde": {
+      "name": "Alexandre-Théophile Vandermonde",
+      "birth_year": 1735,
+      "death_year": 1796,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Alexandre-Th%C3%A9ophile_Vandermonde"
+    },
+    "georg_ignatz_metzburg": {
+      "name": "Georg Ignatz Metzburg",
+      "birth_year": 1735,
+      "death_year": 1798,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Georg_Ignaz_von_Metzburg"
+    },
+    "august_ludwig_von_schlözer": {
+      "name": "August Ludwig von Schlözer",
+      "birth_year": 1735,
+      "death_year": 1809,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/August_Ludwig_von_Schl%C3%B6zer"
+    },
+    "giuseppe_santini": {
+      "name": "Giuseppe Santini",
+      "birth_year": 1735,
+      "death_year": 1796,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Giuseppe_Santini"
+    },
+    "jesse_ramsden": {
+      "name": "Jesse Ramsden",
+      "birth_year": 1735,
+      "death_year": 1800,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Jesse_Ramsden"
+    },
+    "antonio_maria_lorgna": {
+      "name": "Antonio Maria Lorgna",
+      "birth_year": 1735,
+      "death_year": 1796,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Antonio_Maria_Lorgna"
+    },
+    "hans_momsen": {
+      "name": "Hans Momsen",
+      "birth_year": 1735,
+      "death_year": 1811,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Hans_Momsen"
+    },
+    "gregorio_fontana": {
+      "name": "Gregorio Fontana",
+      "birth_year": 1735,
+      "death_year": 1803,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Gregorio_Fontana"
+    },
+    "pierre_antoine_véron": {
+      "name": "Pierre-Antoine Véron",
+      "birth_year": 1736,
+      "death_year": 1770,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Pierre-Antoine_V%C3%A9ron"
+    },
+    "juan_de_lángara": {
+      "name": "Juan de Lángara",
+      "birth_year": 1736,
+      "death_year": 1806,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Juan_de_L%C3%A1ngara"
+    },
+    "edward_waring": {
+      "name": "Edward Waring",
+      "birth_year": 1736,
+      "death_year": 1798,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Edward_Waring"
+    },
+    "james_watt": {
+      "name": "James Watt",
+      "birth_year": 1736,
+      "death_year": 1819,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/James_Watt"
+    },
+    "ambrogio_soldani": {
+      "name": "Ambrogio Soldani",
+      "birth_year": 1736,
+      "death_year": 1808,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Ambrogio_Soldani"
+    },
+    "erland_samuel_bring": {
+      "name": "Erland Samuel Bring",
+      "birth_year": 1736,
+      "death_year": 1798,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Erland_Samuel_Bring"
+    },
+    "jean_sylvain_bailly": {
+      "name": "Jean Sylvain Bailly",
+      "birth_year": 1736,
+      "death_year": 1793,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Jean_Sylvain_Bailly"
+    },
+    "johannes_nikolaus_tetens": {
+      "name": "Johannes Nikolaus Tetens",
+      "birth_year": 1736,
+      "death_year": 1807,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Johannes_Nikolaus_Tetens"
+    },
+    "henry_joseph_dabzac": {
+      "name": "Henry Joseph Dabzac",
+      "birth_year": 1737,
+      "death_year": 1790,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Henry_Joseph_Dabzac"
+    },
+    "luca_antonio_pagnini": {
+      "name": "Luca Antonio Pagnini",
+      "birth_year": 1737,
+      "death_year": 1814,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Luca_Antonio_Pagnini"
+    },
+    "charles_arbuthnot": {
+      "name": "Charles Arbuthnot",
+      "birth_year": 1737,
+      "death_year": 1820,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Charles_Arbuthnot_(abbot)"
+    },
+    "nicolas_vilant": {
+      "name": "Nicolas Vilant",
+      "birth_year": 1737,
+      "death_year": 1807,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Nicolas_Vilant"
+    },
+    "charles_hutton": {
+      "name": "Charles Hutton",
+      "birth_year": 1737,
+      "death_year": 1823,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Charles_Hutton"
+    },
+    "jan_michał_hube": {
+      "name": "Jan Michał Hube",
+      "birth_year": 1737,
+      "death_year": 1807,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Micha%C5%82_Jan_Hube"
+    },
+    "johann_jacob_ebert": {
+      "name": "Johann Jacob Ebert",
+      "birth_year": 1737,
+      "death_year": 1805,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Johann_Jakob_Ebert"
+    },
+    "william_bull": {
+      "name": "William Bull",
+      "birth_year": 1738,
+      "death_year": 1814,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/William_Bull_(minister)"
+    },
+    "yu_ji": {
+      "name": "Yu Ji",
+      "birth_year": 1744,
+      "death_year": 1823,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Yu_Ji_(painter)"
+    },
+    "john_adams": {
+      "name": "John Adams",
+      "birth_year": 1738,
+      "death_year": 1802,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/John_Adams_(mathematician)"
+    },
+    "alexis_jean_pierre_paucton": {
+      "name": "Alexis-Jean-Pierre Paucton",
+      "birth_year": 1738,
+      "death_year": 1798,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Alexis-Jean-Pierre_Paucton"
+    },
+    "fryderyk_józef_moszyński": {
+      "name": "Fryderyk Józef Moszyński",
+      "birth_year": 1738,
+      "death_year": 1817,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Fryderyk_J%C3%B3zef_Moszy%C5%84ski"
+    },
+    "charles_joseph_mathon_de_la_cour": {
+      "name": "Charles-Joseph Mathon de La Cour",
+      "birth_year": 1738,
+      "death_year": 1793,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Charles-Joseph_Mathon_de_la_Cour"
+    },
+    "joseph_françois_marie": {
+      "name": "Joseph François Marie",
+      "birth_year": 1738,
+      "death_year": 1801,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Joseph-Fran%C3%A7ois_Marie"
+    },
+    "thomas_abbt": {
+      "name": "Thomas Abbt",
+      "birth_year": 1738,
+      "death_year": 1766,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Thomas_Abbt"
+    },
+    "israel_lyons": {
+      "name": "Israel Lyons",
+      "birth_year": 1739,
+      "death_year": 1775,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Israel_Lyons"
+    },
+    "john_robison": {
+      "name": "John Robison",
+      "birth_year": 1739,
+      "death_year": 1805,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/John_Robison_(physicist)"
+    },
+    "johann_friedrich_schultz": {
+      "name": "Johann Friedrich Schultz",
+      "birth_year": 1739,
+      "death_year": 1805,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Johann_Friedrich_Schultz"
+    },
+    "ermenegildo_pini": {
+      "name": "Ermenegildo Pini",
+      "birth_year": 1739,
+      "death_year": 1825,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Ermenegildo_Pini"
+    },
+    "georg_simon_klügel": {
+      "name": "Georg Simon Klügel",
+      "birth_year": 1739,
+      "death_year": 1812,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Georg_Simon_Kl%C3%BCgel"
+    },
+    "konstantinos_tzechanis": {
+      "name": "Konstantinos Tzechanis",
+      "birth_year": 1740,
+      "death_year": 1800,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Konstantinos_Tzechanis"
+    },
+    "james_cannon": {
+      "name": "James Cannon",
+      "birth_year": 1740,
+      "death_year": 1782,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/James_Cannon_(mathematician)"
+    },
+    "anton_felkel": {
+      "name": "Anton Felkel",
+      "birth_year": 1740,
+      "death_year": 1800,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Anton_Felkel"
+    },
+    "thomas_bugge": {
+      "name": "Thomas Bugge",
+      "birth_year": 1740,
+      "death_year": 1815,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Thomas_Bugge"
+    },
+    "andrzej_gawroński": {
+      "name": "Andrzej Gawroński",
+      "birth_year": 1740,
+      "death_year": 1813,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Andrzej_Gawro%C5%84ski_(bishop)"
+    },
+    "antonio_ludeña": {
+      "name": "Antonio Ludeña",
+      "birth_year": 1740,
+      "death_year": 1820,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Antonio_Lude%C3%B1a"
+    },
+    "anders_johan_lexell": {
+      "name": "Anders Johan Lexell",
+      "birth_year": 1740,
+      "death_year": 1784,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Anders_Johan_Lexell"
+    },
+    "carl_hindenburg": {
+      "name": "Carl Hindenburg",
+      "birth_year": 1741,
+      "death_year": 1808,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Carl_Hindenburg"
+    },
+    "john_wilson": {
+      "name": "John Wilson",
+      "birth_year": 1741,
+      "death_year": 1793,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/John_Wilson_(English_judge)"
+    },
+    "arthur_young": {
+      "name": "Arthur Young",
+      "birth_year": 1741,
+      "death_year": 1820,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Arthur_Young_(agriculturist)"
+    },
+    "stanislav_vydra": {
+      "name": "Stanislav Vydra",
+      "birth_year": 1741,
+      "death_year": 1804,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Stanislav_Vydra"
+    },
+    "ladislaus_chernac": {
+      "name": "Ladislaus Chernac",
+      "birth_year": 1742,
+      "death_year": 1816,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Ladislaus_Chernac"
+    },
+    "george_chalmers": {
+      "name": "George Chalmers",
+      "birth_year": 1742,
+      "death_year": 1825,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/George_Chalmers_(antiquarian)"
+    },
+    "jean_jacques_de_marguerie": {
+      "name": "Jean-Jacques de Marguerie",
+      "birth_year": 1742,
+      "death_year": 1779,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Jean-Jacques_de_Marguerie"
+    },
+    "osgood_carleton": {
+      "name": "Osgood Carleton",
+      "birth_year": 1742,
+      "death_year": 1816,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Osgood_Carleton"
+    },
+    "georg_christoph_lichtenberg": {
+      "name": "Georg Christoph Lichtenberg",
+      "birth_year": 1742,
+      "death_year": 1799,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Georg_Christoph_Lichtenberg"
+    },
+    "károly_hadaly": {
+      "name": "Károly Hadaly",
+      "birth_year": 1743,
+      "death_year": 1834,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/K%C3%A1roly_Hadaly"
+    },
+    "patrick_wilson": {
+      "name": "Patrick Wilson",
+      "birth_year": 1743,
+      "death_year": 1811,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Patrick_Wilson_(astronomer)"
+    },
+    "henry_clarke": {
+      "name": "Henry Clarke",
+      "birth_year": 1743,
+      "death_year": 1818,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Henry_Clarke_(mathematician)"
+    },
+    "thomas_jefferson": {
+      "name": "Thomas Jefferson",
+      "birth_year": 1743,
+      "death_year": 1826,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Thomas_Jefferson"
+    },
+    "robert_patterson": {
+      "name": "Robert Patterson",
+      "birth_year": 1743,
+      "death_year": 1824,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Robert_Patterson_(educator)"
+    },
+    "robert_hamilton": {
+      "name": "Robert Hamilton",
+      "birth_year": 1743,
+      "death_year": 1829,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Robert_Hamilton_(economist)"
+    },
+    "johann_matthäus_hassencamp": {
+      "name": "Johann Matthäus Hassencamp",
+      "birth_year": 1743,
+      "death_year": 1797,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Johann_Matth%C3%A4us_Hassencamp"
+    },
+    "henricus_aeneae": {
+      "name": "Henricus Aeneae",
+      "birth_year": 1743,
+      "death_year": 1810,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Henricus_Aeneae"
+    },
+    "jean_antoine_nicolas_de_caritat_de_condorcet": {
+      "name": "Jean-Antoine-Nicolas de Caritat de Condorcet",
+      "birth_year": 1743,
+      "death_year": 1794,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Marquis_de_Condorcet"
+    },
+    "antonio_cagnoli": {
+      "name": "Antonio Cagnoli",
+      "birth_year": 1743,
+      "death_year": 1816,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Antonio_Cagnoli"
+    },
+    "johann_christian_ludwig_hellwig": {
+      "name": "Johann Christian Ludwig Hellwig",
+      "birth_year": 1743,
+      "death_year": 1831,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Johann_Christian_Ludwig_Hellwig"
+    },
+    "honda_toshiaki": {
+      "name": "Honda Toshiaki",
+      "birth_year": 1744,
+      "death_year": 1821,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Honda_Toshiaki"
+    },
+    "henry_andrews": {
+      "name": "Henry Andrews",
+      "birth_year": 1744,
+      "death_year": 1820,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Henry_Andrews_(mathematician)"
+    },
+    "isaac_dalby": {
+      "name": "Isaac Dalby",
+      "birth_year": 1744,
+      "death_year": 1824,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Isaac_Dalby"
+    },
+    "josé_anastácio_da_cunha": {
+      "name": "José Anastácio da Cunha",
+      "birth_year": 1744,
+      "death_year": 1787,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Jos%C3%A9_Anast%C3%A1cio_da_Cunha"
+    },
+    "pierre_méchain": {
+      "name": "Pierre Méchain",
+      "birth_year": 1744,
+      "death_year": 1804,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Pierre_M%C3%A9chain"
+    },
+    "jean_françois_callet": {
+      "name": "Jean-François Callet",
+      "birth_year": 1744,
+      "death_year": 1798,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Jean-Fran%C3%A7ois_Callet"
+    },
+    "patrick_colquhoun": {
+      "name": "Patrick Colquhoun",
+      "birth_year": 1745,
+      "death_year": 1820,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Patrick_Colquhoun"
+    },
+    "john_law": {
+      "name": "John Law",
+      "birth_year": 1671,
+      "death_year": 1729,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/John_Law_(economist)"
+    },
+    "caspar_wessel": {
+      "name": "Caspar Wessel",
+      "birth_year": 1745,
+      "death_year": 1818,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Caspar_Wessel"
+    },
+    "george_atwood": {
+      "name": "George Atwood",
+      "birth_year": 1745,
+      "death_year": 1807,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/George_Atwood"
+    },
+    "john_cranke": {
+      "name": "John Cranke",
+      "birth_year": 1746,
+      "death_year": 1816,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/John_Cranke"
+    },
+    "henri_descremps": {
+      "name": "Henri Descremps",
+      "birth_year": 1746,
+      "death_year": 1826,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Henri_Descremps"
+    },
+    "gaspard_monge": {
+      "name": "Gaspard Monge",
+      "birth_year": 1746,
+      "death_year": 1818,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Gaspard_Monge"
+    },
+    "jean_henri_van_swinden": {
+      "name": "Jean Henri van Swinden",
+      "birth_year": 1746,
+      "death_year": 1823,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Jean_Henri_van_Swinden"
+    },
+    "william_trail": {
+      "name": "William Trail",
+      "birth_year": 1746,
+      "death_year": 1831,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/William_Trail"
+    },
+    "giuseppe_piazzi": {
+      "name": "Giuseppe Piazzi",
+      "birth_year": 1746,
+      "death_year": 1826,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Giuseppe_Piazzi"
+    },
+    "antonín_strnad": {
+      "name": "Antonín Strnad",
+      "birth_year": 1746,
+      "death_year": 1799,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Anton%C3%ADn_Strnad"
+    },
+    "yasuaki_aida": {
+      "name": "Yasuaki Aida",
+      "birth_year": 1747,
+      "death_year": 1817,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Aida_Yasuaki"
+    },
+    "mathias_metternich": {
+      "name": "Mathias Metternich",
+      "birth_year": 1747,
+      "death_year": 1825,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Mathias_Metternich"
+    },
+    "anton_von_zach": {
+      "name": "Anton von Zach",
+      "birth_year": 1747,
+      "death_year": 1826,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Anton_von_Zach"
+    },
+    "domenico_cocoli": {
+      "name": "Domenico Cocoli",
+      "birth_year": 1747,
+      "death_year": 1812,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Domenico_Cocoli"
+    },
+    "reuben_burrow": {
+      "name": "Reuben Burrow",
+      "birth_year": 1747,
+      "death_year": 1792,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Reuben_Burrow"
+    },
+    "domenico_angeloni": {
+      "name": "Domenico Angeloni",
+      "birth_year": 1748,
+      "death_year": 1817,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Domenico_Angeloni"
+    },
+    "pierre_justin_delort": {
+      "name": "Pierre-Justin Delort",
+      "birth_year": 1748,
+      "death_year": 1820,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Pierre-Justin_Delort"
+    },
+    "john_playfair": {
+      "name": "John Playfair",
+      "birth_year": 1748,
+      "death_year": 1819,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/John_Playfair"
+    },
+    "charles_d'amondans_de_tinseau": {
+      "name": "Charles d'Amondans de Tinseau",
+      "birth_year": 1748,
+      "death_year": 1822,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Charles_de_Tinseau_d%27Amondans"
+    },
+    "pietro_cossali": {
+      "name": "Pietro Cossali",
+      "birth_year": 1748,
+      "death_year": 1815,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Pietro_Cossali"
+    },
+    "ferdinand_franz_wallraf": {
+      "name": "Ferdinand Franz Wallraf",
+      "birth_year": 1748,
+      "death_year": 1824,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Ferdinand_Franz_Wallraf"
+    },
+    "william_black": {
+      "name": "William Black",
+      "birth_year": 1749,
+      "death_year": 1829,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/William_Black_(physician)"
+    },
+    "john_hellins": {
+      "name": "John Hellins",
+      "birth_year": 1749,
+      "death_year": 1827,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/John_Hellins"
+    },
+    "james_whitelaw": {
+      "name": "James Whitelaw",
+      "birth_year": 1749,
+      "death_year": 1813,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/James_Whitelaw"
+    },
+    "samuel_vince": {
+      "name": "Samuel Vince",
+      "birth_year": 1749,
+      "death_year": 1821,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Samuel_Vince"
+    },
+    "jean_trembley": {
+      "name": "Jean Trembley",
+      "birth_year": 1749,
+      "death_year": 1811,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Jean_Trembley"
+    },
+    "giuseppe_calandrelli": {
+      "name": "Giuseppe Calandrelli",
+      "birth_year": 1749,
+      "death_year": 1827,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Giuseppe_Calandrelli"
+    },
+    "jean_baptiste_joseph_delambre": {
+      "name": "Jean-Baptiste Joseph Delambre",
+      "birth_year": 1749,
+      "death_year": 1822,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Jean_Baptiste_Joseph_Delambre"
+    },
+    "anton_ambschel": {
+      "name": "Anton Ambschel",
+      "birth_year": 1749,
+      "death_year": 1821,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Anton_Ambschel"
+    },
+    "george_jr_adams": {
+      "name": "George Jr. Adams",
+      "birth_year": 1750,
+      "death_year": 1795,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/George_Adams_(scientist,_died_1795)"
+    },
+    "david_friesenhausen": {
+      "name": "David Friesenhausen",
+      "birth_year": 1750,
+      "death_year": 1828,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/David_Friesenhausen"
+    },
+    "patrick_murdoch": {
+      "name": "Patrick Murdoch",
+      "birth_year": 1750,
+      "death_year": 1774,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Patrick_Murdoch"
+    },
+    "john_bailey": {
+      "name": "John Bailey",
+      "birth_year": 1750,
+      "death_year": 1819,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/John_Bailey_(agriculturist)"
+    },
+    "mary_edwards": {
+      "name": "Mary Edwards",
+      "birth_year": 1750,
+      "death_year": 1815,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Mary_Edwards_(human_computer)"
+    },
+    "matthew_young": {
+      "name": "Matthew Young",
+      "birth_year": 1750,
+      "death_year": 1800,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Matthew_Young_(bishop)"
+    },
+    "hans_heinrich_bürmann": {
+      "name": "Hans Heinrich Bürmann",
+      "birth_year": 1750,
+      "death_year": 1817,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Hans_Heinrich_B%C3%BCrmann"
+    },
+    "andré_darré": {
+      "name": "André Darré",
+      "birth_year": 1750,
+      "death_year": 1833,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Andr%C3%A9_Darr%C3%A9"
+    },
+    "isaac_milner": {
+      "name": "Isaac Milner",
+      "birth_year": 1750,
+      "death_year": 1820,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Isaac_Milner"
+    },
+    "caroline_herschel": {
+      "name": "Caroline Herschel",
+      "birth_year": 1750,
+      "death_year": 1848,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Caroline_Herschel"
+    },
+    "simon_l'huilier": {
+      "name": "Simon L'Huilier",
+      "birth_year": 1750,
+      "death_year": 1840,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Simon_Antoine_Jean_L%27Huilier"
+    },
+    "nathan_daboll": {
+      "name": "Nathan Daboll",
+      "birth_year": 1750,
+      "death_year": 1818,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Nathan_Daboll"
+    },
+    "lorenzo_mascheroni": {
+      "name": "Lorenzo Mascheroni",
+      "birth_year": 1750,
+      "death_year": 1800,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Lorenzo_Mascheroni"
+    },
+    "william_morgan": {
+      "name": "William Morgan",
+      "birth_year": 1750,
+      "death_year": 1833,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/William_Morgan_(actuary)"
+    },
+    "james_glenie": {
+      "name": "James Glenie",
+      "birth_year": 1750,
+      "death_year": 1817,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/James_Glenie"
+    },
+    "michelangelo_fardella": {
+      "name": "Michelangelo Fardella",
+      "birth_year": 1650,
+      "death_year": 1718,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Michelangelo_Fardella"
+    },
+    "kurushima_kinai": {
+      "name": "Kurushima Kinai",
+      "birth_year": 1650,
+      "death_year": 1757,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Kurushima_Kinai"
+    },
+    "george_brown": {
+      "name": "George Brown",
+      "birth_year": 1650,
+      "death_year": 1730,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/George_Brown_(inventor)"
+    },
+    "john_caswell": {
+      "name": "John Caswell",
+      "birth_year": 1650,
+      "death_year": 1712,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/John_Caswell"
+    },
+    "onofrio_puglisi": {
+      "name": "Onofrio Puglisi",
+      "birth_year": 1650,
+      "death_year": 1679,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Onofrio_Puglisi"
+    },
+    "nicolas_de_malézieu": {
+      "name": "Nicolas de Malézieu",
+      "birth_year": 1650,
+      "death_year": 1727,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Nicolas_de_Mal%C3%A9zieu"
+    },
+    "ottaviano_menni": {
+      "name": "Ottaviano Menni",
+      "birth_year": 1651,
+      "death_year": 1750,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Ottaviano_Menni"
+    },
+    "ehrenfried_walther_von_tschirnhaus": {
+      "name": "Ehrenfried Walther von Tschirnhaus",
+      "birth_year": 1651,
+      "death_year": 1708,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Ehrenfried_Walther_von_Tschirnhaus"
+    },
+    "sor_juana_inés_de_la_cruz": {
+      "name": "Sor Juana Inés de la Cruz",
+      "birth_year": 1651,
+      "death_year": 1695,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Juana_In%C3%A9s_de_la_Cruz"
+    },
+    "paul_hoste": {
+      "name": "Paul Hoste",
+      "birth_year": 1652,
+      "death_year": 1700,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Paul_Hoste"
+    },
+    "jagannatha_samrat": {
+      "name": "Jagannatha Samrat",
+      "birth_year": 1652,
+      "death_year": 1744,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Jagannatha_Samrat"
+    },
+    "jean_bouguer": {
+      "name": "Jean Bouguer",
+      "birth_year": 1652,
+      "death_year": 1714,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Jean_Bouguer"
+    },
+    "jacques_françois_le_poivre": {
+      "name": "Jacques-François Le Poivre",
+      "birth_year": 1652,
+      "death_year": 1710,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Jacques-Fran%C3%A7ois_Le_Poivre"
+    },
+    "michel_rolle": {
+      "name": "Michel Rolle",
+      "birth_year": 1652,
+      "death_year": 1719,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Michel_Rolle"
+    },
+    "archibald_pitcairne": {
+      "name": "Archibald Pitcairne",
+      "birth_year": 1652,
+      "death_year": 1713,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Archibald_Pitcairne"
+    },
+    "abraham_sharp": {
+      "name": "Abraham Sharp",
+      "birth_year": 1653,
+      "death_year": 1742,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Abraham_Sharp"
+    },
+    "joseph_sauveur": {
+      "name": "Joseph Sauveur",
+      "birth_year": 1653,
+      "death_year": 1716,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Joseph_Sauveur"
+    },
+    "jan_vaerman": {
+      "name": "Jan Vaerman",
+      "birth_year": 1653,
+      "death_year": 1731,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Jan_Vaerman"
+    },
+    "pierre_varignon": {
+      "name": "Pierre Varignon",
+      "birth_year": 1654,
+      "death_year": 1722,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Pierre_Varignon"
+    },
+    "jean_françois_gerbillon": {
+      "name": "Jean-François Gerbillon",
+      "birth_year": 1654,
+      "death_year": 1707,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Jean-Fran%C3%A7ois_Gerbillon"
+    },
+    "bernard_nieuwentyt": {
+      "name": "Bernard Nieuwentyt",
+      "birth_year": 1654,
+      "death_year": 1718,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Bernard_Nieuwentyt"
+    },
+    "chrysanthus_notaras": {
+      "name": "Chrysanthus Notaras",
+      "birth_year": 1660,
+      "death_year": 1731,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Chrysanthus_of_Jerusalem"
+    },
+    "joseph_saurin": {
+      "name": "Joseph Saurin",
+      "birth_year": 1655,
+      "death_year": 1737,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Joseph_Saurin"
+    },
+    "domenico_guglielmini": {
+      "name": "Domenico Guglielmini",
+      "birth_year": 1655,
+      "death_year": 1710,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Domenico_Guglielmini"
+    },
+    "caspar_castner": {
+      "name": "Caspar Castner",
+      "birth_year": 1655,
+      "death_year": 1709,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Caspar_Castner"
+    },
+    "william_fleetwood": {
+      "name": "William Fleetwood",
+      "birth_year": 1656,
+      "death_year": 1723,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/William_Fleetwood"
+    },
+    "nicolaas_hartsoeker": {
+      "name": "Nicolaas Hartsoeker",
+      "birth_year": 1656,
+      "death_year": 1725,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Nicolaas_Hartsoeker"
+    },
+    "charles_rené_reyneau": {
+      "name": "Charles René Reyneau",
+      "birth_year": 1656,
+      "death_year": 1728,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Charles-Ren%C3%A9_Reynaud"
+    },
+    "joachim_bouvet": {
+      "name": "Joachim Bouvet",
+      "birth_year": 1656,
+      "death_year": 1732,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Joachim_Bouvet"
+    },
+    "claude_de_visdelou": {
+      "name": "Claude de Visdelou",
+      "birth_year": 1656,
+      "death_year": 1737,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Claude_de_Visdelou"
+    },
+    "edmond_halley": {
+      "name": "Edmond Halley",
+      "birth_year": 1656,
+      "death_year": 1742,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Edmond_Halley"
+    },
+    "sébastien_truchet": {
+      "name": "Sébastien Truchet",
+      "birth_year": 1657,
+      "death_year": 1729,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/S%C3%A9bastien_Truchet"
+    },
+    "bernard_le_bovier_de_fontenelle": {
+      "name": "Bernard Le Bovier de Fontenelle",
+      "birth_year": 1657,
+      "death_year": 1757,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Bernard_Le_Bovier_de_Fontenelle"
+    },
+    "st_george_ashe": {
+      "name": "St George Ashe",
+      "birth_year": 1658,
+      "death_year": 1718,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/St_George_Ashe"
+    },
+    "david_gregory": {
+      "name": "David Gregory",
+      "birth_year": 1659,
+      "death_year": 1708,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/David_Gregory_(mathematician)"
+    },
+    "francis_hauksbee": {
+      "name": "Francis Hauksbee",
+      "birth_year": 1660,
+      "death_year": 1713,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Francis_Hauksbee"
+    },
+    "gabriel_wagner": {
+      "name": "Gabriel Wagner",
+      "birth_year": 1660,
+      "death_year": 1717,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Gabriel_Wagner"
+    },
+    "methodios_anthrakites": {
+      "name": "Methodios Anthrakites",
+      "birth_year": 1660,
+      "death_year": 1736,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Methodios_Anthrakites"
+    },
+    "puthumana_somayaji": {
+      "name": "Puthumana Somayaji",
+      "birth_year": 1660,
+      "death_year": 1740,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Puthumana_Somayaji"
+    },
+    "john_adair": {
+      "name": "John Adair",
+      "birth_year": 1660,
+      "death_year": 1718,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/John_Adair_(surveyor)"
+    },
+    "johann_kuhnau": {
+      "name": "Johann Kuhnau",
+      "birth_year": 1660,
+      "death_year": 1722,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Johann_Kuhnau"
+    },
+    "thomas_fantet_de_lagny": {
+      "name": "Thomas Fantet de Lagny",
+      "birth_year": 1660,
+      "death_year": 1734,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Thomas_Fantet_de_Lagny"
+    },
+    "guillaume_de_l'hôpital": {
+      "name": "Guillaume de l'Hôpital",
+      "birth_year": 1661,
+      "death_year": 1704,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Guillaume_de_l%27H%C3%B4pital"
+    },
+    "gunno_dahlstierna": {
+      "name": "Gunno Dahlstierna",
+      "birth_year": 1661,
+      "death_year": 1709,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Gunno_Dahlstierna"
+    },
+    "christopher_polhem": {
+      "name": "Christopher Polhem",
+      "birth_year": 1661,
+      "death_year": 1751,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Christopher_Polhem"
+    },
+    "paul_halcke": {
+      "name": "Paul Halcke",
+      "birth_year": 1662,
+      "death_year": 1731,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Paul_Halcke"
+    },
+    "john_craig": {
+      "name": "John Craig",
+      "birth_year": 1663,
+      "death_year": 1731,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/John_Craig_(mathematician)"
+    },
+    "jean_pierre_de_crousaz": {
+      "name": "Jean-Pierre de Crousaz",
+      "birth_year": 1663,
+      "death_year": 1750,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Jean-Pierre_de_Crousaz"
+    },
+    "johann_balthasar_lauterbach": {
+      "name": "Johann Balthasar Lauterbach",
+      "birth_year": 1663,
+      "death_year": 1694,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Johann_Balthasar_Lauterbach"
+    },
+    "louis_carré": {
+      "name": "Louis Carré",
+      "birth_year": 1663,
+      "death_year": 1711,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Louis_Carr%C3%A9_(mathematician)"
+    },
+    "guillaume_amontons": {
+      "name": "Guillaume Amontons",
+      "birth_year": 1663,
+      "death_year": 1705,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Guillaume_Amontons"
+    },
+    "pedro_peralta_y_barnuevo": {
+      "name": "Pedro Peralta y Barnuevo",
+      "birth_year": 1664,
+      "death_year": 1743,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Pedro_Peralta_y_Barnuevo"
+    },
+    "takebe_katahiro": {
+      "name": "Takebe Katahiro",
+      "birth_year": 1664,
+      "death_year": 1739,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Takebe_Kenk%C5%8D"
+    },
+    "pierre_dangicourt": {
+      "name": "Pierre Dangicourt",
+      "birth_year": 1664,
+      "death_year": 1727,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Pierre_Dangicourt"
+    },
+    "nicolas_fatio_de_duillier": {
+      "name": "Nicolas Fatio de Duillier",
+      "birth_year": 1664,
+      "death_year": 1753,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Nicolas_Fatio_de_Duillier"
+    },
+    "andreas_musalus": {
+      "name": "Andreas Musalus",
+      "birth_year": 1665,
+      "death_year": 1721,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Andreas_Musalus"
+    },
+    "giacomo_f_maraldi": {
+      "name": "Giacomo F. Maraldi",
+      "birth_year": 1665,
+      "death_year": 1729,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Giacomo_F._Maraldi"
+    },
+    "robert_anderson": {
+      "name": "Robert Anderson",
+      "birth_year": 1666,
+      "death_year": 1696,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Robert_Anderson_(mathematician)"
+    },
+    "john_harris": {
+      "name": "John Harris",
+      "birth_year": 1666,
+      "death_year": 1719,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/John_Harris_(writer)"
+    },
+    "antoine_parent": {
+      "name": "Antoine Parent",
+      "birth_year": 1666,
+      "death_year": 1716,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Antoine_Parent"
+    },
+    "edward_wells": {
+      "name": "Edward Wells",
+      "birth_year": 1667,
+      "death_year": 1727,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Edward_Wells_(theologian)"
+    },
+    "john_arbuthnot": {
+      "name": "John Arbuthnot",
+      "birth_year": 1667,
+      "death_year": 1735,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/John_Arbuthnot"
+    },
+    "jean_françois_baltus": {
+      "name": "Jean-François Baltus",
+      "birth_year": 1667,
+      "death_year": 1743,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Jean-Fran%C3%A7ois_Baltus"
+    },
+    "giovanni_girolamo_saccheri": {
+      "name": "Giovanni Girolamo Saccheri",
+      "birth_year": 1667,
+      "death_year": 1733,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Giovanni_Girolamo_Saccheri"
+    },
+    "florent_jean_de_vallière": {
+      "name": "Florent-Jean de Vallière",
+      "birth_year": 1667,
+      "death_year": 1759,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Florent-Jean_de_Valli%C3%A8re"
+    },
+    "william_whiston": {
+      "name": "William Whiston",
+      "birth_year": 1667,
+      "death_year": 1752,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/William_Whiston"
+    },
+    "joseph_raphson": {
+      "name": "Joseph Raphson",
+      "birth_year": 1668,
+      "death_year": 1715,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Joseph_Raphson"
+    },
+    "claude_rabuel": {
+      "name": "Claude Rabuel",
+      "birth_year": 1669,
+      "death_year": 1729,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Claude_Rabuel"
+    },
+    "lars_tammelin": {
+      "name": "Lars Tammelin",
+      "birth_year": 1669,
+      "death_year": 1733,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Lars_Tammelin"
+    },
+    "leonty_magnitsky": {
+      "name": "Leonty Magnitsky",
+      "birth_year": 1669,
+      "death_year": 1739,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Leonty_Magnitsky"
+    },
+    "george_cheyne": {
+      "name": "George Cheyne",
+      "birth_year": 1671,
+      "death_year": 1743,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/George_Cheyne_(physician)"
+    },
+    "jacques_d'allonville": {
+      "name": "Jacques d'Allonville",
+      "birth_year": 1671,
+      "death_year": 1732,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Jacques_d%27Allonville"
+    },
+    "pierre_polinière": {
+      "name": "Pierre Polinière",
+      "birth_year": 1671,
+      "death_year": 1734,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Pierre_Polini%C3%A8re"
+    },
+    "luigi_guido_grandi": {
+      "name": "Luigi Guido Grandi",
+      "birth_year": 1671,
+      "death_year": 1742,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Luigi_Guido_Grandi"
+    },
+    "john_keill": {
+      "name": "John Keill",
+      "birth_year": 1671,
+      "death_year": 1721,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/John_Keill"
+    },
+    "james_hodgson": {
+      "name": "James Hodgson",
+      "birth_year": 1672,
+      "death_year": 1755,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/James_Hodgson_(mathematician)"
+    },
+    "alessandro_marcello": {
+      "name": "Alessandro Marcello",
+      "birth_year": 1673,
+      "death_year": 1747,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Alessandro_Marcello"
+    },
+    "henry_farquharson": {
+      "name": "Henry Farquharson",
+      "birth_year": 1675,
+      "death_year": 1739,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Henry_Farquharson"
+    },
+    "angelo_marchetti": {
+      "name": "Angelo Marchetti",
+      "birth_year": 1674,
+      "death_year": 1753,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Angelo_Marchetti"
+    },
+    "jacob_leupold": {
+      "name": "Jacob Leupold",
+      "birth_year": 1674,
+      "death_year": 1727,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Jacob_Leupold"
+    },
+    "eustachio_manfredi": {
+      "name": "Eustachio Manfredi",
+      "birth_year": 1674,
+      "death_year": 1739,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Eustachio_Manfredi"
+    },
+    "william_jones": {
+      "name": "William Jones",
+      "birth_year": 1675,
+      "death_year": 1749,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/William_Jones_(mathematician)"
+    },
+    "yves_marie_andré": {
+      "name": "Yves Marie André",
+      "birth_year": 1675,
+      "death_year": 1764,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Yves_Marie_Andr%C3%A9"
+    },
+    "humphry_ditton": {
+      "name": "Humphry Ditton",
+      "birth_year": 1675,
+      "death_year": 1715,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Humphry_Ditton"
+    },
+    "samuel_clarke": {
+      "name": "Samuel Clarke",
+      "birth_year": 1675,
+      "death_year": 1729,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Samuel_Clarke"
+    },
+    "joseph_privat_de_molières": {
+      "name": "Joseph Privat de Molières",
+      "birth_year": 1676,
+      "death_year": 1742,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Joseph_Privat_de_Moli%C3%A8res"
+    },
+    "jacopo_riccati": {
+      "name": "Jacopo Riccati",
+      "birth_year": 1676,
+      "death_year": 1754,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Jacopo_Riccati"
+    },
+    "giovanni_battista_mazzini": {
+      "name": "Giovanni Battista Mazzini",
+      "birth_year": 1677,
+      "death_year": 1743,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Giovanni_Battista_Mazzini"
+    },
+    "jacobus_wittichius": {
+      "name": "Jacobus Wittichius",
+      "birth_year": 1677,
+      "death_year": 1739,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Jacobus_Wittichius"
+    },
+    "antonio_schinella_conti": {
+      "name": "Antonio Schinella Conti",
+      "birth_year": 1677,
+      "death_year": 1749,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Antonio_Schinella_Conti"
+    },
+    "gabriel_philippe_de_la_hire": {
+      "name": "Gabriel Philippe de la Hire",
+      "birth_year": 1677,
+      "death_year": 1719,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Gabriel-Philippe_de_La_Hire"
+    },
+    "johan_gabriel_doppelmayr": {
+      "name": "Johan Gabriel Doppelmayr",
+      "birth_year": 1677,
+      "death_year": 1750,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Johann_Gabriel_Doppelmayr"
+    },
+    "charles_hayes": {
+      "name": "Charles Hayes",
+      "birth_year": 1678,
+      "death_year": 1760,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Charles_Hayes_(mathematician)"
+    },
+    "louis_bourguet": {
+      "name": "Louis Bourguet",
+      "birth_year": 1678,
+      "death_year": 1742,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Louis_Bourguet"
+    },
+    "jakob_hermann": {
+      "name": "Jakob Hermann",
+      "birth_year": 1678,
+      "death_year": 1733,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Jakob_Hermann"
+    },
+    "vittorio_francesco_stancari": {
+      "name": "Vittorio Francesco Stancari",
+      "birth_year": 1678,
+      "death_year": 1709,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Vittorio_Francesco_Stancari"
+    },
+    "pierre_raymond_de_montmort": {
+      "name": "Pierre Raymond de Montmort",
+      "birth_year": 1678,
+      "death_year": 1719,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Pierre_Remond_de_Montmort"
+    },
+    "jean_jacques_dortous_de_mayran": {
+      "name": "Jean Jacques Dortous de Mayran",
+      "birth_year": 1678,
+      "death_year": 1771,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Jean-Jacques_d%27Ortous_de_Mairan"
+    },
+    "karel_slavíček": {
+      "name": "Karel Slavíček",
+      "birth_year": 1678,
+      "death_year": 1735,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Karel_Slav%C3%AD%C4%8Dek"
+    },
+    "christian_wolff": {
+      "name": "Christian Wolff",
+      "birth_year": 1679,
+      "death_year": 1754,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Christian_Wolff_(philosopher)"
+    },
+    "johann_georg_liebknecht": {
+      "name": "Johann Georg Liebknecht",
+      "birth_year": 1679,
+      "death_year": 1749,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Johann_Georg_Liebknecht"
+    },
+    "peder_horrebow": {
+      "name": "Peder Horrebow",
+      "birth_year": 1679,
+      "death_year": 1764,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Peder_Horrebow"
+    },
+    "john_machin": {
+      "name": "John Machin",
+      "birth_year": 1680,
+      "death_year": 1751,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/John_Machin"
+    },
+    "john_colson": {
+      "name": "John Colson",
+      "birth_year": 1680,
+      "death_year": 1760,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/John_Colson"
+    },
+    "franc_breckerfeld": {
+      "name": "Franc Breckerfeld",
+      "birth_year": 1681,
+      "death_year": 1744,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Franc_Breckerfeld"
+    },
+    "gabriele_manfredi": {
+      "name": "Gabriele Manfredi",
+      "birth_year": 1681,
+      "death_year": 1761,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Gabriele_Manfredi"
+    },
+    "domenico_chelucci": {
+      "name": "Domenico Chelucci",
+      "birth_year": 1681,
+      "death_year": 1754,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Domenico_Chelucci"
+    },
+    "johann_wilhelm_wagner": {
+      "name": "Johann Wilhelm Wagner",
+      "birth_year": 1681,
+      "death_year": 1745,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Johann_Wilhelm_Wagner"
+    },
+    "nicholas_saunderson": {
+      "name": "Nicholas Saunderson",
+      "birth_year": 1682,
+      "death_year": 1739,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Nicholas_Saunderson"
+    },
+    "john_hadley": {
+      "name": "John Hadley",
+      "birth_year": 1682,
+      "death_year": 1744,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/John_Hadley"
+    },
+    "amédée_françois_frézier": {
+      "name": "Amédée-François Frézier",
+      "birth_year": 1682,
+      "death_year": 1773,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Am%C3%A9d%C3%A9e-Fran%C3%A7ois_Fr%C3%A9zier"
+    },
+    "roger_cotes": {
+      "name": "Roger Cotes",
+      "birth_year": 1682,
+      "death_year": 1716,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Roger_Cotes"
+    },
+    "giulio_carlo_de'_toschi_di_fagnano": {
+      "name": "Giulio Carlo de' Toschi di Fagnano",
+      "birth_year": 1682,
+      "death_year": 1766,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Giulio_Carlo_de%27_Toschi_di_Fagnano"
+    },
+    "william_blencowe": {
+      "name": "William Blencowe",
+      "birth_year": 1683,
+      "death_year": 1712,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/William_Blencowe"
+    },
+    "rené_antoine_ferchault_de_réaumur": {
+      "name": "René Antoine Ferchault de Réaumur",
+      "birth_year": 1683,
+      "death_year": 1757,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Ren%C3%A9_Antoine_Ferchault_de_R%C3%A9aumur"
+    },
+    "jean_pierre_christin": {
+      "name": "Jean-Pierre Christin",
+      "birth_year": 1683,
+      "death_year": 1755,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Jean-Pierre_Christin"
+    },
+    "giovanni_poleni": {
+      "name": "Giovanni Poleni",
+      "birth_year": 1683,
+      "death_year": 1761,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Giovanni_Poleni"
+    },
+    "françois_nicole": {
+      "name": "François Nicole",
+      "birth_year": 1683,
+      "death_year": 1758,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Fran%C3%A7ois_Nicole"
+    },
+    "johann_matthias_hase": {
+      "name": "Johann Matthias Hase",
+      "birth_year": 1684,
+      "death_year": 1742,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Johann_Matthias_Hase"
+    },
+    "joseph_pellerin": {
+      "name": "Joseph Pellerin",
+      "birth_year": 1684,
+      "death_year": 1782,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Joseph_Pellerin"
+    },
+    "celia_grillo_borromeo": {
+      "name": "Celia Grillo Borromeo",
+      "birth_year": 1684,
+      "death_year": 1777,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Clelia_Grillo_Borromeo"
+    },
+    "james_jurin": {
+      "name": "James Jurin",
+      "birth_year": 1684,
+      "death_year": 1750,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/James_Jurin"
+    },
+    "raphael_levi_hannover": {
+      "name": "Raphael Levi Hannover",
+      "birth_year": 1685,
+      "death_year": 1779,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Raphael_Levi_Hannover"
+    },
+    "carl_gottlieb_ehler": {
+      "name": "Carl Gottlieb Ehler",
+      "birth_year": 1685,
+      "death_year": 1753,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Carl_Gottlieb_Ehler"
+    },
+    "tiberius_hemsterhuis": {
+      "name": "Tiberius Hemsterhuis",
+      "birth_year": 1685,
+      "death_year": 1766,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Tiberius_Hemsterhuis"
+    },
+    "jacob_theodor_klein": {
+      "name": "Jacob Theodor Klein",
+      "birth_year": 1685,
+      "death_year": 1759,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Jacob_Theodor_Klein"
+    },
+    "brook_taylor": {
+      "name": "Brook Taylor",
+      "birth_year": 1685,
+      "death_year": 1732,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Brook_Taylor"
+    },
+    "jane_squire": {
+      "name": "Jane Squire",
+      "birth_year": 1686,
+      "death_year": 1743,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Jane_Squire"
+    },
+    "niccolò_gianpriamo": {
+      "name": "Niccolò Gianpriamo",
+      "birth_year": 1686,
+      "death_year": 1759,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Niccol%C3%B2_Gianpriamo"
+    },
+    "gottfried_hensel": {
+      "name": "Gottfried Hensel",
+      "birth_year": 1687,
+      "death_year": 1767,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Gottfried_Hensel"
+    },
+    "robert_simson": {
+      "name": "Robert Simson",
+      "birth_year": 1687,
+      "death_year": 1768,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Robert_Simson"
+    },
+    "emmanuel_swedenborg": {
+      "name": "Emmanuel Swedenborg",
+      "birth_year": 1688,
+      "death_year": 1772,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Emanuel_Swedenborg"
+    },
+    "willem_'s_gravesande": {
+      "name": "Willem 's Gravesande",
+      "birth_year": 1688,
+      "death_year": 1742,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Willem_%27s_Gravesande"
+    },
+    "louis_bertrand_castel": {
+      "name": "Louis Bertrand Castel",
+      "birth_year": 1688,
+      "death_year": 1757,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Louis_Bertrand_Castel"
+    },
+    "thomas_robie": {
+      "name": "Thomas Robie",
+      "birth_year": 1689,
+      "death_year": 1729,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Thomas_Robie"
+    },
+    "robert_smith": {
+      "name": "Robert Smith",
+      "birth_year": 1689,
+      "death_year": 1768,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Robert_Smith_(mathematician)"
+    },
+    "ignatz_mühlwenzek": {
+      "name": "Ignatz Mühlwenzek",
+      "birth_year": 1690,
+      "death_year": 1766,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Ignatz_M%C3%BChlwenzel"
+    },
+    "martin_folkes": {
+      "name": "Martin Folkes",
+      "birth_year": 1690,
+      "death_year": 1754,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Martin_Folkes"
+    },
+    "carlo_lodoli": {
+      "name": "Carlo Lodoli",
+      "birth_year": 1690,
+      "death_year": 1761,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Carlo_Lodoli"
+    },
+    "abbondio_collina": {
+      "name": "Abbondio Collina",
+      "birth_year": 1691,
+      "death_year": 1757,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Abbondio_Collina"
+    },
+    "johann_friedrich_weidler": {
+      "name": "Johann Friedrich Weidler",
+      "birth_year": 1691,
+      "death_year": 1755,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Johann_Friedrich_Weidler"
+    },
+    "ivan_dizma_florjančič_de_grienfeld": {
+      "name": "Ivan Dizma Florjančič de Grienfeld",
+      "birth_year": 1691,
+      "death_year": 1757,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Joannes_Disma_Floriantschitsch_de_Grienfeld"
+    },
+    "alessandro_galilei": {
+      "name": "Alessandro Galilei",
+      "birth_year": 1691,
+      "death_year": 1737,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Alessandro_Galilei"
+    },
+    "giovanni_francesco_crivelli": {
+      "name": "Giovanni Francesco Crivelli",
+      "birth_year": 1691,
+      "death_year": 1743,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Giovanni_Francesco_Crivelli"
+    },
+    "minggatu": {
+      "name": "Minggatu",
+      "birth_year": 1692,
+      "death_year": 1763,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Minggatu"
+    },
+    "pieter_van_musschenbroek": {
+      "name": "Pieter van Musschenbroek",
+      "birth_year": 1692,
+      "death_year": 1761,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Pieter_van_Musschenbroek"
+    },
+    "james_stirling": {
+      "name": "James Stirling",
+      "birth_year": 1692,
+      "death_year": 1770,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/James_Stirling_(mathematician)"
+    },
+    "esprit_pezenas": {
+      "name": "Esprit Pezenas",
+      "birth_year": 1692,
+      "death_year": 1776,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Esprit_Pezenas"
+    },
+    "georg_bernhard_bilfinger": {
+      "name": "Georg Bernhard Bilfinger",
+      "birth_year": 1693,
+      "death_year": 1750,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Georg_Bernhard_Bilfinger"
+    },
+    "edward_willes": {
+      "name": "Edward Willes",
+      "birth_year": 1693,
+      "death_year": 1773,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Edward_Willes_(bishop)"
+    },
+    "diego_de_torres_villarroel": {
+      "name": "Diego de Torres Villarroel",
+      "birth_year": 1694,
+      "death_year": 1770,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Diego_de_Torres_Villarroel"
+    },
+    "christian_august_hausen": {
+      "name": "Christian August Hausen",
+      "birth_year": 1693,
+      "death_year": 1743,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Christian_August_Hausen"
+    },
+    "balanos_vasilopoulos": {
+      "name": "Balanos Vasilopoulos",
+      "birth_year": 1694,
+      "death_year": 1760,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Balanos_Vasilopoulos"
+    },
+    "elizabeth_tollet": {
+      "name": "Elizabeth Tollet",
+      "birth_year": 1694,
+      "death_year": 1754,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Elizabeth_Tollet"
+    },
+    "michael_christoph_hanow": {
+      "name": "Michael Christoph Hanow",
+      "birth_year": 1695,
+      "death_year": 1773,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Michael_Christoph_Hanow"
+    },
+    "nicolaus_rohlfs": {
+      "name": "Nicolaus Rohlfs",
+      "birth_year": 1695,
+      "death_year": 1750,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Nicolaus_Rohlfs"
+    },
+    "nicolas_françois_dupré_de_saint_maur": {
+      "name": "Nicolas-François Dupré de Saint-Maur",
+      "birth_year": 1695,
+      "death_year": 1774,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Nicolas-Fran%C3%A7ois_Dupr%C3%A9_de_Saint-Maur"
+    },
+    "henri_pitot": {
+      "name": "Henri Pitot",
+      "birth_year": 1695,
+      "death_year": 1771,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Henri_Pitot"
+    },
+    "ramiro_rampinelli": {
+      "name": "Ramiro Rampinelli",
+      "birth_year": 1697,
+      "death_year": 1759,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Ramiro_Rampinelli"
+    },
+    "bernard_forest_de_bélidor": {
+      "name": "Bernard Forest de Bélidor",
+      "birth_year": 1698,
+      "death_year": 1761,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Bernard_Forest_de_B%C3%A9lidor"
+    },
+    "hassan_al_jabarti": {
+      "name": "Hassan al-Jabarti",
+      "birth_year": 1698,
+      "death_year": 1774,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Hassan_al-Jabarti"
+    },
+    "nicolas_sarrabat": {
+      "name": "Nicolas Sarrabat",
+      "birth_year": 1698,
+      "death_year": 1739,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Nicolas_Sarrabat"
+    },
+    "pierre_bouguer": {
+      "name": "Pierre Bouguer",
+      "birth_year": 1698,
+      "death_year": 1758,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Pierre_Bouguer"
+    },
+    "samuel_klingenstierna": {
+      "name": "Samuel Klingenstierna",
+      "birth_year": 1698,
+      "death_year": 1765,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Samuel_Klingenstierna"
+    },
+    "pierre_louis_moreau_de_maupertuis": {
+      "name": "Pierre-Louis Moreau de Maupertuis",
+      "birth_year": 1698,
+      "death_year": 1759,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Pierre_Louis_Maupertuis"
+    },
+    "jens_høysgaard": {
+      "name": "Jens Høysgaard",
+      "birth_year": 1698,
+      "death_year": 1773,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Jens_H%C3%B8ysgaard"
+    },
+    "john_muller": {
+      "name": "John Muller",
+      "birth_year": 1699,
+      "death_year": 1784,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/John_M%C3%BCller"
+    },
+    "wojciech_bystrzonowski": {
+      "name": "Wojciech Bystrzonowski",
+      "birth_year": 1699,
+      "death_year": 1782,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Wojciech_Bystrzonowski"
+    },
+    "muhammad_ibn_muhammad_al_fulani_al_kishwani": {
+      "name": "Muhammad Ibn Muhammad Al-Fulani Al-Kishwani",
+      "birth_year": 1699,
+      "death_year": 1741,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Muhammad_ibn_Muhammad_al-Fulani_al-Kishnawi"
+    },
+    "charles_étienne_louis_camus": {
+      "name": "Charles Étienne Louis Camus",
+      "birth_year": 1699,
+      "death_year": 1768,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Charles_%C3%89tienne_Louis_Camus"
+    },
+    "marie_crous": {
+      "name": "Marie Crous",
+      "birth_year": 1700,
+      "death_year": null,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Marie_Crous"
+    },
+    "giovanni_veronese": {
+      "name": "Giovanni Veronese",
+      "birth_year": 1701,
+      "death_year": null,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Giovanni_Veronese"
+    },
+    "angelo_felice_capelli": {
+      "name": "Angelo Felice Capelli",
+      "birth_year": 1681,
+      "death_year": null,
+      "nationality": "European",
+      "fields": [
+        "mathematics"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Angelo_Felice_Capelli"
     }
   }
 }

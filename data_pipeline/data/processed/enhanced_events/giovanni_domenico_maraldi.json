@@ -1,0 +1,141 @@
+{
+  "id": null,
+  "name": "Giovanni Domenico Maraldi",
+  "birth_year": 1709,
+  "death_year": 1788,
+  "nationality": "European",
+  "fields": [
+    "mathematics"
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Giovanni_Domenico_Maraldi",
+  "wikipedia_data": {
+    "url": "https://en.wikipedia.org/wiki/Giovanni_Domenico_Maraldi",
+    "title": "Giovanni Domenico Maraldi",
+    "page_title": "Giovanni_Domenico_Maraldi",
+    "biography_paragraphs": [
+      "Giovanni Domenico Maraldi (French: Jean-Dominique Maraldi; 17 April 1709 – 14 November 1788) was an Italian-born astronomer, nephew of Giacomo F. Maraldi.[1]",
+      "Born at Perinaldo, Republic of Genoa, Maraldi came to Paris in 1727 and became a member of the French Academy of Sciences in 1731. There, while observing Comet De Chéseaux with Jacques Cassini in 1746, he discovered two \"nebulous stars\", which later turned out to be globular clusters M15 and M2. Maraldi retired to Perinaldo, Italy in 1772. He was posthumously honored, along with his uncle, by the naming of lunar crater Maraldi in 1935.",
+      "This article about an Italian astronomer is a stub. You can help Wikipedia by expanding it.",
+      "This article about a French astronomer is a stub. You can help Wikipedia by expanding it."
+    ],
+    "infobox": {
+      "birth": "(1709-03-17)17 March 1709Perinaldo, Duchy of Savoy",
+      "death": "14 November 1788(1788-11-14) (aged 79)Perinaldo, Kingdom of Sardinia"
+    },
+    "scraped_at": "2025-08-11T01:12:59.970542",
+    "raw_html_length": 98134
+  },
+  "processed_at": "2025-08-11T01:13:00.975735",
+  "wikidata_info": {
+    "wikidata_id": "Q722528",
+    "name": "Giovanni Domenico Maraldi",
+    "birth_year": 1709,
+    "death_year": 1788,
+    "birth_date_full": "1709-04-17T00:00:00Z",
+    "death_date_full": "1788-11-14T00:00:00Z",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Giovanni_Domenico_Maraldi",
+    "nationality": "",
+    "birth_place": {
+      "name": "",
+      "wikidata_uri": "",
+      "coordinates": null
+    },
+    "image_url": "",
+    "fields": [
+      "mathematics"
+    ],
+    "data_source": "wikidata_sparql",
+    "extracted_at": "2025-08-11T01:11:25.225364",
+    "wikidata_query_metadata": {
+      "query_date": "2025-08-11T01:11:25.225365",
+      "endpoint": "https://query.wikidata.org/sparql",
+      "data_quality": "structured"
+    }
+  },
+  "timeline_events": [
+    {
+      "year": 1709,
+      "year_confidence": "exact",
+      "event_type": "birth",
+      "description": "Born in Perinaldo, Republic of Genoa.",
+      "location": {
+        "place_name": "Perinaldo",
+        "raw_text": "Born at Perinaldo, Republic of Genoa",
+        "confidence": 1.0
+      },
+      "source_text": "Giovanni Domenico Maraldi (French: Jean-Dominique Maraldi; 17 April 1709 – 14 November 1788) was an Italian-born astronomer, nephew of Giacomo F. Maraldi.",
+      "confidence": 1.0,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T15:50:50.537392",
+        "extraction_confidence": 1.0,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": 1727,
+      "year_confidence": "exact",
+      "event_type": "travel",
+      "description": "Moved to Paris.",
+      "location": {
+        "place_name": "Paris",
+        "raw_text": "Maraldi came to Paris in 1727",
+        "confidence": 1.0
+      },
+      "source_text": "Giovanni Domenico Maraldi (French: Jean-Dominique Maraldi; 17 April 1709 – 14 November 1788) was an Italian-born astronomer, nephew of Giacomo F. Maraldi.",
+      "confidence": 1.0,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T15:50:50.537458",
+        "extraction_confidence": 1.0,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": 1731,
+      "year_confidence": "exact",
+      "event_type": "position",
+      "description": "Became a member of the French Academy of Sciences.",
+      "location": {
+        "place_name": "Paris",
+        "raw_text": "became a member of the French Academy of Sciences in 1731",
+        "confidence": 1.0
+      },
+      "source_text": "Giovanni Domenico Maraldi (French: Jean-Dominique Maraldi; 17 April 1709 – 14 November 1788) was an Italian-born astronomer, nephew of Giacomo F. Maraldi.",
+      "confidence": 1.0,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T15:50:50.537469",
+        "extraction_confidence": 1.0,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": 1772,
+      "year_confidence": "exact",
+      "event_type": "position",
+      "description": "Retired to Perinaldo, Italy.",
+      "location": {
+        "place_name": "Perinaldo",
+        "raw_text": "Maraldi retired to Perinaldo, Italy in 1772.",
+        "confidence": 1.0
+      },
+      "source_text": "Maraldi retired to Perinaldo, Italy in 1772.",
+      "confidence": 1.0,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T15:50:50.537531",
+        "extraction_confidence": 1.0,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    }
+  ],
+  "timeline_extraction_metadata": {
+    "extracted_at": "2025-08-11T15:50:50.537651",
+    "model_used": "lm_studio_google/gemma-3n-e4b",
+    "events_count": 4,
+    "biography_length": 689,
+    "enhancement_level": "gemma_comprehensive",
+    "target_events_per_mathematician": "5-10"
+  }
+}

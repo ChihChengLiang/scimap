@@ -1,0 +1,58 @@
+{
+  "id": null,
+  "name": "Nathaniel Bliss",
+  "birth_year": 1700,
+  "death_year": 1764,
+  "nationality": "European",
+  "fields": [
+    "mathematics"
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Nathaniel_Bliss",
+  "wikipedia_data": {
+    "url": "https://en.wikipedia.org/wiki/Nathaniel_Bliss",
+    "title": "Nathaniel Bliss",
+    "page_title": "Nathaniel_Bliss",
+    "biography_paragraphs": [
+      "Nathaniel Bliss (28 November 1700 – 2 September 1764) was an English astronomer of the 18th century, serving as Britain's fourth Astronomer Royal between 1762 and 1764.",
+      "Bliss studied at Oxford University and later became the Savilian Professor of Geometry. He made important meridian observations of a comet and a solar eclipse visible from Greenwich, and many of his observations proved useful in solving the longitude problem, and were bought by the Board of Longitude after his death.",
+      "Nathaniel Bliss was born in the Cotswolds village of Bisley in Gloucestershire. His father, also named Nathaniel Bliss, was a clothier. Bliss studied at Pembroke College, Oxford. He graduated B.A. in 1720 and M.A. in 1723, and married shortly afterwards.[1]",
+      "In 1736, Bliss became rector of St Ebbe's Church in Oxford. Supported by, among others; the 2nd Earl of Macclesfield (George Parker), Savilian Professor of Astronomy James Bradley and by William Jones, Bliss succeeded Edmond Halley as Savilian Professor of Geometry at Oxford University in February 1742 – being elected a Fellow of the Royal Society in May the same year. As Savilian Professor he lectured courses in arithmetic, algebra, plane and spherical geometry, the use of logarithms and surveying instruments.",
+      "In 1762 he succeeded Bradley to become the fourth Astronomer Royal, but held the post for only two years before his unexpected death.\nHe died in Oxford, but was buried close to Edmond Halley in St Margaret's churchyard in Lee in south-east London. As men of independent means, the first four Astronomers Royal including Bliss, were paid only a minimal salary. This situation changed when Nevil Maskelyne succeeded Bliss as Astronomer Royal upon his death –  Maskelyne commanded a salary of £350 per annum, permitting him to make the post his main occupation. In 2000 the International Astronomical Union named a crater on the Moon after Bliss, in commemoration of his position as Astronomer Royal."
+    ],
+    "infobox": {
+      "birth": "(1700-11-28)28 November 1700Bisley, Gloucestershire, England",
+      "death": "2 September 1764(1764-09-02) (aged 63)Oxford, Oxfordshire, England",
+      "nationality": "English",
+      "fields": "Astronomy, mathematics"
+    },
+    "scraped_at": "2025-08-11T01:12:04.560369",
+    "raw_html_length": 105420
+  },
+  "processed_at": "2025-08-11T01:12:05.561110",
+  "wikidata_info": {
+    "wikidata_id": "Q945461",
+    "name": "Nathaniel Bliss",
+    "birth_year": 1700,
+    "death_year": 1764,
+    "birth_date_full": "1700-11-28T00:00:00Z",
+    "death_date_full": "1764-09-02T00:00:00Z",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Nathaniel_Bliss",
+    "nationality": "",
+    "birth_place": {
+      "name": "",
+      "wikidata_uri": "",
+      "coordinates": null
+    },
+    "image_url": "",
+    "fields": [
+      "mathematics"
+    ],
+    "data_source": "wikidata_sparql",
+    "extracted_at": "2025-08-11T01:11:25.224769",
+    "wikidata_query_metadata": {
+      "query_date": "2025-08-11T01:11:25.224770",
+      "endpoint": "https://query.wikidata.org/sparql",
+      "data_quality": "structured"
+    }
+  }
+}

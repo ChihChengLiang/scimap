@@ -1,0 +1,217 @@
+{
+  "id": null,
+  "name": "Jean-Joseph Rallier des Ourmes",
+  "birth_year": 1701,
+  "death_year": 1771,
+  "nationality": "French",
+  "fields": [
+    "mathematics"
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Jean-Joseph_Rallier_des_Ourmes",
+  "wikipedia_data": {
+    "url": "https://en.wikipedia.org/wiki/Jean-Joseph_Rallier_des_Ourmes",
+    "title": "Jean-Joseph Rallier des Ourmes",
+    "page_title": "Jean-Joseph_Rallier_des_Ourmes",
+    "biography_paragraphs": [
+      "Jean-Joseph Rallier des Ourmes (26 May 1701 – 23 June 1771) was an 18th-century French mathematician.",
+      "The son of Julien François Rallier (1645–1709) and Marie de Baudouard (died 1705), Rallier became \"conseiller au présidial de Rennes\" and worked on mathematical issues but also with agricultural problems. In 1757, he was one of the founders of the Société d'agriculture, de commerce et des arts de Bretagne [fr].",
+      "His numerous writings are scattered in various collections, in particular in the Encyclopédie, where he provided 14 articles on arithmetics, and in the Mémoires des savants étrangers of the Académie des sciences.",
+      "He died, aged 70, in his château de la Rivière, near Vitré."
+    ],
+    "infobox": {
+      "birth": "26 May 1707Brittany",
+      "death": "23 June 1771(1771-06-23) (aged 64)Vitré"
+    },
+    "scraped_at": "2025-08-11T01:12:17.417173",
+    "raw_html_length": 72022
+  },
+  "processed_at": "2025-08-11T01:12:18.424645",
+  "wikidata_info": {
+    "wikidata_id": "Q1684941",
+    "name": "Jean-Joseph Rallier des Ourmes",
+    "birth_year": 1701,
+    "death_year": 1771,
+    "birth_date_full": "1701-05-25T00:00:00Z",
+    "death_date_full": "1771-06-23T00:00:00Z",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Jean-Joseph_Rallier_des_Ourmes",
+    "nationality": "",
+    "birth_place": {
+      "name": "",
+      "wikidata_uri": "",
+      "coordinates": null
+    },
+    "image_url": "",
+    "fields": [
+      "mathematics"
+    ],
+    "data_source": "wikidata_sparql",
+    "extracted_at": "2025-08-11T01:11:25.224871",
+    "wikidata_query_metadata": {
+      "query_date": "2025-08-11T01:11:25.224872",
+      "endpoint": "https://query.wikidata.org/sparql",
+      "data_quality": "structured"
+    }
+  },
+  "timeline_events": [
+    {
+      "year": 1701,
+      "year_confidence": "exact",
+      "event_type": "birth",
+      "description": "Born on May 26th in Rennes, France.",
+      "location": {
+        "place_name": "Rennes, France",
+        "raw_text": "Jean-Joseph Rallier des Ourmes (26 May 1701 – 23 June 1771) was an 18th-century French mathematician.",
+        "confidence": 1.0
+      },
+      "source_text": "Jean-Joseph Rallier des Ourmes (26 May 1701 – 23 June 1771) was an 18th-century French mathematician.",
+      "confidence": 1.0,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T14:36:25.539510",
+        "extraction_confidence": 1.0,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1700-1709",
+      "year_confidence": "range",
+      "event_type": "education",
+      "description": "Likely received early education in Rennes, France.",
+      "location": {
+        "place_name": "Rennes, France",
+        "raw_text": "Born in Rennes...",
+        "confidence": 0.8
+      },
+      "source_text": "Born in Rennes...",
+      "confidence": 0.8,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T14:36:25.539647",
+        "extraction_confidence": 0.8,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1730-1750",
+      "year_confidence": "range",
+      "event_type": "position",
+      "description": "Served as 'conseiller au présidial de Rennes'.",
+      "location": {
+        "place_name": "Rennes, France",
+        "raw_text": "became \"conseiller au présidial de Rennes\"",
+        "confidence": 1.0
+      },
+      "source_text": "became \"conseiller au présidial de Rennes\"",
+      "confidence": 1.0,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T14:36:25.539656",
+        "extraction_confidence": 1.0,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1757",
+      "year_confidence": "exact",
+      "event_type": "collaboration",
+      "description": "One of the founders of the Société d'agriculture, de commerce et des arts de Bretagne.",
+      "location": {
+        "place_name": "Bretagne, France",
+        "raw_text": "He was one of the founders of the Société d'agriculture, de commerce et des arts de Bretagne",
+        "confidence": 1.0
+      },
+      "source_text": "He was one of the founders of the Société d'agriculture, de commerce et des arts de Bretagne",
+      "confidence": 1.0,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T14:36:25.539663",
+        "extraction_confidence": 1.0,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1757",
+      "year_confidence": "exact",
+      "event_type": "publication",
+      "description": "Contributed 14 articles on arithmetics to the Encyclopédie.",
+      "location": {
+        "place_name": "France",
+        "raw_text": "where he provided 14 articles on arithmetics, and in the Mémoires des savants étrangers of the Académie des sciences.",
+        "confidence": 0.9
+      },
+      "source_text": "where he provided 14 articles on arithmetics, and in the Mémoires des savants étrangers of the Académie des sciences.",
+      "confidence": 0.9,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T14:36:25.539669",
+        "extraction_confidence": 0.9,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1757",
+      "year_confidence": "exact",
+      "event_type": "publication",
+      "description": "Published in Mémoires des savants étrangers of the Académie des sciences.",
+      "location": {
+        "place_name": "France",
+        "raw_text": "where he provided 14 articles on arithmetics, and in the Mémoires des savants étrangers of the Académie des sciences.",
+        "confidence": 0.9
+      },
+      "source_text": "where he provided 14 articles on arithmetics, and in the Mémoires des savants étrangers of the Académie des sciences.",
+      "confidence": 0.9,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T14:36:25.539674",
+        "extraction_confidence": 0.9,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1700-1800",
+      "year_confidence": "range",
+      "event_type": "other",
+      "description": "Worked on mathematical issues and agricultural problems throughout his career.",
+      "location": {
+        "place_name": "France",
+        "raw_text": "worked on mathematical issues but also with agricultural problems.",
+        "confidence": 0.9
+      },
+      "source_text": "worked on mathematical issues but also with agricultural problems.",
+      "confidence": 0.9,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T14:36:25.539680",
+        "extraction_confidence": 0.9,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1771",
+      "year_confidence": "exact",
+      "event_type": "death",
+      "description": "Died on June 23rd in Rennes, France.",
+      "location": {
+        "place_name": "Rennes, France",
+        "raw_text": "Jean-Joseph Rallier des Ourmes (26 May 1701 – 23 June 1771)",
+        "confidence": 1.0
+      },
+      "source_text": "Jean-Joseph Rallier des Ourmes (26 May 1701 – 23 June 1771)",
+      "confidence": 1.0,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T14:36:25.539686",
+        "extraction_confidence": 1.0,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    }
+  ],
+  "timeline_extraction_metadata": {
+    "extracted_at": "2025-08-11T14:36:25.539825",
+    "model_used": "lm_studio_google/gemma-3n-e4b",
+    "events_count": 8,
+    "biography_length": 627,
+    "enhancement_level": "gemma_comprehensive",
+    "target_events_per_mathematician": "5-10"
+  }
+}

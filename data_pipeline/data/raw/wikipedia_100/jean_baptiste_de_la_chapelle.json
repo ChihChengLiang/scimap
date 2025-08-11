@@ -1,0 +1,51 @@
+{
+  "id": null,
+  "name": "Jean-Baptiste de La Chapelle",
+  "birth_year": 1710,
+  "death_year": 1791,
+  "nationality": "German",
+  "fields": [
+    "mathematics"
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Jean-Baptiste_de_La_Chapelle",
+  "wikipedia_data": {
+    "url": "https://en.wikipedia.org/wiki/Jean-Baptiste_de_La_Chapelle",
+    "title": "Jean-Baptiste de La Chapelle",
+    "page_title": "Jean-Baptiste_de_La_Chapelle",
+    "biography_paragraphs": [
+      "Jean-Baptiste de La Chapelle (c.1710–1792, Paris) was a French priest, mathematician and inventor.",
+      "He contributed 270 articles to the Encyclopédie in the subjects of arithmetic and geometry. In June 1747 he was elected a Fellow of the Royal Society of London.[1]",
+      "He was the inventor of a primitive diving suit in 1775, which he called a \"scaphandre\" from the Greek words skaphe (boat) and andros (man) in his book Traité de la construction théorique et pratique du scaphandre ou du bateau de l'homme (Treatise on the theoretical and practical construction of the \"Scaphandre\" or human boat). The invention of the Abbé de la Chapelle consisted of a suit made of cork which allowed soldiers to float and swim in water. As the name and description suggest, it was more of a flotation suit than a diving suit."
+    ],
+    "infobox": {},
+    "scraped_at": "2025-08-11T01:13:04.634936",
+    "raw_html_length": 73113
+  },
+  "processed_at": "2025-08-11T01:13:05.639184",
+  "wikidata_info": {
+    "wikidata_id": "Q1371596",
+    "name": "Jean-Baptiste de La Chapelle",
+    "birth_year": 1710,
+    "death_year": 1791,
+    "birth_date_full": "1710-01-01T00:00:00Z",
+    "death_date_full": "1791-03-12T00:00:00Z",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Jean-Baptiste_de_La_Chapelle",
+    "nationality": "",
+    "birth_place": {
+      "name": "",
+      "wikidata_uri": "",
+      "coordinates": null
+    },
+    "image_url": "",
+    "fields": [
+      "mathematics"
+    ],
+    "data_source": "wikidata_sparql",
+    "extracted_at": "2025-08-11T01:11:25.225406",
+    "wikidata_query_metadata": {
+      "query_date": "2025-08-11T01:11:25.225407",
+      "endpoint": "https://query.wikidata.org/sparql",
+      "data_quality": "structured"
+    }
+  }
+}

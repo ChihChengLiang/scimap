@@ -116,10 +116,8 @@ def get_mathematician_list():
         return score
     
     # Sort by priority and take top 15
-    top_mathematicians = sorted(mathematicians, key=priority_score, reverse=True)[:15]
-    
-    print(f"✓ Selected top 15 mathematicians by priority")
-    
+    top_mathematicians = sorted(mathematicians, key=priority_score, reverse=True)
+
     # Create output for existing pipeline
     os.makedirs("data/processed", exist_ok=True)
     

@@ -1,0 +1,55 @@
+{
+  "id": null,
+  "name": "Jean-Joseph Rallier des Ourmes",
+  "birth_year": 1701,
+  "death_year": 1771,
+  "nationality": "French",
+  "fields": [
+    "mathematics"
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Jean-Joseph_Rallier_des_Ourmes",
+  "wikipedia_data": {
+    "url": "https://en.wikipedia.org/wiki/Jean-Joseph_Rallier_des_Ourmes",
+    "title": "Jean-Joseph Rallier des Ourmes",
+    "page_title": "Jean-Joseph_Rallier_des_Ourmes",
+    "biography_paragraphs": [
+      "Jean-Joseph Rallier des Ourmes (26 May 1701 – 23 June 1771) was an 18th-century French mathematician.",
+      "The son of Julien François Rallier (1645–1709) and Marie de Baudouard (died 1705), Rallier became \"conseiller au présidial de Rennes\" and worked on mathematical issues but also with agricultural problems. In 1757, he was one of the founders of the Société d'agriculture, de commerce et des arts de Bretagne [fr].",
+      "His numerous writings are scattered in various collections, in particular in the Encyclopédie, where he provided 14 articles on arithmetics, and in the Mémoires des savants étrangers of the Académie des sciences.",
+      "He died, aged 70, in his château de la Rivière, near Vitré."
+    ],
+    "infobox": {
+      "birth": "26 May 1707Brittany",
+      "death": "23 June 1771(1771-06-23) (aged 64)Vitré"
+    },
+    "scraped_at": "2025-08-11T01:12:17.417173",
+    "raw_html_length": 72022
+  },
+  "processed_at": "2025-08-11T01:12:18.424645",
+  "wikidata_info": {
+    "wikidata_id": "Q1684941",
+    "name": "Jean-Joseph Rallier des Ourmes",
+    "birth_year": 1701,
+    "death_year": 1771,
+    "birth_date_full": "1701-05-25T00:00:00Z",
+    "death_date_full": "1771-06-23T00:00:00Z",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Jean-Joseph_Rallier_des_Ourmes",
+    "nationality": "",
+    "birth_place": {
+      "name": "",
+      "wikidata_uri": "",
+      "coordinates": null
+    },
+    "image_url": "",
+    "fields": [
+      "mathematics"
+    ],
+    "data_source": "wikidata_sparql",
+    "extracted_at": "2025-08-11T01:11:25.224871",
+    "wikidata_query_metadata": {
+      "query_date": "2025-08-11T01:11:25.224872",
+      "endpoint": "https://query.wikidata.org/sparql",
+      "data_quality": "structured"
+    }
+  }
+}

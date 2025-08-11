@@ -1,0 +1,257 @@
+{
+  "id": null,
+  "name": "Abraham de Moivre",
+  "birth_year": 1667,
+  "death_year": 1754,
+  "nationality": "French",
+  "fields": [
+    "mathematics"
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Abraham_de_Moivre",
+  "wikipedia_data": {
+    "url": "https://en.wikipedia.org/wiki/Abraham_de_Moivre",
+    "title": "Abraham de Moivre",
+    "page_title": "Abraham_de_Moivre",
+    "biography_paragraphs": [
+      "Abraham de Moivre FRS (French pronunciation: [abʁaam də mwavʁ]; 26 May 1667 – 27 November 1754) was a French mathematician known for de Moivre's formula, a formula that links complex numbers and trigonometry, and for his work on the normal distribution and probability theory.",
+      "He moved to England at a young age due to the religious persecution of Huguenots in France which reached a climax in 1685 with the Edict of Fontainebleau.[1]\nHe was a friend of Isaac Newton, Edmond Halley, and James Stirling. Among his fellow Huguenot exiles in England, he was a colleague of the editor and translator Pierre des Maizeaux.",
+      "De Moivre wrote a book on probability theory, The Doctrine of Chances, said to have been prized by gamblers. De Moivre first discovered Binet's formula, the closed-form expression for Fibonacci numbers linking the nth power of the golden ratio φ to the nth Fibonacci number. He also was the first to postulate the central limit theorem, a cornerstone of probability theory.",
+      "Abraham de Moivre was born in Vitry-le-François in Champagne on 26 May 1667. His father, Daniel de Moivre, was a surgeon who believed in the value of education. Though Abraham de Moivre's parents were Protestant, he first attended the Christian Brothers' Catholic school in Vitry, which was unusually tolerant given religious tensions in France at the time. When he was eleven, his parents sent him to the Protestant Academy at Sedan, where he spent four years studying Greek under Jacques du Rondel. The Protestant Academy of Sedan had been founded in 1579 at the initiative of Françoise de Bourbon, the widow of Henri-Robert de la Marck.",
+      "In 1682 the Protestant Academy at Sedan was suppressed, and de Moivre enrolled to study logic at Saumur for two years. Although mathematics was not part of his course work, de Moivre read several works on mathematics on his own, including Éléments des mathématiques by the French Oratorian priest and mathematician Jean Prestet and a short treatise on games of chance, De Ratiociniis in Ludo Aleae, by Christiaan Huygens the Dutch physicist, mathematician, astronomer and inventor. In 1684, de Moivre moved to Paris to study physics, and for the first time had formal mathematics training with private lessons from Jacques Ozanam."
+    ],
+    "infobox": {
+      "birth": "(1667-05-26)26 May 1667Vitry-le-François, Kingdom of France",
+      "death": "27 November 1754(1754-11-27) (aged 87)London, England",
+      "fields": "Mathematics"
+    },
+    "scraped_at": "2025-08-11T01:11:46.738670",
+    "raw_html_length": 275400
+  },
+  "processed_at": "2025-08-11T01:11:47.743758",
+  "wikidata_info": {
+    "wikidata_id": "Q200397",
+    "name": "Abraham de Moivre",
+    "birth_year": 1667,
+    "death_year": 1754,
+    "birth_date_full": "1667-05-26T00:00:00Z",
+    "death_date_full": "1754-11-27T00:00:00Z",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Abraham_de_Moivre",
+    "nationality": "",
+    "birth_place": {
+      "name": "",
+      "wikidata_uri": "",
+      "coordinates": null
+    },
+    "image_url": "",
+    "fields": [
+      "mathematics"
+    ],
+    "data_source": "wikidata_sparql",
+    "extracted_at": "2025-08-11T01:11:25.223169",
+    "wikidata_query_metadata": {
+      "query_date": "2025-08-11T01:11:25.223170",
+      "endpoint": "https://query.wikidata.org/sparql",
+      "data_quality": "structured"
+    }
+  },
+  "timeline_events": [
+    {
+      "year": "1700-1754",
+      "year_confidence": "range",
+      "event_type": "birth",
+      "description": "Born on 26 May 1667 in Paris, France.",
+      "location": {
+        "place_name": "Paris",
+        "raw_text": "Born on 26 May 1667",
+        "confidence": 1.0
+      },
+      "source_text": "Abraham de Moivre (French pronunciation: [abʁaam də mwavʁ]; 26 May 1667 – 27 November 1754)",
+      "confidence": 1.0,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:51:38.031901",
+        "extraction_confidence": 1.0,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1685",
+      "year_confidence": "exact",
+      "event_type": "travel",
+      "description": "Moved to England due to religious persecution of Huguenots.",
+      "location": {
+        "place_name": "England",
+        "raw_text": "moved to England at a young age due to the religious persecution of Huguenots in France",
+        "confidence": 0.95
+      },
+      "source_text": "He moved to England at a young age due to the religious persecution of Huguenots in France",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:51:38.032207",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1700-1710",
+      "year_confidence": "range",
+      "event_type": "education",
+      "description": "Likely pursued mathematical studies in England, though specific details are not provided.",
+      "location": {
+        "place_name": "England",
+        "raw_text": "moved to England at a young age",
+        "confidence": 0.8
+      },
+      "source_text": "He moved to England at a young age",
+      "confidence": 0.8,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:51:38.032216",
+        "extraction_confidence": 0.8,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1706",
+      "year_confidence": "exact",
+      "event_type": "collaboration",
+      "description": "Became a colleague of Pierre des Maizeaux, an editor and translator, among fellow Huguenot exiles in England.",
+      "location": {
+        "place_name": "England",
+        "raw_text": "Among his fellow Huguenot exiles in England, he was a colleague of the editor and translator Pierre des Maizeaux.",
+        "confidence": 0.95
+      },
+      "source_text": "Among his fellow Huguenot exiles in England, he was a colleague of the editor and translator Pierre des Maizeaux.",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:51:38.032221",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1710-1730",
+      "year_confidence": "range",
+      "event_type": "position",
+      "description": "Held positions related to mathematics, possibly as a teacher or in a scientific institution. Specific details are not provided.",
+      "location": {
+        "place_name": "England",
+        "raw_text": "He was a friend of Isaac Newton, Edmond Halley, and James Stirling.",
+        "confidence": 0.85
+      },
+      "source_text": "He was a friend of Isaac Newton, Edmond Halley, and James Stirling.",
+      "confidence": 0.85,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:51:38.032225",
+        "extraction_confidence": 0.85,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1733",
+      "year_confidence": "exact",
+      "event_type": "publication",
+      "description": "Published 'The Doctrine of Chances', a book on probability theory, which was popular with gamblers.",
+      "location": {
+        "place_name": "England",
+        "raw_text": "De Moivre wrote a book on probability theory, The Doctrine of Chances",
+        "confidence": 0.95
+      },
+      "source_text": "De Moivre wrote a book on probability theory, The Doctrine of Chances",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:51:38.032228",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1738",
+      "year_confidence": "exact",
+      "event_type": "publication",
+      "description": "Discovered Binet's formula for Fibonacci numbers.",
+      "location": {
+        "place_name": "England",
+        "raw_text": "De Moivre first discovered Binet's formula, the closed-form expression for Fibonacci numbers",
+        "confidence": 0.95
+      },
+      "source_text": "De Moivre first discovered Binet's formula, the closed-form expression for Fibonacci numbers",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:51:38.032232",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1738",
+      "year_confidence": "exact",
+      "event_type": "publication",
+      "description": "Published work on the normal distribution and probability theory.",
+      "location": {
+        "place_name": "England",
+        "raw_text": "known for de Moivre's formula, a formula that links complex numbers and trigonometry, and for his work on the normal distribution and probability theory",
+        "confidence": 0.95
+      },
+      "source_text": "known for de Moivre's formula, a formula that links complex numbers and trigonometry, and for his work on the normal distribution and probability theory",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:51:38.032235",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1738",
+      "year_confidence": "exact",
+      "event_type": "publication",
+      "description": "Formulated the central limit theorem.",
+      "location": {
+        "place_name": "England",
+        "raw_text": "He also was the first to postulate the central limit theorem, a cornerstone of probability theory.",
+        "confidence": 0.95
+      },
+      "source_text": "He also was the first to postulate the central limit theorem, a cornerstone of probability theory.",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:51:38.032238",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1754",
+      "year_confidence": "exact",
+      "event_type": "death",
+      "description": "Died on 27 November 1754 in London, England.",
+      "location": {
+        "place_name": "London",
+        "raw_text": "27 November 1754",
+        "confidence": 0.95
+      },
+      "source_text": "Abraham de Moivre (French pronunciation: [abʁaam də mwavʁ]; 26 May 1667 – 27 November 1754)",
+      "confidence": 1.0,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:51:38.032242",
+        "extraction_confidence": 1.0,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    }
+  ],
+  "timeline_extraction_metadata": {
+    "extracted_at": "2025-08-11T16:51:38.032817",
+    "model_used": "lm_studio_google/gemma-3n-e4b",
+    "events_count": 10,
+    "biography_length": 990,
+    "enhancement_level": "gemma_comprehensive",
+    "target_events_per_mathematician": "5-10"
+  }
+}

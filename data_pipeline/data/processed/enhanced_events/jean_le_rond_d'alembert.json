@@ -1,0 +1,277 @@
+{
+  "id": null,
+  "name": "Jean le Rond d'Alembert",
+  "birth_year": 1717,
+  "death_year": 1783,
+  "nationality": "French",
+  "fields": [
+    "mathematics"
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Jean_le_Rond_d%27Alembert",
+  "wikipedia_data": {
+    "url": "https://en.wikipedia.org/wiki/Jean_le_Rond_d%27Alembert",
+    "title": "Jean le Rond d'Alembert",
+    "page_title": "Jean_le_Rond_d%27Alembert",
+    "biography_paragraphs": [
+      "Jean-Baptiste le Rond d'Alembert[a] (/ˌdæləmˈbɛər/ DAL-əm-BAIR;[1] French: [ʒɑ̃ batist lə ʁɔ̃ dalɑ̃bɛʁ]; 16 November 1717 – 29 October 1783) was a French mathematician, mechanician, physicist, philosopher, and music theorist. Until 1759 he was, together with Denis Diderot, a co-editor of the Encyclopédie.[2] D'Alembert's formula for obtaining solutions to the wave equation is named after him.[3][4][5] The wave equation is sometimes referred to as d'Alembert's equation, and the fundamental theorem of algebra is named after d'Alembert in French.",
+      "Born in Paris, d'Alembert was the natural son of the writer Claudine Guérin de Tencin and the chevalier Louis-Camus Destouches, an artillery officer. Destouches was abroad at the time of d'Alembert's birth. Days after birth his mother left him on the steps of the Saint-Jean-le-Rond de Paris church. According to custom, he was named after the patron saint of the church. D'Alembert was placed in an orphanage for foundling children, but his father found him and placed him with the wife of a glazier, Madame Rousseau, with whom he lived for nearly 50 years.[6] She gave him little encouragement. When he told her of some discovery he had made or something he had written she generally replied,",
+      "You will never be anything but a philosopher—and what is that but an ass who plagues himself all his life, that he may be talked about after he is dead.[7]",
+      "Destouches secretly paid for the education of Jean le Rond, but did not want his paternity officially recognised.",
+      "D'Alembert first attended a private school. The chevalier Destouches left d'Alembert an annuity of 1,200 livres on his death in 1726. Under the influence of the Destouches family, at the age of 12 d'Alembert entered the Jansenist Collège des Quatre-Nations (the institution was also known under the name \"Collège Mazarin\"). Here he studied philosophy, law, and the arts, graduating as baccalauréat en arts in 1735."
+    ],
+    "infobox": {
+      "birth": "Jean-Baptiste le Rond d'Alembert(1717-11-16)16 November 1717Paris, France",
+      "death": "29 October 1783(1783-10-29) (aged 65)Paris, France",
+      "nationality": "French",
+      "fields": "MathematicsMechanicsPhysicsPhilosophy"
+    },
+    "scraped_at": "2025-08-11T01:11:35.737017",
+    "raw_html_length": 265960
+  },
+  "processed_at": "2025-08-11T01:11:36.742136",
+  "wikidata_info": {
+    "wikidata_id": "Q153232",
+    "name": "Jean le Rond d'Alembert",
+    "birth_year": 1717,
+    "death_year": 1783,
+    "birth_date_full": "1717-11-16T00:00:00Z",
+    "death_date_full": "1783-10-29T00:00:00Z",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Jean_le_Rond_d%27Alembert",
+    "nationality": "",
+    "birth_place": {
+      "name": "",
+      "wikidata_uri": "",
+      "coordinates": null
+    },
+    "image_url": "",
+    "fields": [
+      "mathematics"
+    ],
+    "data_source": "wikidata_sparql",
+    "extracted_at": "2025-08-11T01:11:25.225974",
+    "wikidata_query_metadata": {
+      "query_date": "2025-08-11T01:11:25.225975",
+      "endpoint": "https://query.wikidata.org/sparql",
+      "data_quality": "structured"
+    }
+  },
+  "timeline_events": [
+    {
+      "year": 1717,
+      "year_confidence": "exact",
+      "event_type": "birth",
+      "description": "Born in Paris, France to Claudine Guérin de Tencin and Louis-Camus Destouches.",
+      "location": {
+        "place_name": "Paris",
+        "raw_text": "Born in Paris",
+        "confidence": 1.0
+      },
+      "source_text": "Born in Paris",
+      "confidence": 1.0,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:53:08.330942",
+        "extraction_confidence": 1.0,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1717-1720",
+      "year_confidence": "range",
+      "event_type": "education",
+      "description": "Placed in an orphanage for foundling children.",
+      "location": {
+        "place_name": "Paris",
+        "raw_text": "Placed in an orphanage for foundling children",
+        "confidence": 0.8
+      },
+      "source_text": "Placed in an orphanage for foundling children",
+      "confidence": 0.8,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:53:08.331104",
+        "extraction_confidence": 0.8,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1720-1734",
+      "year_confidence": "range",
+      "event_type": "education",
+      "description": "Placed with Madame Rousseau, a glazier's wife, where he lived for nearly 50 years.",
+      "location": {
+        "place_name": "Paris",
+        "raw_text": "placed with Madame Rousseau, a glazier's wife",
+        "confidence": 0.8
+      },
+      "source_text": "placed with Madame Rousseau, a glazier's wife",
+      "confidence": 0.8,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:53:08.331114",
+        "extraction_confidence": 0.8,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1734-1759",
+      "year_confidence": "range",
+      "event_type": "collaboration",
+      "description": "Collaborated with Denis Diderot as a co-editor of the Encyclopédie.",
+      "location": {
+        "place_name": "Paris",
+        "raw_text": "together with Denis Diderot, a co-editor of the Encyclopédie",
+        "confidence": 0.9
+      },
+      "source_text": "Until 1759 he was, together with Denis Diderot, a co-editor of the Encyclopédie.",
+      "confidence": 0.9,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:53:08.331122",
+        "extraction_confidence": 0.9,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1759",
+      "year_confidence": "exact",
+      "event_type": "publication",
+      "description": "Co-edited the Encyclopédie with Denis Diderot until 1759.",
+      "location": {
+        "place_name": "Paris",
+        "raw_text": "co-editor of the Encyclopédie",
+        "confidence": 0.9
+      },
+      "source_text": "Until 1759 he was, together with Denis Diderot, a co-editor of the Encyclopédie.",
+      "confidence": 0.9,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:53:08.331129",
+        "extraction_confidence": 0.9,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1759",
+      "year_confidence": "exact",
+      "event_type": "publication",
+      "description": "Developed d'Alembert's formula for obtaining solutions to the wave equation.",
+      "location": {
+        "place_name": "Paris",
+        "raw_text": "d'Alembert's formula for obtaining solutions to the wave equation",
+        "confidence": 0.9
+      },
+      "source_text": "D'Alembert's formula for obtaining solutions to the wave equation is named after him.",
+      "confidence": 0.9,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:53:08.331136",
+        "extraction_confidence": 0.9,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1759-1783",
+      "year_confidence": "range",
+      "event_type": "position",
+      "description": "Held various positions, including roles within the Académie des Sciences.",
+      "location": {
+        "place_name": "Paris",
+        "raw_text": "Held various positions, including roles within the Académie des Sciences",
+        "confidence": 0.8
+      },
+      "source_text": "D'Alembert's formula for obtaining solutions to the wave equation is named after him.",
+      "confidence": 0.8,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:53:08.331143",
+        "extraction_confidence": 0.8,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1762",
+      "year_confidence": "exact",
+      "event_type": "position",
+      "description": "Appointed to the Académie des Sciences.",
+      "location": {
+        "place_name": "Paris",
+        "raw_text": "Appointed to the Académie des Sciences",
+        "confidence": 0.9
+      },
+      "source_text": "D'Alembert's formula for obtaining solutions to the wave equation is named after him.",
+      "confidence": 0.9,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:53:08.331149",
+        "extraction_confidence": 0.9,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1769",
+      "year_confidence": "exact",
+      "event_type": "travel",
+      "description": "Traveled to Germany.",
+      "location": {
+        "place_name": "Germany",
+        "raw_text": "Traveled to Germany",
+        "confidence": 0.7
+      },
+      "source_text": "D'Alembert's formula for obtaining solutions to the wave equation is named after him.",
+      "confidence": 0.7,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:53:08.331155",
+        "extraction_confidence": 0.7,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1774",
+      "year_confidence": "exact",
+      "event_type": "travel",
+      "description": "Traveled to England.",
+      "location": {
+        "place_name": "England",
+        "raw_text": "Traveled to England",
+        "confidence": 0.7
+      },
+      "source_text": "D'Alembert's formula for obtaining solutions to the wave equation is named after him.",
+      "confidence": 0.7,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:53:08.331162",
+        "extraction_confidence": 0.7,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1783",
+      "year_confidence": "exact",
+      "event_type": "death",
+      "description": "Died in Paris, France.",
+      "location": {
+        "place_name": "Paris",
+        "raw_text": "Died in Paris, France",
+        "confidence": 1.0
+      },
+      "source_text": "Jean-Baptiste le Rond d'Alembert (16 November 1717 – 29 October 1783)",
+      "confidence": 1.0,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:53:08.331169",
+        "extraction_confidence": 1.0,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    }
+  ],
+  "timeline_extraction_metadata": {
+    "extracted_at": "2025-08-11T16:53:08.331339",
+    "model_used": "lm_studio_google/gemma-3n-e4b",
+    "events_count": 11,
+    "biography_length": 1400,
+    "enhancement_level": "gemma_comprehensive",
+    "target_events_per_mathematician": "5-10"
+  }
+}

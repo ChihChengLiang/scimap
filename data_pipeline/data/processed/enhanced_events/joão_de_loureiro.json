@@ -1,0 +1,272 @@
+{
+  "id": null,
+  "name": "João de Loureiro",
+  "birth_year": 1710,
+  "death_year": 1791,
+  "nationality": "French",
+  "fields": [
+    "mathematics"
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Jo%C3%A3o_de_Loureiro",
+  "wikipedia_data": {
+    "url": "https://en.wikipedia.org/wiki/Jo%C3%A3o_de_Loureiro",
+    "title": "João de Loureiro",
+    "page_title": "Jo%C3%A3o_de_Loureiro",
+    "biography_paragraphs": [
+      "João de Loureiro (1717, Lisbon – 18 October 1791) was a Portuguese Jesuit missionary and botanist. [1]",
+      "After receiving admission to the Jesuit Order, João de Loureiro served as a missionary in Goa, capital of Portuguese India (3 years) and Macau (4 years). In 1742 he traveled to Đàng Trong (known to the Europeans as Cochinchina), remaining there for 35 years. Here he worked as a mathematician and naturalist for the king of Đàng Trong,[2] acquiring knowledge on the properties and uses of native medicinal plants. In 1777, he journeyed to Canton, in Bengal, returning to Lisbon four years later.[3] During this period, Captain Thomas Riddel gave Loureiro the books Systema Naturae, Genera Plantarum and Philosophia Botanica by Carl Linnaeus, which greatly influenced the Portuguese botanist.[4]",
+      "João de Loureiro stayed in Vietnam forty years inventorying indigenous herbal remedies. His local garden contained 1,000 unique herbal species, making it one of the greatest botanist collectors of the 18th century.[2]",
+      "João de Loureiro published the book Flora Cochinchinensis 1790, sponsored by the Royal Portuguese Academy of Sciences.[4] João de Loureiro has numerous species dedicated to him by the epitheton \"loureiroi\" , mostly plants but also a dinosaur Draconyx loureiroi in honour of his being the first Portuguese palaeontologist.[5]",
+      "The taxonomist Elmer Drew Merrill later argued that Loureiro's work contained various mistakes caused by a misunderstanding of the Linnaean system.[4]"
+    ],
+    "infobox": {},
+    "scraped_at": "2025-08-11T01:13:03.467063",
+    "raw_html_length": 97588
+  },
+  "processed_at": "2025-08-11T01:13:04.478190",
+  "wikidata_info": {
+    "wikidata_id": "Q729917",
+    "name": "João de Loureiro",
+    "birth_year": 1710,
+    "death_year": 1791,
+    "birth_date_full": "1710-01-01T00:00:00Z",
+    "death_date_full": "1791-10-18T00:00:00Z",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Jo%C3%A3o_de_Loureiro",
+    "nationality": "",
+    "birth_place": {
+      "name": "",
+      "wikidata_uri": "",
+      "coordinates": null
+    },
+    "image_url": "",
+    "fields": [
+      "mathematics"
+    ],
+    "data_source": "wikidata_sparql",
+    "extracted_at": "2025-08-11T01:11:25.225402",
+    "wikidata_query_metadata": {
+      "query_date": "2025-08-11T01:11:25.225403",
+      "endpoint": "https://query.wikidata.org/sparql",
+      "data_quality": "structured"
+    }
+  },
+  "timeline_events": [
+    {
+      "year": 1717,
+      "year_confidence": "exact",
+      "event_type": "birth",
+      "description": "Born in Lisbon, Portugal.",
+      "location": {
+        "place_name": "Lisbon",
+        "raw_text": "João de Loureiro (1717, Lisbon...",
+        "confidence": 1.0
+      },
+      "source_text": "João de Loureiro (1717, Lisbon – 18 October 1791) was a Portuguese Jesuit missionary and botanist.",
+      "confidence": 1.0,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:39:48.580075",
+        "extraction_confidence": 1.0,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1717-1720",
+      "year_confidence": "range",
+      "event_type": "education",
+      "description": "Received admission to the Jesuit Order.",
+      "location": {
+        "place_name": "Lisbon",
+        "raw_text": "After receiving admission to the Jesuit Order...",
+        "confidence": 0.8
+      },
+      "source_text": "After receiving admission to the Jesuit Order...",
+      "confidence": 0.8,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:39:48.580256",
+        "extraction_confidence": 0.8,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1720-1723",
+      "year_confidence": "range",
+      "event_type": "position",
+      "description": "Served as a missionary in Goa, Portugal (3 years).",
+      "location": {
+        "place_name": "Goa",
+        "raw_text": "João de Loureiro served as a missionary in Goa...",
+        "confidence": 0.9
+      },
+      "source_text": "João de Loureiro served as a missionary in Goa...",
+      "confidence": 0.9,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:39:48.580263",
+        "extraction_confidence": 0.9,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1723-1726",
+      "year_confidence": "range",
+      "event_type": "position",
+      "description": "Served as a missionary in Macau, China (4 years).",
+      "location": {
+        "place_name": "Macau",
+        "raw_text": "and Macau (4 years).",
+        "confidence": 0.9
+      },
+      "source_text": "and Macau (4 years).",
+      "confidence": 0.9,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:39:48.580268",
+        "extraction_confidence": 0.9,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1742",
+      "year_confidence": "exact",
+      "event_type": "position",
+      "description": "Traveled to Đàng Trong (Cochinchina) and began working as a mathematician and naturalist for the king.",
+      "location": {
+        "place_name": "Đàng Trong (Cochinchina)",
+        "raw_text": "In 1742 he traveled to Đàng Trong...",
+        "confidence": 0.95
+      },
+      "source_text": "In 1742 he traveled to Đàng Trong...",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:39:48.580272",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1742-1772",
+      "year_confidence": "range",
+      "event_type": "position",
+      "description": "Worked as a mathematician and naturalist for the king of Đàng Trong (35 years).",
+      "location": {
+        "place_name": "Đàng Trong (Cochinchina)",
+        "raw_text": "remaining there for 35 years.",
+        "confidence": 0.95
+      },
+      "source_text": "remaining there for 35 years.",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:39:48.580276",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1742-1777",
+      "year_confidence": "range",
+      "event_type": "collaboration",
+      "description": "Received books Systema Naturae, Genera Plantarum and Philosophia Botanica by Carl Linnaeus.",
+      "location": {
+        "place_name": "Unknown",
+        "raw_text": "Captain Thomas Riddel gave Loureiro the books...",
+        "confidence": 0.85
+      },
+      "source_text": "Captain Thomas Riddel gave Loureiro the books...",
+      "confidence": 0.85,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:39:48.580280",
+        "extraction_confidence": 0.85,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1777",
+      "year_confidence": "exact",
+      "event_type": "travel",
+      "description": "Journeyed to Canton, in Bengal.",
+      "location": {
+        "place_name": "Canton",
+        "raw_text": "journeyed to Canton, in Bengal...",
+        "confidence": 0.9
+      },
+      "source_text": "journeyed to Canton, in Bengal...",
+      "confidence": 0.9,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:39:48.580284",
+        "extraction_confidence": 0.9,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1777-1781",
+      "year_confidence": "range",
+      "event_type": "travel",
+      "description": "Traveled to Canton, in Bengal and returned to Lisbon.",
+      "location": {
+        "place_name": "Lisbon",
+        "raw_text": "returning to Lisbon four years later.",
+        "confidence": 0.95
+      },
+      "source_text": "returning to Lisbon four years later.",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:39:48.580288",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1777-1800",
+      "year_confidence": "range",
+      "event_type": "other",
+      "description": "Continued inventorying indigenous herbal remedies in Vietnam for approximately 40 years.",
+      "location": {
+        "place_name": "Vietnam",
+        "raw_text": "João de Loureiro stayed in Vietnam forty years...",
+        "confidence": 0.95
+      },
+      "source_text": "João de Loureiro stayed in Vietnam forty years...",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:39:48.580292",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1777-1800",
+      "year_confidence": "range",
+      "event_type": "publication",
+      "description": "Inventoryed indigenous herbal remedies, resulting in a significant collection.",
+      "location": {
+        "place_name": "Vietnam",
+        "raw_text": "His local garden contained 1,000 unique herbal species...",
+        "confidence": 0.95
+      },
+      "source_text": "His local garden contained 1,000 unique herbal species...",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:39:48.580296",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    }
+  ],
+  "timeline_extraction_metadata": {
+    "extracted_at": "2025-08-11T16:39:48.580477",
+    "model_used": "lm_studio_google/gemma-3n-e4b",
+    "events_count": 11,
+    "biography_length": 1015,
+    "enhancement_level": "gemma_comprehensive",
+    "target_events_per_mathematician": "5-10"
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "id": null,
+  "name": "Michael Adelbulner",
+  "birth_year": 1702,
+  "death_year": 1779,
+  "nationality": "French",
+  "fields": [
+    "mathematics"
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Michael_Adelbulner",
+  "wikipedia_data": {
+    "url": "https://en.wikipedia.org/wiki/Michael_Adelbulner",
+    "title": "Michael Adelbulner",
+    "page_title": "Michael_Adelbulner",
+    "biography_paragraphs": [
+      "Michael A. Adelbulner (February 3, 1702 – June 21, 1779) was a German mathematician, physicist, physician, and astronomer. He was born at Nürnberg and died in Altdorf bei Nürnberg.",
+      "His claim to fame resides in his having started with Anders Celsius in 1733 a journal of astronomy called \"Mitteilungsblatt zur Förderung der Astronomie / Commercium litterarium ad astronomiae incrementum\", announcing the principal celestial phenomena, and analyzing new publications. This journal enjoyed much reputation in its day. Thirty-four numbers were published.",
+      "In 1736 he was named a member of the Königlich-Preußische Akademie der Wissenschaften.",
+      "In 1738 he received a M.D. degree with the thesis \"Theses medicae physiologico-pathologicae, Pulmonum fabricam, usum, uariaque, quibus affliguntur, incommoda generatim complectentes\".\nIn 1742 he was appointed professor of mathematics at the University of Altdorf."
+    ],
+    "infobox": {},
+    "scraped_at": "2025-08-11T01:12:22.112725",
+    "raw_html_length": 65096
+  },
+  "processed_at": "2025-08-11T01:12:23.120602",
+  "wikidata_info": {
+    "wikidata_id": "Q77818",
+    "name": "Michael Adelbulner",
+    "birth_year": 1702,
+    "death_year": 1779,
+    "birth_date_full": "1702-02-03T00:00:00Z",
+    "death_date_full": "1779-06-21T00:00:00Z",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Michael_Adelbulner",
+    "nationality": "",
+    "birth_place": {
+      "name": "",
+      "wikidata_uri": "",
+      "coordinates": null
+    },
+    "image_url": "",
+    "fields": [
+      "mathematics"
+    ],
+    "data_source": "wikidata_sparql",
+    "extracted_at": "2025-08-11T01:11:25.224921",
+    "wikidata_query_metadata": {
+      "query_date": "2025-08-11T01:11:25.224922",
+      "endpoint": "https://query.wikidata.org/sparql",
+      "data_quality": "structured"
+    }
+  },
+  "timeline_events": [
+    {
+      "year": 1702,
+      "year_confidence": "exact",
+      "event_type": "birth",
+      "description": "Born in Nürnberg, Germany.",
+      "location": {
+        "place_name": "Nürnberg",
+        "raw_text": "Born at Nürnberg",
+        "confidence": 1.0
+      },
+      "source_text": "Michael A. Adelbulner (February 3, 1702 – June 21, 1779) was a German mathematician, physicist, physician, and astronomer.",
+      "confidence": 1.0,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T17:59:16.971700",
+        "extraction_confidence": 1.0,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": 1733,
+      "year_confidence": "exact",
+      "event_type": "publication",
+      "description": "Started a journal of astronomy called \"Mitteilungsblatt zur Förderung der Astronomie / Commercium litterarium ad astronomiae incrementum\" in collaboration with Anders Celsius.",
+      "location": {
+        "place_name": "Nürnberg",
+        "raw_text": "started a journal of astronomy called \"Mitteilungsblatt zur Förderung der Astronomie / Commercium litterarium ad astronomiae incrementum\"",
+        "confidence": 0.95
+      },
+      "source_text": "Michael A. Adelbulner (February 3, 1702 – June 21, 1779) was a German mathematician, physicist, physician, and astronomer. He was born at Nürnberg and died in Altdorf bei Nürnberg. His claim to fame resides in his having started with Anders Celsius in 1733 a journal of astronomy called \"Mitteilungsblatt zur Förderung der Astronomie / Commercium litterarium ad astronomiae incrementum\", announcing the principal celestial phenomena, and analyzing new publications.",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T17:59:16.971719",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": 1736,
+      "year_confidence": "exact",
+      "event_type": "position",
+      "description": "Named a member of the Königlich-Preußische Akademie der Wissenschaften.",
+      "location": {
+        "place_name": "Berlin",
+        "raw_text": "named a member of the Königlich-Preußische Akademie der Wissenschaften",
+        "confidence": 0.95
+      },
+      "source_text": "Michael A. Adelbulner (February 3, 1702 – June 21, 1779) was a German mathematician, physicist, physician, and astronomer. He was born at Nürnberg and died in Altdorf bei Nürnberg. His claim to fame resides in his having started with Anders Celsius in 1733 a journal of astronomy called \"Mitteilungsblatt zur Förderung der Astronomie / Commercium litterarium ad astronomiae incrementum\", announcing the principal celestial phenomena, and analyzing new publications. Thirty-four numbers were published. In 1736 he was named a member of the Königlich-Preußische Akademie der Wissenschaften.",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T17:59:16.971724",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1736-1760",
+      "year_confidence": "range",
+      "event_type": "collaboration",
+      "description": "Collaborated with Anders Celsius on the journal \"Mitteilungsblatt zur Förderung der Astronomie / Commercium litterarium ad astronomiae incrementum\".",
+      "location": {
+        "place_name": "Nürnberg",
+        "raw_text": "started a journal of astronomy called \"Mitteilungsblatt zur Förderung der Astronomie / Commercium litterarium ad astronomiae incrementum\"",
+        "confidence": 0.95
+      },
+      "source_text": "Michael A. Adelbulner (February 3, 1702 – June 21, 1779) was a German mathematician, physicist, physician, and astronomer. He was born at Nürnberg and died in Altdorf bei Nürnberg. His claim to fame resides in his having started with Anders Celsius in 1733 a journal of astronomy called \"Mitteilungsblatt zur Förderung der Astronomie / Commercium litterarium ad astronomiae incrementum\", announcing the principal celestial phenomena, and analyzing new publications. Thirty-four numbers were published. In 1736 he was named a member of the Königlich-Preußische Akademie der Wissenschaften.",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T17:59:16.971739",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": 1779,
+      "year_confidence": "exact",
+      "event_type": "death",
+      "description": "Died in Altdorf bei Nürnberg.",
+      "location": {
+        "place_name": "Altdorf bei Nürnberg",
+        "raw_text": "died in Altdorf bei Nürnberg",
+        "confidence": 1.0
+      },
+      "source_text": "Michael A. Adelbulner (February 3, 1702 – June 21, 1779) was a German mathematician, physicist, physician, and astronomer.",
+      "confidence": 1.0,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T17:59:16.971744",
+        "extraction_confidence": 1.0,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    }
+  ],
+  "timeline_extraction_metadata": {
+    "extracted_at": "2025-08-11T17:59:16.971828",
+    "model_used": "lm_studio_google/gemma-3n-e4b",
+    "events_count": 5,
+    "biography_length": 637,
+    "enhancement_level": "gemma_comprehensive",
+    "target_events_per_mathematician": "5-10"
+  }
+}

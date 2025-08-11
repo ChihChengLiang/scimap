@@ -1,0 +1,50 @@
+{
+  "id": null,
+  "name": "Giuseppe Suzzi",
+  "birth_year": 1701,
+  "death_year": 1764,
+  "nationality": "European",
+  "fields": [
+    "mathematics"
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Giuseppe_Suzzi",
+  "wikipedia_data": {
+    "url": "https://en.wikipedia.org/wiki/Giuseppe_Suzzi",
+    "title": "Giuseppe Suzzi",
+    "page_title": "Giuseppe_Suzzi",
+    "biography_paragraphs": [
+      "Giuseppe Suzzi (1701[1] - 5 January 1764) was an Italian mathematician and abbot.[2][3][4]",
+      "Born in Ragogna, province of Udine, he studied in Udine and later in Murano, Venice, in the seminary of Somaschi Fathers, where he was a relevant student of Giovanni Francesco Crivelli.[2] In 1722 he moved to the University of Padua, when he also took lessons from Jacopo Riccati privately with Lodovico da Riva. These lessons were published in 1761 in a posthumous book by Riccati, with the solutions of many problems by Suzzi.[2] Suzzi, an abbey, published many books on mathematical analysis and in 1744 he became professor of natural history in Padua, where he taught mainly within the tradition of aristotelianism, but also giving space to newer philosophical ideas.[2] In 1750 he became a member of the Accademia dei Ricovrati in Padua (later Accademia galileiana di scienze, lettere ed arti). He retired from University in 1762 and died in Venice 5 January 1764.[2]"
+    ],
+    "infobox": {},
+    "scraped_at": "2025-08-11T01:12:11.562284",
+    "raw_html_length": 73606
+  },
+  "processed_at": "2025-08-11T01:12:12.567371",
+  "wikidata_info": {
+    "wikidata_id": "Q20140435",
+    "name": "Giuseppe Suzzi",
+    "birth_year": 1701,
+    "death_year": 1764,
+    "birth_date_full": "1701-01-01T00:00:00Z",
+    "death_date_full": "1764-01-05T00:00:00Z",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Giuseppe_Suzzi",
+    "nationality": "",
+    "birth_place": {
+      "name": "",
+      "wikidata_uri": "",
+      "coordinates": null
+    },
+    "image_url": "",
+    "fields": [
+      "mathematics"
+    ],
+    "data_source": "wikidata_sparql",
+    "extracted_at": "2025-08-11T01:11:25.224801",
+    "wikidata_query_metadata": {
+      "query_date": "2025-08-11T01:11:25.224802",
+      "endpoint": "https://query.wikidata.org/sparql",
+      "data_quality": "structured"
+    }
+  }
+}

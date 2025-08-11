@@ -1,0 +1,258 @@
+{
+  "id": null,
+  "name": "Joseph-Louis Lagrange",
+  "birth_year": 1736,
+  "death_year": 1813,
+  "nationality": "European",
+  "fields": [
+    "mathematics"
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Joseph-Louis_Lagrange",
+  "wikipedia_data": {
+    "url": "https://en.wikipedia.org/wiki/Joseph-Louis_Lagrange",
+    "title": "Joseph-Louis Lagrange",
+    "page_title": "Joseph-Louis_Lagrange",
+    "biography_paragraphs": [
+      "Joseph-Louis Lagrange[a] (born Giuseppe Luigi Lagrangia[5][b] or Giuseppe Ludovico De la Grange Tournier;[6][c] 25 January 1736 – 10 April 1813), also reported as Giuseppe Luigi Lagrange[7] or Lagrangia,[8] was an Italian and naturalized French mathematician, physicist and astronomer. He made significant contributions to the fields of analysis, number theory, and both classical and celestial mechanics.",
+      "In 1766, on the recommendation of Leonhard Euler and d'Alembert, Lagrange succeeded Euler as the director of mathematics at the Prussian Academy of Sciences in Berlin, Prussia, where he stayed for over twenty years, producing many volumes of work and winning several prizes of the French Academy of Sciences. Lagrange's treatise on analytical mechanics (Mécanique analytique, 4. ed., 2 vols. Paris: Gauthier-Villars et fils, 1788–89), which was written in Berlin and first published in 1788, offered the most comprehensive treatment of classical mechanics since Isaac Newton and formed a basis for the development of mathematical physics in the nineteenth century.",
+      "In 1787, at age 51, he moved from Berlin to Paris and became a member of the French Academy of Sciences. He remained in France until the end of his life. He was instrumental in the decimalisation process in Revolutionary France, became the first professor of analysis at the École Polytechnique upon its opening in 1794, was a founding member of the Bureau des Longitudes, and became Senator in 1799.",
+      "Lagrange was one of the creators of the calculus of variations, deriving the Euler–Lagrange equations for extrema of functionals. He extended the method to include possible constraints, arriving at the method of Lagrange multipliers. Lagrange invented the method of solving differential equations known as variation of parameters, applied differential calculus to the theory of probabilities and worked on solutions for algebraic equations. He proved that every natural number is a sum of four squares. His treatise Theorie des fonctions analytiques laid some of the foundations of group theory, anticipating Galois. In calculus, Lagrange developed a novel approach to interpolation and Taylor's theorem. He studied the three-body problem for the Earth, Sun and Moon (1764) and the movement of Jupiter's satellites (1766), and in 1772 found the special-case solutions to this problem that yield what are now known as Lagrangian points. Lagrange is best known for transforming Newtonian mechanics into a branch of analysis, Lagrangian mechanics. He presented the mechanical \"principles\" as simple results of the variational calculus.",
+      "In appearance he was of medium height, and slightly formed, with pale blue eyes and a colourless complexion. In character he was nervous and timid, he detested controversy, and to avoid it willingly allowed others to take the credit for what he had himself done."
+    ],
+    "infobox": {
+      "birth": "Giuseppe Lodovico Lagrangia(1736-01-25)25 January 1736Turin, Kingdom of Sardinia",
+      "death": "10 April 1813(1813-04-10) (aged 77)Paris, First French Empire",
+      "nationality": "SardiniaFrench Empire",
+      "fields": "MathematicsAstronomyMechanics"
+    },
+    "scraped_at": "2025-08-11T01:11:40.559310",
+    "raw_html_length": 284665
+  },
+  "processed_at": "2025-08-11T01:11:41.564415",
+  "wikidata_info": {
+    "wikidata_id": "Q80222",
+    "name": "Joseph-Louis Lagrange",
+    "birth_year": 1736,
+    "death_year": 1813,
+    "birth_date_full": "1736-01-25T00:00:00Z",
+    "death_date_full": "1813-04-10T00:00:00Z",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Joseph-Louis_Lagrange",
+    "nationality": "",
+    "birth_place": {
+      "name": "",
+      "wikidata_uri": "",
+      "coordinates": null
+    },
+    "image_url": "",
+    "fields": [
+      "mathematics"
+    ],
+    "data_source": "wikidata_sparql",
+    "extracted_at": "2025-08-11T01:11:25.227435",
+    "wikidata_query_metadata": {
+      "query_date": "2025-08-11T01:11:25.227435",
+      "endpoint": "https://query.wikidata.org/sparql",
+      "data_quality": "structured"
+    }
+  },
+  "timeline_events": [
+    {
+      "year": 1736,
+      "year_confidence": "exact",
+      "event_type": "birth",
+      "description": "Born Giuseppe Luigi Lagrangia (Joseph-Louis Lagrange) on January 25, 1736.",
+      "location": {
+        "place_name": "Italy",
+        "raw_text": "Born in Italy",
+        "confidence": 0.95
+      },
+      "source_text": "Joseph-Louis Lagrange (born Giuseppe Luigi Lagrangia... January 25, 1736)",
+      "confidence": 1.0,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T15:42:18.888789",
+        "extraction_confidence": 1.0,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1766",
+      "year_confidence": "exact",
+      "event_type": "position",
+      "description": "Appointed director of mathematics at the Prussian Academy of Sciences in Berlin, Prussia.",
+      "location": {
+        "place_name": "Berlin",
+        "raw_text": "succeeded Euler as the director of mathematics at the Prussian Academy of Sciences in Berlin, Prussia",
+        "confidence": 0.98
+      },
+      "source_text": "In 1766, on the recommendation of Leonhard Euler and d'Alembert, Lagrange succeeded Euler as the director...",
+      "confidence": 1.0,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T15:42:18.888889",
+        "extraction_confidence": 1.0,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1766",
+      "year_confidence": "exact",
+      "event_type": "position",
+      "description": "Successor to Leonhard Euler as director of mathematics at the Prussian Academy of Sciences.",
+      "location": {
+        "place_name": "Berlin",
+        "raw_text": "succeeded Euler as the director of mathematics at the Prussian Academy of Sciences in Berlin, Prussia",
+        "confidence": 0.98
+      },
+      "source_text": "In 1766, on the recommendation of Leonhard Euler and d'Alembert, Lagrange succeeded Euler...",
+      "confidence": 1.0,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T15:42:18.888904",
+        "extraction_confidence": 1.0,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1766-1790s",
+      "year_confidence": "range",
+      "event_type": "position",
+      "description": "Served as director of mathematics at the Prussian Academy of Sciences in Berlin for over twenty years.",
+      "location": {
+        "place_name": "Berlin",
+        "raw_text": "stayed for over twenty years, producing many volumes of work",
+        "confidence": 0.98
+      },
+      "source_text": "Lagrange stayed for over twenty years, producing many volumes of work...",
+      "confidence": 1.0,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T15:42:18.888917",
+        "extraction_confidence": 1.0,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1788",
+      "year_confidence": "exact",
+      "event_type": "publication",
+      "description": "Published his treatise on analytical mechanics (Mécanique analytique, 4. ed.).",
+      "location": {
+        "place_name": "Paris",
+        "raw_text": "Mécanique analytique, 4. ed., Paris: Gauthier-Villars et fils",
+        "confidence": 0.95
+      },
+      "source_text": "Lagrange's treatise on analytical mechanics (Mécanique analytique, 4. ed., Paris: Gauthier-Villars et fils, 1788–89)",
+      "confidence": 1.0,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T15:42:18.888930",
+        "extraction_confidence": 1.0,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1788-1789",
+      "year_confidence": "range",
+      "event_type": "publication",
+      "description": "Published the 4th edition of his treatise on analytical mechanics (Mécanique analytique).",
+      "location": {
+        "place_name": "Paris",
+        "raw_text": "Mécanique analytique, 4. ed., Paris: Gauthier-Villars et fils",
+        "confidence": 0.95
+      },
+      "source_text": "Lagrange's treatise on analytical mechanics (Mécanique analytique, 4. ed., Paris: Gauthier-Villars et fils, 1788–89)",
+      "confidence": 1.0,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T15:42:18.888942",
+        "extraction_confidence": 1.0,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1787",
+      "year_confidence": "exact",
+      "event_type": "position",
+      "description": "Moved from Berlin to Paris.",
+      "location": {
+        "place_name": "Paris",
+        "raw_text": "moved from Berlin to Paris",
+        "confidence": 0.98
+      },
+      "source_text": "In 1787, at age 51, he moved from Berlin to Paris...",
+      "confidence": 1.0,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T15:42:18.888953",
+        "extraction_confidence": 1.0,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1787-1813",
+      "year_confidence": "range",
+      "event_type": "position",
+      "description": "Member of the French Academy of Sciences.",
+      "location": {
+        "place_name": "Paris",
+        "raw_text": "became a member of the French Academy of Sciences",
+        "confidence": 0.98
+      },
+      "source_text": "In 1787, at age 51, he moved from Berlin to Paris and became a member of the French Academy of Sciences.",
+      "confidence": 1.0,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T15:42:18.888964",
+        "extraction_confidence": 1.0,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1794",
+      "year_confidence": "exact",
+      "event_type": "position",
+      "description": "Became the first professor of analysis at the École Polytechnique.",
+      "location": {
+        "place_name": "Paris",
+        "raw_text": "became the first professor of analysis at the École Polytechnique",
+        "confidence": 0.98
+      },
+      "source_text": "He was instrumental in the decimalisation process in Revolutionary France, became the first professor of analysis at the École Polytechnique...",
+      "confidence": 1.0,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T15:42:18.888976",
+        "extraction_confidence": 1.0,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1799",
+      "year_confidence": "exact",
+      "event_type": "position",
+      "description": "Became Senator.",
+      "location": {
+        "place_name": "France",
+        "raw_text": "became Senator in 1799",
+        "confidence": 0.95
+      },
+      "source_text": "He was instrumental in the decimalisation process in Revolutionary France, became the first professor of analysis at the École Polytechnique, and became Senator in 1799.",
+      "confidence": 1.0,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T15:42:18.888985",
+        "extraction_confidence": 1.0,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    }
+  ],
+  "timeline_extraction_metadata": {
+    "extracted_at": "2025-08-11T15:42:18.889149",
+    "model_used": "lm_studio_google/gemma-3n-e4b",
+    "events_count": 10,
+    "biography_length": 1471,
+    "enhancement_level": "gemma_comprehensive",
+    "target_events_per_mathematician": "5-10"
+  }
+}

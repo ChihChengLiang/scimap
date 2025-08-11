@@ -1,0 +1,219 @@
+{
+  "id": null,
+  "name": "Fortunato da Brescia",
+  "birth_year": 1701,
+  "death_year": 1754,
+  "nationality": "European",
+  "fields": [
+    "mathematics"
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Fortunato_of_Brescia",
+  "wikipedia_data": {
+    "url": "https://en.wikipedia.org/wiki/Fortunato_of_Brescia",
+    "title": "Fortunato of Brescia",
+    "page_title": "Fortunato_of_Brescia",
+    "biography_paragraphs": [
+      "Fortunato of Brescia (1701–1754) was an Italian Minorite friar, mathematician, philosopher and anatomist.",
+      "He was born at Brescia, and received the religious habit in 1718. A philosopher and theologian, Fortunato was also renowned for his studies in the natural sciences. He was secretary general of his order, and stood in high favour at the Bourbon court of Spain. He died in Madrid.",
+      "He was among the first to bring together the teachings of Scholastic philosophy and the discoveries of the physical sciences. His scientific work is rendered important by his extensive use of the microscope, in which he followed the lead of Malpighi. Avoiding the then prevalent discussions on vitalism, he devoted himself to a positive study of the problems of natural science.",
+      "Convinced that a knowledge of microscopic anatomy is the key to the secrets of nature, he deemed two things to be of prime importance:",
+      "This view, clear in the works of Fortunato, has prevailed in pathology and physiology, and in this sense Fortunato was a pioneer. He confined himself to the microscopic study of the parts of the organism, and in this way succeeded in classifying tissues and organs many years before Bichat (1800). Fortunato was the first to distinguish between tissues and organs."
+    ],
+    "infobox": {
+      "birth": "(1701-12-01)December 1, 1701Brescia, Republic of Venice",
+      "death": "11 May 1754(1754-05-11) (aged 52)Madrid, Spain",
+      "nationality": "Italian"
+    },
+    "scraped_at": "2025-08-11T01:12:09.234028",
+    "raw_html_length": 84434
+  },
+  "processed_at": "2025-08-11T01:12:10.239447",
+  "wikidata_info": {
+    "wikidata_id": "Q18945272",
+    "name": "Fortunato da Brescia",
+    "birth_year": 1701,
+    "death_year": 1754,
+    "birth_date_full": "1701-01-01T00:00:00Z",
+    "death_date_full": "1754-01-01T00:00:00Z",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Fortunato_of_Brescia",
+    "nationality": "",
+    "birth_place": {
+      "name": "",
+      "wikidata_uri": "",
+      "coordinates": null
+    },
+    "image_url": "",
+    "fields": [
+      "mathematics"
+    ],
+    "data_source": "wikidata_sparql",
+    "extracted_at": "2025-08-11T01:11:25.224792",
+    "wikidata_query_metadata": {
+      "query_date": "2025-08-11T01:11:25.224793",
+      "endpoint": "https://query.wikidata.org/sparql",
+      "data_quality": "structured"
+    }
+  },
+  "timeline_events": [
+    {
+      "year": 1701,
+      "year_confidence": "exact",
+      "event_type": "birth",
+      "description": "Born in Brescia, Italy.",
+      "location": {
+        "place_name": "Brescia",
+        "raw_text": "Fortunato of Brescia (1701–1754) was an Italian Minorite friar, mathematician, philosopher and anatomist. He was born at Brescia...",
+        "confidence": 1.0
+      },
+      "source_text": "Fortunato of Brescia (1701–1754) was an Italian Minorite friar, mathematician, philosopher and anatomist. He was born at Brescia...",
+      "confidence": 1.0,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T14:30:15.852580",
+        "extraction_confidence": 1.0,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": 1718,
+      "year_confidence": "exact",
+      "event_type": "education",
+      "description": "Received the religious habit.",
+      "location": {
+        "place_name": "Brescia",
+        "raw_text": "Fortunato of Brescia (1701–1754) was an Italian Minorite friar, mathematician, philosopher and anatomist. He was born at Brescia and received the religious habit in 1718.",
+        "confidence": 0.95
+      },
+      "source_text": "Fortunato of Brescia (1701–1754) was an Italian Minorite friar, mathematician, philosopher and anatomist. He was born at Brescia and received the religious habit in 1718.",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T14:30:15.852678",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1718-1754",
+      "year_confidence": "range",
+      "event_type": "position",
+      "description": "Minorite friar.",
+      "location": {
+        "place_name": "Brescia",
+        "raw_text": "Fortunato of Brescia (1701–1754) was an Italian Minorite friar, mathematician, philosopher and anatomist...",
+        "confidence": 0.95
+      },
+      "source_text": "Fortunato of Brescia (1701–1754) was an Italian Minorite friar, mathematician, philosopher and anatomist...",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T14:30:15.852770",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1730s (approximate)",
+      "year_confidence": "approximate",
+      "event_type": "position",
+      "description": "Secretary general of his order.",
+      "location": {
+        "place_name": "Rome",
+        "raw_text": "He was secretary general of his order...",
+        "confidence": 0.85
+      },
+      "source_text": "He was secretary general of his order...",
+      "confidence": 0.85,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T14:30:15.852778",
+        "extraction_confidence": 0.85,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1730s (approximate)",
+      "year_confidence": "approximate",
+      "event_type": "collaboration",
+      "description": "Followed the lead of Malpighi in using the microscope.",
+      "location": {
+        "place_name": "Brescia",
+        "raw_text": "His scientific work is rendered important by his extensive use of the microscope, in which he followed the lead of Malpighi...",
+        "confidence": 0.9
+      },
+      "source_text": "His scientific work is rendered important by his extensive use of the microscope, in which he followed the lead of Malpighi...",
+      "confidence": 0.9,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T14:30:15.852784",
+        "extraction_confidence": 0.9,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1730s-1754",
+      "year_confidence": "range",
+      "event_type": "publication",
+      "description": "Developed and published scientific work, focusing on natural science.",
+      "location": {
+        "place_name": "Brescia",
+        "raw_text": "He was among the first to bring together the teachings of Scholastic philosophy and the discoveries of the physical sciences. His scientific work is rendered important...",
+        "confidence": 0.95
+      },
+      "source_text": "He was among the first to bring together the teachings of Scholastic philosophy and the discoveries of the physical sciences. His scientific work is rendered important...",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T14:30:15.852790",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1730s-1754",
+      "year_confidence": "range",
+      "event_type": "position",
+      "description": "Favor at the Bourbon court of Spain.",
+      "location": {
+        "place_name": "Spain",
+        "raw_text": "He stood in high favour at the Bourbon court of Spain.",
+        "confidence": 0.95
+      },
+      "source_text": "He stood in high favour at the Bourbon court of Spain.",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T14:30:15.852795",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1754",
+      "year_confidence": "exact",
+      "event_type": "death",
+      "description": "Died in Madrid, Spain.",
+      "location": {
+        "place_name": "Madrid",
+        "raw_text": "He died in Madrid.",
+        "confidence": 0.95
+      },
+      "source_text": "He died in Madrid.",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T14:30:15.852801",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    }
+  ],
+  "timeline_extraction_metadata": {
+    "extracted_at": "2025-08-11T14:30:15.852937",
+    "model_used": "lm_studio_google/gemma-3n-e4b",
+    "events_count": 8,
+    "biography_length": 763,
+    "enhancement_level": "gemma_comprehensive",
+    "target_events_per_mathematician": "5-10"
+  }
+}

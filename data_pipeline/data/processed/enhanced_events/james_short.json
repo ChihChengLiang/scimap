@@ -1,0 +1,231 @@
+{
+  "id": null,
+  "name": "James Short",
+  "birth_year": 1710,
+  "death_year": 1768,
+  "nationality": "European",
+  "fields": [
+    "mathematics"
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/James_Short_(mathematician)",
+  "wikipedia_data": {
+    "url": "https://en.wikipedia.org/wiki/James_Short_(mathematician)",
+    "title": "James Short (mathematician)",
+    "page_title": "James_Short_(mathematician)",
+    "biography_paragraphs": [
+      "James Short FRS (10 June O.S. (21 June N.S.) 1710 – 14 June 1768) was a Scottish mathematician and manufacturer of optical instruments, principally telescopes. During his 35-year career as a telescope-maker he produced approximately 1,360 scientific instruments.[1]",
+      "Short was born in Edinburgh in 1710 to Margaret Grierson and William Short, a carpenter. When he was orphaned at about the age of 10, he was accepted into the Heriot's Hospital, an orphanage, and at 12 transferred to the Royal High School where he excelled in the study of the classics. In 1726 he entered the University of Edinburgh to study divinity, however after being inspired by lectures given by professor of mathematics Colin Maclaurin, he transferred to astronomy and mathematics.[2]",
+      "In 1732 Maclaurin gave Short access to use his rooms in the university to work on for experiments in the construction of telescopes. Such was the quality of Short's instruments that in recognition of his skill he was elected as a Fellow of the Royal Society on 24 March 1737.[2] In Short's first telescopes the specula were made of glass, as suggested by James Gregory, however later he used metallic specula only, and thus succeeded in giving them true parabolic and elliptic shapes.",
+      "Short then adopted telescope-making as his profession, which he practised first in Edinburgh up until 1738, after which he transferred to London.",
+      "Almost all of Short's telescopes were of the Gregorian form, and some of them even today retain their original high polish and sharp definition."
+    ],
+    "infobox": {
+      "birth": "(1710-06-21)21 June 1710Edinburgh, Scotland",
+      "death": "14 June 1768(1768-06-14) (aged 57)London, England",
+      "nationality": "Scottish",
+      "fields": "mathematics"
+    },
+    "scraped_at": "2025-08-11T01:13:11.764182",
+    "raw_html_length": 88979
+  },
+  "processed_at": "2025-08-11T01:13:12.770591",
+  "wikidata_info": {
+    "wikidata_id": "Q957681",
+    "name": "James Short",
+    "birth_year": 1710,
+    "death_year": 1768,
+    "birth_date_full": "1710-06-21T00:00:00Z",
+    "death_date_full": "1768-06-15T00:00:00Z",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/James_Short_(mathematician)",
+    "nationality": "",
+    "birth_place": {
+      "name": "",
+      "wikidata_uri": "",
+      "coordinates": null
+    },
+    "image_url": "",
+    "fields": [
+      "mathematics"
+    ],
+    "data_source": "wikidata_sparql",
+    "extracted_at": "2025-08-11T01:11:25.225477",
+    "wikidata_query_metadata": {
+      "query_date": "2025-08-11T01:11:25.225478",
+      "endpoint": "https://query.wikidata.org/sparql",
+      "data_quality": "structured"
+    }
+  },
+  "timeline_events": [
+    {
+      "year": 1710,
+      "year_confidence": "exact",
+      "event_type": "birth",
+      "description": "Born in Edinburgh, Scotland on June 10th (Old Style, June 21st New Style).",
+      "location": {
+        "place_name": "Edinburgh",
+        "raw_text": "Born in Edinburgh",
+        "confidence": 1.0
+      },
+      "source_text": "James Short FRS (10 June O.S. (21 June N.S.) 1710 – 14 June 1768) was a Scottish mathematician and manufacturer of optical instruments, principally telescopes.",
+      "confidence": 1.0,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T15:33:36.516859",
+        "extraction_confidence": 1.0,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": 1710,
+      "year_confidence": "exact",
+      "event_type": "education",
+      "description": "Orphaned at approximately age 10, accepted into Heriot's Hospital.",
+      "location": {
+        "place_name": "Heriot's Hospital",
+        "raw_text": "accepted into Heriot's Hospital",
+        "confidence": 0.95
+      },
+      "source_text": "When he was orphaned at about the age of 10, he was accepted into the Heriot's Hospital, an orphanage,",
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T15:33:36.516952",
+        "extraction_confidence": 0.8,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": 1712,
+      "year_confidence": "approximate",
+      "event_type": "education",
+      "description": "Transferred to the Royal High School at age 12, excelling in classics.",
+      "location": {
+        "place_name": "Royal High School",
+        "raw_text": "transferred to the Royal High School",
+        "confidence": 0.95
+      },
+      "source_text": "and at 12 transferred to the Royal High School where he excelled in the study of the classics.",
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T15:33:36.516956",
+        "extraction_confidence": 0.8,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": 1726,
+      "year_confidence": "exact",
+      "event_type": "education",
+      "description": "Entered the University of Edinburgh to study divinity.",
+      "location": {
+        "place_name": "University of Edinburgh",
+        "raw_text": "entered the University of Edinburgh to study divinity",
+        "confidence": 0.95
+      },
+      "source_text": "In 1726 he entered the University of Edinburgh to study divinity,",
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T15:33:36.516958",
+        "extraction_confidence": 0.8,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": 1726,
+      "year_confidence": "exact",
+      "event_type": "education",
+      "description": "Transferred to study astronomy and mathematics after being inspired by Colin Maclaurin's lectures.",
+      "location": {
+        "place_name": "University of Edinburgh",
+        "raw_text": "transferred to astronomy and mathematics",
+        "confidence": 0.95
+      },
+      "source_text": "however after being inspired by lectures given by professor of mathematics Colin Maclaurin, he transferred to astronomy and mathematics.",
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T15:33:36.516961",
+        "extraction_confidence": 0.8,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": 1732,
+      "year_confidence": "exact",
+      "event_type": "collaboration",
+      "description": "Given access to use Colin Maclaurin's rooms for telescope experiments.",
+      "location": {
+        "place_name": "University of Edinburgh",
+        "raw_text": "Maclaurin gave Short access to use his rooms in the university",
+        "confidence": 0.95
+      },
+      "source_text": "In 1732 Maclaurin gave Short access to use his rooms in the university to work on for experiments in the construction of telescopes.",
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T15:33:36.516963",
+        "extraction_confidence": 0.8,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": 1737,
+      "year_confidence": "exact",
+      "event_type": "award",
+      "description": "Elected as a Fellow of the Royal Society.",
+      "location": {
+        "place_name": "Royal Society",
+        "raw_text": "elected as a Fellow of the Royal Society",
+        "confidence": 0.95
+      },
+      "source_text": "Such was the quality of Short's instruments that in recognition of his skill he was elected as a Fellow of the Royal Society on 24 March 1737.",
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T15:33:36.516966",
+        "extraction_confidence": 0.8,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1730s-1768",
+      "year_confidence": "range",
+      "event_type": "publication",
+      "description": "Produced approximately 1,360 scientific instruments.",
+      "location": {
+        "place_name": null,
+        "raw_text": "produced approximately 1,360 scientific instruments",
+        "confidence": 0.95
+      },
+      "source_text": "During his 35-year career as a telescope-maker he produced approximately 1,360 scientific instruments.",
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T15:33:36.517145",
+        "extraction_confidence": 0.8,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": 1768,
+      "year_confidence": "exact",
+      "event_type": "death",
+      "description": "Died on June 14th, 1768.",
+      "location": {
+        "place_name": "Edinburgh",
+        "raw_text": "James Short FRS (10 June O.S. (21 June N.S.) 1710 – 14 June 1768)",
+        "confidence": 0.95
+      },
+      "source_text": "James Short FRS (10 June O.S. (21 June N.S.) 1710 – 14 June 1768)",
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T15:33:36.517194",
+        "extraction_confidence": 0.8,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    }
+  ],
+  "timeline_extraction_metadata": {
+    "extracted_at": "2025-08-11T15:33:36.517268",
+    "model_used": "lm_studio_google/gemma-3n-e4b",
+    "events_count": 9,
+    "biography_length": 1243,
+    "enhancement_level": "gemma_comprehensive",
+    "target_events_per_mathematician": "5-10"
+  }
+}

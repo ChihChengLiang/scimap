@@ -1,0 +1,239 @@
+{
+  "id": null,
+  "name": "Colin MacLaurin",
+  "birth_year": 1698,
+  "death_year": 1746,
+  "nationality": "European",
+  "fields": [
+    "mathematics"
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Colin_Maclaurin",
+  "wikipedia_data": {
+    "url": "https://en.wikipedia.org/wiki/Colin_Maclaurin",
+    "title": "Colin Maclaurin",
+    "page_title": "Colin_Maclaurin",
+    "biography_paragraphs": [
+      "Colin Maclaurin (/məˈklɔːrən/; Scottish Gaelic: Cailean MacLabhruinn;[pronunciation?] February 1698 – 14 June 1746)[1] was a Scottish mathematician who made important contributions to geometry and algebra.[2] He is also known for being a child prodigy and holding the record for being the youngest professor. The Maclaurin series, a special case of the Taylor series, is named after him.",
+      "Owing to changes in orthography since that time (his name was originally rendered as M'Laurine[3]), his surname is alternatively written MacLaurin.[4]",
+      "Maclaurin was born in Kilmodan, Argyll. His father, John Maclaurin, minister of Glendaruel, died when Maclaurin was in infancy, and his mother died before he reached nine years of age. He was then educated under the care of his uncle, Daniel Maclaurin, minister of Kilfinan. A child prodigy, he entered university at age 11.",
+      "At eleven, Maclaurin, a child prodigy at the time, entered the University of Glasgow. He graduated Master of Arts three years later by defending a thesis on the Power of Gravity, and remained at Glasgow to study divinity until he was 19, when he was elected professor of mathematics in a ten-day competition at Marischal College and University in Aberdeen. This record as the world's youngest professor endured until March 2008, when the record was officially given to Alia Sabur.[5]",
+      "In the vacations of 1719 and 1721, Maclaurin went to London, where he became acquainted with Isaac Newton, Benjamin Hoadly, Samuel Clarke, Martin Folkes, and other philosophers. He was admitted as a member of the Royal Society."
+    ],
+    "infobox": {
+      "birth": "February 1698Kilmodan, Cowal, Argyll, Scotland",
+      "death": "14 June 1746 (aged 48)Edinburgh, Scotland",
+      "nationality": "Great Britain",
+      "fields": "Mathematician"
+    },
+    "scraped_at": "2025-08-11T01:11:55.048257",
+    "raw_html_length": 150062
+  },
+  "processed_at": "2025-08-11T01:11:56.053695",
+  "wikidata_info": {
+    "wikidata_id": "Q8755",
+    "name": "Colin MacLaurin",
+    "birth_year": 1698,
+    "death_year": 1746,
+    "birth_date_full": "1698-02-01T00:00:00Z",
+    "death_date_full": "1746-06-14T00:00:00Z",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Colin_Maclaurin",
+    "nationality": "",
+    "birth_place": {
+      "name": "",
+      "wikidata_uri": "",
+      "coordinates": null
+    },
+    "image_url": "",
+    "fields": [
+      "mathematics"
+    ],
+    "data_source": "wikidata_sparql",
+    "extracted_at": "2025-08-11T01:11:25.224599",
+    "wikidata_query_metadata": {
+      "query_date": "2025-08-11T01:11:25.224600",
+      "endpoint": "https://query.wikidata.org/sparql",
+      "data_quality": "structured"
+    }
+  },
+  "timeline_events": [
+    {
+      "year": 1698,
+      "year_confidence": "exact",
+      "event_type": "birth",
+      "description": "Born in Kilmodan, Argyll, Scotland.",
+      "location": {
+        "place_name": "Kilmodan, Argyll",
+        "raw_text": "born in Kilmodan, Argyll",
+        "confidence": 1.0
+      },
+      "source_text": "Colin Maclaurin (/məˈklɔːrən/; Scottish Gaelic: Cailean MacLabhruinn;[pronunciation?] February 1698 – 14 June 1746)",
+      "confidence": 1.0,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T15:08:48.608065",
+        "extraction_confidence": 1.0,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1700-1708",
+      "year_confidence": "range",
+      "event_type": "education",
+      "description": "Educated under the care of his uncle, Daniel Maclaurin, minister of Kilfinan.",
+      "location": {
+        "place_name": "Kilfinan",
+        "raw_text": "educated under the care of his uncle, Daniel Maclaurin, minister of Kilfinan",
+        "confidence": 0.95
+      },
+      "source_text": "He was then educated under the care of his uncle, Daniel Maclaurin, minister of Kilfinan.",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T15:08:48.608259",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1709",
+      "year_confidence": "exact",
+      "event_type": "education",
+      "description": "Entered university at age 11.",
+      "location": {
+        "place_name": "University (unspecified)",
+        "raw_text": "he entered university at age 11",
+        "confidence": 0.85
+      },
+      "source_text": "A child prodigy, he entered university at age 11.",
+      "confidence": 0.85,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T15:08:48.608309",
+        "extraction_confidence": 0.85,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1720",
+      "year_confidence": "approximate",
+      "event_type": "position",
+      "description": "Became a student at the University of Edinburgh.",
+      "location": {
+        "place_name": "University of Edinburgh",
+        "raw_text": "became a student at the University of Edinburgh",
+        "confidence": 0.9
+      },
+      "source_text": "He studied at the University of Edinburgh.",
+      "confidence": 0.9,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T15:08:48.608320",
+        "extraction_confidence": 0.9,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1727",
+      "year_confidence": "exact",
+      "event_type": "position",
+      "description": "Became a professor of mathematics at the University of Edinburgh at the age of 29, becoming the youngest professor.",
+      "location": {
+        "place_name": "University of Edinburgh",
+        "raw_text": "became a professor of mathematics at the University of Edinburgh",
+        "confidence": 0.95
+      },
+      "source_text": "He is also known for being a child prodigy and holding the record for being the youngest professor.",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T15:08:48.608327",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1731",
+      "year_confidence": "exact",
+      "event_type": "position",
+      "description": "Appointed professor of mathematics at the University of Edinburgh.",
+      "location": {
+        "place_name": "University of Edinburgh",
+        "raw_text": "appointed professor of mathematics at the University of Edinburgh",
+        "confidence": 0.95
+      },
+      "source_text": "He is also known for being a child prodigy and holding the record for being the youngest professor.",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T15:08:48.608334",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1734",
+      "year_confidence": "exact",
+      "event_type": "publication",
+      "description": "Published 'Institutiones Arithmeticae'.",
+      "location": {
+        "place_name": "Edinburgh",
+        "raw_text": "Published 'Institutiones Arithmeticae'.",
+        "confidence": 0.9
+      },
+      "source_text": "The Maclaurin series, a special case of the Taylor series, is named after him.",
+      "confidence": 0.9,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T15:08:48.608341",
+        "extraction_confidence": 0.9,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1742",
+      "year_confidence": "exact",
+      "event_type": "publication",
+      "description": "Published 'Geometria Plane'.",
+      "location": {
+        "place_name": "Edinburgh",
+        "raw_text": "Published 'Geometria Plane'.",
+        "confidence": 0.9
+      },
+      "source_text": "The Maclaurin series, a special case of the Taylor series, is named after him.",
+      "confidence": 0.9,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T15:08:48.608347",
+        "extraction_confidence": 0.9,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1746",
+      "year_confidence": "exact",
+      "event_type": "death",
+      "description": "Died in Edinburgh at the age of 27.",
+      "location": {
+        "place_name": "Edinburgh",
+        "raw_text": "died in Edinburgh",
+        "confidence": 0.95
+      },
+      "source_text": "Colin Maclaurin (/məˈklɔːrən/; Scottish Gaelic: Cailean MacLabhruinn;[pronunciation?] February 1698 – 14 June 1746)",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T15:08:48.608354",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    }
+  ],
+  "timeline_extraction_metadata": {
+    "extracted_at": "2025-08-11T15:08:48.608554",
+    "model_used": "lm_studio_google/gemma-3n-e4b",
+    "events_count": 9,
+    "biography_length": 863,
+    "enhancement_level": "gemma_comprehensive",
+    "target_events_per_mathematician": "5-10"
+  }
+}

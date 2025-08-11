@@ -1,0 +1,180 @@
+{
+  "id": null,
+  "name": "Thomas Fuller",
+  "birth_year": 1710,
+  "death_year": 1790,
+  "nationality": "French",
+  "fields": [
+    "mathematics"
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Thomas_Fuller_(mental_calculator)",
+  "wikipedia_data": {
+    "url": "https://en.wikipedia.org/wiki/Thomas_Fuller_(mental_calculator)",
+    "title": "Thomas Fuller (mental calculator)",
+    "page_title": "Thomas_Fuller_(mental_calculator)",
+    "biography_paragraphs": [
+      "Thomas Fuller (1710 – December 1790), also known as \"Negro Demus\" and the \"Virginia Calculator\", was an enslaved African renowned for his mathematical abilities.[1]",
+      "Born on the  African continent, likely somewhere between present-day Liberia and Benin,[2] Fuller was kidnapped and shipped to America in 1724, at the age of 14. He became enslaved by Elizabeth Cox of Alexandria, Virginia.[3] Despite his mathematical skill, Fuller was illiterate.[4] Ethnomathematics researcher Ron Eglash theorizes that Fuller may have been Bassari, comparing his abilities to their mathematical traditions.[5] Before colonialism, the Bassari used to have \"specialists who were trained in the memorization of sums\".[5]",
+      "Stories of his mathematical achievements spread through the East Coast of the United States and reached as far as France and Germany, becoming fuel for the abolitionist movement.[6]",
+      "When Fuller was about 70 years old, William Hartshorne and Samuel Coates, members of the Pennsylvania Abolition Society (PAS), heard about Fuller's \"extraordinary powers in arithmetic.\"[7] The pair stopped their travels to investigate Fuller.[7] Benjamin Rush, physician and Founding Father, had sought proof of Black intelligence, through the lens of \"scientific achievement\", to bolster antislavery causes [8]. Through his membership in PAS, Rush was acquainted with Hartshorne and Coates and reported on their interview of Fuller in the Columbian Magazine.[6][9] In this report, Rush stressed the credibility of Hartshorne and Coates.[2] Rush retold how Hartshorne and Coates tested Fuller's mathematical abilities as follows: [2]",
+      "First. Upon being asked, how many seconds there are in a year and a half, he answered in about two minutes, 47,304,000."
+    ],
+    "infobox": {
+      "birth": "c. 1710African continent (around present-day Liberia and Benin)",
+      "death": "December 1790 (1791-01) (aged 80)Alexandria, Virginia, U.S."
+    },
+    "scraped_at": "2025-08-11T01:13:09.362891",
+    "raw_html_length": 86777
+  },
+  "processed_at": "2025-08-11T01:13:10.369100",
+  "wikidata_info": {
+    "wikidata_id": "Q7789846",
+    "name": "Thomas Fuller",
+    "birth_year": 1710,
+    "death_year": 1790,
+    "birth_date_full": "1710-01-01T00:00:00Z",
+    "death_date_full": "1790-01-01T00:00:00Z",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Thomas_Fuller_(mental_calculator)",
+    "nationality": "",
+    "birth_place": {
+      "name": "",
+      "wikidata_uri": "",
+      "coordinates": null
+    },
+    "image_url": "",
+    "fields": [
+      "mathematics"
+    ],
+    "data_source": "wikidata_sparql",
+    "extracted_at": "2025-08-11T01:11:25.225426",
+    "wikidata_query_metadata": {
+      "query_date": "2025-08-11T01:11:25.225426",
+      "endpoint": "https://query.wikidata.org/sparql",
+      "data_quality": "structured"
+    }
+  },
+  "timeline_events": [
+    {
+      "year": 1710,
+      "year_confidence": "exact",
+      "event_type": "birth",
+      "description": "Born on the African continent, likely somewhere between present-day Liberia and Benin.",
+      "location": {
+        "place_name": null,
+        "raw_text": "Born on the  African continent, likely somewhere between present-day Liberia and Benin",
+        "confidence": 0.95
+      },
+      "source_text": "Born on the African continent, likely somewhere between present-day Liberia and Benin",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:47:16.710434",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": 1724,
+      "year_confidence": "exact",
+      "event_type": "travel",
+      "description": "Kidnapped and shipped to America at the age of 14.",
+      "location": {
+        "place_name": "America",
+        "raw_text": "shipped to America",
+        "confidence": 0.9
+      },
+      "source_text": "He became enslaved by Elizabeth Cox of Alexandria, Virginia.",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:47:16.710552",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1724-1790",
+      "year_confidence": "range",
+      "event_type": "position",
+      "description": "Enslaved by Elizabeth Cox of Alexandria, Virginia.",
+      "location": {
+        "place_name": "Alexandria, Virginia",
+        "raw_text": "became enslaved by Elizabeth Cox of Alexandria, Virginia",
+        "confidence": 0.98
+      },
+      "source_text": "He became enslaved by Elizabeth Cox of Alexandria, Virginia.",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:47:16.710646",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1724-1790",
+      "year_confidence": "range",
+      "event_type": "other",
+      "description": "Known as 'Negro Demus' and the 'Virginia Calculator'.",
+      "location": {
+        "place_name": null,
+        "raw_text": "Thomas Fuller (1710 – December 1790), also known as \"Negro Demus\" and the \"Virginia Calculator\", was an enslaved African renowned for his mathematical abilities",
+        "confidence": 0.95
+      },
+      "source_text": "Thomas Fuller (1710 – December 1790), also known as \"Negro Demus\" and the \"Virginia Calculator\", was an enslaved African renowned for his mathematical abilities",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:47:16.710656",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1724-1790",
+      "year_confidence": "range",
+      "event_type": "other",
+      "description": "Stories of his mathematical achievements spread through the East Coast of the United States and reached as far as France and Germany, becoming fuel for the abolitionist movement.",
+      "location": {
+        "place_name": "East Coast of the United States, France, Germany",
+        "raw_text": "Stories of his mathematical achievements spread through the East Coast of the United States and reached as far as France and Germany, becoming fuel for the abolitionist movement",
+        "confidence": 0.95
+      },
+      "source_text": "Stories of his mathematical achievements spread through the East Coast of the United States and reached as far as France and Germany, becoming fuel for the abolitionist movement",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:47:16.710664",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1724-1790",
+      "year_confidence": "range",
+      "event_type": "other",
+      "description": "Ethnomathematics researcher Ron Eglash theorizes that Fuller may have been Bassari, comparing his abilities to their mathematical traditions.",
+      "location": {
+        "place_name": null,
+        "raw_text": "Ethnomathematics researcher Ron Eglash theorizes that Fuller may have been Bassari, comparing his abilities to their mathematical traditions",
+        "confidence": 0.95
+      },
+      "source_text": "Ethnomathematics researcher Ron Eglash theorizes that Fuller may have been Bassari, comparing his abilities to their mathematical traditions",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:47:16.710671",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    }
+  ],
+  "timeline_extraction_metadata": {
+    "extracted_at": "2025-08-11T16:47:16.710829",
+    "model_used": "lm_studio_google/gemma-3n-e4b",
+    "events_count": 6,
+    "biography_length": 883,
+    "enhancement_level": "gemma_comprehensive",
+    "target_events_per_mathematician": "5-10"
+  }
+}

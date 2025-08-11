@@ -1,0 +1,53 @@
+{
+  "id": null,
+  "name": "Corbyn Morris",
+  "birth_year": 1710,
+  "death_year": 1779,
+  "nationality": "European",
+  "fields": [
+    "mathematics"
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Corbyn_Morris",
+  "wikipedia_data": {
+    "url": "https://en.wikipedia.org/wiki/Corbyn_Morris",
+    "title": "Corbyn Morris",
+    "page_title": "Corbyn_Morris",
+    "biography_paragraphs": [
+      "Corbyn Morris (14 August 1710[1] – 24 December 1779) was an English official and economic writer.",
+      "A commissioner of customs, Morris was employed during the administrations of Pelham and Newcastle in \"conciliating opponents\". In 1751 he was appointed by Pelham secretary of the customs and salt duty in Scotland, and was sent there to inquire into the state of the customs and smuggling. As an administrator he regulated the method of weighing tobacco and suppressed the importation, under the Spanish duty, of French wines into Scotland removed a grievance of which English merchants had long complained. He claimed that the first five years of his secretaryship raised more money from the customs in Scotland than in the preceding period since the Anglo-Scottish Union.[2]",
+      "Morris collected information on the vital statistics of London, and in 1753 he prepared a bill for birth registration and the gathering of population statistics; he spoke of it as a collaboration with Samuel Squire, and the Duke of Newcastle introduced it to the House of Lords. He was elected Fellow of the Royal Society on 19 May 1757.[2]",
+      "Morris made attempts to obtain from Newcastle an official appointment in the English revenue department. On 15 March 1763 he was appointed commissioner of the customs. Morris died on 24 December 1779, and was buried at Wimbledon on 1 January 1780. He married on 15 September 1758 a Mrs. Wright.[2]",
+      "Morris attracted notice by a pamphlet on a standing army.[3] He argued that the power of the crown depends on economic conditions. His estimates of national income were based on mercantilist theory, and he concluded with a eulogy of the Walpole administration, and an appeal for a 'reasonable candour' in the inquiry into his conduct. The Letter from a Bystander was presumed have been written by Walpole or for him. On this assumption the author was attacked in controversy of 1842 involving William Pulteney and Thomas Carte. Other political papers were proposals of 8 May 1746 for the regulation of the Scottish Highlands, and Hints respecting a Treaty with Spain (3 June 1747), in which he suggested the adoption, in the case of Spain, of the principle of the Methuen Treaty, and some radical territorial changes.[2]"
+    ],
+    "infobox": {},
+    "scraped_at": "2025-08-11T01:13:06.990348",
+    "raw_html_length": 77394
+  },
+  "processed_at": "2025-08-11T01:13:07.996501",
+  "wikidata_info": {
+    "wikidata_id": "Q18510037",
+    "name": "Corbyn Morris",
+    "birth_year": 1710,
+    "death_year": 1779,
+    "birth_date_full": "1710-01-01T00:00:00Z",
+    "death_date_full": "1779-01-01T00:00:00Z",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Corbyn_Morris",
+    "nationality": "",
+    "birth_place": {
+      "name": "",
+      "wikidata_uri": "",
+      "coordinates": null
+    },
+    "image_url": "",
+    "fields": [
+      "mathematics"
+    ],
+    "data_source": "wikidata_sparql",
+    "extracted_at": "2025-08-11T01:11:25.225416",
+    "wikidata_query_metadata": {
+      "query_date": "2025-08-11T01:11:25.225417",
+      "endpoint": "https://query.wikidata.org/sparql",
+      "data_quality": "structured"
+    }
+  }
+}

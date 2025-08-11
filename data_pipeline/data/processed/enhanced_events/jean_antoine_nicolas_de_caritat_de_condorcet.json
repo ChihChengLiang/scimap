@@ -1,0 +1,238 @@
+{
+  "id": null,
+  "name": "Jean-Antoine-Nicolas de Caritat de Condorcet",
+  "birth_year": 1743,
+  "death_year": 1794,
+  "nationality": "French",
+  "fields": [
+    "mathematics"
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Marquis_de_Condorcet",
+  "wikipedia_data": {
+    "url": "https://en.wikipedia.org/wiki/Marquis_de_Condorcet",
+    "title": "Marquis de Condorcet",
+    "page_title": "Marquis_de_Condorcet",
+    "biography_paragraphs": [
+      "Marie Jean Antoine Nicolas de Caritat, Marquis of Condorcet (/kɒndɔːrˈseɪ/; French: [maʁi ʒɑ̃ ɑ̃twan nikɔla də kaʁita maʁki də kɔ̃dɔʁsɛ]; 17 September 1743 – 29 March 1794), known as Nicolas de Condorcet, was a French philosopher, political economist, politician, and mathematician.[2][3] His ideas, including support for free markets, public education, constitutional government, and equal rights for women and people of all races, have been said to embody the ideals of the Age of Enlightenment, of which he has been called the \"last witness\",[4] and Enlightenment rationalism. A critic of the constitution proposed by Marie-Jean Hérault de Séchelles in 1793, the Convention Nationale – and the Jacobin faction in particular – voted to have Condorcet arrested. He died in prison after a period of hiding from the French Revolutionary authorities.",
+      "Condorcet was born in Ribemont (in present-day Aisne), descended from the ancient family of Caritat, who took their title from the town of Condorcet in Dauphiné, of which they were long-time residents. Fatherless at a young age, he was taken care of by his devoutly religious mother who dressed him as a girl till age eight. He was educated at the Jesuit College in Reims and at the Collège de Navarre in Paris, where he quickly showed his intellectual ability and gained his first public distinctions in mathematics.[5] When he was sixteen, his analytical abilities gained the praise of Jean le Rond d'Alembert and Alexis Clairaut; soon, Condorcet would study under d'Alembert.[citation needed]",
+      "From 1765 to 1774, he focused on science. In 1765, he published his first work on mathematics, entitled Essai sur le calcul intégral, which was well received, launching his career as a mathematician. He went on to publish more papers, and on 25 February 1769, he was elected to the Académie royale des Sciences.[6]",
+      "In 1772, he published another paper on integral calculus. Soon after, he met Jacques Turgot, a French economist, and the two became friends. Turgot became an administrator under King Louis XV in 1772 and Controller-General of Finance under Louis XVI in 1774.",
+      "Condorcet worked with Leonhard Euler and Benjamin Franklin. He soon became an honorary member of many foreign academies and philosophic societies, including the American Philosophical Society (1775),[7] the Royal Swedish Academy of Sciences (1785), the American Academy of Arts and Sciences (1792)[8]\nand also in Prussia and Russia."
+    ],
+    "infobox": {
+      "birth": "(1743-09-17)17 September 1743Ribemont, Picardy, France",
+      "death": "29 March 1794(1794-03-29) (aged 50)Bourg-la-Reine, France",
+      "education": "College of Navarre"
+    },
+    "scraped_at": "2025-08-11T01:11:57.573715",
+    "raw_html_length": 446259
+  },
+  "processed_at": "2025-08-11T01:11:58.578988",
+  "wikidata_info": {
+    "wikidata_id": "Q201477",
+    "name": "Jean-Antoine-Nicolas de Caritat de Condorcet",
+    "birth_year": 1743,
+    "death_year": 1794,
+    "birth_date_full": "1743-09-17T00:00:00Z",
+    "death_date_full": "1794-03-28T00:00:00Z",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Marquis_de_Condorcet",
+    "nationality": "",
+    "birth_place": {
+      "name": "",
+      "wikidata_uri": "",
+      "coordinates": null
+    },
+    "image_url": "",
+    "fields": [
+      "mathematics"
+    ],
+    "data_source": "wikidata_sparql",
+    "extracted_at": "2025-08-11T01:11:25.228003",
+    "wikidata_query_metadata": {
+      "query_date": "2025-08-11T01:11:25.228004",
+      "endpoint": "https://query.wikidata.org/sparql",
+      "data_quality": "structured"
+    }
+  },
+  "timeline_events": [
+    {
+      "year": 1743,
+      "year_confidence": "exact",
+      "event_type": "birth",
+      "description": "Born on 17 September in Ribemont, Aisne, France.",
+      "location": {
+        "place_name": "Ribemont",
+        "raw_text": "Born in Ribemont (in present-day Aisne)",
+        "confidence": 1.0
+      },
+      "source_text": "Born on 17 September 1743",
+      "confidence": 1.0,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:50:08.561910",
+        "extraction_confidence": 1.0,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": 1743,
+      "year_confidence": "exact",
+      "event_type": "education",
+      "description": "Educated at the Jesuit College in Reims.",
+      "location": {
+        "place_name": "Reims",
+        "raw_text": "educated at the Jesuit College in Reims",
+        "confidence": 1.0
+      },
+      "source_text": "educated at the Jesuit College in Reims",
+      "confidence": 1.0,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:50:08.561991",
+        "extraction_confidence": 1.0,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": 1743,
+      "year_confidence": "exact",
+      "event_type": "education",
+      "description": "Educated at the Collège de Navarre in Paris.",
+      "location": {
+        "place_name": "Paris",
+        "raw_text": "Collège de Navarre in Paris",
+        "confidence": 1.0
+      },
+      "source_text": "Collège de Navarre in Paris",
+      "confidence": 1.0,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:50:08.561998",
+        "extraction_confidence": 1.0,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": 1765,
+      "year_confidence": "exact",
+      "event_type": "publication",
+      "description": "Published his first work on mathematics, Essai sur le calcul intégral.",
+      "location": {
+        "place_name": "Paris",
+        "raw_text": "Essai sur le calcul intégral",
+        "confidence": 0.9
+      },
+      "source_text": "Published his first work on mathematics, Essai sur le calcul intégral",
+      "confidence": 1.0,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:50:08.562003",
+        "extraction_confidence": 1.0,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": 1769,
+      "year_confidence": "exact",
+      "event_type": "position",
+      "description": "Elected to the Académie royale des Sciences.",
+      "location": {
+        "place_name": "Paris",
+        "raw_text": "elected to the Académie royale des Sciences",
+        "confidence": 1.0
+      },
+      "source_text": "elected to the Académie royale des Sciences",
+      "confidence": 1.0,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:50:08.562008",
+        "extraction_confidence": 1.0,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1765",
+      "year_confidence": "exact",
+      "event_type": "publication",
+      "description": "Published Essai sur le calcul intégral.",
+      "location": {
+        "place_name": "Paris",
+        "raw_text": "Essai sur le calcul intégral",
+        "confidence": 0.9
+      },
+      "source_text": "Published his first work on mathematics, Essai sur le calcul intégral",
+      "confidence": 1.0,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:50:08.562152",
+        "extraction_confidence": 1.0,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1765",
+      "year_confidence": "exact",
+      "event_type": "collaboration",
+      "description": "Gained praise from Jean le Rond d'Alembert and Alexis Clairaut.",
+      "location": {
+        "place_name": null,
+        "raw_text": "praise of Jean le Rond d'Alembert and Alexis Clairaut",
+        "confidence": 0.9
+      },
+      "source_text": "When he was sixteen, his analytical abilities gained the praise of Jean le Rond d'Alembert and Alexis Clairaut",
+      "confidence": 1.0,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:50:08.562161",
+        "extraction_confidence": 1.0,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1765",
+      "year_confidence": "exact",
+      "event_type": "collaboration",
+      "description": "Studied under Jean le Rond d'Alembert.",
+      "location": {
+        "place_name": null,
+        "raw_text": "study under d'Alembert",
+        "confidence": 0.9
+      },
+      "source_text": "soon, Condorcet would study under d'Alembert",
+      "confidence": 1.0,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:50:08.562168",
+        "extraction_confidence": 1.0,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1769",
+      "year_confidence": "exact",
+      "event_type": "position",
+      "description": "Elected to the Académie royale des Sciences.",
+      "location": {
+        "place_name": "Paris",
+        "raw_text": "elected to the Académie royale des Sciences",
+        "confidence": 1.0
+      },
+      "source_text": "Soon, Condorcet would study under d'Alembert; in 1769, he was elected to the Académie royale des Sciences.",
+      "confidence": 1.0,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:50:08.562175",
+        "extraction_confidence": 1.0,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    }
+  ],
+  "timeline_extraction_metadata": {
+    "extracted_at": "2025-08-11T16:50:08.562296",
+    "model_used": "lm_studio_google/gemma-3n-e4b",
+    "events_count": 9,
+    "biography_length": 1859,
+    "enhancement_level": "gemma_comprehensive",
+    "target_events_per_mathematician": "5-10"
+  }
+}

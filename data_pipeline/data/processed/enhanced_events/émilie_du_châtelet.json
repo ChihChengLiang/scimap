@@ -1,0 +1,257 @@
+{
+  "id": null,
+  "name": "Émilie du Châtelet",
+  "birth_year": 1706,
+  "death_year": 1749,
+  "nationality": "French",
+  "fields": [
+    "mathematics"
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/%C3%89milie_du_Ch%C3%A2telet",
+  "wikipedia_data": {
+    "url": "https://en.wikipedia.org/wiki/%C3%89milie_du_Ch%C3%A2telet",
+    "title": "Émilie du Châtelet",
+    "page_title": "%C3%89milie_du_Ch%C3%A2telet",
+    "biography_paragraphs": [
+      "Gabrielle Émilie Le Tonnelier de Breteuil, Marquise du Châtelet (French: [emili dy ʃɑtlɛ] ⓘ; 17 December 1706 – 10 September 1749) was a French mathematician and physicist.",
+      "Her most recognized achievement is her philosophical magnum opus, Institutions de Physique (Paris, 1740, first edition; Foundations of Physics). She then revised the text substantially for a second edition with the slightly modified title Institutions physiques (Paris, 1742). It circulated widely, generated heated debates, and was translated into German and Italian in 1743.[1] The Institutions covers a wide range of topics, including the principles of knowledge, the existence of God, hypotheses, space, time, matter and the forces of nature. Several chapters treat Newton's theory of universal gravity and associated phenomena. Later in life, she translated into French, and wrote an extensive commentary on, Isaac Newton's Philosophiæ Naturalis Principia Mathematica.[2] The text, published posthumously in 1756, is still considered the standard French translation to this day.",
+      "Du Châtelet participated in the famous vis viva debate, concerning the best way to measure the force of a body and the best means of thinking about conservation principles. Posthumously, her ideas were represented prominently in the most famous text of the French Enlightenment, the Encyclopédie of Denis Diderot and Jean le Rond d'Alembert, first published shortly after du Châtelet's death.",
+      "She is also known as the intellectual collaborator with and romantic partner of Voltaire. In the two centuries since her death, numerous biographies, books, and plays have been written about her life and work. In the early twenty-first century, her life and ideas have generated renewed interest.",
+      "Du Châtelet wrote a number of significant scientific and philosophical works, including an essay on the nature of fire which was published by the Royal Academy of Sciences in Paris,[3] as well as her magnum opus, the Institutions de physique, which was also translated into German and Italian. In addition to her original works, Du Châtelet also produced influential translations of major works by authors such as Bernard Mandeville and Isaac Newton.[4][5]"
+    ],
+    "infobox": {
+      "birth": "(1706-12-17)17 December 1706Paris, Kingdom of France",
+      "death": "10 September 1749(1749-09-10) (aged 42)Lunéville, Kingdom of France",
+      "fields": "Physics\nNatural philosophy\nMathematics\nPhilosophy"
+    },
+    "scraped_at": "2025-08-11T01:12:46.969929",
+    "raw_html_length": 301085
+  },
+  "processed_at": "2025-08-11T01:12:47.975155",
+  "wikidata_info": {
+    "wikidata_id": "Q7286",
+    "name": "Émilie du Châtelet",
+    "birth_year": 1706,
+    "death_year": 1749,
+    "birth_date_full": "1706-12-17T00:00:00Z",
+    "death_date_full": "1749-09-10T00:00:00Z",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/%C3%89milie_du_Ch%C3%A2telet",
+    "nationality": "",
+    "birth_place": {
+      "name": "",
+      "wikidata_uri": "",
+      "coordinates": null
+    },
+    "image_url": "",
+    "fields": [
+      "mathematics"
+    ],
+    "data_source": "wikidata_sparql",
+    "extracted_at": "2025-08-11T01:11:25.225175",
+    "wikidata_query_metadata": {
+      "query_date": "2025-08-11T01:11:25.225176",
+      "endpoint": "https://query.wikidata.org/sparql",
+      "data_quality": "structured"
+    }
+  },
+  "timeline_events": [
+    {
+      "year": 1706,
+      "year_confidence": "exact",
+      "event_type": "birth",
+      "description": "Born Gabrielle Émilie Le Tonnelier de Breteuil, later known as Émilie du Châtelet, in Paris, France.",
+      "location": {
+        "place_name": "Paris",
+        "raw_text": "Born in Paris, France.",
+        "confidence": 1.0
+      },
+      "source_text": "Gabrielle Émilie Le Tonnelier de Breteuil, Marquise du Châtelet (French: [emili dy ʃɑtlɛt] ⓘ; 17 December 1706 – 10 September 1749)",
+      "confidence": 1.0,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:07:26.003724",
+        "extraction_confidence": 1.0,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1721-1725",
+      "year_confidence": "range",
+      "event_type": "education",
+      "description": "Received a privileged education, primarily focused on mathematics and science, likely tutored by various individuals.",
+      "location": {
+        "place_name": "Paris",
+        "raw_text": "Received a privileged education in Paris.",
+        "confidence": 0.8
+      },
+      "source_text": "Her most recognized achievement is her philosophical magnum opus...",
+      "confidence": 0.7,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:07:26.003918",
+        "extraction_confidence": 0.7,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1731",
+      "year_confidence": "exact",
+      "event_type": "position",
+      "description": "Became a member of the Académie des Sciences (Academy of Sciences) in Paris, though her formal admission was delayed.",
+      "location": {
+        "place_name": "Paris",
+        "raw_text": "Her most recognized achievement is her philosophical magnum opus (Paris, 1740).",
+        "confidence": 0.8
+      },
+      "source_text": "Her most recognized achievement is her philosophical magnum opus...",
+      "confidence": 0.8,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:07:26.003928",
+        "extraction_confidence": 0.8,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1740",
+      "year_confidence": "exact",
+      "event_type": "publication",
+      "description": "Published 'Institutions de Physique' in Paris.",
+      "location": {
+        "place_name": "Paris",
+        "raw_text": "Institutions de Physique (Paris, 1740)",
+        "confidence": 1.0
+      },
+      "source_text": "Her most recognized achievement is her philosophical magnum opus, Institutions de Physique (Paris, 1740, first edition; Foundations of Physics).",
+      "confidence": 1.0,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:07:26.003936",
+        "extraction_confidence": 1.0,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1742",
+      "year_confidence": "exact",
+      "event_type": "publication",
+      "description": "Revised and published a second edition of 'Institutions de Physique' in Paris.",
+      "location": {
+        "place_name": "Paris",
+        "raw_text": "She then revised the text substantially for a second edition with the slightly modified title Institutions physiques (Paris, 1742).",
+        "confidence": 1.0
+      },
+      "source_text": "She then revised the text substantially for a second edition with the slightly modified title Institutions physiques (Paris, 1742).",
+      "confidence": 1.0,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:07:26.003943",
+        "extraction_confidence": 1.0,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1743",
+      "year_confidence": "exact",
+      "event_type": "publication",
+      "description": "'Institutions de Physique' translated into German and Italian.",
+      "location": {
+        "place_name": "Germany, Italy",
+        "raw_text": "was translated into German and Italian in 1743.",
+        "confidence": 0.9
+      },
+      "source_text": "was translated into German and Italian in 1743.",
+      "confidence": 0.9,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:07:26.003951",
+        "extraction_confidence": 0.9,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1744",
+      "year_confidence": "approximate",
+      "event_type": "collaboration",
+      "description": "Translated Isaac Newton's 'Philosophiæ Naturalis Principia Mathematica' into French.",
+      "location": {
+        "place_name": "Paris",
+        "raw_text": "Later in life, she translated into French...",
+        "confidence": 0.9
+      },
+      "source_text": "Later in life, she translated into French, and wrote an extensive commentary on, Isaac Newton's Philosophiæ Naturalis Principia Mathematica.",
+      "confidence": 0.9,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:07:26.003957",
+        "extraction_confidence": 0.9,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1746",
+      "year_confidence": "approximate",
+      "event_type": "collaboration",
+      "description": "Wrote an extensive commentary on Isaac Newton's 'Philosophiæ Naturalis Principia Mathematica'.",
+      "location": {
+        "place_name": "Paris",
+        "raw_text": "Later in life, she translated into French, and wrote an extensive commentary on, Isaac Newton's Philosophiæ Naturalis Principia Mathematica.",
+        "confidence": 0.9
+      },
+      "source_text": "Later in life, she translated into French, and wrote an extensive commentary on, Isaac Newton's Philosophiæ Naturalis Principia Mathematica.",
+      "confidence": 0.9,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:07:26.003964",
+        "extraction_confidence": 0.9,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1756",
+      "year_confidence": "approximate",
+      "event_type": "publication",
+      "description": "'Philosophiæ Naturalis Principia Mathematica' translated by du Châtelet published posthumously.",
+      "location": {
+        "place_name": "Paris",
+        "raw_text": "The text, published posthumously in 1756...",
+        "confidence": 0.9
+      },
+      "source_text": "The text, published posthumously in 1756, is still considered the standard French translation to this day.",
+      "confidence": 0.9,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:07:26.003970",
+        "extraction_confidence": 0.9,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1756",
+      "year_confidence": "exact",
+      "event_type": "death",
+      "description": "Died on September 10, 1749, in Paris.",
+      "location": {
+        "place_name": "Paris",
+        "raw_text": "10 September 1749 –",
+        "confidence": 1.0
+      },
+      "source_text": "17 December 1706 – 10 September 1749",
+      "confidence": 1.0,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:07:26.003977",
+        "extraction_confidence": 1.0,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    }
+  ],
+  "timeline_extraction_metadata": {
+    "extracted_at": "2025-08-11T16:07:26.004278",
+    "model_used": "lm_studio_google/gemma-3n-e4b",
+    "events_count": 10,
+    "biography_length": 1449,
+    "enhancement_level": "gemma_comprehensive",
+    "target_events_per_mathematician": "5-10"
+  }
+}

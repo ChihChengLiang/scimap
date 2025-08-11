@@ -1,0 +1,56 @@
+{
+  "id": null,
+  "name": "Sámuel Mikoviny",
+  "birth_year": 1700,
+  "death_year": 1750,
+  "nationality": "European",
+  "fields": [
+    "mathematics"
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/S%C3%A1muel_Mikoviny",
+  "wikipedia_data": {
+    "url": "https://en.wikipedia.org/wiki/S%C3%A1muel_Mikoviny",
+    "title": "Sámuel Mikoviny",
+    "page_title": "S%C3%A1muel_Mikoviny",
+    "biography_paragraphs": [
+      "Sámuel Mikoviny (Hungarian: Mikoviny Sámuel, Slovak: Samuel Mikovíni ? – 23 March 1750) was a mathematician, engineer, cartographer, and professor. He was a leading representative of science and technology in the 18th century Kingdom of Hungary and Habsburg monarchy.",
+      "The family lived scattered throughout the territory of present-day Slovakia, some members have moved also other areas of the contemporary Kingdom of Hungary. His father, a poor lower nobleman Samuel Micovini, originated from the most numerous branch from Breznóbánya (today Brezno, Slovakia).[1] He worked in several ethnic Slovak villages, firstly as a teacher in Uhorszka (today Uhorské, Slovakia), and Hradistya (today Hradište, Slovakia), later he became an Evangelic priest in Turicska (today Turíčky, Slovakia). In 1663, he moved to Ábelfalva (today Ábelová, Slovakia). His mother was Helena Ničková (Nicsko, Niczko).[2]",
+      "The date and the place of birth of his son polymath Sámuel is unknown.[a] Mikoviny was possibly born in Turicska or Ábelfalva, in 1686 or 1700.[1] In 1727, he married Anna Regina Gillig from Szentgyörgy (today Svätý Jur, Slovakia). The couple had five children, but only three survived - sons Károly Szaniszló (in Slovak: Karol Stanislav), a geodest; Tamás Lajos (Tomáš Ľudovít), an engineer; and a daughter Erzsébet Krisztina (Alžbeta Kristína).[2]",
+      "In the literature, Mikoviny is mentioned as a Slovak polymath (the first Slovak engineer)[3][4][5][6] and also as a Hungarian.[7][8]  The contemporary elites identified themselves as members of common Natio Hungarica regardless of their ethnic origin, whereas the contemporary term Hungarus is an umbrella term covering ethnic Hungarians (Magyars), Slovaks and other ethnic groups in the Kingdom of Hungary because the self-definition through a common homeland, class or religion was more common than through language. The Slovak origin of Mikoviny was noticed already by Ján Kollár and is supported by further research in present-day Slovakia. Besides another, the research in local archives confirmed that the father of Sámuel Mikoviny wrote his records in Turicska in Slovak.[3] Mikoviny declared himself in more of his maps and works as \"nobilis Hungarus\".[9][10] Two letters written in Hungarian remained after him,[11][10] however - as per the contemporary customs - by his studies and works mostly he used the German and the Latin language.[10]",
+      "His name is written in contemporary sources and later literature in many forms - Mikoviny, Mikowiny, Mikovini, Mikovényi, Mickovini, Mikovinyi, Mikovínij, Mikowini,[10] Mikovény.[12] He used mostly the form Mikoviny[12] and wrote his name without any diacritics.[13]"
+    ],
+    "infobox": {
+      "birth": "1686-1700?Turicska?, Kingdom of Hungary(Turíčky, today part of Cinobaňa, Slovakia)",
+      "death": "(1750-03-23)23 March 1750"
+    },
+    "scraped_at": "2025-08-11T01:11:58.743761",
+    "raw_html_length": 117093
+  },
+  "processed_at": "2025-08-11T01:11:59.747935",
+  "wikidata_info": {
+    "wikidata_id": "Q530425",
+    "name": "Sámuel Mikoviny",
+    "birth_year": 1700,
+    "death_year": 1750,
+    "birth_date_full": "1700-01-01T00:00:00Z",
+    "death_date_full": "1750-03-23T00:00:00Z",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/S%C3%A1muel_Mikoviny",
+    "nationality": "",
+    "birth_place": {
+      "name": "",
+      "wikidata_uri": "",
+      "coordinates": null
+    },
+    "image_url": "",
+    "fields": [
+      "mathematics"
+    ],
+    "data_source": "wikidata_sparql",
+    "extracted_at": "2025-08-11T01:11:25.224703",
+    "wikidata_query_metadata": {
+      "query_date": "2025-08-11T01:11:25.224704",
+      "endpoint": "https://query.wikidata.org/sparql",
+      "data_quality": "structured"
+    }
+  }
+}

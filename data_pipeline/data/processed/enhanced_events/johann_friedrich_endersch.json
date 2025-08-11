@@ -1,0 +1,214 @@
+{
+  "id": null,
+  "name": "Johann Friedrich Endersch",
+  "birth_year": 1705,
+  "death_year": 1769,
+  "nationality": "French",
+  "fields": [
+    "mathematics"
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Johann_Friedrich_Endersch",
+  "wikipedia_data": {
+    "url": "https://en.wikipedia.org/wiki/Johann_Friedrich_Endersch",
+    "title": "Johann Friedrich Endersch",
+    "page_title": "Johann_Friedrich_Endersch",
+    "biography_paragraphs": [
+      "Johann Friedrich Endersch (25 October 1705 – 28 March 1769) was a German cartographer and mathematician. Endersch also held the title of Royal Mathematician to King Augustus III of Poland.",
+      "Endersch was born in Dörnfeld an der Heide, Schwarzburg-Rudolstadt, Thuringia, but lived most of his life in Elbing (Elbląg), Royal Prussia[1] in the Polish–Lithuanian Commonwealth.[2]",
+      "In 1755 Endersch completed for Imperial Prince-Bishop Adam Stanisław Grabowski (Celsissimo ac Reverendissimo S. Rom. Imp. Principi Domino Adam Stanislao in Grabowo Grabowski Episcopo Warmiensi et Sambiesi, Terrarum Prussiae Praesidis ...) a map of Warmia titled Tabula Geographica Episcopatum Warmiensem in Prussia Exhibens. The map, detailing the towns of Warmia (Ermland), was commissioned for the court of Holy Roman Emperor Francis I.",
+      "Endersch also made a copper etching that depicted a galiot that had been built in Elbing in 1738 and was named D' Stadt Elbing[3][4] (German for \"City of Elbląg\")."
+    ],
+    "infobox": {},
+    "scraped_at": "2025-08-11T01:12:42.153652",
+    "raw_html_length": 73298
+  },
+  "processed_at": "2025-08-11T01:12:43.162203",
+  "wikidata_info": {
+    "wikidata_id": "Q526236",
+    "name": "Johann Friedrich Endersch",
+    "birth_year": 1705,
+    "death_year": 1769,
+    "birth_date_full": "1705-10-25T00:00:00Z",
+    "death_date_full": "1769-03-28T00:00:00Z",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Johann_Friedrich_Endersch",
+    "nationality": "",
+    "birth_place": {
+      "name": "",
+      "wikidata_uri": "",
+      "coordinates": null
+    },
+    "image_url": "",
+    "fields": [
+      "mathematics"
+    ],
+    "data_source": "wikidata_sparql",
+    "extracted_at": "2025-08-11T01:11:25.225131",
+    "wikidata_query_metadata": {
+      "query_date": "2025-08-11T01:11:25.225131",
+      "endpoint": "https://query.wikidata.org/sparql",
+      "data_quality": "structured"
+    }
+  },
+  "timeline_events": [
+    {
+      "year": 1705,
+      "year_confidence": "exact",
+      "event_type": "birth",
+      "description": "Born in Dörnfeld an der Heide, Schwarzburg-Rudolstadt, Thuringia, Germany.",
+      "location": {
+        "place_name": "Dörnfeld an der Heide",
+        "raw_text": "Born in Dörnfeld an der Heide, Schwarzburg-Rudolstadt, Thuringia",
+        "confidence": 1.0
+      },
+      "source_text": "Johann Friedrich Endersch (25 October 1705 – 28 March 1769) was a German cartographer and mathematician.",
+      "confidence": 1.0,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T17:29:28.293682",
+        "extraction_confidence": 1.0,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": 1705,
+      "year_confidence": "exact",
+      "event_type": "birth",
+      "description": "Born on October 25th in Dörnfeld an der Heide, Schwarzburg-Rudolstadt, Thuringia.",
+      "location": {
+        "place_name": "Dörnfeld an der Heide",
+        "raw_text": "Born in Dörnfeld an der Heide, Schwarzburg-Rudolstadt, Thuringia",
+        "confidence": 1.0
+      },
+      "source_text": "Johann Friedrich Endersch (25 October 1705 – 28 March 1769) was a German cartographer and mathematician.",
+      "confidence": 1.0,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T17:29:28.293787",
+        "extraction_confidence": 1.0,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1705-1720",
+      "year_confidence": "range",
+      "event_type": "education",
+      "description": "Likely received early education in Dörnfeld an der Heide, though specific details are not provided.",
+      "location": {
+        "place_name": "Dörnfeld an der Heide",
+        "raw_text": "Born in Dörnfeld an der Heide, Schwarzburg-Rudolstadt, Thuringia",
+        "confidence": 0.8
+      },
+      "source_text": "Born in Dörnfeld an der Heide, Schwarzburg-Rudolstadt, Thuringia",
+      "confidence": 0.8,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T17:29:28.293866",
+        "extraction_confidence": 0.8,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1720-1755",
+      "year_confidence": "range",
+      "event_type": "position",
+      "description": "Lived most of his life in Elbing (Elbląg), Royal Prussia, indicating a relocation sometime after his early years.",
+      "location": {
+        "place_name": "Elbing (Elbląg)",
+        "raw_text": "lived most of his life in Elbing (Elbląg), Royal Prussia",
+        "confidence": 1.0
+      },
+      "source_text": "Endersch was born in Dörnfeld an der Heide, Schwarzburg-Rudolstadt, Thuringia, but lived most of his life in Elbing (Elbląg), Royal Prussia",
+      "confidence": 1.0,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T17:29:28.293875",
+        "extraction_confidence": 1.0,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1755",
+      "year_confidence": "exact",
+      "event_type": "publication",
+      "description": "Completed a map of Warmia titled Tabula Geographica Episcopatum Warmiensem in Prussia Exhibens for Imperial Prince-Bishop Adam Stanisław Grabowski.",
+      "location": {
+        "place_name": "Warmia (Prussia)",
+        "raw_text": "map of Warmia titled Tabula Geographica Episcopatum Warmiensem in Prussia Exhibens",
+        "confidence": 0.9
+      },
+      "source_text": "In 1755 Endersch completed for Imperial Prince-Bishop Adam Stanisław Grabowski a map of Warmia titled Tabula Geographica Episcopatum Warmiensem in Prussia Exhibens.",
+      "confidence": 1.0,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T17:29:28.293881",
+        "extraction_confidence": 1.0,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1755",
+      "year_confidence": "exact",
+      "event_type": "publication",
+      "description": "The map of Warmia, Tabula Geographica Episcopatum Warmiensem in Prussia Exhibens, was commissioned for the court of Holy Roman Emperor Francis I.",
+      "location": {
+        "place_name": "Holy Roman Empire",
+        "raw_text": "commissioned for the court of Holy Roman Emperor Francis I",
+        "confidence": 0.95
+      },
+      "source_text": "The map, detailing the towns of Warmia (Ermland), was commissioned for the court of Holy Roman Emperor Francis I.",
+      "confidence": 1.0,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T17:29:28.293887",
+        "extraction_confidence": 1.0,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1755-1769",
+      "year_confidence": "range",
+      "event_type": "position",
+      "description": "Served as the Royal Mathematician to King Augustus III of Poland.",
+      "location": {
+        "place_name": "Poland",
+        "raw_text": "Royal Mathematician to King Augustus III of Poland",
+        "confidence": 0.95
+      },
+      "source_text": "Endersch also held the title of Royal Mathematician to King Augustus III of Poland.",
+      "confidence": 1.0,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T17:29:28.293893",
+        "extraction_confidence": 1.0,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1769",
+      "year_confidence": "exact",
+      "event_type": "death",
+      "description": "Died on March 28th, 1769.",
+      "location": {
+        "place_name": "Elbing (Elbląg)",
+        "raw_text": "28 March 1769",
+        "confidence": 0.85
+      },
+      "source_text": "Johann Friedrich Endersch (25 October 1705 – 28 March 1769) was a German cartographer and mathematician.",
+      "confidence": 1.0,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T17:29:28.293898",
+        "extraction_confidence": 1.0,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    }
+  ],
+  "timeline_extraction_metadata": {
+    "extracted_at": "2025-08-11T17:29:28.294060",
+    "model_used": "lm_studio_google/gemma-3n-e4b",
+    "events_count": 8,
+    "biography_length": 812,
+    "enhancement_level": "gemma_comprehensive",
+    "target_events_per_mathematician": "5-10"
+  }
+}

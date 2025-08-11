@@ -1,0 +1,237 @@
+{
+  "id": null,
+  "name": "Pedro Vicente Maldonado",
+  "birth_year": 1704,
+  "death_year": 1748,
+  "nationality": "European",
+  "fields": [
+    "mathematics"
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Pedro_Vicente_Maldonado",
+  "wikipedia_data": {
+    "url": "https://en.wikipedia.org/wiki/Pedro_Vicente_Maldonado",
+    "title": "Pedro Vicente Maldonado",
+    "page_title": "Pedro_Vicente_Maldonado",
+    "biography_paragraphs": [
+      "Pedro Vicente Maldonado y Flores (November 24, 1704 in Riobamba, Royal Audience of Quito (today's Ecuador) – November 7, 1748 in London, England) was an Ecuadorian scientist who collaborated with the members of the French Geodesic Mission. As well as a physicist and a mathematician, Maldonado was an astronomer, topographer, and geographer.",
+      "Maldonado’s parents were Don Pedro Antonio Maldonado Sotomayor and Doña María Flores Palomino, both of whom were of high economic and social standing, they came from one of the most important families of the country. His genealogy belongs to one of the first and most important marquis in Ecuador's history. He completed his primary education in Riobamba, the city of his birth, and in 1718, traveled to Quito where he attended the Colegio San Luis, where, under the supervision of the Jesuits, he learned arithmetic, geometry, Latin, astronomy, and music. On May 19, 1721, he received his teaching degree from the Gregorian University and later returned to Riobamba to be an educator at the Jesuit school. His family settled in Latacunga at Cotopaxi province.",
+      "From an early age, Maldonado was interested in the mysteries of nature, and between 1722 and 1724 undertook many explorations of unknown regions to study the land’s geography in great detail; he completed his first map in 1725. He again returned to his birthplace to care for his estate and remained there until 1720, when he moved to Quito. On February 5, 1730, Maldonado married the daughter of the Governor of Popayán, and gained the advantage of being related to a powerful, influential family. He returned to Riobamba in 1724 and was elected mayor of Cabildo in his first election; he was later named Lieutenant of the Magistrate. In spite of occupying these administrative positions, Maldonado did not neglect his scientific observations. That same year, he presented a proposal before the Viceroy of Peru, José de Armendáriz, to link the Royal Audience of Quito with Panama. It was the first of his many projects involving commerce routes and transportation.",
+      "In 1736, he collaborated with the Spanish-French Geodesic Mission, whose primary objective, until 1743, was the measurement of the value of a degree of terrestrial meridian arc in the proximity of an equinoctial line.\nMaldonado befriended many of its members, most notably Charles Marie de La Condamine. Two years later, he assumed the position of Governor of Esmeraldas Province on January 20, 1742, and elevated his brothers to a position of political power so that they could take part in the government. After the death of his first wife, Maldonado returned to Quito and married doña María Ventura Martínez de Arredondo in 1743.",
+      "In 1744, Maldonado visited Europe. In Spain, in 1746, he was received by Philip V, who bestowed upon him the title of \"Gentleman of the Royal Camera\" and proclaimed him Governor of Atacames, with a state-sanctioned pension to last for two generations."
+    ],
+    "infobox": {
+      "birth": "Pedro Vicente Maldonado Palomino y Flores(1704-11-24)November 24, 1704Riobamba, Viceroyalty of Peru (present-day Ecuador)",
+      "death": "November 7, 1748(1748-11-07) (aged 43)London, England"
+    },
+    "scraped_at": "2025-08-11T01:12:38.639927",
+    "raw_html_length": 87327
+  },
+  "processed_at": "2025-08-11T01:12:39.644591",
+  "wikidata_info": {
+    "wikidata_id": "Q712298",
+    "name": "Pedro Vicente Maldonado",
+    "birth_year": 1704,
+    "death_year": 1748,
+    "birth_date_full": "1704-11-24T00:00:00Z",
+    "death_date_full": "1748-11-07T00:00:00Z",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pedro_Vicente_Maldonado",
+    "nationality": "",
+    "birth_place": {
+      "name": "",
+      "wikidata_uri": "",
+      "coordinates": null
+    },
+    "image_url": "",
+    "fields": [
+      "mathematics"
+    ],
+    "data_source": "wikidata_sparql",
+    "extracted_at": "2025-08-11T01:11:25.225086",
+    "wikidata_query_metadata": {
+      "query_date": "2025-08-11T01:11:25.225087",
+      "endpoint": "https://query.wikidata.org/sparql",
+      "data_quality": "structured"
+    }
+  },
+  "timeline_events": [
+    {
+      "year": 1704,
+      "year_confidence": "exact",
+      "event_type": "birth",
+      "description": "Born in Riobamba, Royal Audience of Quito (today's Ecuador) to Don Pedro Antonio Maldonado Sotomayor and Doña María Flores Palomino.",
+      "location": {
+        "place_name": "Riobamba, Royal Audience of Quito",
+        "raw_text": "November 24, 1704 in Riobamba, Royal Audience of Quito (today's Ecuador)",
+        "confidence": 1.0
+      },
+      "source_text": "November 24, 1704 in Riobamba, Royal Audience of Quito (today's Ecuador)",
+      "confidence": 1.0,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b_partial",
+        "extracted_at": "2025-08-11T14:38:13.042156",
+        "extraction_confidence": 1.0,
+        "extraction_method": "partial_json_recovery"
+      }
+    },
+    {
+      "year": 1718,
+      "year_confidence": "exact",
+      "event_type": "education",
+      "description": "Attended Colegio San Luis in Quito.",
+      "location": {
+        "place_name": "Colegio San Luis, Quito",
+        "raw_text": "in 1718, traveled to Quito where he attended the Colegio San Luis",
+        "confidence": 0.95
+      },
+      "source_text": "in 1718, traveled to Quito where he attended the Colegio San Luis",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b_partial",
+        "extracted_at": "2025-08-11T14:38:13.042406",
+        "extraction_confidence": 0.95,
+        "extraction_method": "partial_json_recovery"
+      }
+    },
+    {
+      "year": 1718,
+      "year_confidence": "exact",
+      "event_type": "education",
+      "description": "Studied arithmetic, geometry, Latin, astronomy, and music at Colegio San Luis.",
+      "location": {
+        "place_name": "Colegio San Luis, Quito",
+        "raw_text": "where, under the supervision of the Jesuits, he learned arithmetic, geometry, Latin, astronomy, and music",
+        "confidence": 0.95
+      },
+      "source_text": "where, under the supervision of the Jesuits, he learned arithmetic, geometry, Latin, astronomy, and music",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b_partial",
+        "extracted_at": "2025-08-11T14:38:13.042537",
+        "extraction_confidence": 0.95,
+        "extraction_method": "partial_json_recovery"
+      }
+    },
+    {
+      "year": 1721,
+      "year_confidence": "exact",
+      "event_type": "education",
+      "description": "Received his teaching degree from the Gregorian University.",
+      "location": {
+        "place_name": "Gregorian University",
+        "raw_text": "May 19, 1721, he received his teaching degree from the Gregorian University",
+        "confidence": 0.95
+      },
+      "source_text": "May 19, 1721, he received his teaching degree from the Gregorian University",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b_partial",
+        "extracted_at": "2025-08-11T14:38:13.042749",
+        "extraction_confidence": 0.95,
+        "extraction_method": "partial_json_recovery"
+      }
+    },
+    {
+      "year": 1725,
+      "year_confidence": "exact",
+      "event_type": "publication",
+      "description": "Completed his first map.",
+      "location": {
+        "place_name": null,
+        "raw_text": "completed his first map in 1725",
+        "confidence": 0.85
+      },
+      "source_text": "completed his first map in 1725",
+      "confidence": 0.85,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b_partial",
+        "extracted_at": "2025-08-11T14:38:13.042938",
+        "extraction_confidence": 0.85,
+        "extraction_method": "partial_json_recovery"
+      }
+    },
+    {
+      "year": 1730,
+      "year_confidence": "exact",
+      "event_type": "position",
+      "description": "Elected mayor of Cabildo.",
+      "location": {
+        "place_name": "Riobamba",
+        "raw_text": "He returned to Riobamba in 1724 and was elected mayor of Cabildo",
+        "confidence": 0.95
+      },
+      "source_text": "He returned to Riobamba in 1724 and was elected mayor of Cabildo",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b_partial",
+        "extracted_at": "2025-08-11T14:38:13.043134",
+        "extraction_confidence": 0.95,
+        "extraction_method": "partial_json_recovery"
+      }
+    },
+    {
+      "year": 1730,
+      "year_confidence": "exact",
+      "event_type": "position",
+      "description": "Named Lieutenant of the Magistrate.",
+      "location": {
+        "place_name": "Riobamba",
+        "raw_text": "He was later named Lieutenant of the Magistrate.",
+        "confidence": 0.95
+      },
+      "source_text": "He was later named Lieutenant of the Magistrate.",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b_partial",
+        "extracted_at": "2025-08-11T14:38:13.043218",
+        "extraction_confidence": 0.95,
+        "extraction_method": "partial_json_recovery"
+      }
+    },
+    {
+      "year": 1730,
+      "year_confidence": "exact",
+      "event_type": "publication",
+      "description": "Presented a proposal to the Viceroy of Peru, José de Armendáriz, to link the Royal Audience of Quito with Panama.",
+      "location": {
+        "place_name": "Lima (via Viceroy of Peru)",
+        "raw_text": "He presented a proposal before the Viceroy of Peru, José de Armendáriz",
+        "confidence": 0.95
+      },
+      "source_text": "He presented a proposal before the Viceroy of Peru, José de Armendáriz",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b_partial",
+        "extracted_at": "2025-08-11T14:38:13.043333",
+        "extraction_confidence": 0.95,
+        "extraction_method": "partial_json_recovery"
+      }
+    },
+    {
+      "year": 1748,
+      "year_confidence": "exact",
+      "event_type": "death",
+      "description": "Died in London, England.",
+      "location": {
+        "place_name": "London, England",
+        "raw_text": "November 7, 1748 in London, England",
+        "confidence": 1.0
+      },
+      "source_text": "November 7, 1748 in London, England",
+      "confidence": 1.0,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b_partial",
+        "extracted_at": "2025-08-11T14:38:13.043409",
+        "extraction_confidence": 1.0,
+        "extraction_method": "partial_json_recovery"
+      }
+    }
+  ],
+  "timeline_extraction_metadata": {
+    "extracted_at": "2025-08-11T14:38:13.043635",
+    "model_used": "lm_studio_google/gemma-3n-e4b",
+    "events_count": 9,
+    "biography_length": 2068,
+    "enhancement_level": "gemma_comprehensive",
+    "target_events_per_mathematician": "5-10"
+  }
+}

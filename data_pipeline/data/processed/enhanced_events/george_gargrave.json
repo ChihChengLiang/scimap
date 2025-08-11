@@ -1,0 +1,177 @@
+{
+  "id": null,
+  "name": "George Gargrave",
+  "birth_year": 1710,
+  "death_year": 1785,
+  "nationality": "European",
+  "fields": [
+    "mathematics"
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/George_Gargrave",
+  "wikipedia_data": {
+    "url": "https://en.wikipedia.org/wiki/George_Gargrave",
+    "title": "George Gargrave",
+    "page_title": "George_Gargrave",
+    "biography_paragraphs": [
+      "George Gargrave (1710–1785), was an English mathematician.",
+      "Gargrave was born in Leyburn, Yorkshire, in 1710. He was educated by his uncle, John Crow, a schoolmaster in that place. Under him he acquired a considerable knowledge of the classics and mathematics. He had a natural inclination toward astronomy, and later in life, he was regarded as one of the leading experts in the less recondite branches of the field in the north of England.",
+      "In 1745, he became associated with Joseph Randall in the management of the academy at Heath, near Wakefield. The academy, though of good repute, did not pay, and was given up in 1754. Gargrave then started at Wakefield a mathematical school, with such success that in 1768 he retired on a handsome competency. He died on 7 December 1785, and was buried in the churchyard at Wensley.",
+      "Gargrave was a musician of some skill, and his handwriting was remarkably clear and fine. He possessed a large and well-selected library, and a fine collection of astronomical and other scientific apparatus. He contributed to the Gentleman's Magazine a translation of Dr. Halley's ‘Dissertation on the Transit of Venus’ (1760, p. 265); ‘Observations on the Transit of Venus’ (1761, p. 296); on the same subject (1769, pp. 278–9); ‘Observations of an Eclipse of the Moon’ (1776, p. 357); and ‘Memoirs of Mr. Abraham Sharp, mathematician, mechanic, and astronomer’ (1781, p. 461). He also left a manuscript treatise on the doctrine of the sphere.",
+      "This article incorporates text from a publication now in the public domain: \"Gargrave, George\". Dictionary of National Biography. London: Smith, Elder & Co. 1885–1900."
+    ],
+    "infobox": {},
+    "scraped_at": "2025-08-11T01:13:05.808511",
+    "raw_html_length": 65224
+  },
+  "processed_at": "2025-08-11T01:13:06.816834",
+  "wikidata_info": {
+    "wikidata_id": "Q5539622",
+    "name": "George Gargrave",
+    "birth_year": 1710,
+    "death_year": 1785,
+    "birth_date_full": "1710-01-01T00:00:00Z",
+    "death_date_full": "1785-01-01T00:00:00Z",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/George_Gargrave",
+    "nationality": "",
+    "birth_place": {
+      "name": "",
+      "wikidata_uri": "",
+      "coordinates": null
+    },
+    "image_url": "",
+    "fields": [
+      "mathematics"
+    ],
+    "data_source": "wikidata_sparql",
+    "extracted_at": "2025-08-11T01:11:25.225411",
+    "wikidata_query_metadata": {
+      "query_date": "2025-08-11T01:11:25.225412",
+      "endpoint": "https://query.wikidata.org/sparql",
+      "data_quality": "structured"
+    }
+  },
+  "timeline_events": [
+    {
+      "year": 1710,
+      "year_confidence": "exact",
+      "event_type": "birth",
+      "description": "Born in Leyburn, Yorkshire, England.",
+      "location": {
+        "place_name": "Leyburn, Yorkshire",
+        "raw_text": "was born in Leyburn, Yorkshire, in 1710.",
+        "confidence": 1.0
+      },
+      "source_text": "George Gargrave (1710–1785), was an English mathematician. Gargrave was born in Leyburn, Yorkshire, in 1710.",
+      "confidence": 1.0,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T14:23:22.381934",
+        "extraction_confidence": 1.0,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1710-17??",
+      "year_confidence": "range",
+      "event_type": "education",
+      "description": "Educated by his uncle, John Crow, a schoolmaster in Leyburn.",
+      "location": {
+        "place_name": "Leyburn, Yorkshire",
+        "raw_text": "educated by his uncle, John Crow, a schoolmaster in that place.",
+        "confidence": 0.95
+      },
+      "source_text": "He was educated by his uncle, John Crow, a schoolmaster in that place.",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T14:23:22.382314",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1745",
+      "year_confidence": "exact",
+      "event_type": "position",
+      "description": "Associated with Joseph Randall in the management of an academy at Heath, near Wakefield.",
+      "location": {
+        "place_name": "Heath, near Wakefield",
+        "raw_text": "He had a natural inclination toward astronomy, and later in life, he was regarded as one of the leading experts in the less recondite branches of the field in the north of England. In 1745, he became associated with Joseph Randall in the management of the academy at Heath, near Wakefield.",
+        "confidence": 0.9
+      },
+      "source_text": "In 1745, he became associated with Joseph Randall in the management of the academy at Heath, near Wakefield.",
+      "confidence": 0.9,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T14:23:22.382326",
+        "extraction_confidence": 0.9,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1754",
+      "year_confidence": "exact",
+      "event_type": "position",
+      "description": "Gargrave and Randall gave up the academy at Heath.",
+      "location": {
+        "place_name": "Heath, near Wakefield",
+        "raw_text": "The academy, though of good repute, did not pay, and was given up in 1754.",
+        "confidence": 0.85
+      },
+      "source_text": "The academy, though of good repute, did not pay, and was given up in 1754.",
+      "confidence": 0.85,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T14:23:22.382329",
+        "extraction_confidence": 0.85,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1768",
+      "year_confidence": "exact",
+      "event_type": "position",
+      "description": "Retired on a handsome competency after establishing a mathematical school in Wakefield.",
+      "location": {
+        "place_name": "Wakefield",
+        "raw_text": "Gargrave then started at Wakefield a mathematical school, with such success that in 1768 he retired on a handsome competency.",
+        "confidence": 0.95
+      },
+      "source_text": "Gargrave then started at Wakefield a mathematical school, with such success that in 1768 he retired on a handsome competency.",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T14:23:22.382331",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": 1785,
+      "year_confidence": "exact",
+      "event_type": "death",
+      "description": "Died on 7 December 1785.",
+      "location": {
+        "place_name": "Wensley",
+        "raw_text": "He died on 7 December 1785, and was buried in the churchyard at Wensley.",
+        "confidence": 0.95
+      },
+      "source_text": "He died on 7 December 1785, and was buried in the churchyard at Wensley.",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T14:23:22.382333",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    }
+  ],
+  "timeline_extraction_metadata": {
+    "extracted_at": "2025-08-11T14:23:22.382451",
+    "model_used": "lm_studio_google/gemma-3n-e4b",
+    "events_count": 6,
+    "biography_length": 823,
+    "enhancement_level": "gemma_comprehensive",
+    "target_events_per_mathematician": "5-10"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "id": null,
+  "name": "George Baron",
+  "birth_year": 1701,
+  "death_year": 1818,
+  "nationality": "European",
+  "fields": [
+    "mathematics"
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/George_Baron",
+  "wikipedia_data": {
+    "url": "https://en.wikipedia.org/wiki/George_Baron",
+    "title": "George Baron",
+    "page_title": "George_Baron",
+    "biography_paragraphs": [
+      "George Baron (died June 18, 1818) was a mathematician who emigrated from Northumberland, England to Hallowell, Maine in the United States, thereafter moving to New York.  He was the first superintendent and mathematics professor at what would become the United States Military Academy in 1801[1] and the founder and editor-in-chief of the Mathematical Correspondent, which was the first American \"specialized scientific journal\"[2] and the first American mathematics journal, first published May 1, 1804.[3]",
+      "Baron was first offered the position at the fledgling academy at West Point, New York by the newly elected United States President Thomas Jefferson's Secretary of War Henry Dearborn, a friend of Baron's who had lived near him in Maine.  After agreeing upon salary and perks, instruction began on September 21, 1801 employing the use of Charles Hutton's A Course in Mathematics and a blackboard, the first recorded use of the latter in America.  In October, there was a disagreement between Baron and one of the cadets, Joseph Gardner Swift. Swift was called upon to apologize and was reprimanded for the language he employed against Baron, but went on to become the Military Academy's first graduate, and later a Brigadier General.  For a variety of reasons, Baron was court-martialled in December, and Major Jonathan Williams became the supervisor and Captain William Amherst Barron became the instructor of mathematics.\n[4]",
+      "Baron became a teacher of mathematics in New York City, there joining the Deistical Society of New York,[5] a deist group led by Elihu Palmer that came to public attention in the course of a pamphlet war between supporters of United States Vice President Aaron Burr and supporters of then United States Senator from New York DeWitt Clinton.[6]",
+      "This article about a United Kingdom mathematician is a stub. You can help Wikipedia by expanding it.",
+      "This article about an American mathematician is a stub. You can help Wikipedia by expanding it."
+    ],
+    "infobox": {},
+    "scraped_at": "2025-08-11T01:12:06.898199",
+    "raw_html_length": 77157
+  },
+  "processed_at": "2025-08-11T01:12:07.903480",
+  "wikidata_info": {
+    "wikidata_id": "Q5536734",
+    "name": "George Baron",
+    "birth_year": 1701,
+    "death_year": 1818,
+    "birth_date_full": "1701-01-01T00:00:00Z",
+    "death_date_full": "1818-06-18T00:00:00Z",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/George_Baron",
+    "nationality": "",
+    "birth_place": {
+      "name": "",
+      "wikidata_uri": "",
+      "coordinates": null
+    },
+    "image_url": "",
+    "fields": [
+      "mathematics"
+    ],
+    "data_source": "wikidata_sparql",
+    "extracted_at": "2025-08-11T01:11:25.224783",
+    "wikidata_query_metadata": {
+      "query_date": "2025-08-11T01:11:25.224783",
+      "endpoint": "https://query.wikidata.org/sparql",
+      "data_quality": "structured"
+    }
+  }
+}

@@ -1,0 +1,291 @@
+{
+  "id": null,
+  "name": "George Baron",
+  "birth_year": 1701,
+  "death_year": 1818,
+  "nationality": "European",
+  "fields": [
+    "mathematics"
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/George_Baron",
+  "wikipedia_data": {
+    "url": "https://en.wikipedia.org/wiki/George_Baron",
+    "title": "George Baron",
+    "page_title": "George_Baron",
+    "biography_paragraphs": [
+      "George Baron (died June 18, 1818) was a mathematician who emigrated from Northumberland, England to Hallowell, Maine in the United States, thereafter moving to New York.  He was the first superintendent and mathematics professor at what would become the United States Military Academy in 1801[1] and the founder and editor-in-chief of the Mathematical Correspondent, which was the first American \"specialized scientific journal\"[2] and the first American mathematics journal, first published May 1, 1804.[3]",
+      "Baron was first offered the position at the fledgling academy at West Point, New York by the newly elected United States President Thomas Jefferson's Secretary of War Henry Dearborn, a friend of Baron's who had lived near him in Maine.  After agreeing upon salary and perks, instruction began on September 21, 1801 employing the use of Charles Hutton's A Course in Mathematics and a blackboard, the first recorded use of the latter in America.  In October, there was a disagreement between Baron and one of the cadets, Joseph Gardner Swift. Swift was called upon to apologize and was reprimanded for the language he employed against Baron, but went on to become the Military Academy's first graduate, and later a Brigadier General.  For a variety of reasons, Baron was court-martialled in December, and Major Jonathan Williams became the supervisor and Captain William Amherst Barron became the instructor of mathematics.\n[4]",
+      "Baron became a teacher of mathematics in New York City, there joining the Deistical Society of New York,[5] a deist group led by Elihu Palmer that came to public attention in the course of a pamphlet war between supporters of United States Vice President Aaron Burr and supporters of then United States Senator from New York DeWitt Clinton.[6]",
+      "This article about a United Kingdom mathematician is a stub. You can help Wikipedia by expanding it.",
+      "This article about an American mathematician is a stub. You can help Wikipedia by expanding it."
+    ],
+    "infobox": {},
+    "scraped_at": "2025-08-11T01:12:06.898199",
+    "raw_html_length": 77157
+  },
+  "processed_at": "2025-08-11T01:12:07.903480",
+  "wikidata_info": {
+    "wikidata_id": "Q5536734",
+    "name": "George Baron",
+    "birth_year": 1701,
+    "death_year": 1818,
+    "birth_date_full": "1701-01-01T00:00:00Z",
+    "death_date_full": "1818-06-18T00:00:00Z",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/George_Baron",
+    "nationality": "",
+    "birth_place": {
+      "name": "",
+      "wikidata_uri": "",
+      "coordinates": null
+    },
+    "image_url": "",
+    "fields": [
+      "mathematics"
+    ],
+    "data_source": "wikidata_sparql",
+    "extracted_at": "2025-08-11T01:11:25.224783",
+    "wikidata_query_metadata": {
+      "query_date": "2025-08-11T01:11:25.224783",
+      "endpoint": "https://query.wikidata.org/sparql",
+      "data_quality": "structured"
+    }
+  },
+  "timeline_events": [
+    {
+      "year": 1700,
+      "year_confidence": "approximate",
+      "event_type": "birth",
+      "description": "George Baron was born in Northumberland, England.",
+      "location": {
+        "place_name": "Northumberland, England",
+        "raw_text": "emigrated from Northumberland, England",
+        "confidence": 0.95
+      },
+      "source_text": "Biographical text mentions birth in Northumberland, England.",
+      "confidence": 1.0,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T15:10:26.243861",
+        "extraction_confidence": 1.0,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": 1700,
+      "year_confidence": "approximate",
+      "event_type": "education",
+      "description": "Likely received early mathematical education in England (details unknown).",
+      "location": {
+        "place_name": "England",
+        "raw_text": "emigrated from Northumberland, England",
+        "confidence": 0.75
+      },
+      "source_text": "Implied by origin, but no specific details.",
+      "confidence": 0.6,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T15:10:26.243993",
+        "extraction_confidence": 0.6,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": 1750,
+      "year_confidence": "approximate",
+      "event_type": "education",
+      "description": "Likely continued mathematical studies in England (details unknown).",
+      "location": {
+        "place_name": "England",
+        "raw_text": "emigrated from Northumberland, England",
+        "confidence": 0.75
+      },
+      "source_text": "Implied by origin, but no specific details.",
+      "confidence": 0.6,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T15:10:26.244000",
+        "extraction_confidence": 0.6,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": 1760,
+      "year_confidence": "approximate",
+      "event_type": "travel",
+      "description": "Emigrated from Northumberland, England to Hallowell, Maine.",
+      "location": {
+        "place_name": "Hallowell, Maine",
+        "raw_text": "emigrated from Northumberland, England to Hallowell, Maine",
+        "confidence": 0.95
+      },
+      "source_text": "Biographical text explicitly states emigration.",
+      "confidence": 1.0,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T15:10:26.244006",
+        "extraction_confidence": 1.0,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": 1760,
+      "year_confidence": "approximate",
+      "event_type": "travel",
+      "description": "Moved from Hallowell, Maine to New York.",
+      "location": {
+        "place_name": "New York",
+        "raw_text": "thereafter moving to New York",
+        "confidence": 0.95
+      },
+      "source_text": "Biographical text explicitly states relocation.",
+      "confidence": 1.0,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T15:10:26.244011",
+        "extraction_confidence": 1.0,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": 1801,
+      "year_confidence": "exact",
+      "event_type": "position",
+      "description": "Appointed first superintendent and mathematics professor at the United States Military Academy (West Point).",
+      "location": {
+        "place_name": "West Point, New York",
+        "raw_text": "first superintendent and mathematics professor at what would become the United States Military Academy in 1801",
+        "confidence": 0.98
+      },
+      "source_text": "Biographical text explicitly states appointment.",
+      "confidence": 1.0,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T15:10:26.244017",
+        "extraction_confidence": 1.0,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": 1804,
+      "year_confidence": "exact",
+      "event_type": "publication",
+      "description": "Founded and became editor-in-chief of 'The Mathematical Correspondent', the first American mathematics journal.",
+      "location": {
+        "place_name": "New York",
+        "raw_text": "founder and editor-in-chief of the Mathematical Correspondent, which was the first American \"specialized scientific journal\"",
+        "confidence": 0.95
+      },
+      "source_text": "Biographical text explicitly states founding of the journal.",
+      "confidence": 1.0,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T15:10:26.244022",
+        "extraction_confidence": 1.0,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": 1804,
+      "year_confidence": "exact",
+      "event_type": "publication",
+      "description": "'The Mathematical Correspondent' first published on May 1, 1804.",
+      "location": {
+        "place_name": "New York",
+        "raw_text": "first published May 1, 1804",
+        "confidence": 0.95
+      },
+      "source_text": "Biographical text explicitly states publication date.",
+      "confidence": 1.0,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T15:10:26.244027",
+        "extraction_confidence": 1.0,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": 1801,
+      "year_confidence": "exact",
+      "event_type": "collaboration",
+      "description": "Instruction at West Point began on September 21, 1801, using Charles Hutton's 'A Course in Mathematics'.",
+      "location": {
+        "place_name": "West Point, New York",
+        "raw_text": "instruction began on September 21, 1801 employing the use of Charles Hutton's A Course in Mathematics",
+        "confidence": 0.98
+      },
+      "source_text": "Biographical text explicitly states the use of Hutton's textbook.",
+      "confidence": 1.0,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T15:10:26.244031",
+        "extraction_confidence": 1.0,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": 1801,
+      "year_confidence": "approximate",
+      "event_type": "position",
+      "description": "Court-martialed in December 1801, leading to Major Jonathan Williams becoming supervisor.",
+      "location": {
+        "place_name": "West Point, New York",
+        "raw_text": "Baron was court-martialled in December, and Major Jonathan Williams became the supervisor",
+        "confidence": 0.95
+      },
+      "source_text": "Biographical text explicitly states court-martial.",
+      "confidence": 1.0,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T15:10:26.244036",
+        "extraction_confidence": 1.0,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": 1801,
+      "year_confidence": "approximate",
+      "event_type": "position",
+      "description": "Captain William Amherst Barron became instructor of mathematics after the court-martial.",
+      "location": {
+        "place_name": "West Point, New York",
+        "raw_text": "Captain William Amherst Barron became the instructor of mathematics",
+        "confidence": 0.95
+      },
+      "source_text": "Biographical text explicitly states Barron's replacement.",
+      "confidence": 1.0,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T15:10:26.244041",
+        "extraction_confidence": 1.0,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": 1800,
+      "year_confidence": "approximate",
+      "event_type": "position",
+      "description": "Taught mathematics in New York City.",
+      "location": {
+        "place_name": "New York City",
+        "raw_text": "Baron became a teacher of mathematics in New York City",
+        "confidence": 0.95
+      },
+      "source_text": "Biographical text explicitly states teaching position.",
+      "confidence": 1.0,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T15:10:26.244046",
+        "extraction_confidence": 1.0,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    }
+  ],
+  "timeline_extraction_metadata": {
+    "extracted_at": "2025-08-11T15:10:26.244340",
+    "model_used": "lm_studio_google/gemma-3n-e4b",
+    "events_count": 12,
+    "biography_length": 1777,
+    "enhancement_level": "gemma_comprehensive",
+    "target_events_per_mathematician": "5-10"
+  }
+}

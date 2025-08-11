@@ -1,0 +1,52 @@
+{
+  "id": null,
+  "name": "Israel Zamosz",
+  "birth_year": 1700,
+  "death_year": 1772,
+  "nationality": "European",
+  "fields": [
+    "mathematics"
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Israel_Zamosz",
+  "wikipedia_data": {
+    "url": "https://en.wikipedia.org/wiki/Israel_Zamosz",
+    "title": "Israel Zamosz",
+    "page_title": "Israel_Zamosz",
+    "biography_paragraphs": [
+      "Israel ben Moses ha-Levi Zamosz (c. 1700, Buberki – April 20, 1772, Brody) was an eighteenth-century Talmudist, mathematician and poet.[1]",
+      "He was born in Buberki to an undistinguished family and studied in Zamosz, where he also taught at a yeshiva. At the same time he occupied himself with the study of secular sciences, particularly with mathematics, and while there wrote many notes on the Yesod Olam of Isaac Israeli ben Joseph and on the Elim of Joseph Delmedigo. During his residence at Zamosz he also wrote his Arubbot ha-Shamayim, a work on descriptive geometry and astronomy. Zamosz first gained fame with the publication of his Neẓaḥ Yisrael in 1741, which took the form of a traditional text discussing topics addressed in the Talmud, but innovated by interpreting numerous passages from a mathematical and astronomical viewpoint.[2]",
+      "About 1742, after he had published his Neẓaḥ Yisrael, Zamosz settled in Berlin, where he remained several years, living in poverty. There he instructed Aaron Solomon Gumperz and Moses Mendelssohn in mathematics and logic, and his scholarship was much appreciated by Lessing.",
+      "Zamosz was a versatile writer, his knowledge comprising rabbinics, religious philosophy, and secular sciences. The only works of his published during his lifetime were the Neẓaḥ Yisrael (1741) and his edition of the Ruaḥ Ḥen of Ibn Tibbon or Jacob Anatoli, to which he appended a commentary of his own (1744). After his death appeared the Nezer ha-Dema (1773), a work in poetical prose on man's desire for luxury, the Oẓar Neḥmad (1796), a commentary on the Kuzari, and the Ṭub ha-Lebanon (1809), a commentary on the Ḥobot ha-Lebabot."
+    ],
+    "infobox": {},
+    "scraped_at": "2025-08-11T01:12:03.386942",
+    "raw_html_length": 75641
+  },
+  "processed_at": "2025-08-11T01:12:04.391368",
+  "wikidata_info": {
+    "wikidata_id": "Q6989286",
+    "name": "Israel Zamosz",
+    "birth_year": 1700,
+    "death_year": 1772,
+    "birth_date_full": "1700-01-01T00:00:00Z",
+    "death_date_full": "1772-04-20T00:00:00Z",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Israel_Zamosz",
+    "nationality": "",
+    "birth_place": {
+      "name": "",
+      "wikidata_uri": "",
+      "coordinates": null
+    },
+    "image_url": "",
+    "fields": [
+      "mathematics"
+    ],
+    "data_source": "wikidata_sparql",
+    "extracted_at": "2025-08-11T01:11:25.224721",
+    "wikidata_query_metadata": {
+      "query_date": "2025-08-11T01:11:25.224722",
+      "endpoint": "https://query.wikidata.org/sparql",
+      "data_quality": "structured"
+    }
+  }
+}

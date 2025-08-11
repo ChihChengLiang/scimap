@@ -1,0 +1,194 @@
+{
+  "id": null,
+  "name": "Antoine Deparcieux",
+  "birth_year": 1703,
+  "death_year": 1768,
+  "nationality": "French",
+  "fields": [
+    "mathematics"
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Antoine_Deparcieux",
+  "wikipedia_data": {
+    "url": "https://en.wikipedia.org/wiki/Antoine_Deparcieux",
+    "title": "Antoine Deparcieux",
+    "page_title": "Antoine_Deparcieux",
+    "biography_paragraphs": [
+      "Antoine Deparcieux (28 October 1703 – 2 September 1768) was a French mathematician.\nHe was born at Clessous in the Portes, department of Gard. He attended the school of Saint Florent for 10 years while working on his family farm. In 1725, his desire for learning took him to Lyon, where he studied at a Jesuit school for five years. Then, in 1730, he went to Paris to increase his knowledge of mathematics and physics. He made a living by manufacturing sundials.",
+      "In 1746, he became a member of the Academy of Sciences, and in about 1765 was named Censeur Royal. He was also librarian at the University of Strasbourg, and member of the Academy of Sciences of Paris, Montpellier, Lyon, Amiens, Metz, Berlin, and Stockholm.",
+      "In 1758, Deparcieux was elected a foreign member of the Royal Swedish Academy of Sciences."
+    ],
+    "infobox": {},
+    "scraped_at": "2025-08-11T01:12:28.015852",
+    "raw_html_length": 78298
+  },
+  "processed_at": "2025-08-11T01:12:29.022561",
+  "wikidata_info": {
+    "wikidata_id": "Q2853864",
+    "name": "Antoine Deparcieux",
+    "birth_year": 1703,
+    "death_year": 1768,
+    "birth_date_full": "1703-10-28T00:00:00Z",
+    "death_date_full": "1768-09-02T00:00:00Z",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Antoine_Deparcieux",
+    "nationality": "",
+    "birth_place": {
+      "name": "",
+      "wikidata_uri": "",
+      "coordinates": null
+    },
+    "image_url": "",
+    "fields": [
+      "mathematics"
+    ],
+    "data_source": "wikidata_sparql",
+    "extracted_at": "2025-08-11T01:11:25.225016",
+    "wikidata_query_metadata": {
+      "query_date": "2025-08-11T01:11:25.225017",
+      "endpoint": "https://query.wikidata.org/sparql",
+      "data_quality": "structured"
+    }
+  },
+  "timeline_events": [
+    {
+      "year": 1703,
+      "year_confidence": "exact",
+      "event_type": "birth",
+      "description": "Born at Clessous in the Portes, department of Gard, France.",
+      "location": {
+        "place_name": "Clessous",
+        "raw_text": "Born at Clessous in the Portes, department of Gard.",
+        "confidence": 1.0
+      },
+      "source_text": "Antoine Deparcieux (28 October 1703– 2 September 1768) was a French mathematician. He was born at Clessous in the Portes, department of Gard.",
+      "confidence": 1.0,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T14:28:57.738552",
+        "extraction_confidence": 1.0,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": 1703,
+      "year_confidence": "exact",
+      "event_type": "education",
+      "description": "Attended the school of Saint Florent for 10 years while working on his family farm.",
+      "location": {
+        "place_name": "Saint Florent",
+        "raw_text": "He attended the school of Saint Florent for 10 years while working on his family farm.",
+        "confidence": 0.95
+      },
+      "source_text": "He attended the school of Saint Florent for 10 years while working on his family farm.",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T14:28:57.738618",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": 1725,
+      "year_confidence": "exact",
+      "event_type": "education",
+      "description": "Moved to Lyon to study at a Jesuit school for five years.",
+      "location": {
+        "place_name": "Lyon",
+        "raw_text": "his desire for learning took him to Lyon, where he studied at a Jesuit school for five years.",
+        "confidence": 0.95
+      },
+      "source_text": "In 1725, his desire for learning took him to Lyon, where he studied at a Jesuit school for five years.",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T14:28:57.738621",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": 1730,
+      "year_confidence": "exact",
+      "event_type": "education",
+      "description": "Moved to Paris to increase his knowledge of mathematics and physics.",
+      "location": {
+        "place_name": "Paris",
+        "raw_text": "Then, in 1730, he went to Paris to increase his knowledge of mathematics and physics.",
+        "confidence": 0.95
+      },
+      "source_text": "Then, in 1730, he went to Paris to increase his knowledge of mathematics and physics.",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T14:28:57.738622",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": 1746,
+      "year_confidence": "exact",
+      "event_type": "position",
+      "description": "Became a member of the Academy of Sciences.",
+      "location": {
+        "place_name": "Paris",
+        "raw_text": "In 1746, he became a member of the Academy of Sciences",
+        "confidence": 0.95
+      },
+      "source_text": "In 1746, he became a member of the Academy of Sciences",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T14:28:57.738624",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1746-1765",
+      "year_confidence": "range",
+      "event_type": "position",
+      "description": "Served as librarian at the University of Strasbourg.",
+      "location": {
+        "place_name": "Strasbourg",
+        "raw_text": "He was also librarian at the University of Strasbourg",
+        "confidence": 0.95
+      },
+      "source_text": "He was also librarian at the University of Strasbourg",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T14:28:57.738685",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": 1758,
+      "year_confidence": "exact",
+      "event_type": "collaboration",
+      "description": "Elected a foreign member of the Royal Swedish Academy of Sciences.",
+      "location": {
+        "place_name": "Stockholm",
+        "raw_text": "was elected a foreign member of the Royal Swedish Academy of Sciences",
+        "confidence": 0.95
+      },
+      "source_text": "was elected a foreign member of the Royal Swedish Academy of Sciences",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T14:28:57.738730",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    }
+  ],
+  "timeline_extraction_metadata": {
+    "extracted_at": "2025-08-11T14:28:57.738772",
+    "model_used": "lm_studio_google/gemma-3n-e4b",
+    "events_count": 7,
+    "biography_length": 811,
+    "enhancement_level": "gemma_comprehensive",
+    "target_events_per_mathematician": "5-10"
+  }
+}

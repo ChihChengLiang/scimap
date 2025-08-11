@@ -1,0 +1,57 @@
+{
+  "id": null,
+  "name": "Jean-Louis Calandrini",
+  "birth_year": 1703,
+  "death_year": 1758,
+  "nationality": "European",
+  "fields": [
+    "mathematics"
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Jean-Louis_Calandrini",
+  "wikipedia_data": {
+    "url": "https://en.wikipedia.org/wiki/Jean-Louis_Calandrini",
+    "title": "Jean-Louis Calandrini",
+    "page_title": "Jean-Louis_Calandrini",
+    "biography_paragraphs": [
+      "Jean-Louis Calandrini (August 30, 1703 – December 29, 1758) was a Genevan scientist.  He was a professor of mathematics and philosophy.  He was the author of some studies on the aurora borealis, comets, and the effects of lightning, as well as of an important but unpublished work on flat and spherical trigonometry.  He also wrote a commentary on the Principia of Isaac Newton (published in Geneva, 1739–42), for which he wrote approximately one hundred footnotes.",
+      "He was also known as a botanist. The genus Calandrinia was named after him.[1]",
+      "His father was a pastor, also named Jean-Louis, and his mother was Michée Du Pan. He was the grandnephew of Bénédict Calandrini (de) (fr). In 1729, he married  Renée Lullin. At the Academy of Geneva, he obtained his thesis in physics (1722). In 1724, Calandrini was named mathematics professor at the same time as Gabriel Cramer, but he first undertook a three-year journey to France and  England. He was appointed professor of philosophy from 1734 to 1750. He also played an active role on the political scene of Geneva.",
+      "This biographical article about a scientist is a stub. You can help Wikipedia by expanding it."
+    ],
+    "infobox": {
+      "birth": "August 30, 1703Geneva, Republic of Geneva",
+      "death": "December 29, 1758Geneva, Republic of Geneva",
+      "nationality": "Genevan",
+      "fields": "Mathematics, philosophy, and physics"
+    },
+    "scraped_at": "2025-08-11T01:12:26.859170",
+    "raw_html_length": 78228
+  },
+  "processed_at": "2025-08-11T01:12:27.861212",
+  "wikidata_info": {
+    "wikidata_id": "Q3166677",
+    "name": "Jean-Louis Calandrini",
+    "birth_year": 1703,
+    "death_year": 1758,
+    "birth_date_full": "1703-08-30T00:00:00Z",
+    "death_date_full": "1758-12-29T00:00:00Z",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Jean-Louis_Calandrini",
+    "nationality": "",
+    "birth_place": {
+      "name": "",
+      "wikidata_uri": "",
+      "coordinates": null
+    },
+    "image_url": "",
+    "fields": [
+      "mathematics"
+    ],
+    "data_source": "wikidata_sparql",
+    "extracted_at": "2025-08-11T01:11:25.224997",
+    "wikidata_query_metadata": {
+      "query_date": "2025-08-11T01:11:25.224998",
+      "endpoint": "https://query.wikidata.org/sparql",
+      "data_quality": "structured"
+    }
+  }
+}

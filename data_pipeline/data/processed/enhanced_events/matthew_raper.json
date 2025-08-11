@@ -1,0 +1,176 @@
+{
+  "id": null,
+  "name": "Matthew Raper",
+  "birth_year": 1705,
+  "death_year": 1778,
+  "nationality": "European",
+  "fields": [
+    "mathematics"
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Matthew_Raper",
+  "wikipedia_data": {
+    "url": "https://en.wikipedia.org/wiki/Matthew_Raper",
+    "title": "Matthew Raper",
+    "page_title": "Matthew_Raper",
+    "biography_paragraphs": [
+      "Matthew Raper (1705–1778) was a British astronomer, mathematician, and scholar in various fields. He published papers on diverse subjects, including ancient Greek coinage and Roman currency, as well as their measures and their history from Greek and Latin texts.",
+      "Raper was elected to the Royal Society on 30 May 1754 and was awarded the Copley Medal in 1771 for a paper \"Inquiry into the Value of the ancient Greek and Roman Money.\"[1] He translated Die Zigeuner. Ein historischer Versuch über die Lebensart und Verfassung, Sitten und Schicksale dieses Volks in Europa, nebst ihrem Ursprunge (Dissertation on the Gipseys) from Heinrich Moritz Gottlieb Grellmann [de] German original and wrote diverse papers such as \"An Enquiry into the Measure of the Roman Foot\" (1760) and \"Observations on the Moon's Eclipse, March 17., and the Sun's Eclipse, April 1, 1764.\"[2]",
+      "Matthew Raper's father was also named Matthew and left him the Manor of Thorley, Hertfordshire, upon his death in 1748. Raper had an observatory on the roof of the manor house; upon his death in 1778, the manorial rights passed to his brother John Raper.[citation needed]",
+      "Media related to Matthew Raper at Wikimedia Commons"
+    ],
+    "infobox": {},
+    "scraped_at": "2025-08-11T01:12:40.980266",
+    "raw_html_length": 79122
+  },
+  "processed_at": "2025-08-11T01:12:41.991092",
+  "wikidata_info": {
+    "wikidata_id": "Q3297579",
+    "name": "Matthew Raper",
+    "birth_year": 1705,
+    "death_year": 1778,
+    "birth_date_full": "1705-01-01T00:00:00Z",
+    "death_date_full": "1778-01-01T00:00:00Z",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Matthew_Raper",
+    "nationality": "",
+    "birth_place": {
+      "name": "",
+      "wikidata_uri": "",
+      "coordinates": null
+    },
+    "image_url": "",
+    "fields": [
+      "mathematics"
+    ],
+    "data_source": "wikidata_sparql",
+    "extracted_at": "2025-08-11T01:11:25.225107",
+    "wikidata_query_metadata": {
+      "query_date": "2025-08-11T01:11:25.225108",
+      "endpoint": "https://query.wikidata.org/sparql",
+      "data_quality": "structured"
+    }
+  },
+  "timeline_events": [
+    {
+      "year": 1705,
+      "year_confidence": "exact",
+      "event_type": "birth",
+      "description": "Born Matthew Raper in Hertfordshire, England.",
+      "location": {
+        "place_name": "Hertfordshire, England",
+        "raw_text": "Matthew Raper (1705–1778) was a British astronomer, mathematician, and scholar...",
+        "confidence": 1.0
+      },
+      "source_text": "Matthew Raper (1705–1778) was a British astronomer, mathematician, and scholar...",
+      "confidence": 1.0,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:26:13.890026",
+        "extraction_confidence": 1.0,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1748",
+      "year_confidence": "exact",
+      "event_type": "position",
+      "description": "Inherited the Manor of Thorley, Hertfordshire, upon his father's death.",
+      "location": {
+        "place_name": "Thorley, Hertfordshire",
+        "raw_text": "Matthew Raper's father was also named Matthew and left him the Manor of Thorley, Hertfordshire, upon his death in 1748.",
+        "confidence": 0.95
+      },
+      "source_text": "Matthew Raper's father was also named Matthew and left him the Manor of Thorley, Hertfordshire, upon his death in 1748.",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:26:13.890142",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1760",
+      "year_confidence": "exact",
+      "event_type": "publication",
+      "description": "Published 'An Enquiry into the Measure of the Roman Foot'.",
+      "location": {
+        "place_name": null,
+        "raw_text": "and wrote diverse papers such as \"An Enquiry into the Measure of the Roman Foot\" (1760)",
+        "confidence": 0.9
+      },
+      "source_text": "and wrote diverse papers such as \"An Enquiry into the Measure of the Roman Foot\" (1760)",
+      "confidence": 0.9,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:26:13.890159",
+        "extraction_confidence": 0.9,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1764",
+      "year_confidence": "exact",
+      "event_type": "publication",
+      "description": "Published 'Observations on the Moon's Eclipse, March 17., and the Sun's Eclipse, April 1, 1764'.",
+      "location": {
+        "place_name": null,
+        "raw_text": "and wrote diverse papers such as \"Observations on the Moon's Eclipse, March 17., and the Sun's Eclipse, April 1, 1764.\"",
+        "confidence": 0.95
+      },
+      "source_text": "and wrote diverse papers such as \"Observations on the Moon's Eclipse, March 17., and the Sun's Eclipse, April 1, 1764.\"",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:26:13.890172",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1754",
+      "year_confidence": "exact",
+      "event_type": "position",
+      "description": "Elected to the Royal Society.",
+      "location": {
+        "place_name": "London",
+        "raw_text": "Raper was elected to the Royal Society on 30 May 1754",
+        "confidence": 0.98
+      },
+      "source_text": "Raper was elected to the Royal Society on 30 May 1754",
+      "confidence": 0.98,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:26:13.890183",
+        "extraction_confidence": 0.98,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1771",
+      "year_confidence": "exact",
+      "event_type": "award",
+      "description": "Awarded the Copley Medal for 'Inquiry into the Value of the ancient Greek and Roman Money'.",
+      "location": {
+        "place_name": "London",
+        "raw_text": "and was awarded the Copley Medal in 1771 for a paper \"Inquiry into the Value of the ancient Greek and Roman Money\".",
+        "confidence": 0.95
+      },
+      "source_text": "and was awarded the Copley Medal in 1771 for a paper \"Inquiry into the Value of the ancient Greek and Roman Money\".",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T16:26:13.890195",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    }
+  ],
+  "timeline_extraction_metadata": {
+    "extracted_at": "2025-08-11T16:26:13.890425",
+    "model_used": "lm_studio_google/gemma-3n-e4b",
+    "events_count": 6,
+    "biography_length": 1136,
+    "enhancement_level": "gemma_comprehensive",
+    "target_events_per_mathematician": "5-10"
+  }
+}

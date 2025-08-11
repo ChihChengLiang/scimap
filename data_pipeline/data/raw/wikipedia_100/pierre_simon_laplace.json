@@ -1,0 +1,57 @@
+{
+  "id": null,
+  "name": "Pierre-Simon Laplace",
+  "birth_year": 1749,
+  "death_year": 1827,
+  "nationality": "European",
+  "fields": [
+    "mathematics"
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Pierre-Simon_Laplace",
+  "wikipedia_data": {
+    "url": "https://en.wikipedia.org/wiki/Pierre-Simon_Laplace",
+    "title": "Pierre-Simon Laplace",
+    "page_title": "Pierre-Simon_Laplace",
+    "biography_paragraphs": [
+      "Pierre-Simon, Marquis de Laplace (/ləˈplɑːs/; French: [pjɛʁ simɔ̃ laplas]; 23 March 1749 – 5 March 1827) was a French polymath, a scholar whose work has been instrumental in the fields of physics, astronomy, mathematics,  engineering, statistics, and philosophy. He summarized and extended the work of his predecessors in his five-volume Mécanique céleste (Celestial Mechanics) (1799–1825). This work translated the geometric study of classical mechanics to one based on calculus, opening up a broader range of problems. Laplace also popularized and further confirmed Sir Isaac Newton's work.[2] In statistics, the Bayesian interpretation of probability was developed mainly by Laplace.[3]",
+      "Laplace formulated Laplace's equation, and pioneered the Laplace transform which appears in many branches of mathematical physics, a field that he took a leading role in forming. The Laplacian differential operator, widely used in mathematics, is also named after him. He restated and developed the nebular hypothesis of the origin of the Solar System and was one of the first scientists to suggest an idea similar to that of a black hole,[4] with Stephen Hawking stating that \"Laplace essentially predicted the existence of black holes\".[1] He originated Laplace's demon, which is a hypothetical all-predicting intellect. He also refined Newton's calculation of the speed of sound to derive a more accurate measurement.[5]",
+      "Laplace is regarded as one of the greatest scientists of all time. Sometimes referred to as the French Newton or Newton of France, he has been described as possessing a phenomenal natural mathematical faculty superior to that of almost all of his contemporaries.[6] He was Napoleon's examiner when Napoleon graduated from the École Militaire in Paris in 1785.[7]  Laplace became a count of the Empire in 1806 and was named a marquis in 1817, after the Bourbon Restoration.",
+      "Some details of Laplace's life are not known, as records of it were burned in 1925 with the family château in Saint Julien de Mailloc, near Lisieux, the home of his great-great-grandson the Comte de Colbert-Laplace. Others had been destroyed earlier, when his house at Arcueil near Paris was looted in 1871.[8]",
+      "Laplace was born in Beaumont-en-Auge, Normandy on 23 March 1749, a village four miles west of Pont l'Évêque. According to W. W. Rouse Ball,[9] his father, Pierre de Laplace, owned and farmed the small estates of Maarquis. His great-uncle, Maitre Oliver de Laplace, had held the title of Chirurgien Royal. It would seem that from a pupil he became an usher in the school at Beaumont; but, having procured a letter of introduction to d'Alembert, he went to Paris to advance his fortune. However, Karl Pearson[8] is scathing about the inaccuracies in Rouse Ball's account and states:"
+    ],
+    "infobox": {
+      "birth": "(1749-03-23)23 March 1749Beaumont-en-Auge, Normandy, Kingdom of France",
+      "death": "5 March 1827(1827-03-05) (aged 77)Paris, Kingdom of France",
+      "fields": "Astronomy and Mathematics"
+    },
+    "scraped_at": "2025-08-11T01:11:44.305198",
+    "raw_html_length": 524942
+  },
+  "processed_at": "2025-08-11T01:11:45.310444",
+  "wikidata_info": {
+    "wikidata_id": "Q44481",
+    "name": "Pierre-Simon Laplace",
+    "birth_year": 1749,
+    "death_year": 1827,
+    "birth_date_full": "1749-03-23T00:00:00Z",
+    "death_date_full": "1827-03-05T00:00:00Z",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pierre-Simon_Laplace",
+    "nationality": "",
+    "birth_place": {
+      "name": "",
+      "wikidata_uri": "",
+      "coordinates": null
+    },
+    "image_url": "",
+    "fields": [
+      "mathematics"
+    ],
+    "data_source": "wikidata_sparql",
+    "extracted_at": "2025-08-11T01:11:25.228429",
+    "wikidata_query_metadata": {
+      "query_date": "2025-08-11T01:11:25.228430",
+      "endpoint": "https://query.wikidata.org/sparql",
+      "data_quality": "structured"
+    }
+  }
+}

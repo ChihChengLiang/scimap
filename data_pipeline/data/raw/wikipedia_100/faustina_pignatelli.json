@@ -1,0 +1,58 @@
+{
+  "id": null,
+  "name": "Faustina Pignatelli",
+  "birth_year": 1705,
+  "death_year": 1769,
+  "nationality": "European",
+  "fields": [
+    "mathematics"
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Faustina_Pignatelli",
+  "wikipedia_data": {
+    "url": "https://en.wikipedia.org/wiki/Faustina_Pignatelli",
+    "title": "Faustina Pignatelli",
+    "page_title": "Faustina_Pignatelli",
+    "biography_paragraphs": [
+      "Faustina Pignatelli Carafa, princess of Colubrano (9 December 1705-30 December 1769),[1] was an Italian mathematician and scientist from Naples. She became the second woman (after the Bolognese physicist Laura Bassi)[2] to be elected to the Academy of Sciences of Bologna on 20 November 1732.[3]",
+      "In 1734, Faustina published a paper titled Problemata Mathematica using the name \"anonima napolitana\" (a Latin phrase meaning \"anonymous female from Naples\"), in the German scientific journal Nova Acta Eruditorum, which was published entirely in Latin.[2]",
+      "Alongside her brother Peter, she was educated by Nicola De Martino and was instrumental in introducing the theories of Isaac Newton to Naples. She was an important participator in the scientific debate in Italy and corresponded with the French Academy of Sciences.[2][4]",
+      "Upon her marriage to the poet Francesco Domenico Carafa in 1724, she was given the principality Colubrano in southern Italy as a dowry by her father.[2]",
+      "Francesco Maria Zanotti, secretary of the Academy of Sciences of Bologna from 1723 to 1766, mentioned her as a gifted mathematician in 1745.[2][4]"
+    ],
+    "infobox": {
+      "birth": "9 December 1705",
+      "death": "30 December 1769",
+      "nationality": "Italian",
+      "fields": "Mathematician"
+    },
+    "scraped_at": "2025-08-11T01:12:43.339663",
+    "raw_html_length": 78002
+  },
+  "processed_at": "2025-08-11T01:12:44.344806",
+  "wikidata_info": {
+    "wikidata_id": "Q4511484",
+    "name": "Faustina Pignatelli",
+    "birth_year": 1705,
+    "death_year": 1769,
+    "birth_date_full": "1705-12-09T00:00:00Z",
+    "death_date_full": "1769-12-30T00:00:00Z",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Faustina_Pignatelli",
+    "nationality": "",
+    "birth_place": {
+      "name": "",
+      "wikidata_uri": "",
+      "coordinates": null
+    },
+    "image_url": "",
+    "fields": [
+      "mathematics"
+    ],
+    "data_source": "wikidata_sparql",
+    "extracted_at": "2025-08-11T01:11:25.225135",
+    "wikidata_query_metadata": {
+      "query_date": "2025-08-11T01:11:25.225136",
+      "endpoint": "https://query.wikidata.org/sparql",
+      "data_quality": "structured"
+    }
+  }
+}

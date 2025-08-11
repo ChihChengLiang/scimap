@@ -1,0 +1,57 @@
+{
+  "id": null,
+  "name": "Edmund Stone",
+  "birth_year": 1700,
+  "death_year": 1768,
+  "nationality": "European",
+  "fields": [
+    "mathematics"
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Edmund_Stone",
+  "wikipedia_data": {
+    "url": "https://en.wikipedia.org/wiki/Edmund_Stone",
+    "title": "Edmund Stone",
+    "page_title": "Edmund_Stone",
+    "biography_paragraphs": [
+      "Edmund Stone (c. 1690 – March or April 1768) was an autodidact Scottish mathematician who lived in London and primarily worked as an editor of mathematical and scientific texts and translator from French and Latin into English. He is especially known for his translations of  Nicholas Bion's Mathematical Instruments (1723, 1758) and the Marquis de l'Hospital's  Analyse des Infiniment Petits (1730), and for his New Mathematical Dictionary (1726, 1743). Stone was celebrated for having risen from uneducated gardener's son to accomplished scholar.",
+      "The date and place of Edmund Stone's birth are unknown, as are the names of his parents, but he was probably born in Argyllshire, Scotland, at least a few years before 1700.[1] What little is known about his early life comes from a letter by Andrew Michael Ramsay to Louis-Bertrand Castel, excerpted by the Journal de Trévoux.[2] (See § Appendix: Letter from Ramsay below for the letter and a translation.) According to this letter, Stone was the son of the gardener of John Campbell, 2nd Duke of Argyll. He never attended any formal school, but after being taught by a servant to read at age 18, he taught himself arithmetic, geometry, Latin, and French. As the story goes, the Duke found a copy of Isaac Newton's Principia in the grass in his garden, and was astonished to find it belonged to the 28-year-old Stone,[3] and that he understood Latin and advanced mathematics. However, Stone's description of himself having studied mathematical instruments from the age of twelve seems inconsistent with this story.[4] The Duke became his patron.[5]",
+      "With the Duke's support, Stone moved to London c. 1720,[6] where he likely worked as a mathematics tutor.[7] He published translations of the Marquis de l'Hospital's posthumous book about conic sections in 1720 and Christopher Clavius's translation of Theodosius's Spherics in 1721. In 1723 he published a translation of Nicholas Bion's Construction and Principal Uses of Mathematical Instruments, to which he added descriptions of the English variants of the French instruments described by Bion; this book became the standard reference about the subject in English throughout the 18th century.[8] In 1725 he was elected a Fellow of the Royal Society,[9] and from 1725 until at least 1736 he was a member of the Board of Green Cloth.[10] His New Mathematical Dictionary appeared in 1726, a cheaper alternative to John Harris's Lexicon Technicum.[11] He also translated Euclid's Elements (1728); l'Hospital's differential calculus book Analyse des Infiniment Petits, to which he adjoined a second part about integral calculus, as The Method of Fluxions (1730);[12] and Isaac Barrow's Geometrical Lectures (1735).",
+      "In 1736 Stone submitted a paper to the Philosophical Transactions of the Royal Society (published 1740) about two cubic plane curves not cataloged by Isaac Newton or James Stirling,[13] but unbeknownst to him the two had been previously published in 1731 by François Nicole and 1733 by Nicolaus Bernoulli, respectively.[14] In 1742 Stone submitted a 21-page paper \"On Sir Isaac Newton's five diverging Parabolas\", which was read to the Society but apparently never published.[15]",
+      "In 1742, Stone resigned as a Fellow of the Royal Society, perhaps for inability to pay the small annual membership fee.[16] In October 1743 Stone's patron the Duke of Argyll died.[14] Little is known about Stone's life afterward, though he made another translation of Euclid's Elements in 1752, and he published a second edition of Bion's Mathematical Instruments in 1758, with a long appendix covering advancements of the intervening years. In a 1760 review in The Critical Review, Tobias Smollett wrote of Stone's situation, \"His abilities are universally acknowledged, his reputation unblemished, his services to the public uncontested, and yet he lives to an advanced age unrewarded, except by a mean employment that reflects dishonour on the donor\".[17] In 1766 Stone published a contrarian polemic contesting the scientific validity of the spherical shape of the Earth and suggesting contemporary evidence was insufficient to discount the possibility Earth is an irregular roundish polyhedron; biographers have suggested this book was the product of cognitive decline.[18] Stone died in March or April 1768.[19]"
+    ],
+    "infobox": {
+      "birth": "c. 1690unknown, likely Argyllshire, Scotland",
+      "death": "March or April 1768unknown",
+      "fields": "Mathematics"
+    },
+    "scraped_at": "2025-08-11T01:12:02.232051",
+    "raw_html_length": 149862
+  },
+  "processed_at": "2025-08-11T01:12:03.235738",
+  "wikidata_info": {
+    "wikidata_id": "Q18712038",
+    "name": "Edmund Stone",
+    "birth_year": 1700,
+    "death_year": 1768,
+    "birth_date_full": "1700-01-01T00:00:00Z",
+    "death_date_full": "1768-01-01T00:00:00Z",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Edmund_Stone",
+    "nationality": "",
+    "birth_place": {
+      "name": "",
+      "wikidata_uri": "",
+      "coordinates": null
+    },
+    "image_url": "",
+    "fields": [
+      "mathematics"
+    ],
+    "data_source": "wikidata_sparql",
+    "extracted_at": "2025-08-11T01:11:25.224717",
+    "wikidata_query_metadata": {
+      "query_date": "2025-08-11T01:11:25.224717",
+      "endpoint": "https://query.wikidata.org/sparql",
+      "data_quality": "structured"
+    }
+  }
+}

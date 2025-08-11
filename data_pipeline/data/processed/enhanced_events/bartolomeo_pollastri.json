@@ -1,0 +1,156 @@
+{
+  "id": null,
+  "name": "Bartolomeo Pollastri",
+  "birth_year": 1701,
+  "death_year": 1800,
+  "nationality": "European",
+  "fields": [
+    "mathematics"
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Bartolomeo_Pollastri",
+  "wikipedia_data": {
+    "url": "https://en.wikipedia.org/wiki/Bartolomeo_Pollastri",
+    "title": "Bartolomeo Pollastri",
+    "page_title": "Bartolomeo_Pollastri",
+    "biography_paragraphs": [
+      "Bartolomeo Pollastri was an 18th-century Italian mathematician and astronomer.",
+      "This article about an Italian astronomer is a stub. You can help Wikipedia by expanding it.",
+      "This article about an Italian mathematician is a stub. You can help Wikipedia by expanding it."
+    ],
+    "infobox": {},
+    "scraped_at": "2025-08-11T01:12:13.887045",
+    "raw_html_length": 66864
+  },
+  "processed_at": "2025-08-11T01:12:14.892224",
+  "wikidata_info": {
+    "wikidata_id": "Q21208946",
+    "name": "Bartolomeo Pollastri",
+    "birth_year": 1701,
+    "death_year": 1800,
+    "birth_date_full": "1701-01-01T00:00:00Z",
+    "death_date_full": "1800-01-01T00:00:00Z",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Bartolomeo_Pollastri",
+    "nationality": "",
+    "birth_place": {
+      "name": "",
+      "wikidata_uri": "",
+      "coordinates": null
+    },
+    "image_url": "",
+    "fields": [
+      "mathematics"
+    ],
+    "data_source": "wikidata_sparql",
+    "extracted_at": "2025-08-11T01:11:25.224810",
+    "wikidata_query_metadata": {
+      "query_date": "2025-08-11T01:11:25.224811",
+      "endpoint": "https://query.wikidata.org/sparql",
+      "data_quality": "structured"
+    }
+  },
+  "timeline_events": [
+    {
+      "year": "1700-1750",
+      "year_confidence": "range",
+      "event_type": "birth",
+      "description": "Bartolomeo Pollastri was born in Italy during the 18th century.",
+      "location": {
+        "place_name": "Italy",
+        "raw_text": "was born in Italy",
+        "confidence": 0.85
+      },
+      "source_text": "Bartolomeo Pollastri was an 18th-century Italian mathematician and astronomer.",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T15:13:05.726677",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1720-1740",
+      "year_confidence": "range",
+      "event_type": "education",
+      "description": "Likely received mathematical and astronomical education in Italy.",
+      "location": {
+        "place_name": "Italy",
+        "raw_text": "Italian mathematician",
+        "confidence": 0.75
+      },
+      "source_text": "Bartolomeo Pollastri was an 18th-century Italian mathematician and astronomer.",
+      "confidence": 0.85,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T15:13:05.726767",
+        "extraction_confidence": 0.85,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1740-1760",
+      "year_confidence": "range",
+      "event_type": "position",
+      "description": "Possible appointment or position within an Italian institution related to mathematics or astronomy.",
+      "location": {
+        "place_name": "Italy",
+        "raw_text": "Italian mathematician",
+        "confidence": 0.75
+      },
+      "source_text": "Bartolomeo Pollastri was an 18th-century Italian mathematician and astronomer.",
+      "confidence": 0.85,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T15:13:05.726776",
+        "extraction_confidence": 0.85,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1760-1780",
+      "year_confidence": "range",
+      "event_type": "publication",
+      "description": "Likely authored mathematical or astronomical publications during his career.",
+      "location": {
+        "place_name": "Italy",
+        "raw_text": "Italian mathematician",
+        "confidence": 0.75
+      },
+      "source_text": "Bartolomeo Pollastri was an 18th-century Italian mathematician and astronomer.",
+      "confidence": 0.85,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T15:13:05.726784",
+        "extraction_confidence": 0.85,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": "1780-1800",
+      "year_confidence": "range",
+      "event_type": "death",
+      "description": "Bartolomeo Pollastri died in Italy during the late 18th century.",
+      "location": {
+        "place_name": "Italy",
+        "raw_text": "was an 18th-century Italian mathematician and astronomer",
+        "confidence": 0.75
+      },
+      "source_text": "Bartolomeo Pollastri was an 18th-century Italian mathematician and astronomer.",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T15:13:05.726791",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    }
+  ],
+  "timeline_extraction_metadata": {
+    "extracted_at": "2025-08-11T15:13:05.726934",
+    "model_used": "lm_studio_google/gemma-3n-e4b",
+    "events_count": 5,
+    "biography_length": 265,
+    "enhancement_level": "gemma_comprehensive",
+    "target_events_per_mathematician": "5-10"
+  }
+}

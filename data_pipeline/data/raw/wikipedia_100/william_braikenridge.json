@@ -1,0 +1,52 @@
+{
+  "id": null,
+  "name": "William Braikenridge",
+  "birth_year": 1700,
+  "death_year": 1762,
+  "nationality": "European",
+  "fields": [
+    "mathematics"
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/William_Braikenridge",
+  "wikipedia_data": {
+    "url": "https://en.wikipedia.org/wiki/William_Braikenridge",
+    "title": "William Braikenridge",
+    "page_title": "William_Braikenridge",
+    "biography_paragraphs": [
+      "William Braikenridge (also Brakenridge) (c.1700–1762) was a Scottish mathematician and cleric, a Fellow of the Royal Society from 1752.[1]",
+      "He was son of John Braikenridge of Glasgow.[2] In the 1720s he taught mathematics in Edinburgh.[3]",
+      "Braikenridge was Honorary A.M. in 1735,[4] and D.D. in 1739, of Marischal College, when he was vicar of New Church, Isle of Wight.[5] He was incorporated at The Queen's College, Oxford, in 1741.[2] He became rector of St Michael Bassishaw, and from 1745 librarian of Sion College, in London.[6][7]",
+      "In geometry the Braikenridge–Maclaurin theorem was independently discovered by Colin Maclaurin.[8] It occasioned a priority dispute after Braikenridge published it in 1733;[9] Stella Mills writes that, while Braikenridge may have wished to establish priority, Maclaurin rather felt slighted by the implication that he did not know theorems in the Exercitatio that he had taught for a number of years.[10]"
+    ],
+    "infobox": {},
+    "scraped_at": "2025-08-11T01:12:01.056878",
+    "raw_html_length": 86000
+  },
+  "processed_at": "2025-08-11T01:12:02.058403",
+  "wikidata_info": {
+    "wikidata_id": "Q15994322",
+    "name": "William Braikenridge",
+    "birth_year": 1700,
+    "death_year": 1762,
+    "birth_date_full": "1700-01-01T00:00:00Z",
+    "death_date_full": "1762-07-30T00:00:00Z",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/William_Braikenridge",
+    "nationality": "",
+    "birth_place": {
+      "name": "",
+      "wikidata_uri": "",
+      "coordinates": null
+    },
+    "image_url": "",
+    "fields": [
+      "mathematics"
+    ],
+    "data_source": "wikidata_sparql",
+    "extracted_at": "2025-08-11T01:11:25.224712",
+    "wikidata_query_metadata": {
+      "query_date": "2025-08-11T01:11:25.224713",
+      "endpoint": "https://query.wikidata.org/sparql",
+      "data_quality": "structured"
+    }
+  }
+}

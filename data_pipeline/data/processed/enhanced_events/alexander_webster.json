@@ -1,0 +1,215 @@
+{
+  "id": null,
+  "name": "Alexander Webster",
+  "birth_year": 1707,
+  "death_year": 1784,
+  "nationality": "French",
+  "fields": [
+    "mathematics"
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Alexander_Webster",
+  "wikipedia_data": {
+    "url": "https://en.wikipedia.org/wiki/Alexander_Webster",
+    "title": "Alexander Webster",
+    "page_title": "Alexander_Webster",
+    "biography_paragraphs": [
+      "Alexander Webster (1707 – 25 January 1784) was a Scottish writer and minister of the Church of Scotland, who served as Moderator of the General Assembly of the Church of Scotland in 1753. After his service as Moderator he was addressed as Very Rev Dr Alexander Webster.",
+      "He was born in Edinburgh in 1707, the son of Rev James Webster, second charge of Tolbooth parish in St Giles Cathedral and a covenanting minister, originally from Fife. Alexander was educated at the High School of Edinburgh then studied at Edinburgh University. He was licensed to preach by the Presbytery of Haddington in March 1733.[1]",
+      "In September 1733 Alexander was ordained as minister of the Church of Scotland at Culross Parish Church in western Fife. On 2 June 1737 he was translated to Tolbooth parish, one of the four parishes contained in St Giles Cathedral in Edinburgh.",
+      "He propounded a scheme in 1742 for providing pensions for the widows of ministers. The tables which he drew up from information obtained from all the presbyteries of Scotland were based on a system of actuarial calculation that supplied a precedent followed by insurance companies in modern times for reckoning averages of longevity.[2]",
+      "Webster published in 1748 his Calculations, setting forth the principles on which his scheme for widows' pensions was based; he also wrote a defence of the Methodist movement in 1742, and Zeal for the Civil and Religious Interests of Mankind Commended (1754).[2]"
+    ],
+    "infobox": {},
+    "scraped_at": "2025-08-11T01:12:48.144888",
+    "raw_html_length": 90246
+  },
+  "processed_at": "2025-08-11T01:12:49.150065",
+  "wikidata_info": {
+    "wikidata_id": "Q4720349",
+    "name": "Alexander Webster",
+    "birth_year": 1707,
+    "death_year": 1784,
+    "birth_date_full": "1707-01-01T00:00:00Z",
+    "death_date_full": "1784-01-25T00:00:00Z",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Alexander_Webster",
+    "nationality": "",
+    "birth_place": {
+      "name": "",
+      "wikidata_uri": "",
+      "coordinates": null
+    },
+    "image_url": "",
+    "fields": [
+      "mathematics"
+    ],
+    "data_source": "wikidata_sparql",
+    "extracted_at": "2025-08-11T01:11:25.225185",
+    "wikidata_query_metadata": {
+      "query_date": "2025-08-11T01:11:25.225186",
+      "endpoint": "https://query.wikidata.org/sparql",
+      "data_quality": "structured"
+    }
+  },
+  "timeline_events": [
+    {
+      "year": 1707,
+      "year_confidence": "exact",
+      "event_type": "birth",
+      "description": "Born in Edinburgh, Scotland.",
+      "location": {
+        "place_name": "Edinburgh",
+        "raw_text": "Born in Edinburgh in 1707",
+        "confidence": 1.0
+      },
+      "source_text": "Born in Edinburgh in 1707",
+      "confidence": 1.0,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T14:35:12.154253",
+        "extraction_confidence": 1.0,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": 1700,
+      "year_confidence": "range",
+      "event_type": "education",
+      "description": "Attended the High School of Edinburgh.",
+      "location": {
+        "place_name": "Edinburgh",
+        "raw_text": "educated at the High School of Edinburgh",
+        "confidence": 0.95
+      },
+      "source_text": "educated at the High School of Edinburgh",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T14:35:12.154341",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": 1700,
+      "year_confidence": "range",
+      "event_type": "education",
+      "description": "Studied at Edinburgh University.",
+      "location": {
+        "place_name": "Edinburgh",
+        "raw_text": "studied at Edinburgh University",
+        "confidence": 0.95
+      },
+      "source_text": "studied at Edinburgh University",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T14:35:12.154348",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": 1733,
+      "year_confidence": "exact",
+      "event_type": "position",
+      "description": "Licensed to preach by the Presbytery of Haddington.",
+      "location": {
+        "place_name": "Haddington",
+        "raw_text": "Licensed to preach by the Presbytery of Haddington in March 1733",
+        "confidence": 0.9
+      },
+      "source_text": "Licensed to preach by the Presbytery of Haddington in March 1733",
+      "confidence": 0.9,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T14:35:12.154354",
+        "extraction_confidence": 0.9,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": 1733,
+      "year_confidence": "exact",
+      "event_type": "position",
+      "description": "Ordained as minister of the Church of Scotland at Culross Parish Church.",
+      "location": {
+        "place_name": "Culross",
+        "raw_text": "ordained as minister of the Church of Scotland at Culross Parish Church in western Fife.",
+        "confidence": 0.95
+      },
+      "source_text": "ordained as minister of the Church of Scotland at Culross Parish Church in western Fife.",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T14:35:12.154360",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": 1737,
+      "year_confidence": "exact",
+      "event_type": "position",
+      "description": "Translated to Tolbooth parish, Edinburgh.",
+      "location": {
+        "place_name": "Edinburgh",
+        "raw_text": "translated to Tolbooth parish, one of the four parishes contained in St Giles Cathedral in Edinburgh",
+        "confidence": 0.95
+      },
+      "source_text": "translated to Tolbooth parish, one of the four parishes contained in St Giles Cathedral in Edinburgh",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T14:35:12.154365",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": 1753,
+      "year_confidence": "exact",
+      "event_type": "position",
+      "description": "Served as Moderator of the General Assembly of the Church of Scotland.",
+      "location": {
+        "place_name": "Edinburgh",
+        "raw_text": "served as Moderator of the General Assembly of the Church of Scotland in 1753",
+        "confidence": 0.95
+      },
+      "source_text": "served as Moderator of the General Assembly of the Church of Scotland in 1753",
+      "confidence": 0.95,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T14:35:12.154370",
+        "extraction_confidence": 0.95,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    },
+    {
+      "year": 1784,
+      "year_confidence": "exact",
+      "event_type": "death",
+      "description": "Died on 25 January 1784.",
+      "location": {
+        "place_name": "Edinburgh",
+        "raw_text": "Alexander Webster (1707– 25 January 1784)",
+        "confidence": 0.9
+      },
+      "source_text": "Alexander Webster (1707– 25 January 1784)",
+      "confidence": 1.0,
+      "extraction_metadata": {
+        "model_version": "lm_studio_google/gemma-3n-e4b",
+        "extracted_at": "2025-08-11T14:35:12.154376",
+        "extraction_confidence": 1.0,
+        "extraction_method": "lm_studio_gemma_enhanced"
+      }
+    }
+  ],
+  "timeline_extraction_metadata": {
+    "extracted_at": "2025-08-11T14:35:12.154533",
+    "model_used": "lm_studio_google/gemma-3n-e4b",
+    "events_count": 8,
+    "biography_length": 852,
+    "enhancement_level": "gemma_comprehensive",
+    "target_events_per_mathematician": "5-10"
+  }
+}

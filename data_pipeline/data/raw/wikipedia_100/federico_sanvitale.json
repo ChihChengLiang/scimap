@@ -1,0 +1,51 @@
+{
+  "id": null,
+  "name": "Federico Sanvitale",
+  "birth_year": 1704,
+  "death_year": 1761,
+  "nationality": "French",
+  "fields": [
+    "mathematics"
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Federico_Sanvitale",
+  "wikipedia_data": {
+    "url": "https://en.wikipedia.org/wiki/Federico_Sanvitale",
+    "title": "Federico Sanvitale",
+    "page_title": "Federico_Sanvitale",
+    "biography_paragraphs": [
+      "Federico Sanvitale (Fontanellato, 19 May 1704 – Brescia, 8 December 1761) was an Italian mathematician and Jesuit that marked a pivot moment for the growth of Brescia's scientific culture.[1]",
+      "This article about an Italian mathematician is a stub. You can help Wikipedia by expanding it.",
+      "This article about an Italian Roman Catholic cleric is a stub. You can help Wikipedia by expanding it."
+    ],
+    "infobox": {},
+    "scraped_at": "2025-08-11T01:12:33.941754",
+    "raw_html_length": 76690
+  },
+  "processed_at": "2025-08-11T01:12:34.950375",
+  "wikidata_info": {
+    "wikidata_id": "Q21209024",
+    "name": "Federico Sanvitale",
+    "birth_year": 1704,
+    "death_year": 1761,
+    "birth_date_full": "1704-05-19T00:00:00Z",
+    "death_date_full": "1761-12-08T00:00:00Z",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Federico_Sanvitale",
+    "nationality": "",
+    "birth_place": {
+      "name": "",
+      "wikidata_uri": "",
+      "coordinates": null
+    },
+    "image_url": "",
+    "fields": [
+      "mathematics"
+    ],
+    "data_source": "wikidata_sparql",
+    "extracted_at": "2025-08-11T01:11:25.225061",
+    "wikidata_query_metadata": {
+      "query_date": "2025-08-11T01:11:25.225062",
+      "endpoint": "https://query.wikidata.org/sparql",
+      "data_quality": "structured"
+    }
+  }
+}

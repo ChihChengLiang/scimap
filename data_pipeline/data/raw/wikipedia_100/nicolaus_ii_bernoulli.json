@@ -1,0 +1,51 @@
+{
+  "id": null,
+  "name": "Nicolaus II Bernoulli",
+  "birth_year": 1695,
+  "death_year": 1726,
+  "nationality": "European",
+  "fields": [
+    "mathematics"
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Nicolaus_II_Bernoulli",
+  "wikipedia_data": {
+    "url": "https://en.wikipedia.org/wiki/Nicolaus_II_Bernoulli",
+    "title": "Nicolaus II Bernoulli",
+    "page_title": "Nicolaus_II_Bernoulli",
+    "biography_paragraphs": [
+      "Nicolaus II Bernoulli (also spelled as Niklaus or Nikolaus; 6 February 1695 in Basel – 9 August 1726 in Saint Petersburg) was a Swiss mathematician as were his father Johann Bernoulli and one of his brothers, Daniel Bernoulli.  He was one of the many prominent mathematicians in the Bernoulli family.",
+      "Nicolaus worked mostly on curves, differential equations, and probability. He was a friend and contemporary of Leonhard Euler, who studied under Nicolaus' father.  He also contributed to fluid dynamics.",
+      "He was older brother of Daniel Bernoulli, to whom he also taught mathematics.  Even in his youth he had learned several languages. From the age of 13, he studied mathematics and law at the University of Basel. In 1711 he received his Master's of Philosophy; in 1715 he received a Doctorate in Law. In 1716-17 he was a private tutor in Venice. From 1719 he had the Chair in Mathematics at the University of Padua, as the successor of Giovanni Poleni. He served as an assistant to his father, among other areas, in the correspondence over the priority dispute between Isaac Newton and Leibniz, and also in the priority dispute between his father and the English mathematician Brook Taylor. In 1720 he posed the problem of reciprocal orthogonal trajectories, which was intended as a challenge for the English Newtonians. From 1723 he was a law professor at the Berner Oberen Schule. In 1725 he together with his brother Daniel, with whom he was touring Italy and France at this time, was invited by Peter the Great to the newly founded St. Petersburg Academy. Eight months after his appointment he came down with a fever and died. His professorship was succeeded in 1727 by Leonhard Euler, whom the Bernoulli brothers had recommended.  His early death cut short a promising career."
+    ],
+    "infobox": {},
+    "scraped_at": "2025-08-11T01:11:53.870261",
+    "raw_html_length": 106824
+  },
+  "processed_at": "2025-08-11T01:11:54.875769",
+  "wikidata_info": {
+    "wikidata_id": "Q124001",
+    "name": "Nicolaus II Bernoulli",
+    "birth_year": 1695,
+    "death_year": 1726,
+    "birth_date_full": "1695-02-06T00:00:00Z",
+    "death_date_full": "1726-07-31T00:00:00Z",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Nicolaus_II_Bernoulli",
+    "nationality": "",
+    "birth_place": {
+      "name": "",
+      "wikidata_uri": "",
+      "coordinates": null
+    },
+    "image_url": "",
+    "fields": [
+      "mathematics"
+    ],
+    "data_source": "wikidata_sparql",
+    "extracted_at": "2025-08-11T01:11:25.224499",
+    "wikidata_query_metadata": {
+      "query_date": "2025-08-11T01:11:25.224500",
+      "endpoint": "https://query.wikidata.org/sparql",
+      "data_quality": "structured"
+    }
+  }
+}
