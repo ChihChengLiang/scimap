@@ -173,7 +173,32 @@ const TimelineSlider: React.FC<TimelineSliderProps> = ({
           <Typography variant="body2" sx={{ color: '#5d6d7e', mb: 1 }}>
             Active in {selectedYear}:
           </Typography>
-          <Box display="flex" flexWrap="wrap" gap={1}>
+          <Box 
+            sx={{
+              display: 'flex',
+              flexWrap: 'wrap',
+              gap: 1,
+              maxHeight: '120px', // Fixed height to prevent overwhelming the screen
+              overflowY: 'auto',  // Enable vertical scrolling
+              overflowX: 'hidden',
+              padding: '4px', // Small padding to prevent chips from touching the scrollbar
+              // Custom scrollbar styling
+              '&::-webkit-scrollbar': {
+                width: '6px',
+              },
+              '&::-webkit-scrollbar-track': {
+                background: 'rgba(212, 165, 116, 0.1)', // Light dusty rose track
+                borderRadius: '3px',
+              },
+              '&::-webkit-scrollbar-thumb': {
+                background: 'rgba(201, 176, 55, 0.6)', // Antique gold thumb
+                borderRadius: '3px',
+                '&:hover': {
+                  background: 'rgba(201, 176, 55, 0.8)', // Darker on hover
+                },
+              },
+            }}
+          >
             {activeMathematicians.map(mathematician => (
               <Chip
                 key={mathematician.id}
@@ -188,6 +213,7 @@ const TimelineSlider: React.FC<TimelineSliderProps> = ({
                   fontSize: '0.75rem',
                   cursor: 'pointer',
                   transition: 'all 0.2s ease',
+                  flexShrink: 0, // Prevent chips from shrinking when scrolling
                   '&:hover': {
                     backgroundColor: 'rgba(212, 165, 116, 0.15)', // Light dusty rose hover
                     borderColor: '#c9b037', // Antique gold on hover
