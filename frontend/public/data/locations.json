@@ -199,5 +199,885 @@
     "place_name": "German Mathematical Center",
     "historical_period": "1728-1777",
     "confidence": 0.8
+  },
+  "Academic Institution": {
+    "place_name": "Academic Institution",
+    "coordinates": {
+      "lat": 7.1078681,
+      "lng": 125.6149762
+    },
+    "confidence": 0.8,
+    "historical_context": "18th century location: Academic Institution",
+    "alternative_names": [
+      "Academic Institution"
+    ],
+    "modern_equivalent": "Ananga Marga Special Academic Institution, Cherrytree Street, Sandawa Village Phase 2, Apollo, Buhangin, Buhangin District, Davao City, Davao Region, 8000, Philippines",
+    "geocoded_at": "2025-08-11T20:41:30.323936",
+    "geocoding_method": "nominatim_batch",
+    "model_version": "openstreetmap"
+  },
+  "Academy of Geneva": {
+    "place_name": "Academy of Geneva",
+    "coordinates": {
+      "lat": 46.2197048,
+      "lng": 6.1508203
+    },
+    "confidence": 0.8,
+    "historical_context": "18th century location: Academy of Geneva",
+    "alternative_names": [
+      "Academy of Geneva"
+    ],
+    "modern_equivalent": "Geneva Academy of International Humanitarian Law and Human Rights, 120B, Rue de Lausanne, Sécheron, Pâquis, Genève, 1202, Schweiz/Suisse/Svizzera/Svizra",
+    "geocoded_at": "2025-08-11T20:41:34.342965",
+    "geocoding_method": "nominatim_batch",
+    "model_version": "openstreetmap"
+  },
+  "Alexandria, Virginia": {
+    "place_name": "Alexandria, Virginia",
+    "coordinates": {
+      "lat": 38.8051095,
+      "lng": -77.0470229
+    },
+    "confidence": 0.8,
+    "historical_context": "18th century location: Alexandria, Virginia",
+    "alternative_names": [
+      "Alexandria, Virginia"
+    ],
+    "modern_equivalent": "Alexandria, Virginia, United States",
+    "geocoded_at": "2025-08-11T20:41:39.361833",
+    "geocoding_method": "nominatim_batch",
+    "model_version": "openstreetmap"
+  },
+  "Altdorf bei Nürnberg": {
+    "place_name": "Altdorf bei Nürnberg",
+    "coordinates": {
+      "lat": 49.3858107,
+      "lng": 11.3564341
+    },
+    "confidence": 0.8,
+    "historical_context": "18th century location: Altdorf bei Nürnberg",
+    "alternative_names": [
+      "Altdorf bei Nürnberg"
+    ],
+    "modern_equivalent": "Altdorf bei Nürnberg, Landkreis Nürnberger Land, Bayern, 90518, Deutschland",
+    "geocoded_at": "2025-08-11T20:41:41.287283",
+    "geocoding_method": "nominatim_batch",
+    "model_version": "openstreetmap"
+  },
+  "America": {
+    "place_name": "America",
+    "coordinates": {
+      "lat": 39.7837304,
+      "lng": -100.445882
+    },
+    "confidence": 0.8,
+    "historical_context": "18th century location: America",
+    "alternative_names": [
+      "America"
+    ],
+    "modern_equivalent": "United States",
+    "geocoded_at": "2025-08-11T20:41:43.757009",
+    "geocoding_method": "nominatim_batch",
+    "model_version": "openstreetmap"
+  },
+  "Amsterdam": {
+    "place_name": "Amsterdam",
+    "coordinates": {
+      "lat": 52.3730796,
+      "lng": 4.8924534
+    },
+    "confidence": 0.8,
+    "historical_context": "18th century location: Amsterdam",
+    "alternative_names": [
+      "Amsterdam"
+    ],
+    "modern_equivalent": "Amsterdam, Noord-Holland, Nederland",
+    "geocoded_at": "2025-08-11T20:41:45.670878",
+    "geocoding_method": "nominatim_batch",
+    "model_version": "openstreetmap"
+  },
+  "Anderby": {
+    "place_name": "Anderby",
+    "coordinates": {
+      "lat": 53.2573007,
+      "lng": 0.3028865
+    },
+    "confidence": 0.8,
+    "historical_context": "18th century location: Anderby",
+    "alternative_names": [
+      "Anderby"
+    ],
+    "modern_equivalent": "Anderby, East Lindsey, Lincolnshire, Greater Lincolnshire, England, United Kingdom",
+    "geocoded_at": "2025-08-11T20:41:47.562112",
+    "geocoding_method": "nominatim_batch",
+    "model_version": "openstreetmap"
+  },
+  "Ansbach": {
+    "place_name": "Ansbach",
+    "coordinates": {
+      "lat": 49.2888745,
+      "lng": 10.5597693
+    },
+    "confidence": 0.8,
+    "historical_context": "18th century location: Ansbach",
+    "alternative_names": [
+      "Ansbach"
+    ],
+    "modern_equivalent": "Ansbach, Bayern, 91522, Deutschland",
+    "geocoded_at": "2025-08-11T20:41:49.398325",
+    "geocoding_method": "nominatim_batch",
+    "model_version": "openstreetmap"
+  },
+  "Ansbach Gymnasium": {
+    "place_name": "Ansbach Gymnasium",
+    "coordinates": {
+      "lat": 49.0643205,
+      "lng": 10.3168407
+    },
+    "confidence": 0.8,
+    "historical_context": "18th century location: Ansbach Gymnasium",
+    "alternative_names": [
+      "Ansbach Gymnasium"
+    ],
+    "modern_equivalent": "Gymnasium, Südring, Gaismühle, Dinkelsbühl, Landkreis Ansbach, Bayern, 91550, Deutschland",
+    "geocoded_at": "2025-08-11T20:41:51.653147",
+    "geocoding_method": "nominatim_batch",
+    "model_version": "openstreetmap"
+  },
+  "Arezzo": {
+    "place_name": "Arezzo",
+    "coordinates": {
+      "lat": 43.5171442,
+      "lng": 11.7639282
+    },
+    "confidence": 0.8,
+    "historical_context": "18th century location: Arezzo",
+    "alternative_names": [
+      "Arezzo"
+    ],
+    "modern_equivalent": "Arezzo, Toscana, Italia",
+    "geocoded_at": "2025-08-11T20:41:53.461025",
+    "geocoding_method": "nominatim_batch",
+    "model_version": "openstreetmap"
+  },
+  "Arthur's Seat": {
+    "place_name": "Arthur's Seat",
+    "coordinates": {
+      "lat": 55.9440812,
+      "lng": -3.161833
+    },
+    "confidence": 0.8,
+    "historical_context": "18th century location: Arthur's Seat",
+    "alternative_names": [
+      "Arthur's Seat"
+    ],
+    "modern_equivalent": "Arthur's Seat, City of Edinburgh, Alba / Scotland, EH8 8HG, United Kingdom",
+    "geocoded_at": "2025-08-11T20:41:55.323346",
+    "geocoding_method": "nominatim_batch",
+    "model_version": "openstreetmap"
+  },
+  "Avignon": {
+    "place_name": "Avignon",
+    "coordinates": {
+      "lat": 43.9492493,
+      "lng": 4.8059012
+    },
+    "confidence": 0.8,
+    "historical_context": "18th century location: Avignon",
+    "alternative_names": [
+      "Avignon"
+    ],
+    "modern_equivalent": "Avignon, Vaucluse, Provence-Alpes-Côte d'Azur, France métropolitaine, France",
+    "geocoded_at": "2025-08-11T20:41:59.383072",
+    "geocoding_method": "nominatim_batch",
+    "model_version": "openstreetmap"
+  },
+  "Bagnols-sur-Cèze": {
+    "place_name": "Bagnols-sur-Cèze",
+    "coordinates": {
+      "lat": 44.160481,
+      "lng": 4.6235831
+    },
+    "confidence": 0.8,
+    "historical_context": "18th century location: Bagnols-sur-Cèze",
+    "alternative_names": [
+      "Bagnols-sur-Cèze"
+    ],
+    "modern_equivalent": "Bagnols-sur-Cèze, Nîmes, Gard, Occitanie, France métropolitaine, 30200, France",
+    "geocoded_at": "2025-08-11T20:42:01.286039",
+    "geocoding_method": "nominatim_batch",
+    "model_version": "openstreetmap"
+  },
+  "Basel": {
+    "place_name": "Basel",
+    "coordinates": {
+      "lat": 47.5581077,
+      "lng": 7.5878261
+    },
+    "confidence": 0.8,
+    "historical_context": "18th century location: Basel",
+    "alternative_names": [
+      "Basel"
+    ],
+    "modern_equivalent": "Basel, Basel-Stadt, Schweiz/Suisse/Svizzera/Svizra",
+    "geocoded_at": "2025-08-11T20:42:03.338165",
+    "geocoding_method": "nominatim_batch",
+    "model_version": "openstreetmap"
+  },
+  "Basel, Switzerland": {
+    "place_name": "Basel, Switzerland",
+    "coordinates": {
+      "lat": 47.5581077,
+      "lng": 7.5878261
+    },
+    "confidence": 0.8,
+    "historical_context": "18th century location: Basel, Switzerland",
+    "alternative_names": [
+      "Basel, Switzerland"
+    ],
+    "modern_equivalent": "Basel, Basel-Stadt, Schweiz/Suisse/Svizzera/Svizra",
+    "geocoded_at": "2025-08-11T20:42:05.308099",
+    "geocoding_method": "nominatim_batch",
+    "model_version": "openstreetmap"
+  },
+  "Bath": {
+    "place_name": "Bath",
+    "coordinates": {
+      "lat": 51.3813864,
+      "lng": -2.3596963
+    },
+    "confidence": 0.8,
+    "historical_context": "18th century location: Bath",
+    "alternative_names": [
+      "Bath"
+    ],
+    "modern_equivalent": "Bath, Bath and North East Somerset, West of England, England, United Kingdom",
+    "geocoded_at": "2025-08-11T20:42:07.272946",
+    "geocoding_method": "nominatim_batch",
+    "model_version": "openstreetmap"
+  },
+  "Beijing": {
+    "place_name": "Beijing",
+    "coordinates": {
+      "lat": 40.190632,
+      "lng": 116.412144
+    },
+    "confidence": 0.8,
+    "historical_context": "18th century location: Beijing",
+    "alternative_names": [
+      "Beijing"
+    ],
+    "modern_equivalent": "北京市, 中国",
+    "geocoded_at": "2025-08-11T20:42:09.302301",
+    "geocoding_method": "nominatim_batch",
+    "model_version": "openstreetmap"
+  },
+  "Belver de Cinca": {
+    "place_name": "Belver de Cinca",
+    "coordinates": {
+      "lat": 41.6910541,
+      "lng": 0.1793943
+    },
+    "confidence": 0.8,
+    "historical_context": "18th century location: Belver de Cinca",
+    "alternative_names": [
+      "Belver de Cinca"
+    ],
+    "modern_equivalent": "Belver de Cinca, Bajo Cinca / Baix Cinca, Huesca, Aragón, España",
+    "geocoded_at": "2025-08-11T20:42:11.206409",
+    "geocoding_method": "nominatim_batch",
+    "model_version": "openstreetmap"
+  },
+  "Berlin": {
+    "place_name": "Berlin",
+    "coordinates": {
+      "lat": 52.510885,
+      "lng": 13.3989367
+    },
+    "confidence": 0.8,
+    "historical_context": "18th century location: Berlin",
+    "alternative_names": [
+      "Berlin"
+    ],
+    "modern_equivalent": "Berlin, Deutschland",
+    "geocoded_at": "2025-08-11T20:42:13.560143",
+    "geocoding_method": "nominatim_batch",
+    "model_version": "openstreetmap"
+  },
+  "Berlin-Cölln": {
+    "place_name": "Berlin-Cölln",
+    "coordinates": {
+      "lat": 52.5135993,
+      "lng": 13.4043946
+    },
+    "confidence": 0.8,
+    "historical_context": "18th century location: Berlin-Cölln",
+    "alternative_names": [
+      "Berlin-Cölln"
+    ],
+    "modern_equivalent": "Alt-Kölln;Cölln, Friedrichswerder, Mitte, Berlin, 10178, Deutschland",
+    "geocoded_at": "2025-08-11T20:42:49.219368",
+    "geocoding_method": "nominatim_batch",
+    "model_version": "openstreetmap"
+  },
+  "Bishop Auckland": {
+    "place_name": "Bishop Auckland",
+    "coordinates": {
+      "lat": 54.6640762,
+      "lng": -1.6752864
+    },
+    "confidence": 0.8,
+    "historical_context": "18th century location: Bishop Auckland",
+    "alternative_names": [
+      "Bishop Auckland"
+    ],
+    "modern_equivalent": "Bishop Auckland, County Durham, North East, England, United Kingdom",
+    "geocoded_at": "2025-08-11T20:42:51.141773",
+    "geocoding_method": "nominatim_batch",
+    "model_version": "openstreetmap"
+  },
+  "Bologna": {
+    "place_name": "Bologna",
+    "coordinates": {
+      "lat": 44.4938203,
+      "lng": 11.3426327
+    },
+    "confidence": 0.8,
+    "historical_context": "18th century location: Bologna",
+    "alternative_names": [
+      "Bologna"
+    ],
+    "modern_equivalent": "Bologna, Emilia-Romagna, Italia",
+    "geocoded_at": "2025-08-11T20:42:53.133359",
+    "geocoding_method": "nominatim_batch",
+    "model_version": "openstreetmap"
+  },
+  "Boston": {
+    "place_name": "Boston",
+    "coordinates": {
+      "lat": 42.3554334,
+      "lng": -71.060511
+    },
+    "confidence": 0.8,
+    "historical_context": "18th century location: Boston",
+    "alternative_names": [
+      "Boston"
+    ],
+    "modern_equivalent": "Boston, Suffolk County, Massachusetts, United States",
+    "geocoded_at": "2025-08-11T20:42:55.055683",
+    "geocoding_method": "nominatim_batch",
+    "model_version": "openstreetmap"
+  },
+  "Brescia": {
+    "place_name": "Brescia",
+    "coordinates": {
+      "lat": 45.7795804,
+      "lng": 10.425873
+    },
+    "confidence": 0.8,
+    "historical_context": "18th century location: Brescia",
+    "alternative_names": [
+      "Brescia"
+    ],
+    "modern_equivalent": "Brescia, Lombardia, Italia",
+    "geocoded_at": "2025-08-11T20:42:56.933338",
+    "geocoding_method": "nominatim_batch",
+    "model_version": "openstreetmap"
+  },
+  "Bretagne, France": {
+    "place_name": "Bretagne, France",
+    "coordinates": {
+      "lat": 48.2640845,
+      "lng": -2.9202408
+    },
+    "confidence": 0.8,
+    "historical_context": "18th century location: Bretagne, France",
+    "alternative_names": [
+      "Bretagne, France"
+    ],
+    "modern_equivalent": "Bretagne, France métropolitaine, France",
+    "geocoded_at": "2025-08-11T20:42:59.332191",
+    "geocoding_method": "nominatim_batch",
+    "model_version": "openstreetmap"
+  },
+  "Brody": {
+    "place_name": "Brody",
+    "coordinates": {
+      "lat": 50.0833041,
+      "lng": 25.1437921
+    },
+    "confidence": 0.8,
+    "historical_context": "18th century location: Brody",
+    "alternative_names": [
+      "Brody"
+    ],
+    "modern_equivalent": "Броди, Бродівська міська громада, Золочівський район, 80600-80603, Україна",
+    "geocoded_at": "2025-08-11T20:43:01.280574",
+    "geocoding_method": "nominatim_batch",
+    "model_version": "openstreetmap"
+  },
+  "Buberki": {
+    "place_name": "Buberki",
+    "coordinates": {
+      "lat": 46.7328566,
+      "lng": 17.0810303
+    },
+    "confidence": 0.8,
+    "historical_context": "18th century location: Buberki",
+    "alternative_names": [
+      "Buberki"
+    ],
+    "modern_equivalent": "Búberki-patak, Zalaapáti, Keszthelyi járás, Zala vármegye, Nyugat-Dunántúl, 8741, Magyarország",
+    "geocoded_at": "2025-08-11T20:43:03.046130",
+    "geocoding_method": "nominatim_batch",
+    "model_version": "openstreetmap"
+  },
+  "Byers Green, County Durham": {
+    "place_name": "Byers Green, County Durham",
+    "coordinates": {
+      "lat": 54.7009208,
+      "lng": -1.6543986
+    },
+    "confidence": 0.8,
+    "historical_context": "18th century location: Byers Green, County Durham",
+    "alternative_names": [
+      "Byers Green, County Durham"
+    ],
+    "modern_equivalent": "Byers Green, Spennymoor, County Durham, North East, England, DL16 7PA, United Kingdom",
+    "geocoded_at": "2025-08-11T20:43:04.811444",
+    "geocoding_method": "nominatim_batch",
+    "model_version": "openstreetmap"
+  },
+  "Cadiz, Santo Domingo": {
+    "place_name": "Cadiz, Santo Domingo",
+    "coordinates": {
+      "lat": 36.6728301,
+      "lng": -6.194809
+    },
+    "confidence": 0.8,
+    "historical_context": "18th century location: Cadiz, Santo Domingo",
+    "alternative_names": [
+      "Cadiz, Santo Domingo"
+    ],
+    "modern_equivalent": "Santo Domingo, Jerez de la Frontera, Campiña de Jerez, Cádiz, Andalucía, 11408, España",
+    "geocoded_at": "2025-08-11T20:43:09.061086",
+    "geocoding_method": "nominatim_batch",
+    "model_version": "openstreetmap"
+  },
+  "Cambridge": {
+    "place_name": "Cambridge",
+    "coordinates": {
+      "lat": 52.2055314,
+      "lng": 0.1186637
+    },
+    "confidence": 0.8,
+    "historical_context": "18th century location: Cambridge",
+    "alternative_names": [
+      "Cambridge"
+    ],
+    "modern_equivalent": "Cambridge, Cambridgeshire, Cambridgeshire and Peterborough, England, United Kingdom",
+    "geocoded_at": "2025-08-11T20:43:11.095216",
+    "geocoding_method": "nominatim_batch",
+    "model_version": "openstreetmap"
+  },
+  "Canton": {
+    "place_name": "Canton",
+    "coordinates": {
+      "lat": 23.1301964,
+      "lng": 113.2592945
+    },
+    "confidence": 0.8,
+    "historical_context": "18th century location: Canton",
+    "alternative_names": [
+      "Canton"
+    ],
+    "modern_equivalent": "广州市, 广东省, 中国",
+    "geocoded_at": "2025-08-11T20:43:13.025627",
+    "geocoding_method": "nominatim_batch",
+    "model_version": "openstreetmap"
+  },
+  "Castelfranco Veneto": {
+    "place_name": "Castelfranco Veneto",
+    "coordinates": {
+      "lat": 45.671139,
+      "lng": 11.9265624
+    },
+    "confidence": 0.8,
+    "historical_context": "18th century location: Castelfranco Veneto",
+    "alternative_names": [
+      "Castelfranco Veneto"
+    ],
+    "modern_equivalent": "Castelfranco Veneto, Treviso, Veneto, 31033, Italia",
+    "geocoded_at": "2025-08-11T20:43:14.906342",
+    "geocoding_method": "nominatim_batch",
+    "model_version": "openstreetmap"
+  },
+  "China": {
+    "place_name": "China",
+    "coordinates": {
+      "lat": 35.000074,
+      "lng": 104.999927
+    },
+    "confidence": 0.8,
+    "historical_context": "18th century location: China",
+    "alternative_names": [
+      "China"
+    ],
+    "modern_equivalent": "中国",
+    "geocoded_at": "2025-08-11T20:43:19.094321",
+    "geocoding_method": "nominatim_batch",
+    "model_version": "openstreetmap"
+  },
+  "Claveyson": {
+    "place_name": "Claveyson",
+    "coordinates": {
+      "lat": 45.1802143,
+      "lng": 4.9297525
+    },
+    "confidence": 0.8,
+    "historical_context": "18th century location: Claveyson",
+    "alternative_names": [
+      "Claveyson"
+    ],
+    "modern_equivalent": "Claveyson, Valence, Drôme, Auvergne-Rhône-Alpes, France métropolitaine, 26240, France",
+    "geocoded_at": "2025-08-11T20:43:21.035853",
+    "geocoding_method": "nominatim_batch",
+    "model_version": "openstreetmap"
+  },
+  "Colegio San Luis, Quito": {
+    "place_name": "Colegio San Luis, Quito",
+    "coordinates": {
+      "lat": -0.2742514,
+      "lng": -78.4563935
+    },
+    "confidence": 0.8,
+    "historical_context": "18th century location: Colegio San Luis, Quito",
+    "alternative_names": [
+      "Colegio San Luis, Quito"
+    ],
+    "modern_equivalent": "San Luis Gonzaga, Antonio Neumane, La Armenia, Conocoto, Quito, Pichincha, 170803, Ecuador",
+    "geocoded_at": "2025-08-11T20:49:34.900220",
+    "geocoding_method": "nominatim_batch",
+    "model_version": "openstreetmap"
+  },
+  "Continental Europe": {
+    "place_name": "Continental Europe",
+    "coordinates": {
+      "lat": 36.0001507,
+      "lng": -5.6106811
+    },
+    "confidence": 0.8,
+    "historical_context": "18th century location: Continental Europe",
+    "alternative_names": [
+      "Continental Europe"
+    ],
+    "modern_equivalent": "Punta de Tarifa - Punto continental más meridional de Europa, Carrretera de la Isla de las Palomas, Huerta del Rey, Tarifa, Campo de Gibraltar, Cádiz, Andalucía, 11380, España",
+    "geocoded_at": "2025-08-11T20:49:41.556484",
+    "geocoding_method": "nominatim_batch",
+    "model_version": "openstreetmap"
+  },
+  "Cuiseaux": {
+    "place_name": "Cuiseaux",
+    "coordinates": {
+      "lat": 46.4937782,
+      "lng": 5.3887887
+    },
+    "confidence": 0.8,
+    "historical_context": "18th century location: Cuiseaux",
+    "alternative_names": [
+      "Cuiseaux"
+    ],
+    "modern_equivalent": "Cuiseaux, Louhans, Saône-et-Loire, Bourgogne-Franche-Comté, France métropolitaine, 71480, France",
+    "geocoded_at": "2025-08-11T20:49:43.602787",
+    "geocoding_method": "nominatim_batch",
+    "model_version": "openstreetmap"
+  },
+  "Culross": {
+    "place_name": "Culross",
+    "coordinates": {
+      "lat": 56.0556633,
+      "lng": -3.6283699
+    },
+    "confidence": 0.8,
+    "historical_context": "18th century location: Culross",
+    "alternative_names": [
+      "Culross"
+    ],
+    "modern_equivalent": "Culross, Fife, Alba / Scotland, KY12 8HT, United Kingdom",
+    "geocoded_at": "2025-08-11T20:49:45.449178",
+    "geocoding_method": "nominatim_batch",
+    "model_version": "openstreetmap"
+  },
+  "Debrecen": {
+    "place_name": "Debrecen",
+    "coordinates": {
+      "lat": 47.531399,
+      "lng": 21.6259782
+    },
+    "confidence": 0.8,
+    "historical_context": "18th century location: Debrecen",
+    "alternative_names": [
+      "Debrecen"
+    ],
+    "modern_equivalent": "Debrecen, Debreceni járás, Hajdú-Bihar vármegye, Észak-Alföld, Alföld és Észak, Magyarország",
+    "geocoded_at": "2025-08-11T20:49:47.502130",
+    "geocoding_method": "nominatim_batch",
+    "model_version": "openstreetmap"
+  },
+  "Dubrovnik": {
+    "place_name": "Dubrovnik",
+    "coordinates": {
+      "lat": 42.6491029,
+      "lng": 18.0939501
+    },
+    "confidence": 0.8,
+    "historical_context": "18th century location: Dubrovnik",
+    "alternative_names": [
+      "Dubrovnik"
+    ],
+    "modern_equivalent": "Grad Dubrovnik, Dubrovačko-neretvanska županija, Hrvatska",
+    "geocoded_at": "2025-08-11T20:49:49.439627",
+    "geocoding_method": "nominatim_batch",
+    "model_version": "openstreetmap"
+  },
+  "Dörnfeld an der Heide": {
+    "place_name": "Dörnfeld an der Heide",
+    "coordinates": {
+      "lat": 50.6653548,
+      "lng": 11.0739066
+    },
+    "confidence": 0.8,
+    "historical_context": "18th century location: Dörnfeld an der Heide",
+    "alternative_names": [
+      "Dörnfeld an der Heide"
+    ],
+    "modern_equivalent": "Dörnfeld an der Heide, Königsee, Landkreis Saalfeld-Rudolstadt, Thüringen, Deutschland",
+    "geocoded_at": "2025-08-11T20:49:51.351876",
+    "geocoding_method": "nominatim_batch",
+    "model_version": "openstreetmap"
+  },
+  "Edinburgh": {
+    "place_name": "Edinburgh",
+    "coordinates": {
+      "lat": 55.9533456,
+      "lng": -3.1883749
+    },
+    "confidence": 0.8,
+    "historical_context": "18th century location: Edinburgh",
+    "alternative_names": [
+      "Edinburgh"
+    ],
+    "modern_equivalent": "City of Edinburgh, Alba / Scotland, United Kingdom",
+    "geocoded_at": "2025-08-11T20:49:55.589725",
+    "geocoding_method": "nominatim_batch",
+    "model_version": "openstreetmap"
+  },
+  "Edo": {
+    "place_name": "Edo",
+    "coordinates": {
+      "lat": 6.6076575,
+      "lng": 5.9722713
+    },
+    "confidence": 0.8,
+    "historical_context": "18th century location: Edo",
+    "alternative_names": [
+      "Edo"
+    ],
+    "modern_equivalent": "Edo, Nigeria",
+    "geocoded_at": "2025-08-11T20:49:58.434507",
+    "geocoding_method": "nominatim_batch",
+    "model_version": "openstreetmap"
+  },
+  "Elbing (Elbląg)": {
+    "place_name": "Elbing (Elbląg)",
+    "coordinates": {
+      "lat": 54.1752719,
+      "lng": 19.387166
+    },
+    "confidence": 0.8,
+    "historical_context": "18th century location: Elbing (Elbląg)",
+    "alternative_names": [
+      "Elbing (Elbląg)"
+    ],
+    "modern_equivalent": "Elbląg, gmina Elbląg, powiat elbląski, województwo warmińsko-mazurskie, Polska",
+    "geocoded_at": "2025-08-11T20:50:00.360190",
+    "geocoding_method": "nominatim_batch",
+    "model_version": "openstreetmap"
+  },
+  "Elmton, Derbyshire": {
+    "place_name": "Elmton, Derbyshire",
+    "coordinates": {
+      "lat": 53.2549151,
+      "lng": -1.246456
+    },
+    "confidence": 0.8,
+    "historical_context": "18th century location: Elmton, Derbyshire",
+    "alternative_names": [
+      "Elmton, Derbyshire"
+    ],
+    "modern_equivalent": "Elmton, Bolsover, Derbyshire, East Midlands, England, S80 4LU, United Kingdom",
+    "geocoded_at": "2025-08-11T20:50:02.476938",
+    "geocoding_method": "nominatim_batch",
+    "model_version": "openstreetmap"
+  },
+  "Enfants de France": {
+    "place_name": "Enfants de France",
+    "coordinates": {
+      "lat": 44.7726318,
+      "lng": -0.6085208
+    },
+    "confidence": 0.8,
+    "historical_context": "18th century location: Enfants de France",
+    "alternative_names": [
+      "Enfants de France"
+    ],
+    "modern_equivalent": "Enfants, Allée Gaston Rodrigues, Laurenzane, Gradignan, Bordeaux, Gironde, Nouvelle-Aquitaine, France métropolitaine, 33170, France",
+    "geocoded_at": "2025-08-11T20:50:08.772400",
+    "geocoding_method": "nominatim_batch",
+    "model_version": "openstreetmap"
+  },
+  "England": {
+    "place_name": "England",
+    "coordinates": {
+      "lat": 52.5310214,
+      "lng": -1.2649062
+    },
+    "confidence": 0.8,
+    "historical_context": "18th century location: England",
+    "alternative_names": [
+      "England"
+    ],
+    "modern_equivalent": "England, United Kingdom",
+    "geocoded_at": "2025-08-11T20:52:20.776394",
+    "geocoding_method": "nominatim_batch",
+    "model_version": "openstreetmap"
+  },
+  "Etzin": {
+    "place_name": "Etzin",
+    "coordinates": {
+      "lat": 52.5191107,
+      "lng": 12.855098
+    },
+    "confidence": 0.8,
+    "historical_context": "18th century location: Etzin",
+    "alternative_names": [
+      "Etzin"
+    ],
+    "modern_equivalent": "Etzin, Ketzin/Havel, Havelland, Brandenburg, Deutschland",
+    "geocoded_at": "2025-08-11T20:52:22.613048",
+    "geocoding_method": "nominatim_batch",
+    "model_version": "openstreetmap"
+  },
+  "Europe": {
+    "place_name": "Europe",
+    "coordinates": {
+      "lat": 51.0,
+      "lng": 10.0
+    },
+    "confidence": 0.8,
+    "historical_context": "18th century location: Europe",
+    "alternative_names": [
+      "Europe"
+    ],
+    "modern_equivalent": "Europe",
+    "geocoded_at": "2025-08-11T20:52:24.686079",
+    "geocoding_method": "nominatim_batch",
+    "model_version": "openstreetmap"
+  },
+  "Faicchio": {
+    "place_name": "Faicchio",
+    "coordinates": {
+      "lat": 41.2780306,
+      "lng": 14.4787446
+    },
+    "confidence": 0.8,
+    "historical_context": "18th century location: Faicchio",
+    "alternative_names": [
+      "Faicchio"
+    ],
+    "modern_equivalent": "Faicchio, Benevento, Campania, Italia",
+    "geocoded_at": "2025-08-11T20:52:26.509283",
+    "geocoding_method": "nominatim_batch",
+    "model_version": "openstreetmap"
+  },
+  "Final Location": {
+    "place_name": "Final Location",
+    "coordinates": {
+      "lat": 47.4206199,
+      "lng": 19.2602541
+    },
+    "confidence": 0.8,
+    "historical_context": "18th century location: Final Location",
+    "alternative_names": [
+      "Final Location"
+    ],
+    "modern_equivalent": "spotter hely: 31L Final (second location), M4, Lakótelep, Vecsés, Vecsési járás, Pest vármegye, Közép-Magyarország, 2220, Magyarország",
+    "geocoded_at": "2025-08-11T20:52:28.501371",
+    "geocoding_method": "nominatim_batch",
+    "model_version": "openstreetmap"
+  },
+  "Florence": {
+    "place_name": "Florence",
+    "coordinates": {
+      "lat": 43.7697955,
+      "lng": 11.2556404
+    },
+    "confidence": 0.8,
+    "historical_context": "18th century location: Florence",
+    "alternative_names": [
+      "Florence"
+    ],
+    "modern_equivalent": "Firenze, Toscana, Italia",
+    "geocoded_at": "2025-08-11T20:52:30.499015",
+    "geocoding_method": "nominatim_batch",
+    "model_version": "openstreetmap"
+  },
+  "Fontanellato": {
+    "place_name": "Fontanellato",
+    "coordinates": {
+      "lat": 44.8822638,
+      "lng": 10.1729422
+    },
+    "confidence": 0.8,
+    "historical_context": "18th century location: Fontanellato",
+    "alternative_names": [
+      "Fontanellato"
+    ],
+    "modern_equivalent": "Fontanellato, Parma, Emilia-Romagna, 43012, Italia",
+    "geocoded_at": "2025-08-11T20:52:34.406060",
+    "geocoding_method": "nominatim_batch",
+    "model_version": "openstreetmap"
+  },
+  "France": {
+    "place_name": "France",
+    "coordinates": {
+      "lat": 46.603354,
+      "lng": 1.8883335
+    },
+    "confidence": 0.8,
+    "historical_context": "18th century location: France",
+    "alternative_names": [
+      "France"
+    ],
+    "modern_equivalent": "France",
+    "geocoded_at": "2025-08-11T20:52:36.658405",
+    "geocoding_method": "nominatim_batch",
+    "model_version": "openstreetmap"
+  },
+  "France, England": {
+    "place_name": "France, England",
+    "coordinates": {
+      "lat": 51.5029386,
+      "lng": -0.0014592
+    },
+    "confidence": 0.8,
+    "historical_context": "18th century location: France, England",
+    "alternative_names": [
+      "France, England"
+    ],
+    "modern_equivalent": "France, Blackwall Tunnel, Blackwall Reach, Greenwich Peninsula, Royal Borough of Greenwich, London, Greater London, England, E14 9PB, United Kingdom",
+    "geocoded_at": "2025-08-11T20:52:38.910903",
+    "geocoding_method": "nominatim_batch",
+    "model_version": "openstreetmap"
   }
 }
