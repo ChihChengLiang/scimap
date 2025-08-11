@@ -65,11 +65,25 @@ Interactive 18th century mathematics timeline visualization with 2D map + Rococo
 - `wikidata_mathematician_list.py` - Enhanced with image/location fields
 - `data/processed/wikidata_mathematician_config.json` - 510 mathematicians ready
 
+## Architecture & Data Management
+
+### Single Source of Truth: `frontend/public/data/`
+- **mathematicians.json**: 97 mathematicians with updated popularity tiers
+- **locations.json**: Geocoded location data  
+- **political_events.json**: Political context data
+- **Data Pipeline Integration**: Symlinks from `data_pipeline/data/json/` to frontend data
+
+### Why Frontend is Source of Truth
+- ✅ Complete, processed dataset (97 mathematicians vs 10 in pipeline)
+- ✅ Recently updated with new popularity tiers
+- ✅ Used directly by working frontend application
+- ✅ Contains all required data including political events
+
 ## Development Environment
 - **Frontend**: `npm start` in `/frontend/` 
 - **Backend**: Python scripts in `/data_pipeline/`
 - **Port**: http://localhost:3000 for frontend
-- **Git**: Clean working directory, all changes committed
+- **Data Sync**: Symlinked (pipeline automatically uses frontend data)
 
 ## Known Issues
 - None currently - all major bugs fixed this session
