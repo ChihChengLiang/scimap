@@ -1,7 +1,7 @@
-import React from 'react';
-import { Marker, Popup } from 'react-leaflet';
+import React, { useMemo } from 'react';
 import L from 'leaflet';
 import { PoliticalContext } from '../../types';
+import MarkerClusterGroup from './MarkerClusterGroup';
 
 interface PoliticalLayerProps {
   politicalContexts: PoliticalContext[];
@@ -146,146 +146,83 @@ const PoliticalLayer: React.FC<PoliticalLayerProps> = ({
   selectedYear,
   visible
 }) => {
-  if (!visible) return null;
-
   // Filter political contexts relevant to the selected year (within 15 years for broader context)
   const relevantContexts = politicalContexts.filter(context => 
     Math.abs(context.year - selectedYear) <= 15
   );
 
+  // Create Leaflet markers for clustering
+  const leafletMarkers = useMemo(() => {
+    return relevantContexts.map(context => {
+      const icon = createPoliticalIcon(context.category, context.relevance_score);
+      
+      // Create the popup HTML content
+      const popupContent = `
+        <div style="font-family: serif; color: #2c3e50; line-height: 1.4; max-width: 280px;">
+          <h3 style="margin: 0 0 8px 0; color: #8B4513; font-size: 1.1em; font-weight: bold;">
+            ${context.headline}
+          </h3>
+          
+          <div style="display: flex; align-items: center; gap: 8px; margin: 4px 0 8px 0; font-size: 0.85em; font-style: italic; color: #5d6d7e;">
+            <span style="background: ${getIconColor(context.category)}20; color: ${getIconColor(context.category)}; padding: 2px 6px; border-radius: 12px; font-size: 0.8em; font-weight: bold; font-style: normal;">
+              ${getCategoryDisplayName(context.category)}
+            </span>
+            <span>${context.year}</span>
+          </div>
+          
+          <p style="margin: 0 0 4px 0; font-size: 0.8em; font-weight: bold; color: #5d6d7e;">
+            📍 ${context.location.primary_location}, ${context.location.region}
+          </p>
+          
+          <p style="margin: 8px 0; font-size: 0.9em; line-height: 1.4;">
+            ${context.description}
+          </p>
+          
+          <div style="background: rgba(139, 69, 19, 0.08); padding: 8px 10px; border-radius: 6px; margin: 10px 0; border-left: 3px solid #8B4513;">
+            <p style="margin: 0 0 4px 0; font-size: 0.85em; font-weight: bold; color: #8B4513;">
+              📚 Impact on Mathematics & Science:
+            </p>
+            <p style="margin: 0; font-size: 0.85em; line-height: 1.3; font-style: italic;">
+              ${context.impact_on_science}
+            </p>
+          </div>
+          
+          <div style="display: flex; justify-content: space-between; align-items: center; margin-top: 12px; padding-top: 8px; border-top: 1px solid rgba(139, 69, 19, 0.2);">
+            <a href="${context.wiki_link}" target="_blank" rel="noopener noreferrer" style="font-size: 0.8em; color: #8B4513; text-decoration: none; font-weight: bold; display: flex; align-items: center; gap: 4px;">
+              📖 Read more
+            </a>
+            <div style="display: flex; align-items: center; gap: 4px;">
+              <div style="width: 8px; height: 8px; border-radius: 50%; background: ${context.relevance_score > 0.8 ? '#FFD700' : context.relevance_score > 0.6 ? '#FFA500' : '#87CEEB'};"></div>
+              <span style="font-size: 0.75em; color: #888; font-weight: bold;">
+                ${Math.round(context.relevance_score * 100)}% relevance
+              </span>
+            </div>
+          </div>
+        </div>
+      `;
+
+      // Create Leaflet marker
+      const marker = L.marker([context.location.coordinates.lat, context.location.coordinates.lng], { icon });
+      
+      // Bind popup
+      marker.bindPopup(popupContent);
+
+      return marker;
+    });
+  }, [relevantContexts]);
+
+  if (!visible) return null;
+
   return (
     <>
-      {relevantContexts.map(context => (
-        <Marker
-          key={context.id}
-          position={[context.location.coordinates.lat, context.location.coordinates.lng]}
-          icon={createPoliticalIcon(context.category, context.relevance_score)}
-        >
-          <Popup maxWidth={280} minWidth={220}>
-            <div style={{ fontFamily: 'serif', color: '#2c3e50', lineHeight: '1.4' }}>
-              <h3 style={{ 
-                margin: '0 0 8px 0', 
-                color: '#8B4513',
-                fontSize: '1.1em',
-                fontWeight: 'bold'
-              }}>
-                {context.headline}
-              </h3>
-              
-              <div style={{
-                display: 'flex',
-                alignItems: 'center',
-                gap: '8px',
-                margin: '4px 0 8px 0',
-                fontSize: '0.85em',
-                fontStyle: 'italic',
-                color: '#5d6d7e'
-              }}>
-                <span style={{
-                  background: `${getIconColor(context.category)}20`,
-                  color: getIconColor(context.category),
-                  padding: '2px 6px',
-                  borderRadius: '12px',
-                  fontSize: '0.8em',
-                  fontWeight: 'bold',
-                  fontStyle: 'normal'
-                }}>
-                  {getCategoryDisplayName(context.category)}
-                </span>
-                <span>{context.year}</span>
-              </div>
-              
-              <p style={{ 
-                margin: '0 0 4px 0', 
-                fontSize: '0.8em',
-                fontWeight: 'bold',
-                color: '#5d6d7e'
-              }}>
-                📍 {context.location.primary_location}, {context.location.region}
-              </p>
-              
-              <p style={{ 
-                margin: '8px 0', 
-                fontSize: '0.9em',
-                lineHeight: '1.4'
-              }}>
-                {context.description}
-              </p>
-              
-              <div style={{
-                background: 'rgba(139, 69, 19, 0.08)',
-                padding: '8px 10px',
-                borderRadius: '6px',
-                margin: '10px 0',
-                borderLeft: '3px solid #8B4513'
-              }}>
-                <p style={{ 
-                  margin: '0 0 4px 0', 
-                  fontSize: '0.85em',
-                  fontWeight: 'bold',
-                  color: '#8B4513'
-                }}>
-                  📚 Impact on Mathematics & Science:
-                </p>
-                <p style={{ 
-                  margin: '0', 
-                  fontSize: '0.85em',
-                  lineHeight: '1.3',
-                  fontStyle: 'italic'
-                }}>
-                  {context.impact_on_science}
-                </p>
-              </div>
-              
-              <div style={{ 
-                display: 'flex', 
-                justifyContent: 'space-between',
-                alignItems: 'center',
-                marginTop: '12px',
-                paddingTop: '8px',
-                borderTop: '1px solid rgba(139, 69, 19, 0.2)'
-              }}>
-                <a 
-                  href={context.wiki_link} 
-                  target="_blank" 
-                  rel="noopener noreferrer"
-                  style={{
-                    fontSize: '0.8em',
-                    color: '#8B4513',
-                    textDecoration: 'none',
-                    fontWeight: 'bold',
-                    display: 'flex',
-                    alignItems: 'center',
-                    gap: '4px'
-                  }}
-                >
-                  📖 Read more
-                </a>
-                <div style={{
-                  display: 'flex',
-                  alignItems: 'center',
-                  gap: '4px'
-                }}>
-                  <div style={{
-                    width: '8px',
-                    height: '8px',
-                    borderRadius: '50%',
-                    background: context.relevance_score > 0.8 ? '#FFD700' : 
-                               context.relevance_score > 0.6 ? '#FFA500' : '#87CEEB'
-                  }}></div>
-                  <span style={{ 
-                    fontSize: '0.75em',
-                    color: '#888',
-                    fontWeight: 'bold'
-                  }}>
-                    {Math.round(context.relevance_score * 100)}% relevance
-                  </span>
-                </div>
-              </div>
-            </div>
-          </Popup>
-        </Marker>
-      ))}
+      <MarkerClusterGroup 
+        markers={leafletMarkers}
+        maxClusterRadius={40} // Smaller radius for political events to separate them better
+        spiderfyOnMaxZoom={true}
+        showCoverageOnHover={false}
+        zoomToBoundsOnClick={true}
+        removeOutsideVisibleBounds={true}
+      />
     </>
   );
 };

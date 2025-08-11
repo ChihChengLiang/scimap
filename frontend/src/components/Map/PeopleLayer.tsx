@@ -1,7 +1,7 @@
-import React from 'react';
-import { Marker, Popup } from 'react-leaflet';
+import React, { useMemo } from 'react';
 import L from 'leaflet';
 import { Mathematician, LocationData, TimelineEvent } from '../../types';
+import MarkerClusterGroup from './MarkerClusterGroup';
 
 interface PeopleLayerProps {
   mathematicians: Mathematician[];
@@ -110,7 +110,6 @@ const PeopleLayer: React.FC<PeopleLayerProps> = ({
   onMathematicianClick,
   visible
 }) => {
-  if (!visible) return null;
 
   // Get mathematician's location for the selected year
   const getMathematicianLocation = (mathematician: Mathematician) => {
@@ -174,96 +173,100 @@ const PeopleLayer: React.FC<PeopleLayerProps> = ({
     };
   }).filter((item): item is NonNullable<typeof item> => item !== null);
 
+  // Create Leaflet markers for clustering
+  const leafletMarkers = useMemo(() => {
+    return visibleMathematicians.map(item => {
+      const { mathematician, location, icon } = item;
+      
+      // Create the popup HTML content
+      const popupContent = `
+        <div style="font-family: serif; color: #2c3e50; min-width: 280px;">
+          <h3 style="margin: 0 0 8px 0; color: #c9b037; font-size: 1.1em;">
+            ${mathematician.name}
+          </h3>
+          <p style="margin: 4px 0; font-size: 0.85em; color: #5d6d7e; font-style: italic;">
+            ${mathematician.birth_year}-${mathematician.death_year} • ${mathematician.nationality}
+          </p>
+          <p style="margin: 6px 0; font-size: 0.9em;">
+            <strong>Current Location:</strong> ${location.place}
+          </p>
+          <p style="margin: 6px 0; font-size: 0.9em;">
+            <strong>Fields:</strong> ${mathematician.fields.join(', ')}
+          </p>
+          
+          ${mathematician.timeline_events && mathematician.timeline_events.length > 0 ? `
+            <div style="margin: 8px 0; padding: 6px 0; border-top: 1px solid rgba(201, 176, 55, 0.3);">
+              <p style="margin: 0 0 4px 0; font-size: 0.85em; font-weight: bold; color: #8B4513;">
+                Recent Timeline Events:
+              </p>
+              ${mathematician.timeline_events
+                .filter(event => {
+                  const eventYear = typeof event.year === 'string' ? parseInt(event.year.split('-')[0], 10) : event.year;
+                  return Math.abs(eventYear - selectedYear) <= 5;
+                })
+                .slice(0, 2)
+                .map((event, idx) => {
+                  const eventYear = typeof event.year === 'string' ? event.year : event.year.toString();
+                  const eventTypeColors: Record<string, string> = {
+                    birth: '#d4a574',
+                    death: '#5d6d7e', 
+                    publication: '#b0c4de',
+                    position: '#c9b037',
+                    education: '#8FBC8F',
+                    travel: '#DDA0DD',
+                    collaboration: '#F0E68C',
+                    award: '#FFD700',
+                    other: '#8B7355'
+                  };
+                  return `
+                    <div style="margin: 2px 0; font-size: 0.8em; padding-left: 8px; border-left: 3px solid ${eventTypeColors[event.event_type] || '#8B7355'}">
+                      <strong style="color: ${eventTypeColors[event.event_type] || '#8B7355'}">
+                        ${eventYear}:
+                      </strong> ${event.description.substring(0, 60)}...
+                    </div>
+                  `;
+                }).join('')}
+              ${mathematician.timeline_events.length > 2 ? `
+                <p style="margin: 4px 0 0 0; font-size: 0.75em; color: #888;">
+                  +${mathematician.timeline_events.length - 2} more events
+                </p>
+              ` : ''}
+            </div>
+          ` : ''}
+          
+          <p style="margin: 8px 0 0 0; font-size: 0.75em; font-style: italic; color: #5d6d7e; text-align: center;">
+            Click marker for complete biography
+          </p>
+        </div>
+      `;
+
+      // Create Leaflet marker
+      const marker = L.marker([location.lat, location.lng], { icon });
+      
+      // Bind popup
+      marker.bindPopup(popupContent);
+      
+      // Add click event handler
+      marker.on('click', () => {
+        onMathematicianClick(mathematician);
+      });
+
+      return marker;
+    });
+  }, [visibleMathematicians, selectedYear, onMathematicianClick]);
+
+  if (!visible) return null;
+
   return (
     <>
-      {visibleMathematicians.map(item => {
-        const { mathematician, location, icon } = item;
-        
-        return (
-          <Marker
-            key={mathematician.id}
-            position={[location.lat, location.lng]}
-            icon={icon}
-            eventHandlers={{
-              click: () => onMathematicianClick(mathematician)
-            }}
-          >
-            <Popup>
-              <div style={{ fontFamily: 'serif', color: '#2c3e50', minWidth: '280px' }}>
-                <h3 style={{ margin: '0 0 8px 0', color: '#c9b037', fontSize: '1.1em' }}>
-                  {mathematician.name}
-                </h3>
-                <p style={{ margin: '4px 0', fontSize: '0.85em', color: '#5d6d7e', fontStyle: 'italic' }}>
-                  {mathematician.birth_year}-{mathematician.death_year} • {mathematician.nationality}
-                </p>
-                <p style={{ margin: '6px 0', fontSize: '0.9em' }}>
-                  <strong>Current Location:</strong> {location.place}
-                </p>
-                <p style={{ margin: '6px 0', fontSize: '0.9em' }}>
-                  <strong>Fields:</strong> {mathematician.fields.join(', ')}
-                </p>
-                
-                {/* Enhanced Timeline Events Preview */}
-                {mathematician.timeline_events && mathematician.timeline_events.length > 0 && (
-                  <div style={{ margin: '8px 0', padding: '6px 0', borderTop: '1px solid rgba(201, 176, 55, 0.3)' }}>
-                    <p style={{ margin: '0 0 4px 0', fontSize: '0.85em', fontWeight: 'bold', color: '#8B4513' }}>
-                      Recent Timeline Events:
-                    </p>
-                    {mathematician.timeline_events
-                      .filter(event => {
-                        const eventYear = typeof event.year === 'string' ? parseInt(event.year.split('-')[0], 10) : event.year;
-                        return Math.abs(eventYear - selectedYear) <= 5;
-                      })
-                      .slice(0, 2)
-                      .map((event, idx) => {
-                        const eventYear = typeof event.year === 'string' ? event.year : event.year.toString();
-                        const eventTypeColors: Record<string, string> = {
-                          birth: '#d4a574',
-                          death: '#5d6d7e', 
-                          publication: '#b0c4de',
-                          position: '#c9b037',
-                          education: '#8FBC8F',
-                          travel: '#DDA0DD',
-                          collaboration: '#F0E68C',
-                          award: '#FFD700',
-                          other: '#8B7355'
-                        };
-                        return (
-                          <div key={idx} style={{ 
-                            margin: '2px 0', 
-                            fontSize: '0.8em',
-                            paddingLeft: '8px',
-                            borderLeft: `3px solid ${eventTypeColors[event.event_type] || '#8B7355'}`
-                          }}>
-                            <strong style={{ color: eventTypeColors[event.event_type] || '#8B7355' }}>
-                              {eventYear}:
-                            </strong> {event.description.substring(0, 60)}...
-                          </div>
-                        );
-                      })
-                    }
-                    {mathematician.timeline_events.length > 2 && (
-                      <p style={{ margin: '4px 0 0 0', fontSize: '0.75em', color: '#888' }}>
-                        +{mathematician.timeline_events.length - 2} more events
-                      </p>
-                    )}
-                  </div>
-                )}
-                
-                <p style={{ 
-                  margin: '8px 0 0 0', 
-                  fontSize: '0.75em', 
-                  fontStyle: 'italic',
-                  color: '#5d6d7e',
-                  textAlign: 'center'
-                }}>
-                  Click marker for complete biography
-                </p>
-              </div>
-            </Popup>
-          </Marker>
-        );
-      })}
+      <MarkerClusterGroup 
+        markers={leafletMarkers}
+        maxClusterRadius={60}
+        spiderfyOnMaxZoom={true}
+        showCoverageOnHover={false}
+        zoomToBoundsOnClick={true}
+        removeOutsideVisibleBounds={true}
+      />
     </>
   );
 };
