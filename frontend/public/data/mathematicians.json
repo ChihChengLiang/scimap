@@ -10,7 +10,6 @@
     "fields": [
       "mathematics"
     ],
-    "nationality": "French",
     "coordinates": [
       48.8566,
       2.3522
@@ -292,7 +291,8 @@
       "target_events_per_mathematician": "5-10"
     },
     "data_source": "wikidata_wikipedia_llm_pageview_pipeline_100",
-    "processed_at": "2025-08-11T18:37:12.292470"
+    "processed_at": "2025-08-11T18:37:12.292470",
+    "nationality_removed_at": "2025-08-12T14:25:00.455831"
   },
   "george_gargrave": {
     "id": "george_gargrave",
@@ -305,7 +305,6 @@
     "fields": [
       "mathematics"
     ],
-    "nationality": "European",
     "coordinates": [
       50.0,
       10.0
@@ -488,7 +487,8 @@
       "target_events_per_mathematician": "5-10"
     },
     "data_source": "wikidata_wikipedia_llm_pageview_pipeline_100",
-    "processed_at": "2025-08-11T18:37:12.292834"
+    "processed_at": "2025-08-11T18:37:12.292834",
+    "nationality_removed_at": "2025-08-12T14:25:00.455840"
   },
   "maria_gaetana_agnesi": {
     "id": "maria_gaetana_agnesi",
@@ -501,7 +501,6 @@
     "fields": [
       "mathematics"
     ],
-    "nationality": "European",
     "coordinates": [
       45.4642,
       9.19
@@ -708,7 +707,8 @@
       "target_events_per_mathematician": "5-10"
     },
     "data_source": "wikidata_wikipedia_llm_pageview_pipeline_100",
-    "processed_at": "2025-08-11T18:37:12.292897"
+    "processed_at": "2025-08-11T18:37:12.292897",
+    "nationality_removed_at": "2025-08-12T14:25:00.455842"
   },
   "johann_ii_bernoulli": {
     "id": "johann_ii_bernoulli",
@@ -721,7 +721,6 @@
     "fields": [
       "mathematics"
     ],
-    "nationality": "European",
     "coordinates": [
       47.5596,
       7.5886
@@ -1018,7 +1017,8 @@
       "target_events_per_mathematician": "5-10"
     },
     "data_source": "wikidata_wikipedia_llm_pageview_pipeline_100",
-    "processed_at": "2025-08-11T18:37:12.292942"
+    "processed_at": "2025-08-11T18:37:12.292942",
+    "nationality_removed_at": "2025-08-12T14:25:00.455843"
   },
   "giuseppe_suzzi": {
     "id": "giuseppe_suzzi",
@@ -1031,7 +1031,6 @@
     "fields": [
       "mathematics"
     ],
-    "nationality": "European",
     "coordinates": [
       50.0,
       10.0
@@ -1268,7 +1267,8 @@
       "target_events_per_mathematician": "5-10"
     },
     "data_source": "wikidata_wikipedia_llm_pageview_pipeline_100",
-    "processed_at": "2025-08-11T18:37:12.292986"
+    "processed_at": "2025-08-11T18:37:12.292986",
+    "nationality_removed_at": "2025-08-12T14:25:00.455844"
   },
   "antoine_deparcieux": {
     "id": "antoine_deparcieux",
@@ -1281,7 +1281,6 @@
     "fields": [
       "mathematics"
     ],
-    "nationality": "French",
     "coordinates": [
       48.8566,
       2.3522
@@ -1481,7 +1480,8 @@
       "target_events_per_mathematician": "5-10"
     },
     "data_source": "wikidata_wikipedia_llm_pageview_pipeline_100",
-    "processed_at": "2025-08-11T18:37:12.293019"
+    "processed_at": "2025-08-11T18:37:12.293019",
+    "nationality_removed_at": "2025-08-12T14:25:00.455845"
   },
   "fortunato_da_brescia": {
     "id": "fortunato_da_brescia",
@@ -1494,7 +1494,6 @@
     "fields": [
       "mathematics"
     ],
-    "nationality": "European",
     "coordinates": [
       50.0,
       10.0
@@ -1719,7 +1718,8 @@
       "target_events_per_mathematician": "5-10"
     },
     "data_source": "wikidata_wikipedia_llm_pageview_pipeline_100",
-    "processed_at": "2025-08-11T18:37:12.293047"
+    "processed_at": "2025-08-11T18:37:12.293047",
+    "nationality_removed_at": "2025-08-12T14:25:00.455846"
   },
   "laura_bassi": {
     "id": "laura_bassi",
@@ -1732,7 +1732,6 @@
     "fields": [
       "mathematics"
     ],
-    "nationality": "European",
     "coordinates": [
       50.0,
       10.0
@@ -1996,7 +1995,8 @@
       "target_events_per_mathematician": "5-10"
     },
     "data_source": "wikidata_wikipedia_llm_pageview_pipeline_100",
-    "processed_at": "2025-08-11T18:37:12.293072"
+    "processed_at": "2025-08-11T18:37:12.293072",
+    "nationality_removed_at": "2025-08-12T14:25:00.455847"
   },
   "johann_euler": {
     "id": "johann_euler",
@@ -2009,7 +2009,6 @@
     "fields": [
       "mathematics"
     ],
-    "nationality": "French",
     "coordinates": [
       47.5596,
       7.5886
@@ -2233,7 +2232,8 @@
       "target_events_per_mathematician": "5-10"
     },
     "data_source": "wikidata_wikipedia_llm_pageview_pipeline_100",
-    "processed_at": "2025-08-11T18:37:12.293094"
+    "processed_at": "2025-08-11T18:37:12.293094",
+    "nationality_removed_at": "2025-08-12T14:25:00.455847"
   },
   "james_stirling": {
     "id": "james_stirling",
@@ -2246,7 +2246,6 @@
     "fields": [
       "mathematics"
     ],
-    "nationality": "European",
     "coordinates": [
       50.0,
       10.0
@@ -2472,7 +2471,8 @@
       "target_events_per_mathematician": "5-10"
     },
     "data_source": "wikidata_wikipedia_llm_pageview_pipeline_100",
-    "processed_at": "2025-08-11T18:37:12.293119"
+    "processed_at": "2025-08-11T18:37:12.293119",
+    "nationality_removed_at": "2025-08-12T14:25:00.455848"
   },
   "alexander_webster": {
     "id": "alexander_webster",
@@ -2485,7 +2485,6 @@
     "fields": [
       "mathematics"
     ],
-    "nationality": "French",
     "coordinates": [
       48.8566,
       2.3522
@@ -2706,7 +2705,8 @@
       "target_events_per_mathematician": "5-10"
     },
     "data_source": "wikidata_wikipedia_llm_pageview_pipeline_100",
-    "processed_at": "2025-08-11T18:37:12.293138"
+    "processed_at": "2025-08-11T18:37:12.293138",
+    "nationality_removed_at": "2025-08-12T14:25:00.455849"
   },
   "jean_joseph_rallier_des_ourmes": {
     "id": "jean_joseph_rallier_des_ourmes",
@@ -2719,7 +2719,6 @@
     "fields": [
       "mathematics"
     ],
-    "nationality": "French",
     "coordinates": [
       48.8566,
       2.3522
@@ -2942,7 +2941,8 @@
       "target_events_per_mathematician": "5-10"
     },
     "data_source": "wikidata_wikipedia_llm_pageview_pipeline_100",
-    "processed_at": "2025-08-11T18:37:12.293160"
+    "processed_at": "2025-08-11T18:37:12.293160",
+    "nationality_removed_at": "2025-08-12T14:25:00.455850"
   },
   "pedro_vicente_maldonado": {
     "id": "pedro_vicente_maldonado",
@@ -2955,7 +2955,6 @@
     "fields": [
       "mathematics"
     ],
-    "nationality": "European",
     "coordinates": [
       50.0,
       10.0
@@ -3198,7 +3197,8 @@
       "target_events_per_mathematician": "5-10"
     },
     "data_source": "wikidata_wikipedia_llm_pageview_pipeline_100",
-    "processed_at": "2025-08-11T18:37:12.293185"
+    "processed_at": "2025-08-11T18:37:12.293185",
+    "nationality_removed_at": "2025-08-12T14:25:00.455851"
   },
   "walter_taylor": {
     "id": "walter_taylor",
@@ -3211,7 +3211,6 @@
     "fields": [
       "mathematics"
     ],
-    "nationality": "European",
     "coordinates": [
       50.0,
       10.0
@@ -3395,7 +3394,8 @@
       "target_events_per_mathematician": "5-10"
     },
     "data_source": "wikidata_wikipedia_llm_pageview_pipeline_100",
-    "processed_at": "2025-08-11T18:37:12.293231"
+    "processed_at": "2025-08-11T18:37:12.293231",
+    "nationality_removed_at": "2025-08-12T14:25:00.455852"
   },
   "ruđer_josip_bošković": {
     "id": "ruđer_josip_bošković",
@@ -3408,7 +3408,6 @@
     "fields": [
       "mathematics"
     ],
-    "nationality": "European",
     "coordinates": [
       50.0,
       10.0
@@ -3670,7 +3669,8 @@
       "target_events_per_mathematician": "5-10"
     },
     "data_source": "wikidata_wikipedia_llm_pageview_pipeline_100",
-    "processed_at": "2025-08-11T18:37:12.293583"
+    "processed_at": "2025-08-11T18:37:12.293583",
+    "nationality_removed_at": "2025-08-12T14:25:00.455853"
   },
   "john_rowning": {
     "id": "john_rowning",
@@ -3683,7 +3683,6 @@
     "fields": [
       "mathematics"
     ],
-    "nationality": "European",
     "coordinates": [
       50.0,
       10.0
@@ -3997,7 +3996,8 @@
       "target_events_per_mathematician": "5-10"
     },
     "data_source": "wikidata_wikipedia_llm_pageview_pipeline_100",
-    "processed_at": "2025-08-11T18:37:12.293609"
+    "processed_at": "2025-08-11T18:37:12.293609",
+    "nationality_removed_at": "2025-08-12T14:25:00.455854"
   },
   "christian_ludwig_gersten": {
     "id": "christian_ludwig_gersten",
@@ -4010,7 +4010,6 @@
     "fields": [
       "mathematics"
     ],
-    "nationality": "European",
     "coordinates": [
       50.0,
       10.0
@@ -4212,7 +4211,8 @@
       "target_events_per_mathematician": "5-10"
     },
     "data_source": "wikidata_wikipedia_llm_pageview_pipeline_100",
-    "processed_at": "2025-08-11T18:37:12.293630"
+    "processed_at": "2025-08-11T18:37:12.293630",
+    "nationality_removed_at": "2025-08-12T14:25:00.455854"
   },
   "jacob_bernoulli": {
     "id": "jacob_bernoulli",
@@ -4225,7 +4225,6 @@
     "fields": [
       "mathematics"
     ],
-    "nationality": "European",
     "coordinates": [
       47.5596,
       7.5886
@@ -4432,7 +4431,8 @@
       "target_events_per_mathematician": "5-10"
     },
     "data_source": "wikidata_wikipedia_llm_pageview_pipeline_100",
-    "processed_at": "2025-08-11T18:37:12.293648"
+    "processed_at": "2025-08-11T18:37:12.293648",
+    "nationality_removed_at": "2025-08-12T14:25:00.455855"
   },
   "giovanni_pagnini": {
     "id": "giovanni_pagnini",
@@ -4445,7 +4445,6 @@
     "fields": [
       "mathematics"
     ],
-    "nationality": "European",
     "coordinates": [
       50.0,
       10.0
@@ -4684,7 +4683,8 @@
       "target_events_per_mathematician": "5-10"
     },
     "data_source": "wikidata_wikipedia_llm_pageview_pipeline_100",
-    "processed_at": "2025-08-11T18:37:12.293667"
+    "processed_at": "2025-08-11T18:37:12.293667",
+    "nationality_removed_at": "2025-08-12T14:25:00.455856"
   },
   "william_braikenridge": {
     "id": "william_braikenridge",
@@ -4697,7 +4697,6 @@
     "fields": [
       "mathematics"
     ],
-    "nationality": "European",
     "coordinates": [
       50.0,
       10.0
@@ -4898,7 +4897,8 @@
       "target_events_per_mathematician": "5-10"
     },
     "data_source": "wikidata_wikipedia_llm_pageview_pipeline_100",
-    "processed_at": "2025-08-11T18:37:12.293686"
+    "processed_at": "2025-08-11T18:37:12.293686",
+    "nationality_removed_at": "2025-08-12T14:25:00.455857"
   },
   "pierre_louis_moreau_de_maupertuis": {
     "id": "pierre_louis_moreau_de_maupertuis",
@@ -4911,7 +4911,6 @@
     "fields": [
       "mathematics"
     ],
-    "nationality": "French",
     "coordinates": [
       48.8566,
       2.3522
@@ -5174,7 +5173,8 @@
       "target_events_per_mathematician": "5-10"
     },
     "data_source": "wikidata_wikipedia_llm_pageview_pipeline_100",
-    "processed_at": "2025-08-11T18:37:12.293707"
+    "processed_at": "2025-08-11T18:37:12.293707",
+    "nationality_removed_at": "2025-08-12T14:25:00.455858"
   },
   "nathaniel_bliss": {
     "id": "nathaniel_bliss",
@@ -5187,7 +5187,6 @@
     "fields": [
       "mathematics"
     ],
-    "nationality": "European",
     "coordinates": [
       50.0,
       10.0
@@ -5357,7 +5356,8 @@
       "target_events_per_mathematician": "5-10"
     },
     "data_source": "wikidata_wikipedia_llm_pageview_pipeline_100",
-    "processed_at": "2025-08-11T18:37:12.293829"
+    "processed_at": "2025-08-11T18:37:12.293829",
+    "nationality_removed_at": "2025-08-12T14:25:00.455858"
   },
   "colin_maclaurin": {
     "id": "colin_maclaurin",
@@ -5370,7 +5370,6 @@
     "fields": [
       "mathematics"
     ],
-    "nationality": "European",
     "coordinates": [
       50.0,
       10.0
@@ -5615,7 +5614,8 @@
       "target_events_per_mathematician": "5-10"
     },
     "data_source": "wikidata_wikipedia_llm_pageview_pipeline_100",
-    "processed_at": "2025-08-11T18:37:12.293852"
+    "processed_at": "2025-08-11T18:37:12.293852",
+    "nationality_removed_at": "2025-08-12T14:25:00.455859"
   },
   "george_baron": {
     "id": "george_baron",
@@ -5628,7 +5628,6 @@
     "fields": [
       "mathematics"
     ],
-    "nationality": "European",
     "coordinates": [
       50.0,
       10.0
@@ -5925,7 +5924,8 @@
       "target_events_per_mathematician": "5-10"
     },
     "data_source": "wikidata_wikipedia_llm_pageview_pipeline_100",
-    "processed_at": "2025-08-11T18:37:12.293869"
+    "processed_at": "2025-08-11T18:37:12.293869",
+    "nationality_removed_at": "2025-08-12T14:25:00.455860"
   },
   "leonhard_euler": {
     "id": "leonhard_euler",
@@ -5938,7 +5938,6 @@
     "fields": [
       "mathematics"
     ],
-    "nationality": "French",
     "coordinates": [
       47.5596,
       7.5886
@@ -6276,7 +6275,8 @@
       "target_events_per_mathematician": "5-10"
     },
     "data_source": "wikidata_wikipedia_llm_pageview_pipeline_100",
-    "processed_at": "2025-08-11T18:37:12.294205"
+    "processed_at": "2025-08-11T18:37:12.294205",
+    "nationality_removed_at": "2025-08-12T14:25:00.455861"
   },
   "bartolomeo_pollastri": {
     "id": "bartolomeo_pollastri",
@@ -6289,7 +6289,6 @@
     "fields": [
       "mathematics"
     ],
-    "nationality": "European",
     "coordinates": [
       50.0,
       10.0
@@ -6451,7 +6450,8 @@
       "target_events_per_mathematician": "5-10"
     },
     "data_source": "wikidata_wikipedia_llm_pageview_pipeline_100",
-    "processed_at": "2025-08-11T18:37:12.294237"
+    "processed_at": "2025-08-11T18:37:12.294237",
+    "nationality_removed_at": "2025-08-12T14:25:00.455862"
   },
   "gabriel_cramer": {
     "id": "gabriel_cramer",
@@ -6464,7 +6464,6 @@
     "fields": [
       "mathematics"
     ],
-    "nationality": "European",
     "coordinates": [
       46.2044,
       6.1432
@@ -6765,7 +6764,8 @@
       "target_events_per_mathematician": "5-10"
     },
     "data_source": "wikidata_wikipedia_llm_pageview_pipeline_100",
-    "processed_at": "2025-08-11T18:37:12.294258"
+    "processed_at": "2025-08-11T18:37:12.294258",
+    "nationality_removed_at": "2025-08-12T14:25:00.455863"
   },
   "sámuel_mikoviny": {
     "id": "sámuel_mikoviny",
@@ -6778,7 +6778,6 @@
     "fields": [
       "mathematics"
     ],
-    "nationality": "European",
     "coordinates": [
       50.0,
       10.0
@@ -7002,7 +7001,8 @@
       "target_events_per_mathematician": "5-10"
     },
     "data_source": "wikidata_wikipedia_llm_pageview_pipeline_100",
-    "processed_at": "2025-08-11T18:37:12.294279"
+    "processed_at": "2025-08-11T18:37:12.294279",
+    "nationality_removed_at": "2025-08-12T14:25:00.455864"
   },
   "james_short": {
     "id": "james_short",
@@ -7015,7 +7015,6 @@
     "fields": [
       "mathematics"
     ],
-    "nationality": "European",
     "coordinates": [
       50.0,
       10.0
@@ -7252,7 +7251,8 @@
       "target_events_per_mathematician": "5-10"
     },
     "data_source": "wikidata_wikipedia_llm_pageview_pipeline_100",
-    "processed_at": "2025-08-11T18:37:12.294301"
+    "processed_at": "2025-08-11T18:37:12.294301",
+    "nationality_removed_at": "2025-08-12T14:25:00.455864"
   },
   "johann_andreas_segner": {
     "id": "johann_andreas_segner",
@@ -7265,7 +7265,6 @@
     "fields": [
       "mathematics"
     ],
-    "nationality": "European",
     "coordinates": [
       50.0,
       10.0
@@ -7548,7 +7547,8 @@
       "target_events_per_mathematician": "5-10"
     },
     "data_source": "wikidata_wikipedia_llm_pageview_pipeline_100",
-    "processed_at": "2025-08-11T18:37:12.294321"
+    "processed_at": "2025-08-11T18:37:12.294321",
+    "nationality_removed_at": "2025-08-12T14:25:00.455865"
   },
   "lorenz_christoph_mizler": {
     "id": "lorenz_christoph_mizler",
@@ -7561,7 +7561,6 @@
     "fields": [
       "mathematics"
     ],
-    "nationality": "French",
     "coordinates": [
       48.8566,
       2.3522
@@ -7763,7 +7762,8 @@
       "target_events_per_mathematician": "5-10"
     },
     "data_source": "wikidata_wikipedia_llm_pageview_pipeline_100",
-    "processed_at": "2025-08-11T18:37:12.294645"
+    "processed_at": "2025-08-11T18:37:12.294645",
+    "nationality_removed_at": "2025-08-12T14:25:00.455866"
   },
   "johann_iii_bernoulli": {
     "id": "johann_iii_bernoulli",
@@ -7776,7 +7776,6 @@
     "fields": [
       "mathematics"
     ],
-    "nationality": "European",
     "coordinates": [
       47.5596,
       7.5886
@@ -8110,7 +8109,8 @@
       "target_events_per_mathematician": "5-10"
     },
     "data_source": "wikidata_wikipedia_llm_pageview_pipeline_100",
-    "processed_at": "2025-08-11T18:37:12.294665"
+    "processed_at": "2025-08-11T18:37:12.294665",
+    "nationality_removed_at": "2025-08-12T14:25:00.455867"
   },
   "joseph_louis_lagrange": {
     "id": "joseph_louis_lagrange",
@@ -8123,7 +8123,6 @@
     "fields": [
       "mathematics"
     ],
-    "nationality": "European",
     "coordinates": [
       45.0703,
       7.6869
@@ -8387,7 +8386,8 @@
       "target_events_per_mathematician": "5-10"
     },
     "data_source": "wikidata_wikipedia_llm_pageview_pipeline_100",
-    "processed_at": "2025-08-11T18:37:12.294683"
+    "processed_at": "2025-08-11T18:37:12.294683",
+    "nationality_removed_at": "2025-08-12T14:25:00.455868"
   },
   "alberto_pappiani": {
     "id": "alberto_pappiani",
@@ -8400,7 +8400,6 @@
     "fields": [
       "mathematics"
     ],
-    "nationality": "European",
     "coordinates": [
       50.0,
       10.0
@@ -8581,7 +8580,8 @@
       "target_events_per_mathematician": "5-10"
     },
     "data_source": "wikidata_wikipedia_llm_pageview_pipeline_100",
-    "processed_at": "2025-08-11T18:37:12.294702"
+    "processed_at": "2025-08-11T18:37:12.294702",
+    "nationality_removed_at": "2025-08-12T14:25:00.455868"
   },
   "giovanni_salvemini": {
     "id": "giovanni_salvemini",
@@ -8594,7 +8594,6 @@
     "fields": [
       "mathematics"
     ],
-    "nationality": "European",
     "coordinates": [
       50.0,
       10.0
@@ -8815,7 +8814,8 @@
       "target_events_per_mathematician": "5-10"
     },
     "data_source": "wikidata_wikipedia_llm_pageview_pipeline_100",
-    "processed_at": "2025-08-11T18:37:12.294722"
+    "processed_at": "2025-08-11T18:37:12.294722",
+    "nationality_removed_at": "2025-08-12T14:25:00.455869"
   },
   "isaac_greenwood": {
     "id": "isaac_greenwood",
@@ -8828,7 +8828,6 @@
     "fields": [
       "mathematics"
     ],
-    "nationality": "European",
     "coordinates": [
       50.0,
       10.0
@@ -9054,7 +9053,8 @@
       "target_events_per_mathematician": "5-10"
     },
     "data_source": "wikidata_wikipedia_llm_pageview_pipeline_100",
-    "processed_at": "2025-08-11T18:37:12.294752"
+    "processed_at": "2025-08-11T18:37:12.294752",
+    "nationality_removed_at": "2025-08-12T14:25:00.455870"
   },
   "giovanni_antonio_lecchi": {
     "id": "giovanni_antonio_lecchi",
@@ -9067,7 +9067,6 @@
     "fields": [
       "mathematics"
     ],
-    "nationality": "French",
     "coordinates": [
       48.8566,
       2.3522
@@ -9369,7 +9368,8 @@
       "target_events_per_mathematician": "5-10"
     },
     "data_source": "wikidata_wikipedia_llm_pageview_pipeline_100",
-    "processed_at": "2025-08-11T18:37:12.294767"
+    "processed_at": "2025-08-11T18:37:12.294767",
+    "nationality_removed_at": "2025-08-12T14:25:00.455871"
   },
   "pietro_di_martino": {
     "id": "pietro_di_martino",
@@ -9382,7 +9382,6 @@
     "fields": [
       "mathematics"
     ],
-    "nationality": "European",
     "coordinates": [
       50.0,
       10.0
@@ -9569,7 +9568,8 @@
       "target_events_per_mathematician": "5-10"
     },
     "data_source": "wikidata_wikipedia_llm_pageview_pipeline_100",
-    "processed_at": "2025-08-11T18:37:12.294786"
+    "processed_at": "2025-08-11T18:37:12.294786",
+    "nationality_removed_at": "2025-08-12T14:25:00.455872"
   },
   "tommaso_perelli": {
     "id": "tommaso_perelli",
@@ -9582,7 +9582,6 @@
     "fields": [
       "mathematics"
     ],
-    "nationality": "European",
     "coordinates": [
       50.0,
       10.0
@@ -9819,7 +9818,8 @@
       "target_events_per_mathematician": "5-10"
     },
     "data_source": "wikidata_wikipedia_llm_pageview_pipeline_100",
-    "processed_at": "2025-08-11T18:37:12.294805"
+    "processed_at": "2025-08-11T18:37:12.294805",
+    "nationality_removed_at": "2025-08-12T14:25:00.455873"
   },
   "giovanni_domenico_maraldi": {
     "id": "giovanni_domenico_maraldi",
@@ -9832,7 +9832,6 @@
     "fields": [
       "mathematics"
     ],
-    "nationality": "European",
     "coordinates": [
       50.0,
       10.0
@@ -9979,7 +9978,8 @@
       "target_events_per_mathematician": "5-10"
     },
     "data_source": "wikidata_wikipedia_llm_pageview_pipeline_100",
-    "processed_at": "2025-08-11T18:37:12.294825"
+    "processed_at": "2025-08-11T18:37:12.294825",
+    "nationality_removed_at": "2025-08-12T14:25:00.455873"
   },
   "johannes_gessner": {
     "id": "johannes_gessner",
@@ -9992,7 +9992,6 @@
     "fields": [
       "mathematics"
     ],
-    "nationality": "European",
     "coordinates": [
       50.0,
       10.0
@@ -10288,7 +10287,8 @@
       "target_events_per_mathematician": "5-10"
     },
     "data_source": "wikidata_wikipedia_llm_pageview_pipeline_100",
-    "processed_at": "2025-08-11T18:37:12.294844"
+    "processed_at": "2025-08-11T18:37:12.294844",
+    "nationality_removed_at": "2025-08-12T14:25:00.455874"
   },
   "jacopo_belgrado": {
     "id": "jacopo_belgrado",
@@ -10301,7 +10301,6 @@
     "fields": [
       "mathematics"
     ],
-    "nationality": "European",
     "coordinates": [
       50.0,
       10.0
@@ -10621,7 +10620,8 @@
       "target_events_per_mathematician": "5-10"
     },
     "data_source": "wikidata_wikipedia_llm_pageview_pipeline_100",
-    "processed_at": "2025-08-11T18:37:12.294866"
+    "processed_at": "2025-08-11T18:37:12.294866",
+    "nationality_removed_at": "2025-08-12T14:25:00.455875"
   },
   "brook_taylor": {
     "id": "brook_taylor",
@@ -10634,7 +10634,6 @@
     "fields": [
       "mathematics"
     ],
-    "nationality": "European",
     "coordinates": [
       50.0,
       10.0
@@ -10841,7 +10840,8 @@
       "target_events_per_mathematician": "5-10"
     },
     "data_source": "wikidata_wikipedia_llm_pageview_pipeline_100",
-    "processed_at": "2025-08-11T18:37:12.294894"
+    "processed_at": "2025-08-11T18:37:12.294894",
+    "nationality_removed_at": "2025-08-12T14:25:00.455876"
   },
   "john_robertson": {
     "id": "john_robertson",
@@ -10854,7 +10854,6 @@
     "fields": [
       "mathematics"
     ],
-    "nationality": "European",
     "coordinates": [
       50.0,
       10.0
@@ -11151,7 +11150,8 @@
       "target_events_per_mathematician": "5-10"
     },
     "data_source": "wikidata_wikipedia_llm_pageview_pipeline_100",
-    "processed_at": "2025-08-11T18:37:12.294919"
+    "processed_at": "2025-08-11T18:37:12.294919",
+    "nationality_removed_at": "2025-08-12T14:25:00.455877"
   },
   "théodore_cornut": {
     "id": "théodore_cornut",
@@ -11164,7 +11164,6 @@
     "fields": [
       "mathematics"
     ],
-    "nationality": "European",
     "coordinates": [
       50.0,
       10.0
@@ -11425,7 +11424,8 @@
       "target_events_per_mathematician": "5-10"
     },
     "data_source": "wikidata_wikipedia_llm_pageview_pipeline_100",
-    "processed_at": "2025-08-11T18:37:12.294940"
+    "processed_at": "2025-08-11T18:37:12.294940",
+    "nationality_removed_at": "2025-08-12T14:25:00.455878"
   },
   "johann_christoph_heilbronner": {
     "id": "johann_christoph_heilbronner",
@@ -11438,7 +11438,6 @@
     "fields": [
       "mathematics"
     ],
-    "nationality": "European",
     "coordinates": [
       50.0,
       10.0
@@ -11638,7 +11637,8 @@
       "target_events_per_mathematician": "5-10"
     },
     "data_source": "wikidata_wikipedia_llm_pageview_pipeline_100",
-    "processed_at": "2025-08-11T18:37:12.294959"
+    "processed_at": "2025-08-11T18:37:12.294959",
+    "nationality_removed_at": "2025-08-12T14:25:00.455879"
   },
   "francesco_perez": {
     "id": "francesco_perez",
@@ -11651,7 +11651,6 @@
     "fields": [
       "mathematics"
     ],
-    "nationality": "European",
     "coordinates": [
       50.0,
       10.0
@@ -11793,7 +11792,8 @@
       "target_events_per_mathematician": "5-10"
     },
     "data_source": "wikidata_wikipedia_llm_pageview_pipeline_100",
-    "processed_at": "2025-08-11T18:37:12.294976"
+    "processed_at": "2025-08-11T18:37:12.294976",
+    "nationality_removed_at": "2025-08-12T14:25:00.455879"
   },
   "benjamin_robins": {
     "id": "benjamin_robins",
@@ -11806,7 +11806,6 @@
     "fields": [
       "mathematics"
     ],
-    "nationality": "European",
     "coordinates": [
       50.0,
       10.0
@@ -12046,7 +12045,8 @@
       "target_events_per_mathematician": "5-10"
     },
     "data_source": "wikidata_wikipedia_llm_pageview_pipeline_100",
-    "processed_at": "2025-08-11T18:37:12.295003"
+    "processed_at": "2025-08-11T18:37:12.295003",
+    "nationality_removed_at": "2025-08-12T14:25:00.455880"
   },
   "christian_goldbach": {
     "id": "christian_goldbach",
@@ -12059,7 +12059,6 @@
     "fields": [
       "mathematics"
     ],
-    "nationality": "European",
     "coordinates": [
       50.0,
       10.0
@@ -12342,7 +12341,8 @@
       "target_events_per_mathematician": "5-10"
     },
     "data_source": "wikidata_wikipedia_llm_pageview_pipeline_100",
-    "processed_at": "2025-08-11T18:37:12.295030"
+    "processed_at": "2025-08-11T18:37:12.295030",
+    "nationality_removed_at": "2025-08-12T14:25:00.455881"
   },
   "cosme_bueno": {
     "id": "cosme_bueno",
@@ -12355,7 +12355,6 @@
     "fields": [
       "mathematics"
     ],
-    "nationality": "European",
     "coordinates": [
       50.0,
       10.0
@@ -12538,7 +12537,8 @@
       "target_events_per_mathematician": "5-10"
     },
     "data_source": "wikidata_wikipedia_llm_pageview_pipeline_100",
-    "processed_at": "2025-08-11T18:37:12.295048"
+    "processed_at": "2025-08-11T18:37:12.295048",
+    "nationality_removed_at": "2025-08-12T14:25:00.455882"
   },
   "johann_peter_süssmilch": {
     "id": "johann_peter_süssmilch",
@@ -12551,7 +12551,6 @@
     "fields": [
       "mathematics"
     ],
-    "nationality": "European",
     "coordinates": [
       50.0,
       10.0
@@ -12847,7 +12846,8 @@
       "target_events_per_mathematician": "5-10"
     },
     "data_source": "wikidata_wikipedia_llm_pageview_pipeline_100",
-    "processed_at": "2025-08-11T18:37:12.295074"
+    "processed_at": "2025-08-11T18:37:12.295074",
+    "nationality_removed_at": "2025-08-12T14:25:00.455883"
   },
   "émilie_du_châtelet": {
     "id": "émilie_du_châtelet",
@@ -12860,7 +12860,6 @@
     "fields": [
       "mathematics"
     ],
-    "nationality": "French",
     "coordinates": [
       48.8566,
       2.3522
@@ -13123,7 +13122,8 @@
       "target_events_per_mathematician": "5-10"
     },
     "data_source": "wikidata_wikipedia_llm_pageview_pipeline_100",
-    "processed_at": "2025-08-11T18:37:12.295097"
+    "processed_at": "2025-08-11T18:37:12.295097",
+    "nationality_removed_at": "2025-08-12T14:25:00.455884"
   },
   "dirk_klinkenberg": {
     "id": "dirk_klinkenberg",
@@ -13136,7 +13136,6 @@
     "fields": [
       "mathematics"
     ],
-    "nationality": "European",
     "coordinates": [
       50.0,
       10.0
@@ -13280,7 +13279,8 @@
       "target_events_per_mathematician": "5-10"
     },
     "data_source": "wikidata_wikipedia_llm_pageview_pipeline_100",
-    "processed_at": "2025-08-11T18:37:12.295115"
+    "processed_at": "2025-08-11T18:37:12.295115",
+    "nationality_removed_at": "2025-08-12T14:25:00.455884"
   },
   "alexis_clairaut": {
     "id": "alexis_clairaut",
@@ -13293,7 +13293,6 @@
     "fields": [
       "mathematics"
     ],
-    "nationality": "French",
     "coordinates": [
       48.8566,
       2.3522
@@ -13614,7 +13613,8 @@
       "target_events_per_mathematician": "5-10"
     },
     "data_source": "wikidata_wikipedia_llm_pageview_pipeline_100",
-    "processed_at": "2025-08-11T18:37:12.295131"
+    "processed_at": "2025-08-11T18:37:12.295131",
+    "nationality_removed_at": "2025-08-12T14:25:00.455885"
   },
   "daniel_bernoulli": {
     "id": "daniel_bernoulli",
@@ -13627,7 +13627,6 @@
     "fields": [
       "mathematics"
     ],
-    "nationality": "European",
     "coordinates": [
       47.5596,
       7.5886
@@ -13948,7 +13947,8 @@
       "target_events_per_mathematician": "5-10"
     },
     "data_source": "wikidata_wikipedia_llm_pageview_pipeline_100",
-    "processed_at": "2025-08-11T18:37:12.295148"
+    "processed_at": "2025-08-11T18:37:12.295148",
+    "nationality_removed_at": "2025-08-12T14:25:00.455886"
   },
   "jean_baptiste_de_la_chapelle": {
     "id": "jean_baptiste_de_la_chapelle",
@@ -13961,7 +13961,6 @@
     "fields": [
       "mathematics"
     ],
-    "nationality": "German",
     "coordinates": [
       52.52,
       13.405
@@ -14142,7 +14141,8 @@
       "target_events_per_mathematician": "5-10"
     },
     "data_source": "wikidata_wikipedia_llm_pageview_pipeline_100",
-    "processed_at": "2025-08-11T18:37:12.295193"
+    "processed_at": "2025-08-11T18:37:12.295193",
+    "nationality_removed_at": "2025-08-12T14:25:00.455887"
   },
   "thomas_bayes": {
     "id": "thomas_bayes",
@@ -14155,7 +14155,6 @@
     "fields": [
       "mathematics"
     ],
-    "nationality": "European",
     "coordinates": [
       50.0,
       10.0
@@ -14361,7 +14360,8 @@
       "target_events_per_mathematician": "5-10"
     },
     "data_source": "wikidata_wikipedia_llm_pageview_pipeline_100",
-    "processed_at": "2025-08-11T18:37:12.295213"
+    "processed_at": "2025-08-11T18:37:12.295213",
+    "nationality_removed_at": "2025-08-12T14:25:00.455888"
   },
   "alexander_macfarlane": {
     "id": "alexander_macfarlane",
@@ -14374,7 +14374,6 @@
     "fields": [
       "mathematics"
     ],
-    "nationality": "French",
     "coordinates": [
       48.8566,
       2.3522
@@ -14577,7 +14576,8 @@
       "target_events_per_mathematician": "5-10"
     },
     "data_source": "wikidata_wikipedia_llm_pageview_pipeline_100",
-    "processed_at": "2025-08-11T18:37:12.295229"
+    "processed_at": "2025-08-11T18:37:12.295229",
+    "nationality_removed_at": "2025-08-12T14:25:00.455889"
   },
   "federico_sanvitale": {
     "id": "federico_sanvitale",
@@ -14590,7 +14590,6 @@
     "fields": [
       "mathematics"
     ],
-    "nationality": "French",
     "coordinates": [
       48.8566,
       2.3522
@@ -14771,7 +14770,8 @@
       "target_events_per_mathematician": "5-10"
     },
     "data_source": "wikidata_wikipedia_llm_pageview_pipeline_100",
-    "processed_at": "2025-08-11T18:37:12.295245"
+    "processed_at": "2025-08-11T18:37:12.295245",
+    "nationality_removed_at": "2025-08-12T14:25:00.455889"
   },
   "vincenzo_riccati": {
     "id": "vincenzo_riccati",
@@ -14784,7 +14784,6 @@
     "fields": [
       "mathematics"
     ],
-    "nationality": "European",
     "coordinates": [
       50.0,
       10.0
@@ -15124,7 +15123,8 @@
       "target_events_per_mathematician": "5-10"
     },
     "data_source": "wikidata_wikipedia_llm_pageview_pipeline_100",
-    "processed_at": "2025-08-11T18:37:12.295263"
+    "processed_at": "2025-08-11T18:37:12.295263",
+    "nationality_removed_at": "2025-08-12T14:25:00.455890"
   },
   "james_dodson": {
     "id": "james_dodson",
@@ -15137,7 +15137,6 @@
     "fields": [
       "mathematics"
     ],
-    "nationality": "European",
     "coordinates": [
       50.0,
       10.0
@@ -15358,7 +15357,8 @@
       "target_events_per_mathematician": "5-10"
     },
     "data_source": "wikidata_wikipedia_llm_pageview_pipeline_100",
-    "processed_at": "2025-08-11T18:37:12.295294"
+    "processed_at": "2025-08-11T18:37:12.295294",
+    "nationality_removed_at": "2025-08-12T14:25:00.455891"
   },
   "thomas_reid": {
     "id": "thomas_reid",
@@ -15371,7 +15371,6 @@
     "fields": [
       "mathematics"
     ],
-    "nationality": "European",
     "coordinates": [
       50.0,
       10.0
@@ -15635,7 +15634,8 @@
       "target_events_per_mathematician": "5-10"
     },
     "data_source": "wikidata_wikipedia_llm_pageview_pipeline_100",
-    "processed_at": "2025-08-11T18:37:12.295321"
+    "processed_at": "2025-08-11T18:37:12.295321",
+    "nationality_removed_at": "2025-08-12T14:25:00.455892"
   },
   "johann_bernoulli": {
     "id": "johann_bernoulli",
@@ -15648,7 +15648,6 @@
     "fields": [
       "mathematics"
     ],
-    "nationality": "European",
     "coordinates": [
       47.5596,
       7.5886
@@ -15836,7 +15835,8 @@
       "target_events_per_mathematician": "5-10"
     },
     "data_source": "wikidata_wikipedia_llm_pageview_pipeline_100",
-    "processed_at": "2025-08-11T18:37:12.295337"
+    "processed_at": "2025-08-11T18:37:12.295337",
+    "nationality_removed_at": "2025-08-12T14:25:00.455893"
   },
   "matthew_raper": {
     "id": "matthew_raper",
@@ -15849,7 +15849,6 @@
     "fields": [
       "mathematics"
     ],
-    "nationality": "European",
     "coordinates": [
       50.0,
       10.0
@@ -16031,7 +16030,8 @@
       "target_events_per_mathematician": "5-10"
     },
     "data_source": "wikidata_wikipedia_llm_pageview_pipeline_100",
-    "processed_at": "2025-08-11T18:37:12.295357"
+    "processed_at": "2025-08-11T18:37:12.295357",
+    "nationality_removed_at": "2025-08-12T14:25:00.455894"
   },
   "louis_godin": {
     "id": "louis_godin",
@@ -16044,7 +16044,6 @@
     "fields": [
       "mathematics"
     ],
-    "nationality": "European",
     "coordinates": [
       50.0,
       10.0
@@ -16365,7 +16364,8 @@
       "target_events_per_mathematician": "5-10"
     },
     "data_source": "wikidata_wikipedia_llm_pageview_pipeline_100",
-    "processed_at": "2025-08-11T18:37:12.295375"
+    "processed_at": "2025-08-11T18:37:12.295375",
+    "nationality_removed_at": "2025-08-12T14:25:00.455895"
   },
   "jedediah_buxton": {
     "id": "jedediah_buxton",
@@ -16378,7 +16378,6 @@
     "fields": [
       "mathematics"
     ],
-    "nationality": "French",
     "coordinates": [
       48.8566,
       2.3522
@@ -16584,7 +16583,8 @@
       "target_events_per_mathematician": "5-10"
     },
     "data_source": "wikidata_wikipedia_llm_pageview_pipeline_100",
-    "processed_at": "2025-08-11T18:37:12.295388"
+    "processed_at": "2025-08-11T18:37:12.295388",
+    "nationality_removed_at": "2025-08-12T14:25:00.455896"
   },
   "jean_louis_calandrini": {
     "id": "jean_louis_calandrini",
@@ -16597,7 +16597,6 @@
     "fields": [
       "mathematics"
     ],
-    "nationality": "European",
     "coordinates": [
       50.0,
       10.0
@@ -16860,7 +16859,8 @@
       "target_events_per_mathematician": "5-10"
     },
     "data_source": "wikidata_wikipedia_llm_pageview_pipeline_100",
-    "processed_at": "2025-08-11T18:37:12.295405"
+    "processed_at": "2025-08-11T18:37:12.295405",
+    "nationality_removed_at": "2025-08-12T14:25:00.455896"
   },
   "joão_de_loureiro": {
     "id": "joão_de_loureiro",
@@ -16873,7 +16873,6 @@
     "fields": [
       "mathematics"
     ],
-    "nationality": "French",
     "coordinates": [
       48.8566,
       2.3522
@@ -17151,7 +17150,8 @@
       "target_events_per_mathematician": "5-10"
     },
     "data_source": "wikidata_wikipedia_llm_pageview_pipeline_100",
-    "processed_at": "2025-08-11T18:37:12.295420"
+    "processed_at": "2025-08-11T18:37:12.295420",
+    "nationality_removed_at": "2025-08-12T14:25:00.455897"
   },
   "richard_jack": {
     "id": "richard_jack",
@@ -17164,7 +17164,6 @@
     "fields": [
       "mathematics"
     ],
-    "nationality": "European",
     "coordinates": [
       50.0,
       10.0
@@ -17423,7 +17422,8 @@
       "target_events_per_mathematician": "5-10"
     },
     "data_source": "wikidata_wikipedia_llm_pageview_pipeline_100",
-    "processed_at": "2025-08-11T18:37:12.295438"
+    "processed_at": "2025-08-11T18:37:12.295438",
+    "nationality_removed_at": "2025-08-12T14:25:00.455898"
   },
   "thomas_simpson": {
     "id": "thomas_simpson",
@@ -17436,7 +17436,6 @@
     "fields": [
       "mathematics"
     ],
-    "nationality": "European",
     "coordinates": [
       50.0,
       10.0
@@ -17641,7 +17640,8 @@
       "target_events_per_mathematician": "5-10"
     },
     "data_source": "wikidata_wikipedia_llm_pageview_pipeline_100",
-    "processed_at": "2025-08-11T18:37:12.295457"
+    "processed_at": "2025-08-11T18:37:12.295457",
+    "nationality_removed_at": "2025-08-12T14:25:00.455899"
   },
   "pierre_lyonnet": {
     "id": "pierre_lyonnet",
@@ -17654,7 +17654,6 @@
     "fields": [
       "mathematics"
     ],
-    "nationality": "European",
     "coordinates": [
       50.0,
       10.0
@@ -17878,7 +17877,8 @@
       "target_events_per_mathematician": "5-10"
     },
     "data_source": "wikidata_wikipedia_llm_pageview_pipeline_100",
-    "processed_at": "2025-08-11T18:37:12.295475"
+    "processed_at": "2025-08-11T18:37:12.295475",
+    "nationality_removed_at": "2025-08-12T14:25:00.455900"
   },
   "alexis_fontaine_des_bertins": {
     "id": "alexis_fontaine_des_bertins",
@@ -17891,7 +17891,6 @@
     "fields": [
       "mathematics"
     ],
-    "nationality": "French",
     "coordinates": [
       48.8566,
       2.3522
@@ -18053,7 +18052,8 @@
       "target_events_per_mathematician": "5-10"
     },
     "data_source": "wikidata_wikipedia_llm_pageview_pipeline_100",
-    "processed_at": "2025-08-11T18:37:12.295504"
+    "processed_at": "2025-08-11T18:37:12.295504",
+    "nationality_removed_at": "2025-08-12T14:25:00.455901"
   },
   "thomas_wright": {
     "id": "thomas_wright",
@@ -18066,7 +18066,6 @@
     "fields": [
       "mathematics"
     ],
-    "nationality": "European",
     "coordinates": [
       50.0,
       10.0
@@ -18334,7 +18333,8 @@
       "target_events_per_mathematician": "5-10"
     },
     "data_source": "wikidata_wikipedia_llm_pageview_pipeline_100",
-    "processed_at": "2025-08-11T18:37:12.295522"
+    "processed_at": "2025-08-11T18:37:12.295522",
+    "nationality_removed_at": "2025-08-12T14:25:00.455901"
   },
   "thomas_fuller": {
     "id": "thomas_fuller",
@@ -18347,7 +18347,6 @@
     "fields": [
       "mathematics"
     ],
-    "nationality": "French",
     "coordinates": [
       48.8566,
       2.3522
@@ -18533,7 +18532,8 @@
       "target_events_per_mathematician": "5-10"
     },
     "data_source": "wikidata_wikipedia_llm_pageview_pipeline_100",
-    "processed_at": "2025-08-11T18:37:12.295535"
+    "processed_at": "2025-08-11T18:37:12.295535",
+    "nationality_removed_at": "2025-08-12T14:25:00.455902"
   },
   "yamaji_nushizumi": {
     "id": "yamaji_nushizumi",
@@ -18546,7 +18546,6 @@
     "fields": [
       "mathematics"
     ],
-    "nationality": "European",
     "coordinates": [
       50.0,
       10.0
@@ -18791,7 +18790,8 @@
       "target_events_per_mathematician": "5-10"
     },
     "data_source": "wikidata_wikipedia_llm_pageview_pipeline_100",
-    "processed_at": "2025-08-11T18:37:12.295552"
+    "processed_at": "2025-08-11T18:37:12.295552",
+    "nationality_removed_at": "2025-08-12T14:25:00.455903"
   },
   "jean_antoine_nicolas_de_caritat_de_condorcet": {
     "id": "jean_antoine_nicolas_de_caritat_de_condorcet",
@@ -18804,7 +18804,6 @@
     "fields": [
       "mathematics"
     ],
-    "nationality": "French",
     "coordinates": [
       48.8566,
       2.3522
@@ -19048,7 +19047,8 @@
       "target_events_per_mathematician": "5-10"
     },
     "data_source": "wikidata_wikipedia_llm_pageview_pipeline_100",
-    "processed_at": "2025-08-11T18:37:12.295566"
+    "processed_at": "2025-08-11T18:37:12.295566",
+    "nationality_removed_at": "2025-08-12T14:25:00.455904"
   },
   "abraham_de_moivre": {
     "id": "abraham_de_moivre",
@@ -19061,7 +19061,6 @@
     "fields": [
       "mathematics"
     ],
-    "nationality": "French",
     "coordinates": [
       48.8566,
       2.3522
@@ -19324,7 +19323,8 @@
       "target_events_per_mathematician": "5-10"
     },
     "data_source": "wikidata_wikipedia_llm_pageview_pipeline_100",
-    "processed_at": "2025-08-11T18:37:12.295579"
+    "processed_at": "2025-08-11T18:37:12.295579",
+    "nationality_removed_at": "2025-08-12T14:25:00.455905"
   },
   "jean_le_rond_d'alembert": {
     "id": "jean_le_rond_d'alembert",
@@ -19337,7 +19337,6 @@
     "fields": [
       "mathematics"
     ],
-    "nationality": "French",
     "coordinates": [
       48.8566,
       2.3522
@@ -19620,7 +19619,8 @@
       "target_events_per_mathematician": "5-10"
     },
     "data_source": "wikidata_wikipedia_llm_pageview_pipeline_100",
-    "processed_at": "2025-08-11T18:37:12.295593"
+    "processed_at": "2025-08-11T18:37:12.295593",
+    "nationality_removed_at": "2025-08-12T14:25:00.455905"
   },
   "israel_zamosz": {
     "id": "israel_zamosz",
@@ -19633,7 +19633,6 @@
     "fields": [
       "mathematics"
     ],
-    "nationality": "European",
     "coordinates": [
       50.0,
       10.0
@@ -19853,7 +19852,8 @@
       "target_events_per_mathematician": "5-10"
     },
     "data_source": "wikidata_wikipedia_llm_pageview_pipeline_100",
-    "processed_at": "2025-08-11T18:37:12.295611"
+    "processed_at": "2025-08-11T18:37:12.295611",
+    "nationality_removed_at": "2025-08-12T14:25:00.455906"
   },
   "nicolaus_i_bernoulli": {
     "id": "nicolaus_i_bernoulli",
@@ -19866,7 +19866,6 @@
     "fields": [
       "mathematics"
     ],
-    "nationality": "European",
     "coordinates": [
       47.5596,
       7.5886
@@ -20106,7 +20105,8 @@
       "target_events_per_mathematician": "5-10"
     },
     "data_source": "wikidata_wikipedia_llm_pageview_pipeline_100",
-    "processed_at": "2025-08-11T18:37:12.295627"
+    "processed_at": "2025-08-11T18:37:12.295627",
+    "nationality_removed_at": "2025-08-12T14:25:00.455907"
   },
   "johann_friedrich_endersch": {
     "id": "johann_friedrich_endersch",
@@ -20119,7 +20119,6 @@
     "fields": [
       "mathematics"
     ],
-    "nationality": "French",
     "coordinates": [
       48.8566,
       2.3522
@@ -20339,7 +20338,8 @@
       "target_events_per_mathematician": "5-10"
     },
     "data_source": "wikidata_wikipedia_llm_pageview_pipeline_100",
-    "processed_at": "2025-08-11T18:37:12.295641"
+    "processed_at": "2025-08-11T18:37:12.295641",
+    "nationality_removed_at": "2025-08-12T14:25:00.455908"
   },
   "lazzaro_mongiardini": {
     "id": "lazzaro_mongiardini",
@@ -20352,7 +20352,6 @@
     "fields": [
       "mathematics"
     ],
-    "nationality": "European",
     "coordinates": [
       50.0,
       10.0
@@ -20532,7 +20531,8 @@
       "target_events_per_mathematician": "5-10"
     },
     "data_source": "wikidata_wikipedia_llm_pageview_pipeline_100",
-    "processed_at": "2025-08-11T18:37:12.295658"
+    "processed_at": "2025-08-11T18:37:12.295658",
+    "nationality_removed_at": "2025-08-12T14:25:00.455909"
   },
   "francis_williams": {
     "id": "francis_williams",
@@ -20545,7 +20545,6 @@
     "fields": [
       "mathematics"
     ],
-    "nationality": "European",
     "coordinates": [
       50.0,
       10.0
@@ -20709,7 +20708,8 @@
       "target_events_per_mathematician": "5-10"
     },
     "data_source": "wikidata_wikipedia_llm_pageview_pipeline_100",
-    "processed_at": "2025-08-11T18:37:12.295685"
+    "processed_at": "2025-08-11T18:37:12.295685",
+    "nationality_removed_at": "2025-08-12T14:25:00.455910"
   },
   "pierre_simon_laplace": {
     "id": "pierre_simon_laplace",
@@ -20722,7 +20722,6 @@
     "fields": [
       "mathematics"
     ],
-    "nationality": "European",
     "coordinates": [
       48.8566,
       2.3522
@@ -20928,7 +20927,8 @@
       "target_events_per_mathematician": "5-10"
     },
     "data_source": "wikidata_wikipedia_llm_pageview_pipeline_100",
-    "processed_at": "2025-08-11T18:37:12.295702"
+    "processed_at": "2025-08-11T18:37:12.295702",
+    "nationality_removed_at": "2025-08-12T14:25:00.455912"
   },
   "guillaume_le_blond": {
     "id": "guillaume_le_blond",
@@ -20941,7 +20941,6 @@
     "fields": [
       "mathematics"
     ],
-    "nationality": "French",
     "coordinates": [
       48.8566,
       2.3522
@@ -21162,7 +21161,8 @@
       "target_events_per_mathematician": "5-10"
     },
     "data_source": "wikidata_wikipedia_llm_pageview_pipeline_100",
-    "processed_at": "2025-08-11T18:37:12.295778"
+    "processed_at": "2025-08-11T18:37:12.295778",
+    "nationality_removed_at": "2025-08-12T14:25:00.455913"
   },
   "johann_heinrich_lambert": {
     "id": "johann_heinrich_lambert",
@@ -21175,7 +21175,6 @@
     "fields": [
       "mathematics"
     ],
-    "nationality": "European",
     "coordinates": [
       52.52,
       13.405
@@ -21344,7 +21343,8 @@
       "target_events_per_mathematician": "5-10"
     },
     "data_source": "wikidata_wikipedia_llm_pageview_pipeline_100",
-    "processed_at": "2025-08-11T18:37:12.295921"
+    "processed_at": "2025-08-11T18:37:12.295921",
+    "nationality_removed_at": "2025-08-12T14:25:00.455914"
   },
   "corbyn_morris": {
     "id": "corbyn_morris",
@@ -21357,7 +21357,6 @@
     "fields": [
       "mathematics"
     ],
-    "nationality": "European",
     "coordinates": [
       50.0,
       10.0
@@ -21521,7 +21520,8 @@
       "target_events_per_mathematician": "5-10"
     },
     "data_source": "wikidata_wikipedia_llm_pageview_pipeline_100",
-    "processed_at": "2025-08-11T18:37:12.295951"
+    "processed_at": "2025-08-11T18:37:12.295951",
+    "nationality_removed_at": "2025-08-12T14:25:00.455915"
   },
   "faustina_pignatelli": {
     "id": "faustina_pignatelli",
@@ -21534,7 +21534,6 @@
     "fields": [
       "mathematics"
     ],
-    "nationality": "European",
     "coordinates": [
       50.0,
       10.0
@@ -21734,7 +21733,8 @@
       "target_events_per_mathematician": "5-10"
     },
     "data_source": "wikidata_wikipedia_llm_pageview_pipeline_100",
-    "processed_at": "2025-08-11T18:37:12.295969"
+    "processed_at": "2025-08-11T18:37:12.295969",
+    "nationality_removed_at": "2025-08-12T14:25:00.455916"
   },
   "william_emerson": {
     "id": "william_emerson",
@@ -21747,7 +21747,6 @@
     "fields": [
       "mathematics"
     ],
-    "nationality": "European",
     "coordinates": [
       50.0,
       10.0
@@ -21916,7 +21915,8 @@
       "target_events_per_mathematician": "5-10"
     },
     "data_source": "wikidata_wikipedia_llm_pageview_pipeline_100",
-    "processed_at": "2025-08-11T18:37:12.295985"
+    "processed_at": "2025-08-11T18:37:12.295985",
+    "nationality_removed_at": "2025-08-12T14:25:00.455917"
   },
   "michael_adelbulner": {
     "id": "michael_adelbulner",
@@ -21929,7 +21929,6 @@
     "fields": [
       "mathematics"
     ],
-    "nationality": "French",
     "coordinates": [
       48.8566,
       2.3522
@@ -22092,7 +22091,8 @@
       "target_events_per_mathematician": "5-10"
     },
     "data_source": "wikidata_wikipedia_llm_pageview_pipeline_100",
-    "processed_at": "2025-08-11T18:37:12.296006"
+    "processed_at": "2025-08-11T18:37:12.296006",
+    "nationality_removed_at": "2025-08-12T14:25:00.455918"
   },
   "gaspard_monge": {
     "id": "gaspard_monge",
@@ -22105,7 +22105,6 @@
     "fields": [
       "mathematics"
     ],
-    "nationality": "European",
     "coordinates": [
       50.0,
       10.0
@@ -22274,7 +22273,8 @@
       "target_events_per_mathematician": "5-10"
     },
     "data_source": "wikidata_wikipedia_llm_pageview_pipeline_100",
-    "processed_at": "2025-08-11T18:37:12.296053"
+    "processed_at": "2025-08-11T18:37:12.296053",
+    "nationality_removed_at": "2025-08-12T14:25:00.455918"
   },
   "giambattista_suardi": {
     "id": "giambattista_suardi",
@@ -22287,7 +22287,6 @@
     "fields": [
       "mathematics"
     ],
-    "nationality": "European",
     "coordinates": [
       50.0,
       10.0
@@ -22448,7 +22447,8 @@
       "target_events_per_mathematician": "5-10"
     },
     "data_source": "wikidata_wikipedia_llm_pageview_pipeline_100",
-    "processed_at": "2025-08-11T18:37:12.296070"
+    "processed_at": "2025-08-11T18:37:12.296070",
+    "nationality_removed_at": "2025-08-12T14:25:00.455919"
   },
   "nicolaus_ii_bernoulli": {
     "id": "nicolaus_ii_bernoulli",
@@ -22461,7 +22461,6 @@
     "fields": [
       "mathematics"
     ],
-    "nationality": "European",
     "coordinates": [
       47.5596,
       7.5886
@@ -22600,7 +22599,8 @@
       "target_events_per_mathematician": "5-10"
     },
     "data_source": "wikidata_wikipedia_llm_pageview_pipeline_100",
-    "processed_at": "2025-08-11T18:37:12.296105"
+    "processed_at": "2025-08-11T18:37:12.296105",
+    "nationality_removed_at": "2025-08-12T14:25:00.455920"
   },
   "edmund_stone": {
     "id": "edmund_stone",
@@ -22613,7 +22613,6 @@
     "fields": [
       "mathematics"
     ],
-    "nationality": "European",
     "coordinates": [
       50.0,
       10.0
@@ -22782,7 +22781,8 @@
       "target_events_per_mathematician": "5-10"
     },
     "data_source": "wikidata_wikipedia_llm_pageview_pipeline_100",
-    "processed_at": "2025-08-11T18:37:12.296174"
+    "processed_at": "2025-08-11T18:37:12.296174",
+    "nationality_removed_at": "2025-08-12T14:25:00.455921"
   },
   "gottfried_heinsius": {
     "id": "gottfried_heinsius",
@@ -22795,7 +22795,6 @@
     "fields": [
       "mathematics"
     ],
-    "nationality": "European",
     "coordinates": [
       50.0,
       10.0
@@ -22995,7 +22994,8 @@
       "target_events_per_mathematician": "5-10"
     },
     "data_source": "wikidata_wikipedia_llm_pageview_pipeline_100",
-    "processed_at": "2025-08-11T18:37:12.296227"
+    "processed_at": "2025-08-11T18:37:12.296227",
+    "nationality_removed_at": "2025-08-12T14:25:00.455922"
   },
   "françois_jacquier": {
     "id": "françois_jacquier",
@@ -23008,7 +23008,6 @@
     "fields": [
       "mathematics"
     ],
-    "nationality": "European",
     "coordinates": [
       50.0,
       10.0
@@ -23173,7 +23172,8 @@
       "target_events_per_mathematician": "5-10"
     },
     "data_source": "wikidata_wikipedia_llm_pageview_pipeline_100",
-    "processed_at": "2025-08-11T18:37:12.296297"
+    "processed_at": "2025-08-11T18:37:12.296297",
+    "nationality_removed_at": "2025-08-12T14:25:00.455923"
   },
   "anders_celsius": {
     "id": "anders_celsius",
@@ -23186,7 +23186,6 @@
     "fields": [
       "mathematics"
     ],
-    "nationality": "French",
     "coordinates": [
       48.8566,
       2.3522
@@ -23353,6 +23352,7 @@
       "target_events_per_mathematician": "5-10"
     },
     "data_source": "wikidata_wikipedia_llm_pageview_pipeline_100",
-    "processed_at": "2025-08-11T18:37:12.296941"
+    "processed_at": "2025-08-11T18:37:12.296941",
+    "nationality_removed_at": "2025-08-12T14:25:00.455923"
   }
 }
