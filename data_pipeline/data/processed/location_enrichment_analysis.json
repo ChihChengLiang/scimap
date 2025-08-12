@@ -1,0 +1,1773 @@
+{
+  "timestamp": "2025-08-12T14:16:55.546483",
+  "wikidata_places_total": 472,
+  "similar_places": {
+    "Trapani": {
+      "similar_to": [
+        "Trapani"
+      ],
+      "metadata": {
+        "wikidata_url": "http://www.wikidata.org/entity/Q13664",
+        "usage_count": 2,
+        "is_birth_place": true,
+        "is_death_place": false
+      }
+    },
+    "Naples": {
+      "similar_to": [
+        "Naples"
+      ],
+      "metadata": {
+        "wikidata_url": "http://www.wikidata.org/entity/Q2634",
+        "usage_count": 8,
+        "is_birth_place": false,
+        "is_death_place": true
+      }
+    },
+    "Palermo": {
+      "similar_to": [
+        "Palermo"
+      ],
+      "metadata": {
+        "wikidata_url": "http://www.wikidata.org/entity/Q2656",
+        "usage_count": 2,
+        "is_birth_place": true,
+        "is_death_place": true
+      }
+    },
+    "Paris": {
+      "similar_to": [
+        "Paris, France",
+        "Paris"
+      ],
+      "metadata": {
+        "wikidata_url": "http://www.wikidata.org/entity/Q90",
+        "usage_count": 75,
+        "is_birth_place": true,
+        "is_death_place": true
+      }
+    },
+    "Dresden": {
+      "similar_to": [
+        "Dresden"
+      ],
+      "metadata": {
+        "wikidata_url": "http://www.wikidata.org/entity/Q1731",
+        "usage_count": 4,
+        "is_birth_place": false,
+        "is_death_place": true
+      }
+    },
+    "Pont-de-Veyle": {
+      "similar_to": [
+        "Pont-de-Veyle"
+      ],
+      "metadata": {
+        "wikidata_url": "http://www.wikidata.org/entity/Q769579",
+        "usage_count": 2,
+        "is_birth_place": true,
+        "is_death_place": false
+      }
+    },
+    "Amber": {
+      "similar_to": [
+        "johann_heinrich_lambert"
+      ],
+      "metadata": {
+        "wikidata_url": "http://www.wikidata.org/entity/Q8197166",
+        "usage_count": 1,
+        "is_birth_place": true,
+        "is_death_place": false
+      }
+    },
+    "Mons": {
+      "similar_to": [
+        "Mons"
+      ],
+      "metadata": {
+        "wikidata_url": "http://www.wikidata.org/entity/Q83407",
+        "usage_count": 2,
+        "is_birth_place": true,
+        "is_death_place": true
+      }
+    },
+    "Le Croisic": {
+      "similar_to": [
+        "Le Croisic"
+      ],
+      "metadata": {
+        "wikidata_url": "http://www.wikidata.org/entity/Q840597",
+        "usage_count": 2,
+        "is_birth_place": false,
+        "is_death_place": true
+      }
+    },
+    "Ambert": {
+      "similar_to": [
+        "johann_heinrich_lambert"
+      ],
+      "metadata": {
+        "wikidata_url": "http://www.wikidata.org/entity/Q213317",
+        "usage_count": 1,
+        "is_birth_place": true,
+        "is_death_place": false
+      }
+    },
+    "Edinburgh": {
+      "similar_to": [
+        "Edinburgh"
+      ],
+      "metadata": {
+        "wikidata_url": "http://www.wikidata.org/entity/Q23436",
+        "usage_count": 9,
+        "is_birth_place": true,
+        "is_death_place": true
+      }
+    },
+    "Caen": {
+      "similar_to": [
+        "Caen"
+      ],
+      "metadata": {
+        "wikidata_url": "http://www.wikidata.org/entity/Q41185",
+        "usage_count": 3,
+        "is_birth_place": true,
+        "is_death_place": true
+      }
+    },
+    "Beijing": {
+      "similar_to": [
+        "Beijing"
+      ],
+      "metadata": {
+        "wikidata_url": "http://www.wikidata.org/entity/Q956",
+        "usage_count": 6,
+        "is_birth_place": false,
+        "is_death_place": true
+      }
+    },
+    "Basel": {
+      "similar_to": [
+        "Basel",
+        "Basel, Switzerland"
+      ],
+      "metadata": {
+        "wikidata_url": "http://www.wikidata.org/entity/Q78",
+        "usage_count": 16,
+        "is_birth_place": true,
+        "is_death_place": true
+      }
+    },
+    "Bologna": {
+      "similar_to": [
+        "Bologna"
+      ],
+      "metadata": {
+        "wikidata_url": "http://www.wikidata.org/entity/Q1891",
+        "usage_count": 10,
+        "is_birth_place": true,
+        "is_death_place": true
+      }
+    },
+    "Padua": {
+      "similar_to": [
+        "Padua"
+      ],
+      "metadata": {
+        "wikidata_url": "http://www.wikidata.org/entity/Q617",
+        "usage_count": 8,
+        "is_birth_place": false,
+        "is_death_place": true
+      }
+    },
+    "Tower of London": {
+      "similar_to": [
+        "London"
+      ],
+      "metadata": {
+        "wikidata_url": "http://www.wikidata.org/entity/Q62378",
+        "usage_count": 1,
+        "is_birth_place": true,
+        "is_death_place": false
+      }
+    },
+    "Utrecht": {
+      "similar_to": [
+        "Utrecht"
+      ],
+      "metadata": {
+        "wikidata_url": "http://www.wikidata.org/entity/Q39297398",
+        "usage_count": 2,
+        "is_birth_place": false,
+        "is_death_place": true
+      }
+    },
+    "Greenwich": {
+      "similar_to": [
+        "Greenwich"
+      ],
+      "metadata": {
+        "wikidata_url": "http://www.wikidata.org/entity/Q179385",
+        "usage_count": 2,
+        "is_birth_place": false,
+        "is_death_place": true
+      }
+    },
+    "Lyon": {
+      "similar_to": [
+        "Lyon"
+      ],
+      "metadata": {
+        "wikidata_url": "http://www.wikidata.org/entity/Q456",
+        "usage_count": 9,
+        "is_birth_place": true,
+        "is_death_place": true
+      }
+    },
+    "Rouen": {
+      "similar_to": [
+        "Rouen"
+      ],
+      "metadata": {
+        "wikidata_url": "http://www.wikidata.org/entity/Q30974",
+        "usage_count": 2,
+        "is_birth_place": true,
+        "is_death_place": false
+      }
+    },
+    "Dublin": {
+      "similar_to": [
+        "Dublin"
+      ],
+      "metadata": {
+        "wikidata_url": "http://www.wikidata.org/entity/Q1761",
+        "usage_count": 2,
+        "is_birth_place": false,
+        "is_death_place": true
+      }
+    },
+    "Aberdeen": {
+      "similar_to": [
+        "Aberdeen"
+      ],
+      "metadata": {
+        "wikidata_url": "http://www.wikidata.org/entity/Q36405",
+        "usage_count": 2,
+        "is_birth_place": true,
+        "is_death_place": false
+      }
+    },
+    "London": {
+      "similar_to": [
+        "London"
+      ],
+      "metadata": {
+        "wikidata_url": "http://www.wikidata.org/entity/Q84",
+        "usage_count": 34,
+        "is_birth_place": false,
+        "is_death_place": true
+      }
+    },
+    "Göttingen": {
+      "similar_to": [
+        "Göttingen"
+      ],
+      "metadata": {
+        "wikidata_url": "http://www.wikidata.org/entity/Q3033",
+        "usage_count": 6,
+        "is_birth_place": false,
+        "is_death_place": true
+      }
+    },
+    "Leipzig": {
+      "similar_to": [
+        "Leipzig"
+      ],
+      "metadata": {
+        "wikidata_url": "http://www.wikidata.org/entity/Q2079",
+        "usage_count": 7,
+        "is_birth_place": false,
+        "is_death_place": true
+      }
+    },
+    "Maria Magdalena parish": {
+      "similar_to": [
+        "Paris"
+      ],
+      "metadata": {
+        "wikidata_url": "http://www.wikidata.org/entity/Q3438210",
+        "usage_count": 1,
+        "is_birth_place": false,
+        "is_death_place": true
+      }
+    },
+    "Lausanne": {
+      "similar_to": [
+        "Lausanne"
+      ],
+      "metadata": {
+        "wikidata_url": "http://www.wikidata.org/entity/Q807",
+        "usage_count": 3,
+        "is_birth_place": true,
+        "is_death_place": true
+      }
+    },
+    "Ulm": {
+      "similar_to": [
+        "Ulm"
+      ],
+      "metadata": {
+        "wikidata_url": "http://www.wikidata.org/entity/Q3012",
+        "usage_count": 3,
+        "is_birth_place": true,
+        "is_death_place": false
+      }
+    },
+    "Lima": {
+      "similar_to": [
+        "Lima"
+      ],
+      "metadata": {
+        "wikidata_url": "http://www.wikidata.org/entity/Q2868",
+        "usage_count": 3,
+        "is_birth_place": true,
+        "is_death_place": true
+      }
+    },
+    "Berlin": {
+      "similar_to": [
+        "Berlin",
+        "Berlin-Cölln"
+      ],
+      "metadata": {
+        "wikidata_url": "http://www.wikidata.org/entity/Q64",
+        "usage_count": 11,
+        "is_birth_place": false,
+        "is_death_place": true
+      }
+    },
+    "Edo": {
+      "similar_to": [
+        "Edo"
+      ],
+      "metadata": {
+        "wikidata_url": "http://www.wikidata.org/entity/Q215646",
+        "usage_count": 6,
+        "is_birth_place": true,
+        "is_death_place": true
+      }
+    },
+    "Venice": {
+      "similar_to": [
+        "Venice"
+      ],
+      "metadata": {
+        "wikidata_url": "http://www.wikidata.org/entity/Q641",
+        "usage_count": 13,
+        "is_birth_place": false,
+        "is_death_place": true
+      }
+    },
+    "Perinaldo": {
+      "similar_to": [
+        "Perinaldo"
+      ],
+      "metadata": {
+        "wikidata_url": "http://www.wikidata.org/entity/Q269476",
+        "usage_count": 3,
+        "is_birth_place": true,
+        "is_death_place": true
+      }
+    },
+    "Vitry-le-François": {
+      "similar_to": [
+        "Vitry-le-François"
+      ],
+      "metadata": {
+        "wikidata_url": "http://www.wikidata.org/entity/Q623374",
+        "usage_count": 2,
+        "is_birth_place": true,
+        "is_death_place": false
+      }
+    },
+    "Milan": {
+      "similar_to": [
+        "Milan"
+      ],
+      "metadata": {
+        "wikidata_url": "http://www.wikidata.org/entity/Q490",
+        "usage_count": 14,
+        "is_birth_place": false,
+        "is_death_place": true
+      }
+    },
+    "England": {
+      "similar_to": [
+        "England",
+        "France, England",
+        "Hertfordshire, England"
+      ],
+      "metadata": {
+        "wikidata_url": "http://www.wikidata.org/entity/Q21",
+        "usage_count": 3,
+        "is_birth_place": false,
+        "is_death_place": true
+      }
+    },
+    "Turku": {
+      "similar_to": [
+        "Turku"
+      ],
+      "metadata": {
+        "wikidata_url": "http://www.wikidata.org/entity/Q38511",
+        "usage_count": 3,
+        "is_birth_place": true,
+        "is_death_place": true
+      }
+    },
+    "Moscow": {
+      "similar_to": [
+        "Moscow"
+      ],
+      "metadata": {
+        "wikidata_url": "http://www.wikidata.org/entity/Q649",
+        "usage_count": 2,
+        "is_birth_place": false,
+        "is_death_place": true
+      }
+    },
+    "Aberdeenshire": {
+      "similar_to": [
+        "Aberdeen"
+      ],
+      "metadata": {
+        "wikidata_url": "http://www.wikidata.org/entity/Q3290674",
+        "usage_count": 1,
+        "is_birth_place": true,
+        "is_death_place": false
+      }
+    },
+    "Bath": {
+      "similar_to": [
+        "Bath"
+      ],
+      "metadata": {
+        "wikidata_url": "http://www.wikidata.org/entity/Q22889",
+        "usage_count": 4,
+        "is_birth_place": false,
+        "is_death_place": true
+      }
+    },
+    "Coulonces": {
+      "similar_to": [
+        "Coulonces"
+      ],
+      "metadata": {
+        "wikidata_url": "http://www.wikidata.org/entity/Q224409",
+        "usage_count": 2,
+        "is_birth_place": true,
+        "is_death_place": true
+      }
+    },
+    "Pisa": {
+      "similar_to": [
+        "Pisa"
+      ],
+      "metadata": {
+        "wikidata_url": "http://www.wikidata.org/entity/Q13375",
+        "usage_count": 3,
+        "is_birth_place": false,
+        "is_death_place": true
+      }
+    },
+    "Saint Petersburg": {
+      "similar_to": [
+        "Saint Petersburg"
+      ],
+      "metadata": {
+        "wikidata_url": "http://www.wikidata.org/entity/Q656",
+        "usage_count": 9,
+        "is_birth_place": false,
+        "is_death_place": true
+      }
+    },
+    "Brescia": {
+      "similar_to": [
+        "Brescia"
+      ],
+      "metadata": {
+        "wikidata_url": "http://www.wikidata.org/entity/Q6221",
+        "usage_count": 6,
+        "is_birth_place": true,
+        "is_death_place": true
+      }
+    },
+    "Leiden": {
+      "similar_to": [
+        "Leiden"
+      ],
+      "metadata": {
+        "wikidata_url": "http://www.wikidata.org/entity/Q43631",
+        "usage_count": 7,
+        "is_birth_place": false,
+        "is_death_place": true
+      }
+    },
+    "Nuremberg": {
+      "similar_to": [
+        "Nuremberg"
+      ],
+      "metadata": {
+        "wikidata_url": "http://www.wikidata.org/entity/Q2090",
+        "usage_count": 3,
+        "is_birth_place": true,
+        "is_death_place": true
+      }
+    },
+    "Halle": {
+      "similar_to": [
+        "Halle"
+      ],
+      "metadata": {
+        "wikidata_url": "http://www.wikidata.org/entity/Q2814",
+        "usage_count": 4,
+        "is_birth_place": false,
+        "is_death_place": true
+      }
+    },
+    "Copenhagen": {
+      "similar_to": [
+        "Copenhagen"
+      ],
+      "metadata": {
+        "wikidata_url": "http://www.wikidata.org/entity/Q1748",
+        "usage_count": 5,
+        "is_birth_place": false,
+        "is_death_place": true
+      }
+    },
+    "Cambridge": {
+      "similar_to": [
+        "Cambridge"
+      ],
+      "metadata": {
+        "wikidata_url": "http://www.wikidata.org/entity/Q350",
+        "usage_count": 7,
+        "is_birth_place": false,
+        "is_death_place": true
+      }
+    },
+    "Ljubljana": {
+      "similar_to": [
+        "Ljubljana"
+      ],
+      "metadata": {
+        "wikidata_url": "http://www.wikidata.org/entity/Q437",
+        "usage_count": 3,
+        "is_birth_place": true,
+        "is_death_place": false
+      }
+    },
+    "Rome": {
+      "similar_to": [
+        "Rome"
+      ],
+      "metadata": {
+        "wikidata_url": "http://www.wikidata.org/entity/Q220",
+        "usage_count": 5,
+        "is_birth_place": false,
+        "is_death_place": true
+      }
+    },
+    "Hertfordshire": {
+      "similar_to": [
+        "Hertfordshire, England"
+      ],
+      "metadata": {
+        "wikidata_url": "http://www.wikidata.org/entity/Q3410",
+        "usage_count": 1,
+        "is_birth_place": true,
+        "is_death_place": false
+      }
+    },
+    "Senigallia": {
+      "similar_to": [
+        "Senigallia"
+      ],
+      "metadata": {
+        "wikidata_url": "http://www.wikidata.org/entity/Q124925",
+        "usage_count": 4,
+        "is_birth_place": true,
+        "is_death_place": true
+      }
+    },
+    "Lutherstadt Wittenberg": {
+      "similar_to": [
+        "Lutherstadt Wittenberg"
+      ],
+      "metadata": {
+        "wikidata_url": "http://www.wikidata.org/entity/Q6837",
+        "usage_count": 4,
+        "is_birth_place": false,
+        "is_death_place": true
+      }
+    },
+    "Hanover": {
+      "similar_to": [
+        "Hanover, Germany"
+      ],
+      "metadata": {
+        "wikidata_url": "http://www.wikidata.org/entity/Q1715",
+        "usage_count": 3,
+        "is_birth_place": false,
+        "is_death_place": true
+      }
+    },
+    "Gdańsk": {
+      "similar_to": [
+        "Gdańsk"
+      ],
+      "metadata": {
+        "wikidata_url": "http://www.wikidata.org/entity/Q1792",
+        "usage_count": 4,
+        "is_birth_place": true,
+        "is_death_place": true
+      }
+    },
+    "Groningen": {
+      "similar_to": [
+        "Groningen"
+      ],
+      "metadata": {
+        "wikidata_url": "http://www.wikidata.org/entity/Q749",
+        "usage_count": 2,
+        "is_birth_place": true,
+        "is_death_place": false
+      }
+    },
+    "Jakob and Johannes parish": {
+      "similar_to": [
+        "Paris"
+      ],
+      "metadata": {
+        "wikidata_url": "http://www.wikidata.org/entity/Q54006791",
+        "usage_count": 1,
+        "is_birth_place": true,
+        "is_death_place": false
+      }
+    },
+    "Montpellier": {
+      "similar_to": [
+        "Montpellier"
+      ],
+      "metadata": {
+        "wikidata_url": "http://www.wikidata.org/entity/Q6441",
+        "usage_count": 4,
+        "is_birth_place": true,
+        "is_death_place": true
+      }
+    },
+    "Boston": {
+      "similar_to": [
+        "Boston"
+      ],
+      "metadata": {
+        "wikidata_url": "http://www.wikidata.org/entity/Q100",
+        "usage_count": 3,
+        "is_birth_place": true,
+        "is_death_place": false
+      }
+    },
+    "Prague": {
+      "similar_to": [
+        "Prague"
+      ],
+      "metadata": {
+        "wikidata_url": "http://www.wikidata.org/entity/Q1085",
+        "usage_count": 3,
+        "is_birth_place": false,
+        "is_death_place": true
+      }
+    },
+    "Königsberg": {
+      "similar_to": [
+        "Königsberg"
+      ],
+      "metadata": {
+        "wikidata_url": "http://www.wikidata.org/entity/Q4120832",
+        "usage_count": 4,
+        "is_birth_place": true,
+        "is_death_place": true
+      }
+    },
+    "Westminster": {
+      "similar_to": [
+        "Westminster"
+      ],
+      "metadata": {
+        "wikidata_url": "http://www.wikidata.org/entity/Q189960",
+        "usage_count": 3,
+        "is_birth_place": true,
+        "is_death_place": true
+      }
+    },
+    "Florence": {
+      "similar_to": [
+        "Florence"
+      ],
+      "metadata": {
+        "wikidata_url": "http://www.wikidata.org/entity/Q2044",
+        "usage_count": 4,
+        "is_birth_place": true,
+        "is_death_place": true
+      }
+    },
+    "Avignon": {
+      "similar_to": [
+        "Avignon"
+      ],
+      "metadata": {
+        "wikidata_url": "http://www.wikidata.org/entity/Q6397",
+        "usage_count": 3,
+        "is_birth_place": true,
+        "is_death_place": true
+      }
+    },
+    "Ioannina": {
+      "similar_to": [
+        "Ioannina"
+      ],
+      "metadata": {
+        "wikidata_url": "http://www.wikidata.org/entity/Q183199",
+        "usage_count": 4,
+        "is_birth_place": true,
+        "is_death_place": true
+      }
+    },
+    "Hamburg": {
+      "similar_to": [
+        "Hamburg"
+      ],
+      "metadata": {
+        "wikidata_url": "http://www.wikidata.org/entity/Q1055",
+        "usage_count": 3,
+        "is_birth_place": true,
+        "is_death_place": true
+      }
+    },
+    "Germany": {
+      "similar_to": [
+        "Germany",
+        "Hanover, Germany"
+      ],
+      "metadata": {
+        "wikidata_url": "http://www.wikidata.org/entity/Q183",
+        "usage_count": 1,
+        "is_birth_place": true,
+        "is_death_place": false
+      }
+    },
+    "Brody": {
+      "similar_to": [
+        "Brody"
+      ],
+      "metadata": {
+        "wikidata_url": "http://www.wikidata.org/entity/Q465104",
+        "usage_count": 1,
+        "is_birth_place": false,
+        "is_death_place": true
+      }
+    },
+    "Madrid": {
+      "similar_to": [
+        "Madrid"
+      ],
+      "metadata": {
+        "wikidata_url": "http://www.wikidata.org/entity/Q2807",
+        "usage_count": 3,
+        "is_birth_place": false,
+        "is_death_place": true
+      }
+    },
+    "Altdorf bei Nürnberg": {
+      "similar_to": [
+        "Altdorf bei Nürnberg"
+      ],
+      "metadata": {
+        "wikidata_url": "http://www.wikidata.org/entity/Q435295",
+        "usage_count": 1,
+        "is_birth_place": false,
+        "is_death_place": true
+      }
+    },
+    "Geneva": {
+      "similar_to": [
+        "Geneva, Republic of Geneva",
+        "Academy of Geneva",
+        "Geneva"
+      ],
+      "metadata": {
+        "wikidata_url": "http://www.wikidata.org/entity/Q71",
+        "usage_count": 10,
+        "is_birth_place": true,
+        "is_death_place": true
+      }
+    },
+    "Arezzo": {
+      "similar_to": [
+        "Arezzo"
+      ],
+      "metadata": {
+        "wikidata_url": "http://www.wikidata.org/entity/Q13378",
+        "usage_count": 2,
+        "is_birth_place": true,
+        "is_death_place": true
+      }
+    },
+    "Fontanellato": {
+      "similar_to": [
+        "Fontanellato"
+      ],
+      "metadata": {
+        "wikidata_url": "http://www.wikidata.org/entity/Q100814",
+        "usage_count": 1,
+        "is_birth_place": true,
+        "is_death_place": false
+      }
+    },
+    "Bagnols-sur-Cèze": {
+      "similar_to": [
+        "Bagnols-sur-Cèze"
+      ],
+      "metadata": {
+        "wikidata_url": "http://www.wikidata.org/entity/Q274183",
+        "usage_count": 1,
+        "is_birth_place": false,
+        "is_death_place": true
+      }
+    },
+    "Claveyson": {
+      "similar_to": [
+        "Claveyson"
+      ],
+      "metadata": {
+        "wikidata_url": "http://www.wikidata.org/entity/Q774606",
+        "usage_count": 1,
+        "is_birth_place": true,
+        "is_death_place": false
+      }
+    },
+    "Cuiseaux": {
+      "similar_to": [
+        "Cuiseaux"
+      ],
+      "metadata": {
+        "wikidata_url": "http://www.wikidata.org/entity/Q735433",
+        "usage_count": 1,
+        "is_birth_place": false,
+        "is_death_place": true
+      }
+    },
+    "Dörnfeld an der Heide": {
+      "similar_to": [
+        "Dörnfeld an der Heide"
+      ],
+      "metadata": {
+        "wikidata_url": "http://www.wikidata.org/entity/Q1271328",
+        "usage_count": 1,
+        "is_birth_place": true,
+        "is_death_place": false
+      }
+    },
+    "Elbląg": {
+      "similar_to": [
+        "Elbing (Elbląg)"
+      ],
+      "metadata": {
+        "wikidata_url": "http://www.wikidata.org/entity/Q104712",
+        "usage_count": 2,
+        "is_birth_place": false,
+        "is_death_place": true
+      }
+    },
+    "Castelfranco Veneto": {
+      "similar_to": [
+        "Castelfranco Veneto"
+      ],
+      "metadata": {
+        "wikidata_url": "http://www.wikidata.org/entity/Q29352",
+        "usage_count": 1,
+        "is_birth_place": true,
+        "is_death_place": false
+      }
+    },
+    "Elmton": {
+      "similar_to": [
+        "Elmton, Derbyshire"
+      ],
+      "metadata": {
+        "wikidata_url": "http://www.wikidata.org/entity/Q5366928",
+        "usage_count": 2,
+        "is_birth_place": true,
+        "is_death_place": true
+      }
+    },
+    "Faicchio": {
+      "similar_to": [
+        "Faicchio"
+      ],
+      "metadata": {
+        "wikidata_url": "http://www.wikidata.org/entity/Q55903",
+        "usage_count": 1,
+        "is_birth_place": true,
+        "is_death_place": false
+      }
+    },
+    "The Hague": {
+      "similar_to": [
+        "The Hague"
+      ],
+      "metadata": {
+        "wikidata_url": "http://www.wikidata.org/entity/Q36600",
+        "usage_count": 4,
+        "is_birth_place": false,
+        "is_death_place": true
+      }
+    },
+    "Haarlem": {
+      "similar_to": [
+        "Haarlem"
+      ],
+      "metadata": {
+        "wikidata_url": "http://www.wikidata.org/entity/Q9920",
+        "usage_count": 1,
+        "is_birth_place": true,
+        "is_death_place": false
+      }
+    },
+    "Kingdom of France": {
+      "similar_to": [
+        "France"
+      ],
+      "metadata": {
+        "wikidata_url": "http://www.wikidata.org/entity/Q70972",
+        "usage_count": 1,
+        "is_birth_place": true,
+        "is_death_place": false
+      }
+    },
+    "Lisbon": {
+      "similar_to": [
+        "Lisbon"
+      ],
+      "metadata": {
+        "wikidata_url": "http://www.wikidata.org/entity/Q597",
+        "usage_count": 5,
+        "is_birth_place": true,
+        "is_death_place": true
+      }
+    },
+    "Alexandria": {
+      "similar_to": [
+        "Alexandria, Virginia"
+      ],
+      "metadata": {
+        "wikidata_url": "http://www.wikidata.org/entity/Q88",
+        "usage_count": 1,
+        "is_birth_place": false,
+        "is_death_place": true
+      }
+    },
+    "Belver de Cinca": {
+      "similar_to": [
+        "Belver de Cinca"
+      ],
+      "metadata": {
+        "wikidata_url": "http://www.wikidata.org/entity/Q816284",
+        "usage_count": 1,
+        "is_birth_place": true,
+        "is_death_place": false
+      }
+    },
+    "Dubrovnik": {
+      "similar_to": [
+        "Dubrovnik"
+      ],
+      "metadata": {
+        "wikidata_url": "http://www.wikidata.org/entity/Q1722",
+        "usage_count": 1,
+        "is_birth_place": true,
+        "is_death_place": false
+      }
+    },
+    "County Durham": {
+      "similar_to": [
+        "Byers Green, County Durham"
+      ],
+      "metadata": {
+        "wikidata_url": "http://www.wikidata.org/entity/Q23082",
+        "usage_count": 2,
+        "is_birth_place": true,
+        "is_death_place": true
+      }
+    },
+    "Versailles": {
+      "similar_to": [
+        "Versailles"
+      ],
+      "metadata": {
+        "wikidata_url": "http://www.wikidata.org/entity/Q621",
+        "usage_count": 3,
+        "is_birth_place": true,
+        "is_death_place": true
+      }
+    },
+    "Vienna": {
+      "similar_to": [
+        "Vienna"
+      ],
+      "metadata": {
+        "wikidata_url": "http://www.wikidata.org/entity/Q1741",
+        "usage_count": 4,
+        "is_birth_place": false,
+        "is_death_place": true
+      }
+    },
+    "Greater London": {
+      "similar_to": [
+        "London"
+      ],
+      "metadata": {
+        "wikidata_url": "http://www.wikidata.org/entity/Q23306",
+        "usage_count": 1,
+        "is_birth_place": false,
+        "is_death_place": true
+      }
+    },
+    "Debrecen": {
+      "similar_to": [
+        "Debrecen"
+      ],
+      "metadata": {
+        "wikidata_url": "http://www.wikidata.org/entity/Q79880",
+        "usage_count": 1,
+        "is_birth_place": false,
+        "is_death_place": true
+      }
+    },
+    "Graz": {
+      "similar_to": [
+        "Graz"
+      ],
+      "metadata": {
+        "wikidata_url": "http://www.wikidata.org/entity/Q13298",
+        "usage_count": 3,
+        "is_birth_place": true,
+        "is_death_place": true
+      }
+    },
+    "Heidelberg": {
+      "similar_to": [
+        "Heidelberg"
+      ],
+      "metadata": {
+        "wikidata_url": "http://www.wikidata.org/entity/Q2966",
+        "usage_count": 1,
+        "is_birth_place": false,
+        "is_death_place": true
+      }
+    },
+    "Winterthur": {
+      "similar_to": [
+        "Winterthur"
+      ],
+      "metadata": {
+        "wikidata_url": "http://www.wikidata.org/entity/Q9125",
+        "usage_count": 3,
+        "is_birth_place": true,
+        "is_death_place": true
+      }
+    },
+    "County Dublin": {
+      "similar_to": [
+        "Dublin"
+      ],
+      "metadata": {
+        "wikidata_url": "http://www.wikidata.org/entity/Q173500",
+        "usage_count": 1,
+        "is_birth_place": true,
+        "is_death_place": false
+      }
+    },
+    "Nice": {
+      "similar_to": [
+        "Venice"
+      ],
+      "metadata": {
+        "wikidata_url": "http://www.wikidata.org/entity/Q33959",
+        "usage_count": 1,
+        "is_birth_place": true,
+        "is_death_place": false
+      }
+    },
+    "Verona": {
+      "similar_to": [
+        "Verona"
+      ],
+      "metadata": {
+        "wikidata_url": "http://www.wikidata.org/entity/Q2028",
+        "usage_count": 3,
+        "is_birth_place": false,
+        "is_death_place": true
+      }
+    },
+    "Nogaredo": {
+      "similar_to": [
+        "Edo"
+      ],
+      "metadata": {
+        "wikidata_url": "http://www.wikidata.org/entity/Q175406",
+        "usage_count": 1,
+        "is_birth_place": true,
+        "is_death_place": false
+      }
+    },
+    "Ausås parish": {
+      "similar_to": [
+        "Paris"
+      ],
+      "metadata": {
+        "wikidata_url": "http://www.wikidata.org/entity/Q10423372",
+        "usage_count": 1,
+        "is_birth_place": true,
+        "is_death_place": false
+      }
+    },
+    "Amsterdam": {
+      "similar_to": [
+        "Amsterdam"
+      ],
+      "metadata": {
+        "wikidata_url": "http://www.wikidata.org/entity/Q727",
+        "usage_count": 1,
+        "is_birth_place": false,
+        "is_death_place": true
+      }
+    },
+    "Ireland": {
+      "similar_to": [
+        "Ireland"
+      ],
+      "metadata": {
+        "wikidata_url": "http://www.wikidata.org/entity/Q27",
+        "usage_count": 1,
+        "is_birth_place": true,
+        "is_death_place": false
+      }
+    }
+  },
+  "added_places": 47,
+  "failed_places": 3,
+  "priority_places": {
+    "Cremona": {
+      "wikidata_url": "http://www.wikidata.org/entity/Q6231",
+      "usage_count": 2,
+      "is_birth_place": true,
+      "is_death_place": true
+    },
+    "Oxford": {
+      "wikidata_url": "http://www.wikidata.org/entity/Q34217",
+      "usage_count": 2,
+      "is_birth_place": false,
+      "is_death_place": true
+    },
+    "Treviso": {
+      "wikidata_url": "http://www.wikidata.org/entity/Q5475",
+      "usage_count": 2,
+      "is_birth_place": false,
+      "is_death_place": true
+    },
+    "Wrocław": {
+      "wikidata_url": "http://www.wikidata.org/entity/Q1799",
+      "usage_count": 2,
+      "is_birth_place": true,
+      "is_death_place": false
+    },
+    "Giessen": {
+      "wikidata_url": "http://www.wikidata.org/entity/Q3874",
+      "usage_count": 2,
+      "is_birth_place": false,
+      "is_death_place": true
+    },
+    "Lucca": {
+      "wikidata_url": "http://www.wikidata.org/entity/Q13373",
+      "usage_count": 2,
+      "is_birth_place": true,
+      "is_death_place": false
+    },
+    "Augsburg": {
+      "wikidata_url": "http://www.wikidata.org/entity/Q2749",
+      "usage_count": 2,
+      "is_birth_place": true,
+      "is_death_place": true
+    },
+    "Edmonton": {
+      "wikidata_url": "http://www.wikidata.org/entity/Q1997321",
+      "usage_count": 2,
+      "is_birth_place": true,
+      "is_death_place": true
+    },
+    "Glasgow": {
+      "wikidata_url": "http://www.wikidata.org/entity/Q4093",
+      "usage_count": 2,
+      "is_birth_place": false,
+      "is_death_place": true
+    },
+    "Salamanca": {
+      "wikidata_url": "http://www.wikidata.org/entity/Q15695",
+      "usage_count": 2,
+      "is_birth_place": true,
+      "is_death_place": true
+    },
+    "Aramon": {
+      "wikidata_url": "http://www.wikidata.org/entity/Q269851",
+      "usage_count": 2,
+      "is_birth_place": true,
+      "is_death_place": true
+    },
+    "Stockholm": {
+      "wikidata_url": "http://www.wikidata.org/entity/Q1754",
+      "usage_count": 2,
+      "is_birth_place": false,
+      "is_death_place": true
+    },
+    "Scotland": {
+      "wikidata_url": "http://www.wikidata.org/entity/Q22",
+      "usage_count": 2,
+      "is_birth_place": true,
+      "is_death_place": false
+    },
+    "Hurworth-on-Tees": {
+      "wikidata_url": "http://www.wikidata.org/entity/Q9295065",
+      "usage_count": 2,
+      "is_birth_place": true,
+      "is_death_place": true
+    },
+    "Marennes": {
+      "wikidata_url": "http://www.wikidata.org/entity/Q501910",
+      "usage_count": 2,
+      "is_birth_place": true,
+      "is_death_place": true
+    },
+    "Cádiz": {
+      "wikidata_url": "http://www.wikidata.org/entity/Q15682",
+      "usage_count": 2,
+      "is_birth_place": false,
+      "is_death_place": true
+    },
+    "Bratislava": {
+      "wikidata_url": "http://www.wikidata.org/entity/Q1780",
+      "usage_count": 2,
+      "is_birth_place": true,
+      "is_death_place": true
+    },
+    "Udine": {
+      "wikidata_url": "http://www.wikidata.org/entity/Q2790",
+      "usage_count": 2,
+      "is_birth_place": true,
+      "is_death_place": true
+    },
+    "Zurich": {
+      "wikidata_url": "http://www.wikidata.org/entity/Q72",
+      "usage_count": 2,
+      "is_birth_place": true,
+      "is_death_place": true
+    },
+    "Market Bosworth": {
+      "wikidata_url": "http://www.wikidata.org/entity/Q744321",
+      "usage_count": 2,
+      "is_birth_place": true,
+      "is_death_place": true
+    },
+    "Tübingen": {
+      "wikidata_url": "http://www.wikidata.org/entity/Q3806",
+      "usage_count": 2,
+      "is_birth_place": true,
+      "is_death_place": true
+    },
+    "Regensburg": {
+      "wikidata_url": "http://www.wikidata.org/entity/Q2978",
+      "usage_count": 2,
+      "is_birth_place": true,
+      "is_death_place": true
+    },
+    "St Andrews": {
+      "wikidata_url": "http://www.wikidata.org/entity/Q207736",
+      "usage_count": 2,
+      "is_birth_place": true,
+      "is_death_place": true
+    },
+    "Turin": {
+      "wikidata_url": "http://www.wikidata.org/entity/Q495",
+      "usage_count": 2,
+      "is_birth_place": false,
+      "is_death_place": true
+    },
+    "United Kingdom": {
+      "wikidata_url": "http://www.wikidata.org/entity/Q145",
+      "usage_count": 2,
+      "is_birth_place": true,
+      "is_death_place": true
+    },
+    "Zaragoza": {
+      "wikidata_url": "http://www.wikidata.org/entity/Q10305",
+      "usage_count": 2,
+      "is_birth_place": true,
+      "is_death_place": true
+    },
+    "Storkyrkoförsamlingen": {
+      "wikidata_url": "http://www.wikidata.org/entity/Q43549106",
+      "usage_count": 2,
+      "is_birth_place": true,
+      "is_death_place": true
+    },
+    "Shiba": {
+      "wikidata_url": "http://www.wikidata.org/entity/Q2631862",
+      "usage_count": 2,
+      "is_birth_place": true,
+      "is_death_place": true
+    },
+    "Buda": {
+      "wikidata_url": "http://www.wikidata.org/entity/Q193478",
+      "usage_count": 2,
+      "is_birth_place": false,
+      "is_death_place": true
+    },
+    "Brighton": {
+      "wikidata_url": "http://www.wikidata.org/entity/Q131491",
+      "usage_count": 2,
+      "is_birth_place": false,
+      "is_death_place": true
+    },
+    "Västerås domkyrkoförsamling": {
+      "wikidata_url": "http://www.wikidata.org/entity/Q10718088",
+      "usage_count": 2,
+      "is_birth_place": true,
+      "is_death_place": true
+    },
+    "Staffolo": {
+      "wikidata_url": "http://www.wikidata.org/entity/Q125015",
+      "usage_count": 2,
+      "is_birth_place": true,
+      "is_death_place": true
+    },
+    "Fahretoft": {
+      "wikidata_url": "http://www.wikidata.org/entity/Q20558",
+      "usage_count": 2,
+      "is_birth_place": true,
+      "is_death_place": true
+    },
+    "Pest": {
+      "wikidata_url": "http://www.wikidata.org/entity/Q210205",
+      "usage_count": 2,
+      "is_birth_place": false,
+      "is_death_place": true
+    },
+    "Shadwell": {
+      "wikidata_url": "http://www.wikidata.org/entity/Q4179352",
+      "usage_count": 2,
+      "is_birth_place": true,
+      "is_death_place": false
+    },
+    "Cologne": {
+      "wikidata_url": "http://www.wikidata.org/entity/Q365",
+      "usage_count": 2,
+      "is_birth_place": true,
+      "is_death_place": true
+    },
+    "Groton": {
+      "wikidata_url": "http://www.wikidata.org/entity/Q10385027",
+      "usage_count": 2,
+      "is_birth_place": true,
+      "is_death_place": true
+    },
+    "Sławnikowice": {
+      "wikidata_url": "http://www.wikidata.org/entity/Q829321",
+      "usage_count": 1,
+      "is_birth_place": true,
+      "is_death_place": false
+    },
+    "Nepantla de Sor Juana Inés de la Cruz": {
+      "wikidata_url": "http://www.wikidata.org/entity/Q3947701",
+      "usage_count": 1,
+      "is_birth_place": true,
+      "is_death_place": false
+    },
+    "Mexico City": {
+      "wikidata_url": "http://www.wikidata.org/entity/Q1489",
+      "usage_count": 1,
+      "is_birth_place": false,
+      "is_death_place": true
+    },
+    "Toulon": {
+      "wikidata_url": "http://www.wikidata.org/entity/Q44160",
+      "usage_count": 1,
+      "is_birth_place": false,
+      "is_death_place": true
+    },
+    "Little Horton": {
+      "wikidata_url": "http://www.wikidata.org/entity/Q6650352",
+      "usage_count": 1,
+      "is_birth_place": true,
+      "is_death_place": false
+    },
+    "Bradford": {
+      "wikidata_url": "http://www.wikidata.org/entity/Q22905",
+      "usage_count": 1,
+      "is_birth_place": false,
+      "is_death_place": true
+    },
+    "La Flèche": {
+      "wikidata_url": "http://www.wikidata.org/entity/Q343",
+      "usage_count": 1,
+      "is_birth_place": true,
+      "is_death_place": false
+    },
+    "Erembodegem": {
+      "wikidata_url": "http://www.wikidata.org/entity/Q842986",
+      "usage_count": 1,
+      "is_birth_place": true,
+      "is_death_place": false
+    },
+    "Bruges": {
+      "wikidata_url": "http://www.wikidata.org/entity/Q12994",
+      "usage_count": 1,
+      "is_birth_place": false,
+      "is_death_place": true
+    },
+    "Verdun": {
+      "wikidata_url": "http://www.wikidata.org/entity/Q154748",
+      "usage_count": 1,
+      "is_birth_place": true,
+      "is_death_place": false
+    },
+    "West-Graftdijk": {
+      "wikidata_url": "http://www.wikidata.org/entity/Q1987766",
+      "usage_count": 1,
+      "is_birth_place": true,
+      "is_death_place": false
+    },
+    "Purmerend": {
+      "wikidata_url": "http://www.wikidata.org/entity/Q9954",
+      "usage_count": 1,
+      "is_birth_place": false,
+      "is_death_place": true
+    },
+    "Arachova, Arkadia": {
+      "wikidata_url": "http://www.wikidata.org/entity/Q21588807",
+      "usage_count": 1,
+      "is_birth_place": true,
+      "is_death_place": false
+    },
+    "Jerusalem": {
+      "wikidata_url": "http://www.wikidata.org/entity/Q1218",
+      "usage_count": 1,
+      "is_birth_place": false,
+      "is_death_place": true
+    },
+    "Courthézon": {
+      "wikidata_url": "http://www.wikidata.org/entity/Q377943",
+      "usage_count": 1,
+      "is_birth_place": true,
+      "is_death_place": false
+    },
+    "Munich": {
+      "wikidata_url": "http://www.wikidata.org/entity/Q1726",
+      "usage_count": 1,
+      "is_birth_place": true,
+      "is_death_place": false
+    },
+    "Gouda": {
+      "wikidata_url": "http://www.wikidata.org/entity/Q84125",
+      "usage_count": 1,
+      "is_birth_place": true,
+      "is_death_place": false
+    },
+    "Brissac": {
+      "wikidata_url": "http://www.wikidata.org/entity/Q1073090",
+      "usage_count": 1,
+      "is_birth_place": true,
+      "is_death_place": false
+    },
+    "Le Mans": {
+      "wikidata_url": "http://www.wikidata.org/entity/Q1476",
+      "usage_count": 1,
+      "is_birth_place": true,
+      "is_death_place": false
+    },
+    "Trébry": {
+      "wikidata_url": "http://www.wikidata.org/entity/Q1012362",
+      "usage_count": 1,
+      "is_birth_place": true,
+      "is_death_place": false
+    },
+    "Pondicherry": {
+      "wikidata_url": "http://www.wikidata.org/entity/Q639421",
+      "usage_count": 1,
+      "is_birth_place": false,
+      "is_death_place": true
+    },
+    "Haggerston": {
+      "wikidata_url": "http://www.wikidata.org/entity/Q2146341",
+      "usage_count": 1,
+      "is_birth_place": true,
+      "is_death_place": false
+    },
+    "County Roscommon": {
+      "wikidata_url": "http://www.wikidata.org/entity/Q179437",
+      "usage_count": 1,
+      "is_birth_place": true,
+      "is_death_place": false
+    },
+    "Maidenhead": {
+      "wikidata_url": "http://www.wikidata.org/entity/Q238803",
+      "usage_count": 1,
+      "is_birth_place": false,
+      "is_death_place": true
+    },
+    "Colchester": {
+      "wikidata_url": "http://www.wikidata.org/entity/Q184163",
+      "usage_count": 1,
+      "is_birth_place": true,
+      "is_death_place": false
+    },
+    "Anthrakitis": {
+      "wikidata_url": "http://www.wikidata.org/entity/Q21469929",
+      "usage_count": 1,
+      "is_birth_place": true,
+      "is_death_place": false
+    },
+    "Zagori": {
+      "wikidata_url": "http://www.wikidata.org/entity/Q2712111",
+      "usage_count": 1,
+      "is_birth_place": false,
+      "is_death_place": true
+    },
+    "Quedlinburg": {
+      "wikidata_url": "http://www.wikidata.org/entity/Q40623",
+      "usage_count": 1,
+      "is_birth_place": true,
+      "is_death_place": false
+    },
+    "Geising": {
+      "wikidata_url": "http://www.wikidata.org/entity/Q572891",
+      "usage_count": 1,
+      "is_birth_place": true,
+      "is_death_place": false
+    },
+    "Dalsland": {
+      "wikidata_url": "http://www.wikidata.org/entity/Q214806",
+      "usage_count": 1,
+      "is_birth_place": true,
+      "is_death_place": false
+    },
+    "Pomerania": {
+      "wikidata_url": "http://www.wikidata.org/entity/Q104520",
+      "usage_count": 1,
+      "is_birth_place": false,
+      "is_death_place": true
+    },
+    "Tingstäde": {
+      "wikidata_url": "http://www.wikidata.org/entity/Q10698278",
+      "usage_count": 1,
+      "is_birth_place": true,
+      "is_death_place": false
+    },
+    "Hoddom": {
+      "wikidata_url": "http://www.wikidata.org/entity/Q68815661",
+      "usage_count": 1,
+      "is_birth_place": true,
+      "is_death_place": false
+    },
+    "High Holborn": {
+      "wikidata_url": "http://www.wikidata.org/entity/Q1782648",
+      "usage_count": 1,
+      "is_birth_place": false,
+      "is_death_place": true
+    },
+    "Wolfenbüttel": {
+      "wikidata_url": "http://www.wikidata.org/entity/Q4122",
+      "usage_count": 1,
+      "is_birth_place": false,
+      "is_death_place": true
+    },
+    "Nangis": {
+      "wikidata_url": "http://www.wikidata.org/entity/Q271599",
+      "usage_count": 1,
+      "is_birth_place": true,
+      "is_death_place": false
+    },
+    "Worcester": {
+      "wikidata_url": "http://www.wikidata.org/entity/Q1646181",
+      "usage_count": 1,
+      "is_birth_place": false,
+      "is_death_place": true
+    },
+    "Heraklion": {
+      "wikidata_url": "http://www.wikidata.org/entity/Q160544",
+      "usage_count": 1,
+      "is_birth_place": true,
+      "is_death_place": false
+    },
+    "Shropshire": {
+      "wikidata_url": "http://www.wikidata.org/entity/Q23103",
+      "usage_count": 1,
+      "is_birth_place": true,
+      "is_death_place": false
+    },
+    "Cotesbach": {
+      "wikidata_url": "http://www.wikidata.org/entity/Q5175341",
+      "usage_count": 1,
+      "is_birth_place": false,
+      "is_death_place": true
+    },
+    "Inverbervie": {
+      "wikidata_url": "http://www.wikidata.org/entity/Q568713",
+      "usage_count": 1,
+      "is_birth_place": true,
+      "is_death_place": false
+    },
+    "Metz": {
+      "wikidata_url": "http://www.wikidata.org/entity/Q22690",
+      "usage_count": 1,
+      "is_birth_place": true,
+      "is_death_place": false
+    },
+    "Reims": {
+      "wikidata_url": "http://www.wikidata.org/entity/Q41876",
+      "usage_count": 1,
+      "is_birth_place": false,
+      "is_death_place": true
+    },
+    "Sanremo": {
+      "wikidata_url": "http://www.wikidata.org/entity/Q33962",
+      "usage_count": 1,
+      "is_birth_place": true,
+      "is_death_place": false
+    },
+    "Norton Juxta Twycross": {
+      "wikidata_url": "http://www.wikidata.org/entity/Q14956522",
+      "usage_count": 1,
+      "is_birth_place": true,
+      "is_death_place": false
+    },
+    "Lyndon Hall": {
+      "wikidata_url": "http://www.wikidata.org/entity/Q17535565",
+      "usage_count": 1,
+      "is_birth_place": false,
+      "is_death_place": true
+    },
+    "Pinner": {
+      "wikidata_url": "http://www.wikidata.org/entity/Q2453742",
+      "usage_count": 1,
+      "is_birth_place": true,
+      "is_death_place": false
+    },
+    "Ostashkov": {
+      "wikidata_url": "http://www.wikidata.org/entity/Q176761",
+      "usage_count": 1,
+      "is_birth_place": true,
+      "is_death_place": false
+    },
+    "Louville-la-Chenard": {
+      "wikidata_url": "http://www.wikidata.org/entity/Q477175",
+      "usage_count": 1,
+      "is_birth_place": true,
+      "is_death_place": false
+    },
+    "Saint-Jean-de-Braye": {
+      "wikidata_url": "http://www.wikidata.org/entity/Q787817",
+      "usage_count": 1,
+      "is_birth_place": false,
+      "is_death_place": true
+    },
+    "Milton of Whitehouse souterrain": {
+      "wikidata_url": "http://www.wikidata.org/entity/Q28225022",
+      "usage_count": 1,
+      "is_birth_place": true,
+      "is_death_place": false
+    },
+    "Planitz": {
+      "wikidata_url": "http://www.wikidata.org/entity/Q2098230",
+      "usage_count": 1,
+      "is_birth_place": true,
+      "is_death_place": false
+    },
+    "Llanfihangel Tre'r Beirdd": {
+      "wikidata_url": "http://www.wikidata.org/entity/Q13129642",
+      "usage_count": 1,
+      "is_birth_place": true,
+      "is_death_place": false
+    },
+    "Châteaulin": {
+      "wikidata_url": "http://www.wikidata.org/entity/Q202374",
+      "usage_count": 1,
+      "is_birth_place": true,
+      "is_death_place": false
+    },
+    "Salisbury": {
+      "wikidata_url": "http://www.wikidata.org/entity/Q160642",
+      "usage_count": 1,
+      "is_birth_place": true,
+      "is_death_place": false
+    },
+    "Norwich": {
+      "wikidata_url": "http://www.wikidata.org/entity/Q130191",
+      "usage_count": 1,
+      "is_birth_place": true,
+      "is_death_place": false
+    },
+    "Tarascon": {
+      "wikidata_url": "http://www.wikidata.org/entity/Q234924",
+      "usage_count": 1,
+      "is_birth_place": true,
+      "is_death_place": false
+    },
+    "Aachen": {
+      "wikidata_url": "http://www.wikidata.org/entity/Q1017",
+      "usage_count": 1,
+      "is_birth_place": true,
+      "is_death_place": false
+    },
+    "Nîmes": {
+      "wikidata_url": "http://www.wikidata.org/entity/Q42807",
+      "usage_count": 1,
+      "is_birth_place": true,
+      "is_death_place": false
+    },
+    "Neuchâtel": {
+      "wikidata_url": "http://www.wikidata.org/entity/Q69345",
+      "usage_count": 1,
+      "is_birth_place": false,
+      "is_death_place": true
+    },
+    "Béziers": {
+      "wikidata_url": "http://www.wikidata.org/entity/Q174019",
+      "usage_count": 1,
+      "is_birth_place": true,
+      "is_death_place": false
+    },
+    "Jimramov": {
+      "wikidata_url": "http://www.wikidata.org/entity/Q158422",
+      "usage_count": 1,
+      "is_birth_place": true,
+      "is_death_place": false
+    },
+    "Wasungen": {
+      "wikidata_url": "http://www.wikidata.org/entity/Q546530",
+      "usage_count": 1,
+      "is_birth_place": true,
+      "is_death_place": false
+    }
+  }
+}

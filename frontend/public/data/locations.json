@@ -1399,5 +1399,1654 @@
     "geocoded_at": "2025-08-11T21:42:49.729727",
     "geocoding_method": "nominatim_batch",
     "model_version": "openstreetmap"
+  },
+  "London": {
+    "place_name": "London",
+    "coordinates": {
+      "lat": 51.5074456,
+      "lng": -0.1277653
+    },
+    "confidence": 0.8,
+    "historical_context": "Historical location referenced in 18th century mathematical sources.",
+    "alternative_names": [
+      "London"
+    ],
+    "modern_equivalent": "London, Greater London, England, United Kingdom",
+    "geocoded_at": "2025-08-12T14:11:08.443484",
+    "source": "wikidata_mathematician_config",
+    "wikidata_url": "http://www.wikidata.org/entity/Q84",
+    "country": "United Kingdom"
+  },
+  "Venice": {
+    "place_name": "Venice",
+    "coordinates": {
+      "lat": 45.4371908,
+      "lng": 12.3345898
+    },
+    "confidence": 0.8,
+    "historical_context": "Historical location referenced in 18th century mathematical sources.",
+    "alternative_names": [
+      "Venice"
+    ],
+    "modern_equivalent": "Venezia, Veneto, 30121-30176, Italia",
+    "geocoded_at": "2025-08-12T14:11:09.241462",
+    "source": "wikidata_mathematician_config",
+    "wikidata_url": "http://www.wikidata.org/entity/Q641",
+    "country": "Italia"
+  },
+  "Lyon": {
+    "place_name": "Lyon",
+    "coordinates": {
+      "lat": 45.7578137,
+      "lng": 4.8320114
+    },
+    "confidence": 0.8,
+    "historical_context": "Historical location referenced in 18th century mathematical sources.",
+    "alternative_names": [
+      "Lyon"
+    ],
+    "modern_equivalent": "Lyon, Métropole de Lyon, Rhône, Auvergne-Rhône-Alpes, France métropolitaine, France",
+    "geocoded_at": "2025-08-12T14:11:10.389655",
+    "source": "wikidata_mathematician_config",
+    "wikidata_url": "http://www.wikidata.org/entity/Q456",
+    "country": "France"
+  },
+  "Saint Petersburg": {
+    "place_name": "Saint Petersburg",
+    "coordinates": {
+      "lat": 59.9606739,
+      "lng": 30.1586551
+    },
+    "confidence": 0.8,
+    "historical_context": "Historical location referenced in 18th century mathematical sources.",
+    "alternative_names": [
+      "Saint Petersburg"
+    ],
+    "modern_equivalent": "Санкт-Петербург, Северо-Западный федеральный округ, Россия",
+    "geocoded_at": "2025-08-12T14:11:11.342622",
+    "source": "wikidata_mathematician_config",
+    "wikidata_url": "http://www.wikidata.org/entity/Q656",
+    "country": "Россия"
+  },
+  "Naples": {
+    "place_name": "Naples",
+    "coordinates": {
+      "lat": 40.8358846,
+      "lng": 14.2487679
+    },
+    "confidence": 0.8,
+    "historical_context": "Historical location referenced in 18th century mathematical sources.",
+    "alternative_names": [
+      "Naples"
+    ],
+    "modern_equivalent": "Napoli, Campania, Italia",
+    "geocoded_at": "2025-08-12T14:11:12.215497",
+    "source": "wikidata_mathematician_config",
+    "wikidata_url": "http://www.wikidata.org/entity/Q2634",
+    "country": "Italia"
+  },
+  "Padua": {
+    "place_name": "Padua",
+    "coordinates": {
+      "lat": 45.4077172,
+      "lng": 11.8734455
+    },
+    "confidence": 0.8,
+    "historical_context": "Historical location referenced in 18th century mathematical sources.",
+    "alternative_names": [
+      "Padua"
+    ],
+    "modern_equivalent": "Padova, Veneto, 35121-35143, Italia",
+    "geocoded_at": "2025-08-12T14:11:13.461590",
+    "source": "wikidata_mathematician_config",
+    "wikidata_url": "http://www.wikidata.org/entity/Q617",
+    "country": "Italia"
+  },
+  "Leipzig": {
+    "place_name": "Leipzig",
+    "coordinates": {
+      "lat": 51.3406321,
+      "lng": 12.3747329
+    },
+    "confidence": 0.8,
+    "historical_context": "Historical location referenced in 18th century mathematical sources.",
+    "alternative_names": [
+      "Leipzig"
+    ],
+    "modern_equivalent": "Leipzig, Sachsen, Deutschland",
+    "geocoded_at": "2025-08-12T14:11:14.299096",
+    "source": "wikidata_mathematician_config",
+    "wikidata_url": "http://www.wikidata.org/entity/Q2079",
+    "country": "Deutschland"
+  },
+  "Leiden": {
+    "place_name": "Leiden",
+    "coordinates": {
+      "lat": 52.1518157,
+      "lng": 4.4811089
+    },
+    "confidence": 0.8,
+    "historical_context": "Historical location referenced in 18th century mathematical sources.",
+    "alternative_names": [
+      "Leiden"
+    ],
+    "modern_equivalent": "Leiden, Zuid-Holland, Nederland",
+    "geocoded_at": "2025-08-12T14:11:15.288616",
+    "source": "wikidata_mathematician_config",
+    "wikidata_url": "http://www.wikidata.org/entity/Q43631",
+    "country": "Nederland"
+  },
+  "Copenhagen": {
+    "place_name": "Copenhagen",
+    "coordinates": {
+      "lat": 55.6867243,
+      "lng": 12.5700724
+    },
+    "confidence": 0.8,
+    "historical_context": "Historical location referenced in 18th century mathematical sources.",
+    "alternative_names": [
+      "Copenhagen"
+    ],
+    "modern_equivalent": "København, Københavns Kommune, Region Hovedstaden, 1357, Danmark",
+    "geocoded_at": "2025-08-12T14:11:16.328214",
+    "source": "wikidata_mathematician_config",
+    "wikidata_url": "http://www.wikidata.org/entity/Q1748",
+    "country": "Danmark"
+  },
+  "Rome": {
+    "place_name": "Rome",
+    "coordinates": {
+      "lat": 41.8933203,
+      "lng": 12.4829321
+    },
+    "confidence": 0.8,
+    "historical_context": "Historical location referenced in 18th century mathematical sources.",
+    "alternative_names": [
+      "Rome"
+    ],
+    "modern_equivalent": "Roma, Roma Capitale, Lazio, Italia",
+    "geocoded_at": "2025-08-12T14:11:17.327221",
+    "source": "wikidata_mathematician_config",
+    "wikidata_url": "http://www.wikidata.org/entity/Q220",
+    "country": "Italia"
+  },
+  "Lisbon": {
+    "place_name": "Lisbon",
+    "coordinates": {
+      "lat": 38.7077507,
+      "lng": -9.1365919
+    },
+    "confidence": 0.8,
+    "historical_context": "Historical location referenced in 18th century mathematical sources.",
+    "alternative_names": [
+      "Lisbon"
+    ],
+    "modern_equivalent": "Lisboa, Portugal",
+    "geocoded_at": "2025-08-12T14:11:18.290585",
+    "source": "wikidata_mathematician_config",
+    "wikidata_url": "http://www.wikidata.org/entity/Q597",
+    "country": "Portugal"
+  },
+  "Dresden": {
+    "place_name": "Dresden",
+    "coordinates": {
+      "lat": 51.0493286,
+      "lng": 13.7381437
+    },
+    "confidence": 0.8,
+    "historical_context": "Historical location referenced in 18th century mathematical sources.",
+    "alternative_names": [
+      "Dresden"
+    ],
+    "modern_equivalent": "Dresden, Sachsen, Deutschland",
+    "geocoded_at": "2025-08-12T14:11:19.309924",
+    "source": "wikidata_mathematician_config",
+    "wikidata_url": "http://www.wikidata.org/entity/Q1731",
+    "country": "Deutschland"
+  },
+  "Senigallia": {
+    "place_name": "Senigallia",
+    "coordinates": {
+      "lat": 43.7149517,
+      "lng": 13.2179488
+    },
+    "confidence": 0.8,
+    "historical_context": "Historical location referenced in 18th century mathematical sources.",
+    "alternative_names": [
+      "Senigallia"
+    ],
+    "modern_equivalent": "Senigallia, Ancona, Marche, 60019, Italia",
+    "geocoded_at": "2025-08-12T14:11:20.261326",
+    "source": "wikidata_mathematician_config",
+    "wikidata_url": "http://www.wikidata.org/entity/Q124925",
+    "country": "Italia"
+  },
+  "Lutherstadt Wittenberg": {
+    "place_name": "Lutherstadt Wittenberg",
+    "coordinates": {
+      "lat": 51.8666527,
+      "lng": 12.646761
+    },
+    "confidence": 0.8,
+    "historical_context": "Historical location referenced in 18th century mathematical sources.",
+    "alternative_names": [
+      "Lutherstadt Wittenberg"
+    ],
+    "modern_equivalent": "Wittenberg, Sachsen-Anhalt, Deutschland",
+    "geocoded_at": "2025-08-12T14:11:21.349876",
+    "source": "wikidata_mathematician_config",
+    "wikidata_url": "http://www.wikidata.org/entity/Q6837",
+    "country": "Deutschland"
+  },
+  "Gdańsk": {
+    "place_name": "Gdańsk",
+    "coordinates": {
+      "lat": 54.4288032,
+      "lng": 18.798327
+    },
+    "confidence": 0.8,
+    "historical_context": "Historical location referenced in 18th century mathematical sources.",
+    "alternative_names": [
+      "Gdańsk"
+    ],
+    "modern_equivalent": "Gdańsk, województwo pomorskie, Polska",
+    "geocoded_at": "2025-08-12T14:11:22.347476",
+    "source": "wikidata_mathematician_config",
+    "wikidata_url": "http://www.wikidata.org/entity/Q1792",
+    "country": "Polska"
+  },
+  "Montpellier": {
+    "place_name": "Montpellier",
+    "coordinates": {
+      "lat": 43.6112422,
+      "lng": 3.8767337
+    },
+    "confidence": 0.8,
+    "historical_context": "Historical location referenced in 18th century mathematical sources.",
+    "alternative_names": [
+      "Montpellier"
+    ],
+    "modern_equivalent": "Montpellier, Hérault, Occitanie, France métropolitaine, France",
+    "geocoded_at": "2025-08-12T14:11:23.292591",
+    "source": "wikidata_mathematician_config",
+    "wikidata_url": "http://www.wikidata.org/entity/Q6441",
+    "country": "France"
+  },
+  "Königsberg": {
+    "place_name": "Königsberg",
+    "coordinates": {
+      "lat": 54.7046485,
+      "lng": 20.4565666
+    },
+    "confidence": 0.8,
+    "historical_context": "Historical location referenced in 18th century mathematical sources.",
+    "alternative_names": [
+      "Königsberg"
+    ],
+    "modern_equivalent": "городской округ Калининград, Калининградская область, Северо-Западный федеральный округ, Россия",
+    "geocoded_at": "2025-08-12T14:11:24.277740",
+    "source": "wikidata_mathematician_config",
+    "wikidata_url": "http://www.wikidata.org/entity/Q4120832",
+    "country": "Россия"
+  },
+  "Ioannina": {
+    "place_name": "Ioannina",
+    "coordinates": {
+      "lat": 39.6639818,
+      "lng": 20.8522784
+    },
+    "confidence": 0.8,
+    "historical_context": "Historical location referenced in 18th century mathematical sources.",
+    "alternative_names": [
+      "Ioannina"
+    ],
+    "modern_equivalent": "Ιωάννινα, Δημοτική Ενότητα Ιωαννιτών, Δήμος Ιωαννιτών, Περιφερειακή Ενότητα Ιωαννίνων, Περιφέρεια Ηπείρου, Αποκεντρωμένη Διοίκηση Ηπείρου - Δυτικής Μακεδονίας, 453 32, Ελλάς",
+    "geocoded_at": "2025-08-12T14:11:25.302893",
+    "source": "wikidata_mathematician_config",
+    "wikidata_url": "http://www.wikidata.org/entity/Q183199",
+    "country": "Ελλάς"
+  },
+  "The Hague": {
+    "place_name": "The Hague",
+    "coordinates": {
+      "lat": 52.0799838,
+      "lng": 4.3113461
+    },
+    "confidence": 0.8,
+    "historical_context": "Historical location referenced in 18th century mathematical sources.",
+    "alternative_names": [
+      "The Hague"
+    ],
+    "modern_equivalent": "Den Haag, Zuid-Holland, Nederland",
+    "geocoded_at": "2025-08-12T14:11:26.264717",
+    "source": "wikidata_mathematician_config",
+    "wikidata_url": "http://www.wikidata.org/entity/Q36600",
+    "country": "Nederland"
+  },
+  "Vienna": {
+    "place_name": "Vienna",
+    "coordinates": {
+      "lat": 48.2083537,
+      "lng": 16.3725042
+    },
+    "confidence": 0.8,
+    "historical_context": "Historical location referenced in 18th century mathematical sources.",
+    "alternative_names": [
+      "Vienna"
+    ],
+    "modern_equivalent": "Wien, Österreich",
+    "geocoded_at": "2025-08-12T14:11:27.320328",
+    "source": "wikidata_mathematician_config",
+    "wikidata_url": "http://www.wikidata.org/entity/Q1741",
+    "country": "Österreich"
+  },
+  "Caen": {
+    "place_name": "Caen",
+    "coordinates": {
+      "lat": 49.1813403,
+      "lng": -0.3635615
+    },
+    "confidence": 0.8,
+    "historical_context": "Historical location referenced in 18th century mathematical sources.",
+    "alternative_names": [
+      "Caen"
+    ],
+    "modern_equivalent": "Caen, Calvados, Normandie, France métropolitaine, 14000, France",
+    "geocoded_at": "2025-08-12T14:11:28.285652",
+    "source": "wikidata_mathematician_config",
+    "wikidata_url": "http://www.wikidata.org/entity/Q41185",
+    "country": "France"
+  },
+  "Lausanne": {
+    "place_name": "Lausanne",
+    "coordinates": {
+      "lat": 46.5218269,
+      "lng": 6.6327025
+    },
+    "confidence": 0.8,
+    "historical_context": "Historical location referenced in 18th century mathematical sources.",
+    "alternative_names": [
+      "Lausanne"
+    ],
+    "modern_equivalent": "Lausanne, District de Lausanne, Vaud, Schweiz/Suisse/Svizzera/Svizra",
+    "geocoded_at": "2025-08-12T14:11:29.273871",
+    "source": "wikidata_mathematician_config",
+    "wikidata_url": "http://www.wikidata.org/entity/Q807",
+    "country": "Schweiz/Suisse/Svizzera/Svizra"
+  },
+  "Ulm": {
+    "place_name": "Ulm",
+    "coordinates": {
+      "lat": 48.3984968,
+      "lng": 9.9912458
+    },
+    "confidence": 0.8,
+    "historical_context": "Historical location referenced in 18th century mathematical sources.",
+    "alternative_names": [
+      "Ulm"
+    ],
+    "modern_equivalent": "Ulm, Baden-Württemberg, Deutschland",
+    "geocoded_at": "2025-08-12T14:11:30.358513",
+    "source": "wikidata_mathematician_config",
+    "wikidata_url": "http://www.wikidata.org/entity/Q3012",
+    "country": "Deutschland"
+  },
+  "Lima": {
+    "place_name": "Lima",
+    "coordinates": {
+      "lat": -12.0621065,
+      "lng": -77.0365256
+    },
+    "confidence": 0.8,
+    "historical_context": "Historical location referenced in 18th century mathematical sources.",
+    "alternative_names": [
+      "Lima"
+    ],
+    "modern_equivalent": "Lima, Lima Metropolitana, Lima, 15083, Perú",
+    "geocoded_at": "2025-08-12T14:11:31.651736",
+    "source": "wikidata_mathematician_config",
+    "wikidata_url": "http://www.wikidata.org/entity/Q2868",
+    "country": "Perú"
+  },
+  "Perinaldo": {
+    "place_name": "Perinaldo",
+    "coordinates": {
+      "lat": 43.8676804,
+      "lng": 7.6684569
+    },
+    "confidence": 0.8,
+    "historical_context": "Historical location referenced in 18th century mathematical sources.",
+    "alternative_names": [
+      "Perinaldo"
+    ],
+    "modern_equivalent": "Perinaldo, Provincia di Imperia, Liguria, 18032, Italia",
+    "geocoded_at": "2025-08-12T14:11:32.391590",
+    "source": "wikidata_mathematician_config",
+    "wikidata_url": "http://www.wikidata.org/entity/Q269476",
+    "country": "Italia"
+  },
+  "Turku": {
+    "place_name": "Turku",
+    "coordinates": {
+      "lat": 60.4517531,
+      "lng": 22.2670522
+    },
+    "confidence": 0.8,
+    "historical_context": "Historical location referenced in 18th century mathematical sources.",
+    "alternative_names": [
+      "Turku"
+    ],
+    "modern_equivalent": "Turku, Turun seutukunta, Varsinais-Suomi, Manner-Suomi, Suomi / Finland",
+    "geocoded_at": "2025-08-12T14:11:33.393954",
+    "source": "wikidata_mathematician_config",
+    "wikidata_url": "http://www.wikidata.org/entity/Q38511",
+    "country": "Suomi / Finland"
+  },
+  "Pisa": {
+    "place_name": "Pisa",
+    "coordinates": {
+      "lat": 43.4714722,
+      "lng": 10.6797912
+    },
+    "confidence": 0.8,
+    "historical_context": "Historical location referenced in 18th century mathematical sources.",
+    "alternative_names": [
+      "Pisa"
+    ],
+    "modern_equivalent": "Pisa, Toscana, Italia",
+    "geocoded_at": "2025-08-12T14:11:34.519333",
+    "source": "wikidata_mathematician_config",
+    "wikidata_url": "http://www.wikidata.org/entity/Q13375",
+    "country": "Italia"
+  },
+  "Nuremberg": {
+    "place_name": "Nuremberg",
+    "coordinates": {
+      "lat": 49.453872,
+      "lng": 11.077298
+    },
+    "confidence": 0.8,
+    "historical_context": "Historical location referenced in 18th century mathematical sources.",
+    "alternative_names": [
+      "Nuremberg"
+    ],
+    "modern_equivalent": "Nürnberg, Bayern, Deutschland",
+    "geocoded_at": "2025-08-12T14:11:35.389106",
+    "source": "wikidata_mathematician_config",
+    "wikidata_url": "http://www.wikidata.org/entity/Q2090",
+    "country": "Deutschland"
+  },
+  "Ljubljana": {
+    "place_name": "Ljubljana",
+    "coordinates": {
+      "lat": 46.0500268,
+      "lng": 14.5069289
+    },
+    "confidence": 0.8,
+    "historical_context": "Historical location referenced in 18th century mathematical sources.",
+    "alternative_names": [
+      "Ljubljana"
+    ],
+    "modern_equivalent": "Ljubljana, Upravna Enota Ljubljana, Slovenija",
+    "geocoded_at": "2025-08-12T14:11:36.401349",
+    "source": "wikidata_mathematician_config",
+    "wikidata_url": "http://www.wikidata.org/entity/Q437",
+    "country": "Slovenija"
+  },
+  "Prague": {
+    "place_name": "Prague",
+    "coordinates": {
+      "lat": 50.0874654,
+      "lng": 14.4212535
+    },
+    "confidence": 0.8,
+    "historical_context": "Historical location referenced in 18th century mathematical sources.",
+    "alternative_names": [
+      "Prague"
+    ],
+    "modern_equivalent": "Hlavní město Praha, Praha, Česko",
+    "geocoded_at": "2025-08-12T14:11:37.413955",
+    "source": "wikidata_mathematician_config",
+    "wikidata_url": "http://www.wikidata.org/entity/Q1085",
+    "country": "Česko"
+  },
+  "Westminster": {
+    "place_name": "Westminster",
+    "coordinates": {
+      "lat": 51.5004439,
+      "lng": -0.1265398
+    },
+    "confidence": 0.8,
+    "historical_context": "Historical location referenced in 18th century mathematical sources.",
+    "alternative_names": [
+      "Westminster"
+    ],
+    "modern_equivalent": "Westminster, Millbank, City of Westminster, Greater London, England, SW1P 3JX, United Kingdom",
+    "geocoded_at": "2025-08-12T14:11:38.537665",
+    "source": "wikidata_mathematician_config",
+    "wikidata_url": "http://www.wikidata.org/entity/Q189960",
+    "country": "United Kingdom"
+  },
+  "Hamburg": {
+    "place_name": "Hamburg",
+    "coordinates": {
+      "lat": 53.550341,
+      "lng": 10.000654
+    },
+    "confidence": 0.8,
+    "historical_context": "Historical location referenced in 18th century mathematical sources.",
+    "alternative_names": [
+      "Hamburg"
+    ],
+    "modern_equivalent": "Hamburg, Deutschland",
+    "geocoded_at": "2025-08-12T14:11:39.503694",
+    "source": "wikidata_mathematician_config",
+    "wikidata_url": "http://www.wikidata.org/entity/Q1055",
+    "country": "Deutschland"
+  },
+  "Madrid": {
+    "place_name": "Madrid",
+    "coordinates": {
+      "lat": 40.4167047,
+      "lng": -3.7035825
+    },
+    "confidence": 0.8,
+    "historical_context": "Historical location referenced in 18th century mathematical sources.",
+    "alternative_names": [
+      "Madrid"
+    ],
+    "modern_equivalent": "Madrid, Comunidad de Madrid, España",
+    "geocoded_at": "2025-08-12T14:11:40.623172",
+    "source": "wikidata_mathematician_config",
+    "wikidata_url": "http://www.wikidata.org/entity/Q2807",
+    "country": "España"
+  },
+  "Versailles": {
+    "place_name": "Versailles",
+    "coordinates": {
+      "lat": 48.8035403,
+      "lng": 2.1266886
+    },
+    "confidence": 0.8,
+    "historical_context": "Historical location referenced in 18th century mathematical sources.",
+    "alternative_names": [
+      "Versailles"
+    ],
+    "modern_equivalent": "Versailles, Yvelines, Île-de-France, France métropolitaine, 78000, France",
+    "geocoded_at": "2025-08-12T14:11:41.518586",
+    "source": "wikidata_mathematician_config",
+    "wikidata_url": "http://www.wikidata.org/entity/Q621",
+    "country": "France"
+  },
+  "Graz": {
+    "place_name": "Graz",
+    "coordinates": {
+      "lat": 47.0708678,
+      "lng": 15.4382786
+    },
+    "confidence": 0.8,
+    "historical_context": "Historical location referenced in 18th century mathematical sources.",
+    "alternative_names": [
+      "Graz"
+    ],
+    "modern_equivalent": "Graz, Steiermark, Österreich",
+    "geocoded_at": "2025-08-12T14:11:42.478732",
+    "source": "wikidata_mathematician_config",
+    "wikidata_url": "http://www.wikidata.org/entity/Q13298",
+    "country": "Österreich"
+  },
+  "Winterthur": {
+    "place_name": "Winterthur",
+    "coordinates": {
+      "lat": 47.4991723,
+      "lng": 8.7291498
+    },
+    "confidence": 0.8,
+    "historical_context": "Historical location referenced in 18th century mathematical sources.",
+    "alternative_names": [
+      "Winterthur"
+    ],
+    "modern_equivalent": "Winterthur, Bezirk Winterthur, Zürich, Schweiz/Suisse/Svizzera/Svizra",
+    "geocoded_at": "2025-08-12T14:11:43.445098",
+    "source": "wikidata_mathematician_config",
+    "wikidata_url": "http://www.wikidata.org/entity/Q9125",
+    "country": "Schweiz/Suisse/Svizzera/Svizra"
+  },
+  "Verona": {
+    "place_name": "Verona",
+    "coordinates": {
+      "lat": 45.4424977,
+      "lng": 10.9857377
+    },
+    "confidence": 0.8,
+    "historical_context": "Historical location referenced in 18th century mathematical sources.",
+    "alternative_names": [
+      "Verona"
+    ],
+    "modern_equivalent": "Verona, Veneto, Italia",
+    "geocoded_at": "2025-08-12T14:11:44.591208",
+    "source": "wikidata_mathematician_config",
+    "wikidata_url": "http://www.wikidata.org/entity/Q2028",
+    "country": "Italia"
+  },
+  "Trapani": {
+    "place_name": "Trapani",
+    "coordinates": {
+      "lat": 38.0173961,
+      "lng": 12.5160225
+    },
+    "confidence": 0.8,
+    "historical_context": "Historical location referenced in 18th century mathematical sources.",
+    "alternative_names": [
+      "Trapani"
+    ],
+    "modern_equivalent": "Trapani, Sicilia, 91100, Italia",
+    "geocoded_at": "2025-08-12T14:11:45.452020",
+    "source": "wikidata_mathematician_config",
+    "wikidata_url": "http://www.wikidata.org/entity/Q13664",
+    "country": "Italia"
+  },
+  "Palermo": {
+    "place_name": "Palermo",
+    "coordinates": {
+      "lat": 38.1112268,
+      "lng": 13.3524434
+    },
+    "confidence": 0.8,
+    "historical_context": "Historical location referenced in 18th century mathematical sources.",
+    "alternative_names": [
+      "Palermo"
+    ],
+    "modern_equivalent": "Palermo, Sicilia, Italia",
+    "geocoded_at": "2025-08-12T14:11:46.578169",
+    "source": "wikidata_mathematician_config",
+    "wikidata_url": "http://www.wikidata.org/entity/Q2656",
+    "country": "Italia"
+  },
+  "Pont-de-Veyle": {
+    "place_name": "Pont-de-Veyle",
+    "coordinates": {
+      "lat": 46.2635,
+      "lng": 4.88836
+    },
+    "confidence": 0.8,
+    "historical_context": "Historical location referenced in 18th century mathematical sources.",
+    "alternative_names": [
+      "Pont-de-Veyle"
+    ],
+    "modern_equivalent": "Pont-de-Veyle, Bourg-en-Bresse, Ain, Auvergne-Rhône-Alpes, France métropolitaine, 01290, France",
+    "geocoded_at": "2025-08-12T14:11:47.434804",
+    "source": "wikidata_mathematician_config",
+    "wikidata_url": "http://www.wikidata.org/entity/Q769579",
+    "country": "France"
+  },
+  "Mons": {
+    "place_name": "Mons",
+    "coordinates": {
+      "lat": 50.4549568,
+      "lng": 3.951958
+    },
+    "confidence": 0.8,
+    "historical_context": "Historical location referenced in 18th century mathematical sources.",
+    "alternative_names": [
+      "Mons"
+    ],
+    "modern_equivalent": "Mons, Hainaut, Wallonie, België / Belgique / Belgien",
+    "geocoded_at": "2025-08-12T14:11:48.560685",
+    "source": "wikidata_mathematician_config",
+    "wikidata_url": "http://www.wikidata.org/entity/Q83407",
+    "country": "België / Belgique / Belgien"
+  },
+  "Le Croisic": {
+    "place_name": "Le Croisic",
+    "coordinates": {
+      "lat": 47.2933971,
+      "lng": -2.5094404
+    },
+    "confidence": 0.8,
+    "historical_context": "Historical location referenced in 18th century mathematical sources.",
+    "alternative_names": [
+      "Le Croisic"
+    ],
+    "modern_equivalent": "Le Croisic, Saint-Nazaire, Loire-Atlantique, Pays de la Loire, France métropolitaine, 44490, France",
+    "geocoded_at": "2025-08-12T14:11:49.460587",
+    "source": "wikidata_mathematician_config",
+    "wikidata_url": "http://www.wikidata.org/entity/Q840597",
+    "country": "France"
+  },
+  "Utrecht": {
+    "place_name": "Utrecht",
+    "coordinates": {
+      "lat": 52.0907006,
+      "lng": 5.1215634
+    },
+    "confidence": 0.8,
+    "historical_context": "Historical location referenced in 18th century mathematical sources.",
+    "alternative_names": [
+      "Utrecht"
+    ],
+    "modern_equivalent": "Utrecht, Nederland",
+    "geocoded_at": "2025-08-12T14:11:50.438616",
+    "source": "wikidata_mathematician_config",
+    "wikidata_url": "http://www.wikidata.org/entity/Q39297398",
+    "country": "Nederland"
+  },
+  "Greenwich": {
+    "place_name": "Greenwich",
+    "coordinates": {
+      "lat": 51.4820845,
+      "lng": -0.0045417
+    },
+    "confidence": 0.8,
+    "historical_context": "Historical location referenced in 18th century mathematical sources.",
+    "alternative_names": [
+      "Greenwich"
+    ],
+    "modern_equivalent": "Greenwich, Greater London, England, SE10 9HF, United Kingdom",
+    "geocoded_at": "2025-08-12T14:11:51.487591",
+    "source": "wikidata_mathematician_config",
+    "wikidata_url": "http://www.wikidata.org/entity/Q179385",
+    "country": "United Kingdom"
+  },
+  "Rouen": {
+    "place_name": "Rouen",
+    "coordinates": {
+      "lat": 49.4404591,
+      "lng": 1.0939658
+    },
+    "confidence": 0.8,
+    "historical_context": "Historical location referenced in 18th century mathematical sources.",
+    "alternative_names": [
+      "Rouen"
+    ],
+    "modern_equivalent": "Rouen, Seine-Maritime, Normandie, France métropolitaine, France",
+    "geocoded_at": "2025-08-12T14:11:52.472152",
+    "source": "wikidata_mathematician_config",
+    "wikidata_url": "http://www.wikidata.org/entity/Q30974",
+    "country": "France"
+  },
+  "Dublin": {
+    "place_name": "Dublin",
+    "coordinates": {
+      "lat": 53.3493795,
+      "lng": -6.2605593
+    },
+    "confidence": 0.8,
+    "historical_context": "Historical location referenced in 18th century mathematical sources.",
+    "alternative_names": [
+      "Dublin"
+    ],
+    "modern_equivalent": "Dublin, County Dublin, Leinster, Éire / Ireland",
+    "geocoded_at": "2025-08-12T14:11:53.518654",
+    "source": "wikidata_mathematician_config",
+    "wikidata_url": "http://www.wikidata.org/entity/Q1761",
+    "country": "Éire / Ireland"
+  },
+  "Aberdeen": {
+    "place_name": "Aberdeen",
+    "coordinates": {
+      "lat": 57.1482429,
+      "lng": -2.0928095
+    },
+    "confidence": 0.8,
+    "historical_context": "Historical location referenced in 18th century mathematical sources.",
+    "alternative_names": [
+      "Aberdeen"
+    ],
+    "modern_equivalent": "Aberdeen City, Alba / Scotland, United Kingdom",
+    "geocoded_at": "2025-08-12T14:11:54.484598",
+    "source": "wikidata_mathematician_config",
+    "wikidata_url": "http://www.wikidata.org/entity/Q36405",
+    "country": "United Kingdom"
+  },
+  "Vitry-le-François": {
+    "place_name": "Vitry-le-François",
+    "coordinates": {
+      "lat": 48.7262225,
+      "lng": 4.5851622
+    },
+    "confidence": 0.8,
+    "historical_context": "Historical location referenced in 18th century mathematical sources.",
+    "alternative_names": [
+      "Vitry-le-François"
+    ],
+    "modern_equivalent": "Vitry-le-François, Marne, Grand Est, France métropolitaine, 51300, France",
+    "geocoded_at": "2025-08-12T14:11:55.430416",
+    "source": "wikidata_mathematician_config",
+    "wikidata_url": "http://www.wikidata.org/entity/Q623374",
+    "country": "France"
+  },
+  "Moscow": {
+    "place_name": "Moscow",
+    "coordinates": {
+      "lat": 55.625578,
+      "lng": 37.6063916
+    },
+    "confidence": 0.8,
+    "historical_context": "Historical location referenced in 18th century mathematical sources.",
+    "alternative_names": [
+      "Moscow"
+    ],
+    "modern_equivalent": "Москва, Центральный федеральный округ, Россия",
+    "geocoded_at": "2025-08-12T14:11:56.571301",
+    "source": "wikidata_mathematician_config",
+    "wikidata_url": "http://www.wikidata.org/entity/Q649",
+    "country": "Россия"
+  },
+  "Coulonces": {
+    "place_name": "Coulonces",
+    "coordinates": {
+      "lat": 48.8633965,
+      "lng": -0.9233781
+    },
+    "confidence": 0.8,
+    "historical_context": "Historical location referenced in 18th century mathematical sources.",
+    "alternative_names": [
+      "Coulonces"
+    ],
+    "modern_equivalent": "Coulonces, Vire Normandie, Vire, Calvados, Normandie, France métropolitaine, 14500, France",
+    "geocoded_at": "2025-08-12T14:11:57.421405",
+    "source": "wikidata_mathematician_config",
+    "wikidata_url": "http://www.wikidata.org/entity/Q224409",
+    "country": "France"
+  },
+  "Cremona": {
+    "place_name": "Cremona",
+    "coordinates": {
+      "lat": 45.2208641,
+      "lng": 10.037038
+    },
+    "confidence": 0.8,
+    "historical_context": "Historical location referenced in 18th century mathematical sources.",
+    "alternative_names": [
+      "Cremona"
+    ],
+    "modern_equivalent": "Cremona, Lombardia, Italia",
+    "geocoded_at": "2025-08-12T14:15:50.769454",
+    "source": "wikidata_mathematician_config",
+    "wikidata_url": "http://www.wikidata.org/entity/Q6231",
+    "country": "Italia"
+  },
+  "Oxford": {
+    "place_name": "Oxford",
+    "coordinates": {
+      "lat": 51.7520131,
+      "lng": -1.2578499
+    },
+    "confidence": 0.8,
+    "historical_context": "Historical location referenced in 18th century mathematical sources.",
+    "alternative_names": [
+      "Oxford"
+    ],
+    "modern_equivalent": "Oxford, Oxfordshire, England, United Kingdom",
+    "geocoded_at": "2025-08-12T14:15:51.913508",
+    "source": "wikidata_mathematician_config",
+    "wikidata_url": "http://www.wikidata.org/entity/Q34217",
+    "country": "United Kingdom"
+  },
+  "Treviso": {
+    "place_name": "Treviso",
+    "coordinates": {
+      "lat": 45.8066913,
+      "lng": 12.2063158
+    },
+    "confidence": 0.8,
+    "historical_context": "Historical location referenced in 18th century mathematical sources.",
+    "alternative_names": [
+      "Treviso"
+    ],
+    "modern_equivalent": "Treviso, Veneto, Italia",
+    "geocoded_at": "2025-08-12T14:15:52.780560",
+    "source": "wikidata_mathematician_config",
+    "wikidata_url": "http://www.wikidata.org/entity/Q5475",
+    "country": "Italia"
+  },
+  "Wrocław": {
+    "place_name": "Wrocław",
+    "coordinates": {
+      "lat": 51.1263106,
+      "lng": 16.9781963
+    },
+    "confidence": 0.8,
+    "historical_context": "Historical location referenced in 18th century mathematical sources.",
+    "alternative_names": [
+      "Wrocław"
+    ],
+    "modern_equivalent": "Wrocław, województwo dolnośląskie, Polska",
+    "geocoded_at": "2025-08-12T14:15:53.778901",
+    "source": "wikidata_mathematician_config",
+    "wikidata_url": "http://www.wikidata.org/entity/Q1799",
+    "country": "Polska"
+  },
+  "Giessen": {
+    "place_name": "Giessen",
+    "coordinates": {
+      "lat": 50.5808795,
+      "lng": 8.6938161
+    },
+    "confidence": 0.8,
+    "historical_context": "Historical location referenced in 18th century mathematical sources.",
+    "alternative_names": [
+      "Giessen"
+    ],
+    "modern_equivalent": "Gießen, Landkreis Gießen, Hessen, Deutschland",
+    "geocoded_at": "2025-08-12T14:15:54.781325",
+    "source": "wikidata_mathematician_config",
+    "wikidata_url": "http://www.wikidata.org/entity/Q3874",
+    "country": "Deutschland"
+  },
+  "Lucca": {
+    "place_name": "Lucca",
+    "coordinates": {
+      "lat": 44.0177639,
+      "lng": 10.45443
+    },
+    "confidence": 0.8,
+    "historical_context": "Historical location referenced in 18th century mathematical sources.",
+    "alternative_names": [
+      "Lucca"
+    ],
+    "modern_equivalent": "Lucca, Toscana, Italia",
+    "geocoded_at": "2025-08-12T14:15:55.780290",
+    "source": "wikidata_mathematician_config",
+    "wikidata_url": "http://www.wikidata.org/entity/Q13373",
+    "country": "Italia"
+  },
+  "Augsburg": {
+    "place_name": "Augsburg",
+    "coordinates": {
+      "lat": 48.3690341,
+      "lng": 10.8979522
+    },
+    "confidence": 0.8,
+    "historical_context": "Historical location referenced in 18th century mathematical sources.",
+    "alternative_names": [
+      "Augsburg"
+    ],
+    "modern_equivalent": "Augsburg, Bayern, Deutschland",
+    "geocoded_at": "2025-08-12T14:15:56.891434",
+    "source": "wikidata_mathematician_config",
+    "wikidata_url": "http://www.wikidata.org/entity/Q2749",
+    "country": "Deutschland"
+  },
+  "Edmonton": {
+    "place_name": "Edmonton",
+    "coordinates": {
+      "lat": 53.5462055,
+      "lng": -113.491241
+    },
+    "confidence": 0.8,
+    "historical_context": "Historical location referenced in 18th century mathematical sources.",
+    "alternative_names": [
+      "Edmonton"
+    ],
+    "modern_equivalent": "Edmonton, Alberta, Canada",
+    "geocoded_at": "2025-08-12T14:15:57.767458",
+    "source": "wikidata_mathematician_config",
+    "wikidata_url": "http://www.wikidata.org/entity/Q1997321",
+    "country": "Canada"
+  },
+  "Glasgow": {
+    "place_name": "Glasgow",
+    "coordinates": {
+      "lat": 55.861155,
+      "lng": -4.2501687
+    },
+    "confidence": 0.8,
+    "historical_context": "Historical location referenced in 18th century mathematical sources.",
+    "alternative_names": [
+      "Glasgow"
+    ],
+    "modern_equivalent": "Glasgow, Glasgow City, Alba / Scotland, G2 1AR, United Kingdom",
+    "geocoded_at": "2025-08-12T14:15:58.818298",
+    "source": "wikidata_mathematician_config",
+    "wikidata_url": "http://www.wikidata.org/entity/Q4093",
+    "country": "United Kingdom"
+  },
+  "Salamanca": {
+    "place_name": "Salamanca",
+    "coordinates": {
+      "lat": 40.9651572,
+      "lng": -5.6640182
+    },
+    "confidence": 0.8,
+    "historical_context": "Historical location referenced in 18th century mathematical sources.",
+    "alternative_names": [
+      "Salamanca"
+    ],
+    "modern_equivalent": "Salamanca, Castilla y León, España",
+    "geocoded_at": "2025-08-12T14:15:59.819438",
+    "source": "wikidata_mathematician_config",
+    "wikidata_url": "http://www.wikidata.org/entity/Q15695",
+    "country": "España"
+  },
+  "Aramon": {
+    "place_name": "Aramon",
+    "coordinates": {
+      "lat": 43.8908652,
+      "lng": 4.6810542
+    },
+    "confidence": 0.8,
+    "historical_context": "Historical location referenced in 18th century mathematical sources.",
+    "alternative_names": [
+      "Aramon"
+    ],
+    "modern_equivalent": "Aramon, Nîmes, Gard, Occitanie, France métropolitaine, 30390, France",
+    "geocoded_at": "2025-08-12T14:16:00.779509",
+    "source": "wikidata_mathematician_config",
+    "wikidata_url": "http://www.wikidata.org/entity/Q269851",
+    "country": "France"
+  },
+  "Stockholm": {
+    "place_name": "Stockholm",
+    "coordinates": {
+      "lat": 59.3251172,
+      "lng": 18.0710935
+    },
+    "confidence": 0.8,
+    "historical_context": "Historical location referenced in 18th century mathematical sources.",
+    "alternative_names": [
+      "Stockholm"
+    ],
+    "modern_equivalent": "Stockholm, Stockholms kommun, Stockholms län, 111 29, Sverige",
+    "geocoded_at": "2025-08-12T14:16:01.792098",
+    "source": "wikidata_mathematician_config",
+    "wikidata_url": "http://www.wikidata.org/entity/Q1754",
+    "country": "Sverige"
+  },
+  "Scotland": {
+    "place_name": "Scotland",
+    "coordinates": {
+      "lat": 56.7861112,
+      "lng": -4.1140518
+    },
+    "confidence": 0.8,
+    "historical_context": "Historical location referenced in 18th century mathematical sources.",
+    "alternative_names": [
+      "Scotland"
+    ],
+    "modern_equivalent": "Alba / Scotland, United Kingdom",
+    "geocoded_at": "2025-08-12T14:16:02.803567",
+    "source": "wikidata_mathematician_config",
+    "wikidata_url": "http://www.wikidata.org/entity/Q22",
+    "country": "United Kingdom"
+  },
+  "Hurworth-on-Tees": {
+    "place_name": "Hurworth-on-Tees",
+    "coordinates": {
+      "lat": 54.4868046,
+      "lng": -1.5256987
+    },
+    "confidence": 0.8,
+    "historical_context": "Historical location referenced in 18th century mathematical sources.",
+    "alternative_names": [
+      "Hurworth-on-Tees"
+    ],
+    "modern_equivalent": "Hurworth-on-Tees, Darlington, Tees Valley, England, DL2 2AT, United Kingdom",
+    "geocoded_at": "2025-08-12T14:16:03.760658",
+    "source": "wikidata_mathematician_config",
+    "wikidata_url": "http://www.wikidata.org/entity/Q9295065",
+    "country": "United Kingdom"
+  },
+  "Marennes": {
+    "place_name": "Marennes",
+    "coordinates": {
+      "lat": 45.8224965,
+      "lng": -1.112795
+    },
+    "confidence": 0.8,
+    "historical_context": "Historical location referenced in 18th century mathematical sources.",
+    "alternative_names": [
+      "Marennes"
+    ],
+    "modern_equivalent": "Marennes, Marennes-Hiers-Brouage, Rochefort, Charente-Maritime, Nouvelle-Aquitaine, France métropolitaine, 17320, France",
+    "geocoded_at": "2025-08-12T14:16:04.747850",
+    "source": "wikidata_mathematician_config",
+    "wikidata_url": "http://www.wikidata.org/entity/Q501910",
+    "country": "France"
+  },
+  "Cádiz": {
+    "place_name": "Cádiz",
+    "coordinates": {
+      "lat": 36.5297438,
+      "lng": -6.2928976
+    },
+    "confidence": 0.8,
+    "historical_context": "Historical location referenced in 18th century mathematical sources.",
+    "alternative_names": [
+      "Cádiz"
+    ],
+    "modern_equivalent": "Cádiz, Bahía de Cádiz, Cádiz, Andalucía, España",
+    "geocoded_at": "2025-08-12T14:16:05.835228",
+    "source": "wikidata_mathematician_config",
+    "wikidata_url": "http://www.wikidata.org/entity/Q15682",
+    "country": "España"
+  },
+  "Bratislava": {
+    "place_name": "Bratislava",
+    "coordinates": {
+      "lat": 48.1516988,
+      "lng": 17.1093063
+    },
+    "confidence": 0.8,
+    "historical_context": "Historical location referenced in 18th century mathematical sources.",
+    "alternative_names": [
+      "Bratislava"
+    ],
+    "modern_equivalent": "Bratislava, Bratislavský kraj, Slovensko",
+    "geocoded_at": "2025-08-12T14:16:06.831292",
+    "source": "wikidata_mathematician_config",
+    "wikidata_url": "http://www.wikidata.org/entity/Q1780",
+    "country": "Slovensko"
+  },
+  "Udine": {
+    "place_name": "Udine",
+    "coordinates": {
+      "lat": 46.0634632,
+      "lng": 13.2358377
+    },
+    "confidence": 0.8,
+    "historical_context": "Historical location referenced in 18th century mathematical sources.",
+    "alternative_names": [
+      "Udine"
+    ],
+    "modern_equivalent": "Udine / Udin, Udine, Friuli-Venezia Giulia, 33100, Italia",
+    "geocoded_at": "2025-08-12T14:16:07.898684",
+    "source": "wikidata_mathematician_config",
+    "wikidata_url": "http://www.wikidata.org/entity/Q2790",
+    "country": "Italia"
+  },
+  "Zurich": {
+    "place_name": "Zurich",
+    "coordinates": {
+      "lat": 47.3744489,
+      "lng": 8.5410422
+    },
+    "confidence": 0.8,
+    "historical_context": "Historical location referenced in 18th century mathematical sources.",
+    "alternative_names": [
+      "Zurich"
+    ],
+    "modern_equivalent": "Zürich, Bezirk Zürich, Zürich, Schweiz/Suisse/Svizzera/Svizra",
+    "geocoded_at": "2025-08-12T14:16:08.870570",
+    "source": "wikidata_mathematician_config",
+    "wikidata_url": "http://www.wikidata.org/entity/Q72",
+    "country": "Schweiz/Suisse/Svizzera/Svizra"
+  },
+  "Market Bosworth": {
+    "place_name": "Market Bosworth",
+    "coordinates": {
+      "lat": 52.6217051,
+      "lng": -1.4149268
+    },
+    "confidence": 0.8,
+    "historical_context": "Historical location referenced in 18th century mathematical sources.",
+    "alternative_names": [
+      "Market Bosworth"
+    ],
+    "modern_equivalent": "Market Bosworth, Hinckley and Bosworth, Leicestershire, England, United Kingdom",
+    "geocoded_at": "2025-08-12T14:16:09.754083",
+    "source": "wikidata_mathematician_config",
+    "wikidata_url": "http://www.wikidata.org/entity/Q744321",
+    "country": "United Kingdom"
+  },
+  "Tübingen": {
+    "place_name": "Tübingen",
+    "coordinates": {
+      "lat": 48.5203263,
+      "lng": 9.053596
+    },
+    "confidence": 0.8,
+    "historical_context": "Historical location referenced in 18th century mathematical sources.",
+    "alternative_names": [
+      "Tübingen"
+    ],
+    "modern_equivalent": "Tübingen, Landkreis Tübingen, Baden-Württemberg, Deutschland",
+    "geocoded_at": "2025-08-12T14:16:10.760317",
+    "source": "wikidata_mathematician_config",
+    "wikidata_url": "http://www.wikidata.org/entity/Q3806",
+    "country": "Deutschland"
+  },
+  "Regensburg": {
+    "place_name": "Regensburg",
+    "coordinates": {
+      "lat": 49.0195333,
+      "lng": 12.0974869
+    },
+    "confidence": 0.8,
+    "historical_context": "Historical location referenced in 18th century mathematical sources.",
+    "alternative_names": [
+      "Regensburg"
+    ],
+    "modern_equivalent": "Regensburg, Bayern, Deutschland",
+    "geocoded_at": "2025-08-12T14:16:11.782572",
+    "source": "wikidata_mathematician_config",
+    "wikidata_url": "http://www.wikidata.org/entity/Q2978",
+    "country": "Deutschland"
+  },
+  "St Andrews": {
+    "place_name": "St Andrews",
+    "coordinates": {
+      "lat": 56.3403902,
+      "lng": -2.7955844
+    },
+    "confidence": 0.8,
+    "historical_context": "Historical location referenced in 18th century mathematical sources.",
+    "alternative_names": [
+      "St Andrews"
+    ],
+    "modern_equivalent": "St Andrews, Fife, Alba / Scotland, KY16 9PA, United Kingdom",
+    "geocoded_at": "2025-08-12T14:16:12.967227",
+    "source": "wikidata_mathematician_config",
+    "wikidata_url": "http://www.wikidata.org/entity/Q207736",
+    "country": "United Kingdom"
+  },
+  "Turin": {
+    "place_name": "Turin",
+    "coordinates": {
+      "lat": 45.0677551,
+      "lng": 7.6824892
+    },
+    "confidence": 0.8,
+    "historical_context": "Historical location referenced in 18th century mathematical sources.",
+    "alternative_names": [
+      "Turin"
+    ],
+    "modern_equivalent": "Torino, Piemonte, Italia",
+    "geocoded_at": "2025-08-12T14:16:13.922168",
+    "source": "wikidata_mathematician_config",
+    "wikidata_url": "http://www.wikidata.org/entity/Q495",
+    "country": "Italia"
+  },
+  "United Kingdom": {
+    "place_name": "United Kingdom",
+    "coordinates": {
+      "lat": 54.7023545,
+      "lng": -3.2765753
+    },
+    "confidence": 0.8,
+    "historical_context": "Historical location referenced in 18th century mathematical sources.",
+    "alternative_names": [
+      "United Kingdom"
+    ],
+    "modern_equivalent": "United Kingdom",
+    "geocoded_at": "2025-08-12T14:16:14.945453",
+    "source": "wikidata_mathematician_config",
+    "wikidata_url": "http://www.wikidata.org/entity/Q145",
+    "country": "United Kingdom"
+  },
+  "Zaragoza": {
+    "place_name": "Zaragoza",
+    "coordinates": {
+      "lat": 41.6521342,
+      "lng": -0.8809428
+    },
+    "confidence": 0.8,
+    "historical_context": "Historical location referenced in 18th century mathematical sources.",
+    "alternative_names": [
+      "Zaragoza"
+    ],
+    "modern_equivalent": "Zaragoza, Aragón, España",
+    "geocoded_at": "2025-08-12T14:16:16.858915",
+    "source": "wikidata_mathematician_config",
+    "wikidata_url": "http://www.wikidata.org/entity/Q10305",
+    "country": "España"
+  },
+  "Shiba": {
+    "place_name": "Shiba",
+    "coordinates": {
+      "lat": 35.6505871,
+      "lng": 139.7495267
+    },
+    "confidence": 0.8,
+    "historical_context": "Historical location referenced in 18th century mathematical sources.",
+    "alternative_names": [
+      "Shiba"
+    ],
+    "modern_equivalent": "芝, 港区, 東京都, 日本",
+    "geocoded_at": "2025-08-12T14:16:23.504605",
+    "source": "wikidata_mathematician_config",
+    "wikidata_url": "http://www.wikidata.org/entity/Q2631862",
+    "country": "日本"
+  },
+  "Buda": {
+    "place_name": "Buda",
+    "coordinates": {
+      "lat": 30.082475,
+      "lng": -97.8417144
+    },
+    "confidence": 0.8,
+    "historical_context": "Historical location referenced in 18th century mathematical sources.",
+    "alternative_names": [
+      "Buda"
+    ],
+    "modern_equivalent": "Buda, Hays County, Texas, United States",
+    "geocoded_at": "2025-08-12T14:16:24.533297",
+    "source": "wikidata_mathematician_config",
+    "wikidata_url": "http://www.wikidata.org/entity/Q193478",
+    "country": "United States"
+  },
+  "Brighton": {
+    "place_name": "Brighton",
+    "coordinates": {
+      "lat": 50.8214626,
+      "lng": -0.1400561
+    },
+    "confidence": 0.8,
+    "historical_context": "Historical location referenced in 18th century mathematical sources.",
+    "alternative_names": [
+      "Brighton"
+    ],
+    "modern_equivalent": "Brighton, Brighton and Hove, England, BN1 1HH, United Kingdom",
+    "geocoded_at": "2025-08-12T14:16:25.582197",
+    "source": "wikidata_mathematician_config",
+    "wikidata_url": "http://www.wikidata.org/entity/Q131491",
+    "country": "United Kingdom"
+  },
+  "Staffolo": {
+    "place_name": "Staffolo",
+    "coordinates": {
+      "lat": 43.4330744,
+      "lng": 13.1861996
+    },
+    "confidence": 0.8,
+    "historical_context": "Historical location referenced in 18th century mathematical sources.",
+    "alternative_names": [
+      "Staffolo"
+    ],
+    "modern_equivalent": "Staffolo, Ancona, 60039, Italia",
+    "geocoded_at": "2025-08-12T14:16:32.126947",
+    "source": "wikidata_mathematician_config",
+    "wikidata_url": "http://www.wikidata.org/entity/Q125015",
+    "country": "Italia"
+  },
+  "Fahretoft": {
+    "place_name": "Fahretoft",
+    "coordinates": {
+      "lat": 54.7098777,
+      "lng": 8.7930039
+    },
+    "confidence": 0.8,
+    "historical_context": "Historical location referenced in 18th century mathematical sources.",
+    "alternative_names": [
+      "Fahretoft"
+    ],
+    "modern_equivalent": "Fahretoft, Dagebüll, Südtondern, Kreis Nordfriesland, Schleswig-Holstein, Deutschland",
+    "geocoded_at": "2025-08-12T14:16:33.118594",
+    "source": "wikidata_mathematician_config",
+    "wikidata_url": "http://www.wikidata.org/entity/Q20558",
+    "country": "Deutschland"
+  },
+  "Pest": {
+    "place_name": "Pest",
+    "coordinates": {
+      "lat": 47.4942216,
+      "lng": 19.0529846
+    },
+    "confidence": 0.8,
+    "historical_context": "Historical location referenced in 18th century mathematical sources.",
+    "alternative_names": [
+      "Pest"
+    ],
+    "modern_equivalent": "Pest, Belváros, V. kerület, Budapest, Közép-Magyarország, 1052, Magyarország",
+    "geocoded_at": "2025-08-12T14:16:34.266678",
+    "source": "wikidata_mathematician_config",
+    "wikidata_url": "http://www.wikidata.org/entity/Q210205",
+    "country": "Magyarország"
+  },
+  "Shadwell": {
+    "place_name": "Shadwell",
+    "coordinates": {
+      "lat": 51.51125,
+      "lng": -0.0569241
+    },
+    "confidence": 0.8,
+    "historical_context": "Historical location referenced in 18th century mathematical sources.",
+    "alternative_names": [
+      "Shadwell"
+    ],
+    "modern_equivalent": "Shadwell, Cable Street, St. George in the East, Wapping, London Borough of Tower Hamlets, London, Greater London, England, E1 2QW, United Kingdom",
+    "geocoded_at": "2025-08-12T14:16:35.123105",
+    "source": "wikidata_mathematician_config",
+    "wikidata_url": "http://www.wikidata.org/entity/Q4179352",
+    "country": "United Kingdom"
+  },
+  "Cologne": {
+    "place_name": "Cologne",
+    "coordinates": {
+      "lat": 50.938361,
+      "lng": 6.959974
+    },
+    "confidence": 0.8,
+    "historical_context": "Historical location referenced in 18th century mathematical sources.",
+    "alternative_names": [
+      "Cologne"
+    ],
+    "modern_equivalent": "Köln, Nordrhein-Westfalen, Deutschland",
+    "geocoded_at": "2025-08-12T14:16:36.137727",
+    "source": "wikidata_mathematician_config",
+    "wikidata_url": "http://www.wikidata.org/entity/Q365",
+    "country": "Deutschland"
+  },
+  "Groton": {
+    "place_name": "Groton",
+    "coordinates": {
+      "lat": 41.3454024,
+      "lng": -72.0462196
+    },
+    "confidence": 0.8,
+    "historical_context": "Historical location referenced in 18th century mathematical sources.",
+    "alternative_names": [
+      "Groton"
+    ],
+    "modern_equivalent": "Groton, Southeastern Connecticut Planning Region, Connecticut, United States",
+    "geocoded_at": "2025-08-12T14:16:37.126777",
+    "source": "wikidata_mathematician_config",
+    "wikidata_url": "http://www.wikidata.org/entity/Q10385027",
+    "country": "United States"
+  },
+  "Sławnikowice": {
+    "place_name": "Sławnikowice",
+    "coordinates": {
+      "lat": 51.1803004,
+      "lng": 15.1735773
+    },
+    "confidence": 0.8,
+    "historical_context": "Historical location referenced in 18th century mathematical sources.",
+    "alternative_names": [
+      "Sławnikowice"
+    ],
+    "modern_equivalent": "Sławnikowice, gmina Zgorzelec, powiat zgorzelecki, województwo dolnośląskie, Polska",
+    "geocoded_at": "2025-08-12T14:16:38.104699",
+    "source": "wikidata_mathematician_config",
+    "wikidata_url": "http://www.wikidata.org/entity/Q829321",
+    "country": "Polska"
+  },
+  "Nepantla de Sor Juana Inés de la Cruz": {
+    "place_name": "Nepantla de Sor Juana Inés de la Cruz",
+    "coordinates": {
+      "lat": 18.9816561,
+      "lng": -98.8415202
+    },
+    "confidence": 0.8,
+    "historical_context": "Historical location referenced in 18th century mathematical sources.",
+    "alternative_names": [
+      "Nepantla de Sor Juana Inés de la Cruz"
+    ],
+    "modern_equivalent": "Nepantla de Sor Juana Inés de la Cruz, Tepetlixpa, Estado de México, México",
+    "geocoded_at": "2025-08-12T14:16:39.180920",
+    "source": "wikidata_mathematician_config",
+    "wikidata_url": "http://www.wikidata.org/entity/Q3947701",
+    "country": "México"
+  },
+  "Mexico City": {
+    "place_name": "Mexico City",
+    "coordinates": {
+      "lat": 19.3207722,
+      "lng": -99.1514678
+    },
+    "confidence": 0.8,
+    "historical_context": "Historical location referenced in 18th century mathematical sources.",
+    "alternative_names": [
+      "Mexico City"
+    ],
+    "modern_equivalent": "Ciudad de México, México",
+    "geocoded_at": "2025-08-12T14:16:40.408071",
+    "source": "wikidata_mathematician_config",
+    "wikidata_url": "http://www.wikidata.org/entity/Q1489",
+    "country": "México"
+  },
+  "Toulon": {
+    "place_name": "Toulon",
+    "coordinates": {
+      "lat": 43.1257311,
+      "lng": 5.9304919
+    },
+    "confidence": 0.8,
+    "historical_context": "Historical location referenced in 18th century mathematical sources.",
+    "alternative_names": [
+      "Toulon"
+    ],
+    "modern_equivalent": "Toulon, Var, Provence-Alpes-Côte d'Azur, France métropolitaine, France",
+    "geocoded_at": "2025-08-12T14:16:41.228633",
+    "source": "wikidata_mathematician_config",
+    "wikidata_url": "http://www.wikidata.org/entity/Q44160",
+    "country": "France"
+  },
+  "Little Horton": {
+    "place_name": "Little Horton",
+    "coordinates": {
+      "lat": 51.3605442,
+      "lng": -1.9406124
+    },
+    "confidence": 0.8,
+    "historical_context": "Historical location referenced in 18th century mathematical sources.",
+    "alternative_names": [
+      "Little Horton"
+    ],
+    "modern_equivalent": "Little Horton, Bishops Cannings, Wiltshire, England, SN10 3LJ, United Kingdom",
+    "geocoded_at": "2025-08-12T14:16:42.182113",
+    "source": "wikidata_mathematician_config",
+    "wikidata_url": "http://www.wikidata.org/entity/Q6650352",
+    "country": "United Kingdom"
+  },
+  "Bradford": {
+    "place_name": "Bradford",
+    "coordinates": {
+      "lat": 53.7944229,
+      "lng": -1.7519186
+    },
+    "confidence": 0.8,
+    "historical_context": "Historical location referenced in 18th century mathematical sources.",
+    "alternative_names": [
+      "Bradford"
+    ],
+    "modern_equivalent": "Bradford, West Yorkshire, England, United Kingdom",
+    "geocoded_at": "2025-08-12T14:16:43.277034",
+    "source": "wikidata_mathematician_config",
+    "wikidata_url": "http://www.wikidata.org/entity/Q22905",
+    "country": "United Kingdom"
+  },
+  "La Flèche": {
+    "place_name": "La Flèche",
+    "coordinates": {
+      "lat": 47.6968408,
+      "lng": -0.0746149
+    },
+    "confidence": 0.8,
+    "historical_context": "Historical location referenced in 18th century mathematical sources.",
+    "alternative_names": [
+      "La Flèche"
+    ],
+    "modern_equivalent": "La Flèche, Sarthe, Pays de la Loire, France métropolitaine, 72200, France",
+    "geocoded_at": "2025-08-12T14:16:44.173139",
+    "source": "wikidata_mathematician_config",
+    "wikidata_url": "http://www.wikidata.org/entity/Q343",
+    "country": "France"
+  },
+  "Erembodegem": {
+    "place_name": "Erembodegem",
+    "coordinates": {
+      "lat": 50.9196657,
+      "lng": 4.0553948
+    },
+    "confidence": 0.8,
+    "historical_context": "Historical location referenced in 18th century mathematical sources.",
+    "alternative_names": [
+      "Erembodegem"
+    ],
+    "modern_equivalent": "Erembodegem, De Konker, Erembodegem, Aalst, Oost-Vlaanderen, 9320, België / Belgique / Belgien",
+    "geocoded_at": "2025-08-12T14:16:45.221256",
+    "source": "wikidata_mathematician_config",
+    "wikidata_url": "http://www.wikidata.org/entity/Q842986",
+    "country": "België / Belgique / Belgien"
+  },
+  "Bruges": {
+    "place_name": "Bruges",
+    "coordinates": {
+      "lat": 51.2085526,
+      "lng": 3.226772
+    },
+    "confidence": 0.8,
+    "historical_context": "Historical location referenced in 18th century mathematical sources.",
+    "alternative_names": [
+      "Bruges"
+    ],
+    "modern_equivalent": "Brugge, West-Vlaanderen, Vlaanderen, België / Belgique / Belgien",
+    "geocoded_at": "2025-08-12T14:16:46.174154",
+    "source": "wikidata_mathematician_config",
+    "wikidata_url": "http://www.wikidata.org/entity/Q12994",
+    "country": "België / Belgique / Belgien"
+  },
+  "Verdun": {
+    "place_name": "Verdun",
+    "coordinates": {
+      "lat": 49.1589278,
+      "lng": 5.3867277
+    },
+    "confidence": 0.8,
+    "historical_context": "Historical location referenced in 18th century mathematical sources.",
+    "alternative_names": [
+      "Verdun"
+    ],
+    "modern_equivalent": "Verdun, Meuse, Grand Est, France métropolitaine, 55100, France",
+    "geocoded_at": "2025-08-12T14:16:47.373100",
+    "source": "wikidata_mathematician_config",
+    "wikidata_url": "http://www.wikidata.org/entity/Q154748",
+    "country": "France"
+  },
+  "West-Graftdijk": {
+    "place_name": "West-Graftdijk",
+    "coordinates": {
+      "lat": 52.5543238,
+      "lng": 4.7959627
+    },
+    "confidence": 0.8,
+    "historical_context": "Historical location referenced in 18th century mathematical sources.",
+    "alternative_names": [
+      "West-Graftdijk"
+    ],
+    "modern_equivalent": "West-Graftdijk, Alkmaar, Noord-Holland, Nederland",
+    "geocoded_at": "2025-08-12T14:16:48.294700",
+    "source": "wikidata_mathematician_config",
+    "wikidata_url": "http://www.wikidata.org/entity/Q1987766",
+    "country": "Nederland"
+  },
+  "Purmerend": {
+    "place_name": "Purmerend",
+    "coordinates": {
+      "lat": 52.5024789,
+      "lng": 4.9614827
+    },
+    "confidence": 0.8,
+    "historical_context": "Historical location referenced in 18th century mathematical sources.",
+    "alternative_names": [
+      "Purmerend"
+    ],
+    "modern_equivalent": "Purmerend, Noord-Holland, Nederland",
+    "geocoded_at": "2025-08-12T14:16:49.257201",
+    "source": "wikidata_mathematician_config",
+    "wikidata_url": "http://www.wikidata.org/entity/Q9954",
+    "country": "Nederland"
   }
 }
