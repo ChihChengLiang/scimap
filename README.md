@@ -85,7 +85,7 @@ The pipeline processes raw historical data into visualization-ready format:
 
 1. **Wikidata Extraction**: Query 510 mathematicians (born 1650-1750, active 1700-1800)
 2. **Wikipedia Scraping**: Fetch biographical content
-3. **Event Extraction**: Parse life events and contributions
+3. **Event Extraction**: Parse life events and contributions using Gemma 3n e4b via LM Studio (local processing, may not be reproducible and subject to hallucinations)
 4. **PageView Collection**: Gather popularity metrics
 5. **Location Geocoding**: Convert place names to coordinates
 6. **Political Data**: Process historical context
