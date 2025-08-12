@@ -51,9 +51,9 @@ function App() {
     const loadData = async () => {
       try {
         const [mathematiciansRes, locationsRes, politicalRes] = await Promise.all([
-          fetch('/data/mathematicians.json'),
-          fetch('/data/locations.json'),
-          fetch('/data/political_events.json')
+          fetch(`${process.env.PUBLIC_URL}/data/mathematicians.json`),
+          fetch(`${process.env.PUBLIC_URL}/data/locations.json`),
+          fetch(`${process.env.PUBLIC_URL}/data/political_events.json`)
         ]);
 
         if (!mathematiciansRes.ok || !locationsRes.ok || !politicalRes.ok) {
